@@ -181,4 +181,5 @@
 <tr><td>Quyuesw</td><td>Executive Assistant - Identified (s105)</td><td>St Lucia</td><td>2026-07-12</td></tr>
 <tr><td>The University of Queensland (UQ)</td><td>Executive Assistant - Identified (s105)</td><td>St Lucia</td><td>2026-07-12</td></tr>
 <tr><td>smp.uq.edu.au</td><td>Executive Assistant - Identified (s105)</td><td>St Lucia</td><td>2026-07-12</td></tr>
+<tr><td>Palfinger</td><td>Accountant</td><td>Wacol</td><td>2026-07-12</td></tr>
 </table>
