@@ -182,4 +182,73 @@
 <tr><td>The University of Queensland (UQ)</td><td>Executive Assistant - Identified (s105)</td><td>St Lucia</td><td>2026-07-12</td></tr>
 <tr><td>smp.uq.edu.au</td><td>Executive Assistant - Identified (s105)</td><td>St Lucia</td><td>2026-07-12</td></tr>
 <tr><td>Palfinger</td><td>Accountant</td><td>Wacol</td><td>2026-07-12</td></tr>
+<tr><td>Caterpillar of Australia</td><td>Embedded Software Engineer</td><td>Australia</td><td>2026-07-13</td></tr>
+<tr><td>Amazon</td><td>Software Development Engineer, Network Health Service (NHS)</td><td>Sydney</td><td>2026-07-13</td></tr>
+<tr><td>Jobgether</td><td>Frontend Software Engineer - Gaming</td><td>Australia</td><td>2026-07-13</td></tr>
+<tr><td>Leidos</td><td>Help Desk Engineer</td><td>Australia</td><td>2026-07-13</td></tr>
+<tr><td>Leidos</td><td>It Service Desk Technician</td><td>Bungendore</td><td>2026-07-13</td></tr>
+<tr><td>John Holland Group</td><td>Finance & Data Analyst</td><td>Melbourne</td><td>2026-07-13</td></tr>
+<tr><td>Shell Australia</td><td>Commercial Data Analyst</td><td>Melbourne</td><td>2026-07-13</td></tr>
+<tr><td>Kmart</td><td>Facilities Data Analyst</td><td>Melbourne</td><td>2026-07-13</td></tr>
+<tr><td>Bega Group</td><td>Commercial Finance Analyst</td><td>Melbourne</td><td>2026-07-13</td></tr>
+<tr><td>Chevron Australia</td><td>Risk Control Digital Analyst</td><td>Australia</td><td>2026-07-13</td></tr>
+<tr><td>CBA (Commonwealth Bank)</td><td>Customer Lifecycle Analyst - Financial Crime</td><td>Australia</td><td>2026-07-13</td></tr>
+<tr><td>AGL Energy</td><td>Finance Analyst – Gas Generation</td><td>Sydney</td><td>2026-07-13</td></tr>
+<tr><td>756</td><td>Customer Lifecycle Analyst - Financial Crime</td><td>Australia</td><td>2026-07-13</td></tr>
+<tr><td>The TJX Companies, Inc</td><td>Finance Analyst - Business Planning</td><td>Sydney</td><td>2026-07-13</td></tr>
+<tr><td>VICINITY</td><td>Risk & Compliance Analyst</td><td>Australia</td><td>2026-07-13</td></tr>
+<tr><td>164</td><td>Finance Analyst</td><td>Australia</td><td>2026-07-13</td></tr>
+<tr><td>Solenis Australia Pty Limited</td><td>Finance Analyst, Sea (contract)</td><td>Australia</td><td>2026-07-13</td></tr>
+<tr><td>Tewire</td><td>Finance Analyst</td><td>Australia</td><td>2026-07-13</td></tr>
+<tr><td>students.flinders.edu.au</td><td>Financial Analyst</td><td>Bedford Park</td><td>2026-07-13</td></tr>
+<tr><td>L&C Food</td><td>Finance Analyst – Commercial & Marketing</td><td>Melbourne</td><td>2026-07-13</td></tr>
+<tr><td>Reece</td><td>Financial Accountant</td><td>Sydney</td><td>2026-07-13</td></tr>
+<tr><td>sydney.edu.au</td><td>Postdoctoral Research Associate In Healthy Homes</td><td>Sydney</td><td>2026-07-13</td></tr>
+<tr><td>Fsmjobs</td><td>Registered Nurse - Casual</td><td>Australia</td><td>2026-07-13</td></tr>
+<tr><td>166</td><td>Community Health Registered Nurse</td><td>Melbourne</td><td>2026-07-13</td></tr>
+<tr><td>Mira Vista Care Center</td><td>Registered Nurses - Medical/rehab</td><td>Brisbane</td><td>2026-07-13</td></tr>
+<tr><td>Neurosurgeon role (org unclear)</td><td>Registered Nurse - Casual</td><td>Toowoomba</td><td>2026-07-13</td></tr>
+<tr><td>Mira Vista Care Center</td><td>Registered Nurse - Casual</td><td>Toowoomba</td><td>2026-07-13</td></tr>
+<tr><td>Mira Vista Care Center</td><td>Physiotherapist Grade 2 - Rotational Musculoskeletal</td><td>Melbourne</td><td>2026-07-13</td></tr>
+<tr><td>St Vincent's Hospital Melbourne</td><td>Physiotherapist Grade 2 - Rotational Musculoskeletal</td><td>Melbourne</td><td>2026-07-13</td></tr>
+<tr><td>219</td><td>Physiotherapist Grade 2 - Rotational Musculoskeletal</td><td>Melbourne</td><td>2026-07-13</td></tr>
+<tr><td>Estia Health</td><td>Registered Nurse / Permanent Part Time / Morning Shifts</td><td>Melbourne</td><td>2026-07-13</td></tr>
+<tr><td>NBN Co Limited</td><td>Customer Field Technician / Brisbane Metro</td><td>Brisbane</td><td>2026-07-13</td></tr>
+<tr><td>NBN Co Limited</td><td>Customer Field Technician / Perth Metro</td><td>Perth</td><td>2026-07-13</td></tr>
+<tr><td>IHG (InterContinental Hotels Group)</td><td>Hvac Refrigeration Technician - Intercontinental Hayman Great Barrier Reef</td><td>Australia</td><td>2026-07-13</td></tr>
+<tr><td>Sofitel Melbourne On Collins</td><td>Maintenance Technician</td><td>Sydney</td><td>2026-07-13</td></tr>
+<tr><td>kone.us</td><td>Lift Service Technician (electrician)</td><td>Darwin</td><td>2026-07-13</td></tr>
+<tr><td>Kone Corporation</td><td>Lift Service Technician (electrician)</td><td>Darwin</td><td>2026-07-13</td></tr>
+<tr><td>KONE Elevators Pty Ltd</td><td>Lift Service Technician (electrician)</td><td>Darwin</td><td>2026-07-13</td></tr>
+<tr><td>Kion Na</td><td>Field Service Technician</td><td>Melbourne</td><td>2026-07-13</td></tr>
+<tr><td>KION North America Corporation</td><td>Field Service Technician</td><td>Melbourne</td><td>2026-07-13</td></tr>
+<tr><td>ConocoPhillips</td><td>Operations Technician, M&r Inlec</td><td>Curtis Island</td><td>2026-07-13</td></tr>
+<tr><td>Opal HealthCare</td><td>Maintenance Officer - Stanmore Place Care Community</td><td>Sydney</td><td>2026-07-13</td></tr>
+<tr><td>Lonetreepa</td><td>Mechanical Tradesperson</td><td>Hebden</td><td>2026-07-13</td></tr>
+<tr><td>Gingerco</td><td>Mechanical Tradesperson</td><td>Hebden</td><td>2026-07-13</td></tr>
+<tr><td>Coal Assets Australia</td><td>Mechanical Tradesperson</td><td>Hebden</td><td>2026-07-13</td></tr>
+<tr><td>Telstra</td><td>Field Delivery Telecommunications Trainee - Adelaide</td><td>Adelaide</td><td>2026-07-13</td></tr>
+<tr><td>Telstra</td><td>Field Inspection And Maintenance Assistant - Adelaide</td><td>Adelaide</td><td>2026-07-13</td></tr>
+<tr><td>GPC Tools & Equipment Sydney</td><td>Sales Assistant - Amx Carrum Downs - Full Time</td><td>Melbourne</td><td>2026-07-13</td></tr>
+<tr><td>Mecanicien.ca</td><td>Sales Assistant - Amx Carrum Downs - Full Time</td><td>Melbourne</td><td>2026-07-13</td></tr>
+<tr><td>mobile.career</td><td>Customer Banking Specialist - Ivanhoe</td><td>Melbourne</td><td>2026-07-13</td></tr>
+<tr><td>Txcba</td><td>Customer Banking Specialist - Ivanhoe</td><td>Melbourne</td><td>2026-07-13</td></tr>
+<tr><td>IDEXX Laboratories, Inc.</td><td>Stores Officer</td><td>Brisbane</td><td>2026-07-13</td></tr>
+<tr><td>Murdoch University</td><td>Executive Assistant</td><td>Australia</td><td>2026-07-13</td></tr>
+<tr><td>Opal HealthCare</td><td>Social Activities Coordinator - Sandringham Grove Care Community</td><td>Melbourne</td><td>2026-07-13</td></tr>
+<tr><td>RMIT University</td><td>Executive Assistant</td><td>Melbourne</td><td>2026-07-13</td></tr>
+<tr><td>Bega Group</td><td>Quality Specialist (product Integrity)</td><td>Morwell</td><td>2026-07-13</td></tr>
+<tr><td>Aldi Australia</td><td>Junior Store Assistant - Broadmeadows</td><td>Melbourne</td><td>2026-07-13</td></tr>
+<tr><td>Txcba</td><td>Executive Assistant</td><td>Australia</td><td>2026-07-13</td></tr>
+<tr><td>Markham Bank</td><td>Executive Assistant</td><td>Australia</td><td>2026-07-13</td></tr>
+<tr><td>Jobist Com Ng</td><td>Executive Assistant</td><td>Australia</td><td>2026-07-13</td></tr>
+<tr><td>Ha</td><td>Service Coordinator</td><td>Geelong</td><td>2026-07-13</td></tr>
+<tr><td>Mymhcommunity</td><td>Service Coordinator</td><td>Geelong</td><td>2026-07-13</td></tr>
+<tr><td>THE UNIVERSITY OF QUEENSLAND</td><td>Executive Support Officer</td><td>St Lucia</td><td>2026-07-13</td></tr>
+<tr><td>Qurmit</td><td>Project Coordinator</td><td>Melbourne</td><td>2026-07-13</td></tr>
+<tr><td>Eu</td><td>Project Coordinator</td><td>Melbourne</td><td>2026-07-13</td></tr>
+<tr><td>Aldi Australia</td><td>Junior Store Assistant - Mill Park</td><td>Melbourne</td><td>2026-07-13</td></tr>
+<tr><td>AbbVie</td><td>Administrative Assistant</td><td>Sydney</td><td>2026-07-13</td></tr>
+<tr><td>Aldi Australia</td><td>Retail Assistant - The Gap</td><td>Brisbane</td><td>2026-07-13</td></tr>
+<tr><td>Aldi Australia</td><td>Retail Assistant - Arana Hills</td><td>Brisbane</td><td>2026-07-13</td></tr>
 </table>

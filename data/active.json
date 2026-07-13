@@ -1,6 +1,6 @@
 {
- "asOf": "2026-07-12",
- "count": 643,
+ "asOf": "2026-07-13",
+ "count": 645,
  "jobs": {
   "26071": {
    "id": "26071",
@@ -14,11 +14,23 @@
    "role": "Pharmaziepraktikant*in Im Bereich Quality Assurance - Supply Center Berlin (alle Geschlechter)",
    "location": "Pinkenba"
   },
+  "838eee4e3ff71ddd2bcaf0222399351c": {
+   "id": "838eee4e3ff71ddd2bcaf0222399351c",
+   "company": "Nyrstar",
+   "role": "Vacation Student Program (2026/27 Summer)",
+   "location": "Port Pirie"
+  },
   "90d6d8bf1fcecd3ecd3725e866e9b16b": {
    "id": "90d6d8bf1fcecd3ecd3725e866e9b16b",
    "company": "SAP SE",
    "role": "Diploma Student / Intern - Bid Management Intern - Melbourne",
    "location": "Melbourne"
+  },
+  "cf0b9deb808ee5c468c593d9079c4db9": {
+   "id": "cf0b9deb808ee5c468c593d9079c4db9",
+   "company": "Caterpillar of Australia",
+   "role": "Material Planning Intern",
+   "location": "Australia"
   },
   "b074103a2f072248b1b37911a9dc6bbf": {
    "id": "b074103a2f072248b1b37911a9dc6bbf",
@@ -121,12 +133,6 @@
    "company": "GSK plc",
    "role": "Gsk 12 Month Internship - Regulatory Affairs & Quality Assurance (australia)",
    "location": "Melbourne"
-  },
-  "cf0b9deb808ee5c468c593d9079c4db9": {
-   "id": "cf0b9deb808ee5c468c593d9079c4db9",
-   "company": "Caterpillar of Australia",
-   "role": "Material Planning Intern",
-   "location": "Australia"
   },
   "22aa8a0c9b987fc2209a15fc26a0a8d1": {
    "id": "22aa8a0c9b987fc2209a15fc26a0a8d1",
@@ -452,10 +458,22 @@
    "role": "Graduate Software Engineer - Scoresby",
    "location": "Melbourne"
   },
+  "181ed0321779c6db8c46bf0ff20af309": {
+   "id": "181ed0321779c6db8c46bf0ff20af309",
+   "company": "transport",
+   "role": "Software Engineer",
+   "location": "Australia"
+  },
   "958730fc1bba26bdff48bd1e25497460": {
    "id": "958730fc1bba26bdff48bd1e25497460",
    "company": "ALSTOM TRANSPORT SA",
    "role": "Help Desk Technician",
+   "location": "Melbourne"
+  },
+  "7f5ddfff26470c8846a5a9e5d4ccd6fe": {
+   "id": "7f5ddfff26470c8846a5a9e5d4ccd6fe",
+   "company": "Netwealth - See Wealth Differently",
+   "role": "Software Engineer In Test",
    "location": "Melbourne"
   },
   "a7ed3da526553ffac8dab935d29ffc64": {
@@ -468,6 +486,12 @@
    "id": "ee3f5c48ba6bf7b29f0335a31f1589d1",
    "company": "sydney.edu.au",
    "role": "Software Engineer",
+   "location": "Sydney"
+  },
+  "6a64e4c06fad9e13b39f91da6e82bb75": {
+   "id": "6a64e4c06fad9e13b39f91da6e82bb75",
+   "company": "LEAP Legal",
+   "role": "Support Analyst - Level 1 (accounting Software)",
    "location": "Sydney"
   },
   "e531d880993cb1e7f0184476ad7e9da3": {
@@ -540,6 +564,18 @@
    "id": "4d8755a34f38a820804679a0685d5621",
    "company": "Carsales",
    "role": "Software Engineer",
+   "location": "Melbourne"
+  },
+  "e7cae45b00e5d247acd6f9c1b8989149": {
+   "id": "e7cae45b00e5d247acd6f9c1b8989149",
+   "company": "Computershare",
+   "role": "Software Engineer",
+   "location": "Melbourne"
+  },
+  "4d96fe302a3f03cb61efaf8aff3e27ac": {
+   "id": "4d96fe302a3f03cb61efaf8aff3e27ac",
+   "company": "Bosch Group",
+   "role": "Undergraduate It Student",
    "location": "Melbourne"
   },
   "f716437f71344212bbe30796126f2ab1": {
@@ -649,12 +685,6 @@
    "company": "CBA New Digital Businesses Pty Ltd",
    "role": "Software Engineer",
    "location": "Sydney"
-  },
-  "f434cdb0833011da256b21254bac7f4b": {
-   "id": "f434cdb0833011da256b21254bac7f4b",
-   "company": "Caterpillar of Australia",
-   "role": "Embedded Software Engineer",
-   "location": "Australia"
   },
   "616b8c9b236be9e246b414c44f311b9c": {
    "id": "616b8c9b236be9e246b414c44f311b9c",
@@ -908,29 +938,17 @@
    "role": "Software Engineer",
    "location": "Melbourne"
   },
-  "cbf41a7d98cee9d9839f2e391b08112e": {
-   "id": "cbf41a7d98cee9d9839f2e391b08112e",
-   "company": "Amazon",
-   "role": "Software Development Engineer, Network Health Service (NHS)",
-   "location": "Sydney"
-  },
-  "a9aa989050412ba32ccd80a0727f8fdc": {
-   "id": "a9aa989050412ba32ccd80a0727f8fdc",
-   "company": "Jobgether",
-   "role": "Frontend Software Engineer - Gaming",
+  "0c373bd9495c3cbd86b47255bf1c8075": {
+   "id": "0c373bd9495c3cbd86b47255bf1c8075",
+   "company": "transport",
+   "role": "Data Scientist",
    "location": "Australia"
   },
-  "0a21ecdd62e4fea8b3ccca97180901ab": {
-   "id": "0a21ecdd62e4fea8b3ccca97180901ab",
-   "company": "Leidos",
-   "role": "Help Desk Engineer",
-   "location": "Australia"
-  },
-  "521d66037dcf63409a432e315fdccdf6": {
-   "id": "521d66037dcf63409a432e315fdccdf6",
-   "company": "Leidos",
-   "role": "It Service Desk Technician",
-   "location": "Bungendore"
+  "e3552234239bbc0383fc454ba1c3217a": {
+   "id": "e3552234239bbc0383fc454ba1c3217a",
+   "company": "John Holland Group",
+   "role": "Finance & Data Analyst",
+   "location": "Melbourne"
   },
   "4e538e96e7d5964501476e557ec56501": {
    "id": "4e538e96e7d5964501476e557ec56501",
@@ -944,6 +962,12 @@
    "role": "Analyst, Am Distribution Data And Analytics",
    "location": "Sydney"
   },
+  "6acba84647e1fbf94626b5871babaf28": {
+   "id": "6acba84647e1fbf94626b5871babaf28",
+   "company": "Medibank Private Ltd",
+   "role": "Digital Analyst",
+   "location": "Melbourne"
+  },
   "1e95ef441fe2010d26898f289876dc40": {
    "id": "1e95ef441fe2010d26898f289876dc40",
    "company": "Coles Supermarkets Australia Pty Ltd",
@@ -954,6 +978,12 @@
    "id": "8ee9fb56a6404251124ba9ab00caf0f8",
    "company": "UA Power Group",
    "role": "Data Scientist",
+   "location": "Melbourne"
+  },
+  "8f11172346268dcba9b8c13a66583606": {
+   "id": "8f11172346268dcba9b8c13a66583606",
+   "company": "Cultureamp",
+   "role": "Associate Data Scientist",
    "location": "Melbourne"
   },
   "b7f868dbcb0965ed067e3d6eb57a00c0": {
@@ -1111,12 +1141,6 @@
    "company": "LE001-ASXOPS ASX OPERATIONS PTY",
    "role": "Data & Ai Analyst",
    "location": "Australia"
-  },
-  "162ff283b4bc522428f74ef2958ba82e": {
-   "id": "162ff283b4bc522428f74ef2958ba82e",
-   "company": "John Holland Group",
-   "role": "Finance & Data Analyst",
-   "location": "Melbourne"
   },
   "95c1a27b8fca05a54ce08e9c68e731f8": {
    "id": "95c1a27b8fca05a54ce08e9c68e731f8",
@@ -1394,18 +1418,6 @@
    "role": "Business Intelligence Analyst",
    "location": "Sydney"
   },
-  "e3697ac87ee8466e37a24177a3d6d4e7": {
-   "id": "e3697ac87ee8466e37a24177a3d6d4e7",
-   "company": "Shell Australia",
-   "role": "Commercial Data Analyst",
-   "location": "Melbourne"
-  },
-  "173918684e3b93c807fc7c3c301fa7ac": {
-   "id": "173918684e3b93c807fc7c3c301fa7ac",
-   "company": "Kmart",
-   "role": "Facilities Data Analyst",
-   "location": "Melbourne"
-  },
   "da350219bec7ba043dc03e9861f2e411": {
    "id": "da350219bec7ba043dc03e9861f2e411",
    "company": "Gsicareers",
@@ -1466,6 +1478,42 @@
    "role": "Graduate - Audit & Assurance",
    "location": "Australia"
   },
+  "552a29b0fe982b207bbec6d059b566c6": {
+   "id": "552a29b0fe982b207bbec6d059b566c6",
+   "company": "gww",
+   "role": "Project Finance Analyst, Path Out",
+   "location": "Melbourne"
+  },
+  "46e65e833973966d3cffdb3e5b4dc321": {
+   "id": "46e65e833973966d3cffdb3e5b4dc321",
+   "company": "Canon Inc",
+   "role": "Financial Analyst",
+   "location": "Sydney"
+  },
+  "dbeb60fb5fb830859ed7dc20bc13f992": {
+   "id": "dbeb60fb5fb830859ed7dc20bc13f992",
+   "company": "transport",
+   "role": "Business Analyst",
+   "location": "Australia"
+  },
+  "fc61c25d51072af523741808d8b3b9d5": {
+   "id": "fc61c25d51072af523741808d8b3b9d5",
+   "company": "transport",
+   "role": "Risk & Assurance Analyst",
+   "location": "Australia"
+  },
+  "411b16c21d233f81682fff834e941a0b": {
+   "id": "411b16c21d233f81682fff834e941a0b",
+   "company": "transport",
+   "role": "Business Case Analyst",
+   "location": "Australia"
+  },
+  "1c40313e8af0a82e948355e6e2a189cd": {
+   "id": "1c40313e8af0a82e948355e6e2a189cd",
+   "company": "CMA CGM Group",
+   "role": "Wms Operations Analyst / Orchard Hills Nsw",
+   "location": "Sydney"
+  },
   "46cae3d5a48965bfbf72484c329ab2d3": {
    "id": "46cae3d5a48965bfbf72484c329ab2d3",
    "company": "dcj",
@@ -1502,6 +1550,18 @@
    "role": "Service Desk Analyst - Gpc Asia Pacific - Full Time",
    "location": "Melbourne"
   },
+  "f5289408c14a44de91e0dfd6db009735": {
+   "id": "f5289408c14a44de91e0dfd6db009735",
+   "company": "Genpt",
+   "role": "Service Desk Analyst - Gpc Asia Pacific - Full Time",
+   "location": "Melbourne"
+  },
+  "54ef924e9f9db0ee3eb7b2b56808a032": {
+   "id": "54ef924e9f9db0ee3eb7b2b56808a032",
+   "company": "COVETRUS SOFTWARE SERVICES PTY [AU]",
+   "role": "Finance Business Analyst",
+   "location": "Brisbane"
+  },
   "0ea4beea8bdcffa631b002028064458e": {
    "id": "0ea4beea8bdcffa631b002028064458e",
    "company": "cbcity",
@@ -1519,6 +1579,18 @@
    "company": "hancockironore",
    "role": "Payroll Analyst",
    "location": "Perth"
+  },
+  "1ce67232300d641ab8dfbfbd92c3c8ea": {
+   "id": "1ce67232300d641ab8dfbfbd92c3c8ea",
+   "company": "RWWA",
+   "role": "Business Analyst",
+   "location": "Osborne Park"
+  },
+  "04c51a6881691632cafed0ab45ad55bd": {
+   "id": "04c51a6881691632cafed0ab45ad55bd",
+   "company": "Shift",
+   "role": "Business Analyst",
+   "location": "Sydney"
   },
   "92bd9d5ef4e7c67387f8825d5470cf62": {
    "id": "92bd9d5ef4e7c67387f8825d5470cf62",
@@ -1548,6 +1620,24 @@
    "id": "2d31c7cfb74271f3505e7b0033171d81",
    "company": "Service Stream",
    "role": "Finance Business Analyst",
+   "location": "Melbourne"
+  },
+  "fc58d98ac84c47f38337723a1d4240aa": {
+   "id": "fc58d98ac84c47f38337723a1d4240aa",
+   "company": "SCDOE22",
+   "role": "Finance Business Analyst",
+   "location": "Melbourne"
+  },
+  "820c6f48a06303f45232ae2576477fc4": {
+   "id": "820c6f48a06303f45232ae2576477fc4",
+   "company": "Downer EDI",
+   "role": "Inventory Analyst",
+   "location": "Melbourne"
+  },
+  "b527f9a75e327e179202910ea8285393": {
+   "id": "b527f9a75e327e179202910ea8285393",
+   "company": "Downer",
+   "role": "Inventory Analyst",
    "location": "Melbourne"
   },
   "a7234b7222a5f5b62004978c4b6ae464": {
@@ -1868,83 +1958,23 @@
    "role": "Junior Fleet Business Analyst",
    "location": "Melbourne"
   },
-  "386a4b91ab2da168eca5c84ca45051a9": {
-   "id": "386a4b91ab2da168eca5c84ca45051a9",
-   "company": "Bega Group",
-   "role": "Commercial Finance Analyst",
-   "location": "Melbourne"
-  },
-  "d32a93a9b37daf409d282c13d64a5c6a": {
-   "id": "d32a93a9b37daf409d282c13d64a5c6a",
-   "company": "Chevron Australia",
-   "role": "Risk Control Digital Analyst",
+  "42af5289cd4c5720ff7b002a88b3d6f0": {
+   "id": "42af5289cd4c5720ff7b002a88b3d6f0",
+   "company": "Gippsland Health Alliance",
+   "role": "Registered/enrolled Nurse",
    "location": "Australia"
   },
-  "026e2c5720009b787ab9b3f7a1a3fdec": {
-   "id": "026e2c5720009b787ab9b3f7a1a3fdec",
-   "company": "CBA (Commonwealth Bank)",
-   "role": "Customer Lifecycle Analyst - Financial Crime",
+  "e94216a0990371de8b81ce91cb528158": {
+   "id": "e94216a0990371de8b81ce91cb528158",
+   "company": "Gippsland Health Alliance",
+   "role": "Perioperative (registered Nurse) 1",
+   "location": "Sale"
+  },
+  "7b5c94df0e6877f892685e3e1bed255a": {
+   "id": "7b5c94df0e6877f892685e3e1bed255a",
+   "company": "Gippsland Health Alliance",
+   "role": "Registered And Enrolled Nurses - Nurse Bank",
    "location": "Australia"
-  },
-  "44884c6c31bbcb09aa8f7125839edee9": {
-   "id": "44884c6c31bbcb09aa8f7125839edee9",
-   "company": "AGL Energy",
-   "role": "Finance Analyst – Gas Generation",
-   "location": "Sydney"
-  },
-  "bdeb26eb8583b3448d56123756c9d2e7": {
-   "id": "bdeb26eb8583b3448d56123756c9d2e7",
-   "company": "756",
-   "role": "Customer Lifecycle Analyst - Financial Crime",
-   "location": "Australia"
-  },
-  "779e8932dc594ec49f0e67d57be713d1": {
-   "id": "779e8932dc594ec49f0e67d57be713d1",
-   "company": "The TJX Companies, Inc",
-   "role": "Finance Analyst - Business Planning",
-   "location": "Sydney"
-  },
-  "9fd39282026703513518247f10790b58": {
-   "id": "9fd39282026703513518247f10790b58",
-   "company": "VICINITY",
-   "role": "Risk & Compliance Analyst",
-   "location": "Australia"
-  },
-  "438f2c672ef33259bd7ec0a2223a232f": {
-   "id": "438f2c672ef33259bd7ec0a2223a232f",
-   "company": "164",
-   "role": "Finance Analyst",
-   "location": "Australia"
-  },
-  "011db912225789d11b6b86a5cb70d9e6": {
-   "id": "011db912225789d11b6b86a5cb70d9e6",
-   "company": "Solenis Australia Pty Limited",
-   "role": "Finance Analyst, Sea (contract)",
-   "location": "Australia"
-  },
-  "c2a97f28e5990e90e94ae33ee23a1489": {
-   "id": "c2a97f28e5990e90e94ae33ee23a1489",
-   "company": "Tewire",
-   "role": "Finance Analyst",
-   "location": "Australia"
-  },
-  "7f9809bbc5792fb545846fcf74aa27f1": {
-   "id": "7f9809bbc5792fb545846fcf74aa27f1",
-   "company": "students.flinders.edu.au",
-   "role": "Financial Analyst",
-   "location": "Bedford Park"
-  },
-  "98ea1c6a7b3cb07ad8a341ed21105df1": {
-   "id": "98ea1c6a7b3cb07ad8a341ed21105df1",
-   "company": "L&C Food",
-   "role": "Finance Analyst – Commercial & Marketing",
-   "location": "Melbourne"
-  },
-  "e44cb6d2b74ae2ba5dcae4b0ef475ba3": {
-   "id": "e44cb6d2b74ae2ba5dcae4b0ef475ba3",
-   "company": "Reece",
-   "role": "Financial Accountant",
-   "location": "Sydney"
   },
   "c44a9e9e108ffd3e5233e341f0d59e4e": {
    "id": "c44a9e9e108ffd3e5233e341f0d59e4e",
@@ -1962,6 +1992,18 @@
    "id": "78c1a884b90282cba2a46e9e17792db5",
    "company": "Peter MacCallum Cancer Centre",
    "role": "Pharmacist Grade 2 – Aseptic Manufacturing",
+   "location": "Melbourne"
+  },
+  "452a9efc68d6135772fcc06796b537c2": {
+   "id": "452a9efc68d6135772fcc06796b537c2",
+   "company": "Medibank Private Ltd",
+   "role": "Registered Nurse",
+   "location": "Walkerville"
+  },
+  "20d3af1e444dbc656f12c9f75ccfc49a": {
+   "id": "20d3af1e444dbc656f12c9f75ccfc49a",
+   "company": "Medibank Private Ltd",
+   "role": "Community Registered Nurse",
    "location": "Melbourne"
   },
   "2cd2b172da673efe03f743c955e47f7d": {
@@ -2012,6 +2054,18 @@
    "role": "Registered Nurse - District Nursing",
    "location": "Melbourne"
   },
+  "27e0e1a46256489a0b2b7ace0aa6874e": {
+   "id": "27e0e1a46256489a0b2b7ace0aa6874e",
+   "company": "Neurosurgeon role (org unclear)",
+   "role": "Registered Nurse - District Nursing",
+   "location": "Melbourne"
+  },
+  "5dad30bacf05a458c78803cc6827f132": {
+   "id": "5dad30bacf05a458c78803cc6827f132",
+   "company": "Mediix",
+   "role": "Physiotherapist",
+   "location": "Melbourne"
+  },
   "65da4755affdf6968b18c05cd4efd770": {
    "id": "65da4755affdf6968b18c05cd4efd770",
    "company": "Mymhcommunity",
@@ -2054,9 +2108,21 @@
    "role": "Registered Nurse",
    "location": "Goulburn"
   },
+  "ba19294fab96ad2ce4bc28ce1339b282": {
+   "id": "ba19294fab96ad2ce4bc28ce1339b282",
+   "company": "The Trustee For The Salvation Army Victoria Property Trust",
+   "role": "Registered Nurse",
+   "location": "Goulburn"
+  },
   "22c00ca6d0610ebb193283a3e2fe3ff1": {
    "id": "22c00ca6d0610ebb193283a3e2fe3ff1",
    "company": "166",
+   "role": "Registered Nurse",
+   "location": "Goulburn"
+  },
+  "c9d959e102434218e056ac2d08787106": {
+   "id": "c9d959e102434218e056ac2d08787106",
+   "company": "The Salvation Army Australia",
    "role": "Registered Nurse",
    "location": "Goulburn"
   },
@@ -2070,6 +2136,12 @@
    "id": "002bc48b1c7bb1e652b6155c3cc30294",
    "company": "Mediix",
    "role": "Msk Physiotherapist",
+   "location": "Melbourne"
+  },
+  "a291aee52235a88c054daeffdc31b596": {
+   "id": "a291aee52235a88c054daeffdc31b596",
+   "company": "Mediix",
+   "role": "Msk Physiotherapist / With Interest In Pilates",
    "location": "Melbourne"
   },
   "55e69c68b68c6a8a5894ee4b62cd0429": {
@@ -2366,65 +2438,77 @@
    "role": "Postdoctoral Research Associate In Healthy Homes",
    "location": "Sydney"
   },
-  "87c2775bcfd8ab6ac0e7e155f507d54f": {
-   "id": "87c2775bcfd8ab6ac0e7e155f507d54f",
-   "company": "sydney.edu.au",
-   "role": "Postdoctoral Research Associate In Healthy Homes",
-   "location": "Sydney"
+  "64060c9742187e23dfe6fcd3f96afe9f": {
+   "id": "64060c9742187e23dfe6fcd3f96afe9f",
+   "company": "Coates",
+   "role": "Fitter Mechanic - Field Service",
+   "location": "Moranbah"
   },
-  "2c0a4cd026047990706c1aec2eb106bf": {
-   "id": "2c0a4cd026047990706c1aec2eb106bf",
-   "company": "Fsmjobs",
-   "role": "Registered Nurse - Casual",
-   "location": "Australia"
+  "1a53511c79397d8af223d893ff225bf0": {
+   "id": "1a53511c79397d8af223d893ff225bf0",
+   "company": "Nyrstar",
+   "role": "Tradesperson Fitter",
+   "location": "Port Pirie"
   },
-  "5cca897053abcb28be154f98e6ebec35": {
-   "id": "5cca897053abcb28be154f98e6ebec35",
-   "company": "166",
-   "role": "Community Health Registered Nurse",
-   "location": "Melbourne"
-  },
-  "1afda35f3555c7915793ccc6721163af": {
-   "id": "1afda35f3555c7915793ccc6721163af",
-   "company": "Mira Vista Care Center",
-   "role": "Registered Nurses - Medical/rehab",
+  "1100c738d5d622e6c114b74fb84e541a": {
+   "id": "1100c738d5d622e6c114b74fb84e541a",
+   "company": "JBT Marel",
+   "role": "Field Service Engineer, Marel Cedar Creek",
    "location": "Brisbane"
   },
-  "e0ccdf051905222fdf303de196587876": {
-   "id": "e0ccdf051905222fdf303de196587876",
-   "company": "Neurosurgeon role (org unclear)",
-   "role": "Registered Nurse - Casual",
-   "location": "Toowoomba"
+  "82cd41b68abd86593000a2084a0d4f97": {
+   "id": "82cd41b68abd86593000a2084a0d4f97",
+   "company": "transport",
+   "role": "Rail Maintainer (mechanical) Tfle-ahmc & Fmc (temporary Opportunity - Up To 20 Months)",
+   "location": "Sydney"
   },
-  "3f926b4164599f74036f95daa12063c7": {
-   "id": "3f926b4164599f74036f95daa12063c7",
-   "company": "Mira Vista Care Center",
-   "role": "Registered Nurse - Casual",
-   "location": "Toowoomba"
+  "27d23be9207e621af7a082abe0d0aa20": {
+   "id": "27d23be9207e621af7a082abe0d0aa20",
+   "company": "santillana.cat",
+   "role": "Field Service Representative",
+   "location": "Australia"
   },
-  "89e2453136e2f2be1c825acc0e4fc033": {
-   "id": "89e2453136e2f2be1c825acc0e4fc033",
-   "company": "Mira Vista Care Center",
-   "role": "Physiotherapist Grade 2 - Rotational Musculoskeletal",
-   "location": "Melbourne"
+  "52b9884093fdce159333a2ca72d66c2b": {
+   "id": "52b9884093fdce159333a2ca72d66c2b",
+   "company": "WesTrac Pty Ltd",
+   "role": "Plant Mechanic - Field Service",
+   "location": "Griffith"
   },
-  "bb1dccf1f4558481f2465e5e0b3d5e48": {
-   "id": "bb1dccf1f4558481f2465e5e0b3d5e48",
-   "company": "St Vincent's Hospital Melbourne",
-   "role": "Physiotherapist Grade 2 - Rotational Musculoskeletal",
-   "location": "Melbourne"
+  "dcef3f5a8a2a0ceb2561c3f90cde7201": {
+   "id": "dcef3f5a8a2a0ceb2561c3f90cde7201",
+   "company": "WesTrac Pty Ltd",
+   "role": "Auto Electrician - Field Service",
+   "location": "Kalgoorlie"
   },
-  "566809390b300f15a2063313a8f65b21": {
-   "id": "566809390b300f15a2063313a8f65b21",
-   "company": "219",
-   "role": "Physiotherapist Grade 2 - Rotational Musculoskeletal",
-   "location": "Melbourne"
+  "80b263ea981515e7834e48622a9ea339": {
+   "id": "80b263ea981515e7834e48622a9ea339",
+   "company": "WesTrac Pty Ltd",
+   "role": "Line Borer - Field Service",
+   "location": "Tomago"
   },
-  "ebbd4d16e4f9d13457e4eef6cfffda48": {
-   "id": "ebbd4d16e4f9d13457e4eef6cfffda48",
-   "company": "Estia Health",
-   "role": "Registered Nurse / Permanent Part Time / Morning Shifts",
-   "location": "Melbourne"
+  "c87c06d51bce00af9f4b9c012d2aaf22": {
+   "id": "c87c06d51bce00af9f4b9c012d2aaf22",
+   "company": "WesTrac Pty Ltd",
+   "role": "Field Service Plant Mechanic Cadia",
+   "location": "Cadia"
+  },
+  "566734124b31bf929c2ca229fce99a56": {
+   "id": "566734124b31bf929c2ca229fce99a56",
+   "company": "JBS Australia Pty Ltd",
+   "role": "Maintenance Electrician",
+   "location": "Cobram"
+  },
+  "8fd309765e4bd899800522ed6f444738": {
+   "id": "8fd309765e4bd899800522ed6f444738",
+   "company": "JBS Australia Pty Ltd",
+   "role": "Maintenance Fitter",
+   "location": "Sydney"
+  },
+  "7f0df7f0bfcd80cc1455d5b72988c27a": {
+   "id": "7f0df7f0bfcd80cc1455d5b72988c27a",
+   "company": "JBS Australia Pty Ltd",
+   "role": "Maintenance Greaser",
+   "location": "Dinmore"
   },
   "6bfa56ce49fff6452147737cdeb831cd": {
    "id": "6bfa56ce49fff6452147737cdeb831cd",
@@ -2456,9 +2540,21 @@
    "role": "Field Service Engineer (qualified Electrician) - Infection Control Qld",
    "location": "Brisbane"
   },
+  "a0fa7417aa9c29995b0371b75639a966": {
+   "id": "a0fa7417aa9c29995b0371b75639a966",
+   "company": "Optus",
+   "role": "Network Engineer - Field",
+   "location": "Sydney"
+  },
   "30261fcbcde4b0bd987ef5e9cc93adef": {
    "id": "30261fcbcde4b0bd987ef5e9cc93adef",
    "company": "Unity of Roseburg",
+   "role": "Technical Field Engineer",
+   "location": "Australia"
+  },
+  "16a9686b2922f5e48388ebff5acc9083": {
+   "id": "16a9686b2922f5e48388ebff5acc9083",
+   "company": "Unisys UK",
    "role": "Technical Field Engineer",
    "location": "Australia"
   },
@@ -2467,6 +2563,12 @@
    "company": "CONSTRUCCIONES Y AUXILIAR DE FERROCARRILES S.A",
    "role": "Electrical Maintenance Technician",
    "location": "Sydney"
+  },
+  "9b08b14a2ae1f367467f0d36ef9bdcfa": {
+   "id": "9b08b14a2ae1f367467f0d36ef9bdcfa",
+   "company": "Geotab",
+   "role": "Field Services Specialist",
+   "location": "Adelaide"
   },
   "12bc8dafff4c9ca2fcdd3a9a350e8d3e": {
    "id": "12bc8dafff4c9ca2fcdd3a9a350e8d3e",
@@ -2485,6 +2587,12 @@
    "company": "Karriere Als Cs",
    "role": "Maintenance Officer",
    "location": "Wangara"
+  },
+  "7f72131f89851a4ea8534712d47a65e1": {
+   "id": "7f72131f89851a4ea8534712d47a65e1",
+   "company": "KION",
+   "role": "Maintenance Technician",
+   "location": "Australia"
   },
   "4614ad42bf528bb4cb9a7139ce175be3": {
    "id": "4614ad42bf528bb4cb9a7139ce175be3",
@@ -2810,101 +2918,23 @@
    "role": "Customer Field Technician / Sydney Metro",
    "location": "Sydney Metro"
   },
-  "a9c8f7f36e4dff8089f13e84dd2bb88e": {
-   "id": "a9c8f7f36e4dff8089f13e84dd2bb88e",
-   "company": "NBN Co Limited",
-   "role": "Customer Field Technician / Brisbane Metro",
-   "location": "Brisbane"
+  "473f236dc86aef0ea5d164710d2fccd1": {
+   "id": "473f236dc86aef0ea5d164710d2fccd1",
+   "company": "John Holland Group",
+   "role": "Store Person",
+   "location": "Clovelly Park"
   },
-  "390d74504df7d48b80f6e81a02e4c3a2": {
-   "id": "390d74504df7d48b80f6e81a02e4c3a2",
-   "company": "NBN Co Limited",
-   "role": "Customer Field Technician / Perth Metro",
-   "location": "Perth"
+  "8869a6442c20b41f2e6aea30bcb4d4e1": {
+   "id": "8869a6442c20b41f2e6aea30bcb4d4e1",
+   "company": "JBS Australia Pty Ltd",
+   "role": "Maintenance Storeperson - Weekend Roster",
+   "location": "Dinmore"
   },
-  "704bc39ec9e3a1264ee16479ba48616b": {
-   "id": "704bc39ec9e3a1264ee16479ba48616b",
-   "company": "IHG (InterContinental Hotels Group)",
-   "role": "Hvac Refrigeration Technician - Intercontinental Hayman Great Barrier Reef",
-   "location": "Australia"
-  },
-  "a16b4cc9d8d3687e46c4bcd726b24df4": {
-   "id": "a16b4cc9d8d3687e46c4bcd726b24df4",
-   "company": "Sofitel Melbourne On Collins",
-   "role": "Maintenance Technician",
+  "5a47527beb56337cfcd787a82959ec35": {
+   "id": "5a47527beb56337cfcd787a82959ec35",
+   "company": "St Vincent de Paul Society Australia",
+   "role": "Shop Assistant",
    "location": "Sydney"
-  },
-  "2a79b2540cd36ac2c642e8880acded1b": {
-   "id": "2a79b2540cd36ac2c642e8880acded1b",
-   "company": "kone.us",
-   "role": "Lift Service Technician (electrician)",
-   "location": "Darwin"
-  },
-  "787c310640f78c1b3cfdc2846e03d19b": {
-   "id": "787c310640f78c1b3cfdc2846e03d19b",
-   "company": "Kone Corporation",
-   "role": "Lift Service Technician (electrician)",
-   "location": "Darwin"
-  },
-  "16100df724d0693d7bb9e5aea85ea802": {
-   "id": "16100df724d0693d7bb9e5aea85ea802",
-   "company": "KONE Elevators Pty Ltd",
-   "role": "Lift Service Technician (electrician)",
-   "location": "Darwin"
-  },
-  "c0c3932457d9f59477ebe0150bf7613a": {
-   "id": "c0c3932457d9f59477ebe0150bf7613a",
-   "company": "Kion Na",
-   "role": "Field Service Technician",
-   "location": "Melbourne"
-  },
-  "d7ed7349a296b0c329b95411a4dfa532": {
-   "id": "d7ed7349a296b0c329b95411a4dfa532",
-   "company": "KION North America Corporation",
-   "role": "Field Service Technician",
-   "location": "Melbourne"
-  },
-  "f875adbb56ea6e5a97ac3e1f83019c8a": {
-   "id": "f875adbb56ea6e5a97ac3e1f83019c8a",
-   "company": "ConocoPhillips",
-   "role": "Operations Technician, M&r Inlec",
-   "location": "Curtis Island"
-  },
-  "ebb5057d267476fb5e9bfa5f71f4caa3": {
-   "id": "ebb5057d267476fb5e9bfa5f71f4caa3",
-   "company": "Opal HealthCare",
-   "role": "Maintenance Officer - Stanmore Place Care Community",
-   "location": "Sydney"
-  },
-  "346b6ff46658be9b06fdb135a9331f25": {
-   "id": "346b6ff46658be9b06fdb135a9331f25",
-   "company": "Lonetreepa",
-   "role": "Mechanical Tradesperson",
-   "location": "Hebden"
-  },
-  "ba16c4dc34b5accca503c9cbda20e068": {
-   "id": "ba16c4dc34b5accca503c9cbda20e068",
-   "company": "Gingerco",
-   "role": "Mechanical Tradesperson",
-   "location": "Hebden"
-  },
-  "4a3c4537109be0011e9b225586e4ecba": {
-   "id": "4a3c4537109be0011e9b225586e4ecba",
-   "company": "Coal Assets Australia",
-   "role": "Mechanical Tradesperson",
-   "location": "Hebden"
-  },
-  "177eba1adba523c106cfc35314717573": {
-   "id": "177eba1adba523c106cfc35314717573",
-   "company": "Telstra",
-   "role": "Field Delivery Telecommunications Trainee - Adelaide",
-   "location": "Adelaide"
-  },
-  "17fcc37b2b3a9a24d76079232d109933": {
-   "id": "17fcc37b2b3a9a24d76079232d109933",
-   "company": "Telstra",
-   "role": "Field Inspection And Maintenance Assistant - Adelaide",
-   "location": "Adelaide"
   },
   "4c6613215cad381946035e2024c1b0a4": {
    "id": "4c6613215cad381946035e2024c1b0a4",
@@ -3062,6 +3092,12 @@
    "role": "Warehouse / Store Person",
    "location": "Wacol"
   },
+  "ea378156e046fdece4cc2035eb4c9abf": {
+   "id": "ea378156e046fdece4cc2035eb4c9abf",
+   "company": "GPC Tools & Equipment Sydney",
+   "role": "Store Counter Sales",
+   "location": "Sydney"
+  },
   "728b2d467f246048b43b4aa24b0fa325": {
    "id": "728b2d467f246048b43b4aa24b0fa325",
    "company": "TJX Australia (TK Maxx)",
@@ -3089,6 +3125,12 @@
   "0bdd22fa532c3ce3f70705d8b0b2abbc": {
    "id": "0bdd22fa532c3ce3f70705d8b0b2abbc",
    "company": "The Salvation Army",
+   "role": "Part-time Sales Assistant - Hoppers Crossing",
+   "location": "Melbourne"
+  },
+  "f0c89be447461337d5fb4bf9d3a2bc99": {
+   "id": "f0c89be447461337d5fb4bf9d3a2bc99",
+   "company": "The Trustee For The Salvation Army Victoria Property Trust",
    "role": "Part-time Sales Assistant - Hoppers Crossing",
    "location": "Melbourne"
   },
@@ -3350,35 +3392,53 @@
    "role": "Sales Assistant - Amx Carrum Downs - Full Time",
    "location": "Melbourne"
   },
-  "38ebe89d685734a5c592ee505a14d923": {
-   "id": "38ebe89d685734a5c592ee505a14d923",
-   "company": "GPC Tools & Equipment Sydney",
-   "role": "Sales Assistant - Amx Carrum Downs - Full Time",
+  "d565848dc5a2ba9f5e75eed764023b74": {
+   "id": "d565848dc5a2ba9f5e75eed764023b74",
+   "company": "Minter Ellison Services Pty Ltd",
+   "role": "Executive Assistant",
+   "location": "Sydney"
+  },
+  "9b6ad509429805bd8924bb8d6f590b57": {
+   "id": "9b6ad509429805bd8924bb8d6f590b57",
+   "company": "Coates",
+   "role": "Customer Service Coordinator",
+   "location": "Hume"
+  },
+  "367c5493788a430c04f06ecb19a881cd": {
+   "id": "367c5493788a430c04f06ecb19a881cd",
+   "company": "transport",
+   "role": "Technical Specialist",
+   "location": "Australia"
+  },
+  "96f7f6dc3601b5d21be06c4cb2d43bd0": {
+   "id": "96f7f6dc3601b5d21be06c4cb2d43bd0",
+   "company": "CMA CGM Group",
+   "role": "Project Coordinator / Hazelmere Wa",
+   "location": "Hazelmere WA"
+  },
+  "1770c818b08ee7b31104cf98d4935a0d": {
+   "id": "1770c818b08ee7b31104cf98d4935a0d",
+   "company": "CEVA Logistics",
+   "role": "Compliance Coordinator / Minto Nsw",
+   "location": "Sydney"
+  },
+  "6663eedc4580db2a643c5b028f4c359e": {
+   "id": "6663eedc4580db2a643c5b028f4c359e",
+   "company": "WesTrac Pty Ltd",
+   "role": "Customer Coordinator",
+   "location": "Tomago"
+  },
+  "c0d1e646ad00e72c2c7c4f91e58cda3d": {
+   "id": "c0d1e646ad00e72c2c7c4f91e58cda3d",
+   "company": "JBS Australia Pty Ltd",
+   "role": "General Administrator",
    "location": "Melbourne"
   },
-  "cd8f86aac3ef17967606b0f19ffea26c": {
-   "id": "cd8f86aac3ef17967606b0f19ffea26c",
-   "company": "Mecanicien.ca",
-   "role": "Sales Assistant - Amx Carrum Downs - Full Time",
+  "08c1a6105f13e49acad9bdd6fb74ced7": {
+   "id": "08c1a6105f13e49acad9bdd6fb74ced7",
+   "company": "Austin Health",
+   "role": "Data Coordinator",
    "location": "Melbourne"
-  },
-  "c74d30efa3b76a6876260e8d4fbde1c2": {
-   "id": "c74d30efa3b76a6876260e8d4fbde1c2",
-   "company": "mobile.career",
-   "role": "Customer Banking Specialist - Ivanhoe",
-   "location": "Melbourne"
-  },
-  "ea1398cf82dab35605ea1c6794c85330": {
-   "id": "ea1398cf82dab35605ea1c6794c85330",
-   "company": "Txcba",
-   "role": "Customer Banking Specialist - Ivanhoe",
-   "location": "Melbourne"
-  },
-  "2e1f94908a8c9182e984065175b1bfa5": {
-   "id": "2e1f94908a8c9182e984065175b1bfa5",
-   "company": "IDEXX Laboratories, Inc.",
-   "role": "Stores Officer",
-   "location": "Brisbane"
   },
   "12f729522e90d0a88603ced1c372d03d": {
    "id": "12f729522e90d0a88603ced1c372d03d",
@@ -3428,6 +3488,18 @@
    "role": "Contract Specialist",
    "location": "Melbourne"
   },
+  "fe9c48f529c729fbfe900278f27b3f1a": {
+   "id": "fe9c48f529c729fbfe900278f27b3f1a",
+   "company": "St Vincent de Paul Society Australia",
+   "role": "Executive Assistant",
+   "location": "Lewisham"
+  },
+  "00691b19bbc7ef1754031877c34780ee": {
+   "id": "00691b19bbc7ef1754031877c34780ee",
+   "company": "166",
+   "role": "Part-time Sales Assistant",
+   "location": "Lakelands"
+  },
   "cb8bd7d8df06fdca534a6d457d33150c": {
    "id": "cb8bd7d8df06fdca534a6d457d33150c",
    "company": "DECJUBA",
@@ -3470,9 +3542,21 @@
    "role": "Project Coordinator",
    "location": "Ipswich"
   },
+  "d3e648a90d879ede45806f5b4ce12579": {
+   "id": "d3e648a90d879ede45806f5b4ce12579",
+   "company": "TAL Australia",
+   "role": "Team Assistant",
+   "location": "Melbourne"
+  },
   "921b9f880b83ef30138c304278d42913": {
    "id": "921b9f880b83ef30138c304278d42913",
    "company": "Home-in",
+   "role": "Marketing Coordinator, Kit",
+   "location": "Australia"
+  },
+  "e92d8ac33b48817cdf06959e590ac228": {
+   "id": "e92d8ac33b48817cdf06959e590ac228",
+   "company": "x15",
    "role": "Marketing Coordinator, Kit",
    "location": "Australia"
   },
@@ -3512,6 +3596,12 @@
    "role": "Bid & Implementation Coordinator",
    "location": "Melbourne"
   },
+  "0597f016ccea39e60f7b7536a560d0ba": {
+   "id": "0597f016ccea39e60f7b7536a560d0ba",
+   "company": "WEPLOY",
+   "role": "Client Coordinator",
+   "location": "Sydney"
+  },
   "cbb21fa39cd320f508d9502a0f43fa4a": {
    "id": "cbb21fa39cd320f508d9502a0f43fa4a",
    "company": "The Salvation Army",
@@ -3539,6 +3629,12 @@
   "12a3de4f6547f232c372bdfa61cbd82e": {
    "id": "12a3de4f6547f232c372bdfa61cbd82e",
    "company": "Xn Karrirbanken Kcb",
+   "role": "Marketing Coordinator, Kit",
+   "location": "Australia"
+  },
+  "f88e2abd9c257f6bccc101532bab333b": {
+   "id": "f88e2abd9c257f6bccc101532bab333b",
+   "company": "CBA New Digital Businesses Pty Ltd",
    "role": "Marketing Coordinator, Kit",
    "location": "Australia"
   },
@@ -3595,6 +3691,12 @@
    "company": "Aldi Australia",
    "role": "Retail Assistant - Darlinghurst",
    "location": "Sydney"
+  },
+  "12a112ad01f46c63c2fd59a74f5be7e4": {
+   "id": "12a112ad01f46c63c2fd59a74f5be7e4",
+   "company": "Downer EDI",
+   "role": "Project Support Coordinator",
+   "location": "Nowra Hill"
   },
   "f86bbd8c716ff640a44c0d65d35bce02": {
    "id": "f86bbd8c716ff640a44c0d65d35bce02",
@@ -3752,113 +3854,23 @@
    "role": "Administration Support",
    "location": "Brisbane"
   },
+  "ed16044adf110ffcf147c47be9049591": {
+   "id": "ed16044adf110ffcf147c47be9049591",
+   "company": "Downer EDI",
+   "role": "Administration Support",
+   "location": "Brisbane"
+  },
+  "47ffd914830a65a068c209e97f891069": {
+   "id": "47ffd914830a65a068c209e97f891069",
+   "company": "Downer",
+   "role": "Administration Support",
+   "location": "Brisbane"
+  },
   "864addc3ea94d7302554651f3a101476": {
    "id": "864addc3ea94d7302554651f3a101476",
    "company": "Xn Karrirbanken Kcb",
    "role": "Customer Service Specialist",
    "location": "Sydney"
-  },
-  "e52d0e7a74768da606554050ae25581f": {
-   "id": "e52d0e7a74768da606554050ae25581f",
-   "company": "Murdoch University",
-   "role": "Executive Assistant",
-   "location": "Australia"
-  },
-  "cfa2096573425d111380865b6672c315": {
-   "id": "cfa2096573425d111380865b6672c315",
-   "company": "Opal HealthCare",
-   "role": "Social Activities Coordinator - Sandringham Grove Care Community",
-   "location": "Melbourne"
-  },
-  "ed5c6d6ec544cad80dd913a7def3d514": {
-   "id": "ed5c6d6ec544cad80dd913a7def3d514",
-   "company": "RMIT University",
-   "role": "Executive Assistant",
-   "location": "Melbourne"
-  },
-  "73c8eca47188b7d50fbe987f7f28aded": {
-   "id": "73c8eca47188b7d50fbe987f7f28aded",
-   "company": "Bega Group",
-   "role": "Quality Specialist (product Integrity)",
-   "location": "Morwell"
-  },
-  "e2f4d0f776a0be056c9a1317863eaf3f": {
-   "id": "e2f4d0f776a0be056c9a1317863eaf3f",
-   "company": "Aldi Australia",
-   "role": "Junior Store Assistant - Broadmeadows",
-   "location": "Melbourne"
-  },
-  "55fb5ea2c5aec40038ad647ff1d7cffe": {
-   "id": "55fb5ea2c5aec40038ad647ff1d7cffe",
-   "company": "Txcba",
-   "role": "Executive Assistant",
-   "location": "Australia"
-  },
-  "0c3c152ad40a6e25f18fe1185ebce996": {
-   "id": "0c3c152ad40a6e25f18fe1185ebce996",
-   "company": "Markham Bank",
-   "role": "Executive Assistant",
-   "location": "Australia"
-  },
-  "9d4f629232f5dd96c6f45bdf325873b9": {
-   "id": "9d4f629232f5dd96c6f45bdf325873b9",
-   "company": "Jobist Com Ng",
-   "role": "Executive Assistant",
-   "location": "Australia"
-  },
-  "4aa503ad0a0b382b9174042fa334fbdf": {
-   "id": "4aa503ad0a0b382b9174042fa334fbdf",
-   "company": "Ha",
-   "role": "Service Coordinator",
-   "location": "Geelong"
-  },
-  "5138200429d7d995f39e9679f68ba96f": {
-   "id": "5138200429d7d995f39e9679f68ba96f",
-   "company": "Mymhcommunity",
-   "role": "Service Coordinator",
-   "location": "Geelong"
-  },
-  "f0bcccd1bbd1e9f5dd61d9984708b9f8": {
-   "id": "f0bcccd1bbd1e9f5dd61d9984708b9f8",
-   "company": "THE UNIVERSITY OF QUEENSLAND",
-   "role": "Executive Support Officer",
-   "location": "St Lucia"
-  },
-  "4da40a3a5310ec8b72c334df6269b575": {
-   "id": "4da40a3a5310ec8b72c334df6269b575",
-   "company": "Qurmit",
-   "role": "Project Coordinator",
-   "location": "Melbourne"
-  },
-  "c90cb72bd0e1d45abac5c965fff656d2": {
-   "id": "c90cb72bd0e1d45abac5c965fff656d2",
-   "company": "Eu",
-   "role": "Project Coordinator",
-   "location": "Melbourne"
-  },
-  "a01b52636907c152d2b266854ad0a8bf": {
-   "id": "a01b52636907c152d2b266854ad0a8bf",
-   "company": "Aldi Australia",
-   "role": "Junior Store Assistant - Mill Park",
-   "location": "Melbourne"
-  },
-  "66bf4e89024dd60b7263609b86368d96": {
-   "id": "66bf4e89024dd60b7263609b86368d96",
-   "company": "AbbVie",
-   "role": "Administrative Assistant",
-   "location": "Sydney"
-  },
-  "77b64930add1079e2d5628305136d600": {
-   "id": "77b64930add1079e2d5628305136d600",
-   "company": "Aldi Australia",
-   "role": "Retail Assistant - The Gap",
-   "location": "Brisbane"
-  },
-  "1acfc02b313dc317501d4d3297532b2c": {
-   "id": "1acfc02b313dc317501d4d3297532b2c",
-   "company": "Aldi Australia",
-   "role": "Retail Assistant - Arana Hills",
-   "location": "Brisbane"
   }
  }
 }
