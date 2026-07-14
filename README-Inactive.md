@@ -251,4 +251,49 @@
 <tr><td>AbbVie</td><td>Administrative Assistant</td><td>Sydney</td><td>2026-07-13</td></tr>
 <tr><td>Aldi Australia</td><td>Retail Assistant - The Gap</td><td>Brisbane</td><td>2026-07-13</td></tr>
 <tr><td>Aldi Australia</td><td>Retail Assistant - Arana Hills</td><td>Brisbane</td><td>2026-07-13</td></tr>
+<tr><td>Vistarealpa</td><td>Software Engineer</td><td>Melbourne</td><td>2026-07-14</td></tr>
+<tr><td>Tahoekeysrealtor</td><td>Software Engineer</td><td>Melbourne</td><td>2026-07-14</td></tr>
+<tr><td>Shell Energy</td><td>Commercial Data Analyst</td><td>Melbourne</td><td>2026-07-14</td></tr>
+<tr><td>QBE North America</td><td>Strategic Workforce Planning Analyst</td><td>Sydney</td><td>2026-07-14</td></tr>
+<tr><td>Herbert Smith Freehills Kramer</td><td>Data Analyst, Business Analytics</td><td>Sydney</td><td>2026-07-14</td></tr>
+<tr><td>Australian Payments Plus</td><td>Business Intelligence Analyst</td><td>Sydney</td><td>2026-07-14</td></tr>
+<tr><td>rsme.info</td><td>Accountant</td><td>Manjimup</td><td>2026-07-14</td></tr>
+<tr><td>Grant Thornton Australia</td><td>Associate, Technology Risk</td><td>Melbourne</td><td>2026-07-14</td></tr>
+<tr><td>Grant Thornton Australia</td><td>Business Services Accountant</td><td>Brisbane</td><td>2026-07-14</td></tr>
+<tr><td>Grant Thornton Australia</td><td>Management Consulting - Expression Of Interest</td><td>Melbourne</td><td>2026-07-14</td></tr>
+<tr><td>Europcar Inc</td><td>Junior Fleet Business Analyst</td><td>Melbourne</td><td>2026-07-14</td></tr>
+<tr><td>Macquarie</td><td>Research Associate In Statistical Modelling For High-dimensional Data</td><td>Sydney</td><td>2026-07-14</td></tr>
+<tr><td>Opal HealthCare</td><td>Registered Nurse - Killara Glades Care Community</td><td>Killara Glades</td><td>2026-07-14</td></tr>
+<tr><td>Opal HealthCare</td><td>Registered Nurse- Wallarah Point Care Community</td><td>Wallarah Point</td><td>2026-07-14</td></tr>
+<tr><td>Opal HealthCare</td><td>Registered Nurse - Narrabeen Glades Care Community</td><td>Narrabeen Glades Care Community</td><td>2026-07-14</td></tr>
+<tr><td>Opal HealthCare</td><td>Night Duty Registered Nurse - Wahroonga Tallwoods Care Community</td><td>Sydney</td><td>2026-07-14</td></tr>
+<tr><td>ST VINCENT'S HOSPITAL SYDNEY</td><td>Physiotherapist Grade 2 - Rotational Musculoskeletal</td><td>Melbourne</td><td>2026-07-14</td></tr>
+<tr><td>intranet.sydney.edu.au</td><td>Postdoctoral Research Associate In Healthy Homes</td><td>Sydney</td><td>2026-07-14</td></tr>
+<tr><td>Radius HDD Direct LLC</td><td>Field Service Technician</td><td>Brisbane</td><td>2026-07-14</td></tr>
+<tr><td>Thelineageway</td><td>Maintenance Fitter</td><td>Allansford</td><td>2026-07-14</td></tr>
+<tr><td>Lineage</td><td>Maintenance Fitter</td><td>Allansford</td><td>2026-07-14</td></tr>
+<tr><td>jsntng.me</td><td>Customer Field Technician / Adelaide Metro</td><td>Adelaide</td><td>2026-07-14</td></tr>
+<tr><td>NBN Co Limited</td><td>Customer Field Technician / Adelaide Metro</td><td>Adelaide</td><td>2026-07-14</td></tr>
+<tr><td>jsntng.me</td><td>Customer Field Technician / Brisbane Metro</td><td>Brisbane Metro</td><td>2026-07-14</td></tr>
+<tr><td>jsntng.me</td><td>Customer Field Technician / Perth Metro</td><td>Perth Metro</td><td>2026-07-14</td></tr>
+<tr><td>jsntng.me</td><td>Customer Field Technician / Sydney Metro</td><td>Sydney Metro</td><td>2026-07-14</td></tr>
+<tr><td>NBN Co Limited</td><td>Customer Field Technician / Sydney Metro</td><td>Sydney Metro</td><td>2026-07-14</td></tr>
+<tr><td>The Good Guys</td><td>Sales Team Member</td><td>Perth</td><td>2026-07-14</td></tr>
+<tr><td>The Good Guys</td><td>Retail Team Member</td><td>Sydney</td><td>2026-07-14</td></tr>
+<tr><td>GPC Tools & Equipment Sydney</td><td>Customer Sales & Service - Repco Port Hedland - Full Time</td><td>Port Hedland</td><td>2026-07-14</td></tr>
+<tr><td>Mecanicien.ca</td><td>Customer Sales & Service - Repco Port Hedland - Full Time</td><td>Port Hedland</td><td>2026-07-14</td></tr>
+<tr><td>GENUINE PARTS COMPANY</td><td>Sales Assistant - Amx Carrum Downs - Full Time</td><td>Melbourne</td><td>2026-07-14</td></tr>
+<tr><td>Pets at Home</td><td>Retail Sales Assistant / Clyde North</td><td>Melbourne</td><td>2026-07-14</td></tr>
+<tr><td>Thepetspotco</td><td>Retail Sales Assistant / Clyde North</td><td>Melbourne</td><td>2026-07-14</td></tr>
+<tr><td>PPG Industries</td><td>Taubmans Sales Assistant</td><td>Campbelltown</td><td>2026-07-14</td></tr>
+<tr><td>NTT AUSTRALIA PTY</td><td>Technical Account Specialist</td><td>Australia</td><td>2026-07-14</td></tr>
+<tr><td>Aldi Australia</td><td>Retail Assistant - Winston Hills</td><td>Sydney</td><td>2026-07-14</td></tr>
+<tr><td>SCDOE22</td><td>Water Quality Specialist</td><td>Melbourne</td><td>2026-07-14</td></tr>
+<tr><td>ispr.info</td><td>Water Quality Specialist</td><td>Melbourne</td><td>2026-07-14</td></tr>
+<tr><td>Two River Home Inspections</td><td>Water Quality Specialist</td><td>Melbourne</td><td>2026-07-14</td></tr>
+<tr><td>SHE HR Consulting</td><td>Community Philanthropy Coordinator</td><td>Australia</td><td>2026-07-14</td></tr>
+<tr><td>Spotless</td><td>Administration Support</td><td>Brisbane</td><td>2026-07-14</td></tr>
+<tr><td>Downer EDI</td><td>Administration Support</td><td>Brisbane</td><td>2026-07-14</td></tr>
+<tr><td>Downer</td><td>Administration Support</td><td>Brisbane</td><td>2026-07-14</td></tr>
+<tr><td>Xn Karrirbanken Kcb</td><td>Customer Service Specialist</td><td>Sydney</td><td>2026-07-14</td></tr>
 </table>
