@@ -296,4 +296,65 @@
 <tr><td>Downer EDI</td><td>Administration Support</td><td>Brisbane</td><td>2026-07-14</td></tr>
 <tr><td>Downer</td><td>Administration Support</td><td>Brisbane</td><td>2026-07-14</td></tr>
 <tr><td>Xn Karrirbanken Kcb</td><td>Customer Service Specialist</td><td>Sydney</td><td>2026-07-14</td></tr>
+<tr><td>Beyond Academy</td><td>Sydney Immersive Internships</td><td>Sydney</td><td>2026-07-15</td></tr>
+<tr><td>CMC Markets</td><td>Trading Application Support</td><td>Australia</td><td>2026-07-15</td></tr>
+<tr><td>ASX</td><td>Customer Technical Support Specialist</td><td>Australia</td><td>2026-07-15</td></tr>
+<tr><td>Realestaterate</td><td>Software Engineer</td><td>Melbourne</td><td>2026-07-15</td></tr>
+<tr><td>Bdbk010</td><td>Investment Bank - Financing - Analyst/associate</td><td>Australia</td><td>2026-07-15</td></tr>
+<tr><td>Mashoremedical</td><td>Service Desk Analyst</td><td>North Richmond</td><td>2026-07-15</td></tr>
+<tr><td>Mira Vista Care Center</td><td>Registered Nurse- Anaesthetic/recovery</td><td>Sydney</td><td>2026-07-15</td></tr>
+<tr><td>Healthcare Australia</td><td>Rn Primary Health</td><td>Melbourne</td><td>2026-07-15</td></tr>
+<tr><td>Retirementcorporation</td><td>Registered Nurse</td><td>Narrandera</td><td>2026-07-15</td></tr>
+<tr><td>Opal HealthCare</td><td>Registered Nurse - Narraweena Grove Care Community</td><td>Narraweena Grove Care Community</td><td>2026-07-15</td></tr>
+<tr><td>Opal HealthCare</td><td>Registered Nurse- Everard Park Care Community</td><td>Everard Park</td><td>2026-07-15</td></tr>
+<tr><td>Opal HealthCare</td><td>Registered Nurse - Norah Head Care Community</td><td>Norah Head</td><td>2026-07-15</td></tr>
+<tr><td>Estia Health</td><td>Registered Nurse / Kangaroo Flat / Part Time</td><td>Kangaroo Flat</td><td>2026-07-15</td></tr>
+<tr><td>Macquarie University</td><td>Research Associate</td><td>Sydney</td><td>2026-07-15</td></tr>
+<tr><td>Macquarie Group</td><td>Research Associate</td><td>Sydney</td><td>2026-07-15</td></tr>
+<tr><td>Macquarie University</td><td>Research Associate In Statistical Modelling For High-dimensional Data</td><td>Sydney</td><td>2026-07-15</td></tr>
+<tr><td>Thales Group</td><td>Maintenance Fitter</td><td>Australia</td><td>2026-07-15</td></tr>
+<tr><td>Thales Group</td><td>Electrical Maintenance Technician</td><td>Lithgow</td><td>2026-07-15</td></tr>
+<tr><td>Opal HealthCare</td><td>Maintenance Officer - Kew Grove Care Community</td><td>Kew Grove</td><td>2026-07-15</td></tr>
+<tr><td>Ecolab Pty Ltd</td><td>Field Service Rep I - Water</td><td>Australia</td><td>2026-07-15</td></tr>
+<tr><td>ACCELLERON AUSTRALIA PTY</td><td>Service Technician</td><td>Australia</td><td>2026-07-15</td></tr>
+<tr><td>Apa Com Au</td><td>Technical Officer - Mechanical</td><td>Winnellie</td><td>2026-07-15</td></tr>
+<tr><td>Sensus Xylem Inc</td><td>Service Center Technician</td><td>Australia</td><td>2026-07-15</td></tr>
+<tr><td>Workingatxylem</td><td>Service Center Technician</td><td>Australia</td><td>2026-07-15</td></tr>
+<tr><td>Prysmian Australia</td><td>Facilities Maintenance Technician</td><td>Australia</td><td>2026-07-15</td></tr>
+<tr><td>The Good Guys</td><td>Retail Team Member</td><td>Melbourne</td><td>2026-07-15</td></tr>
+<tr><td>The Good Guys</td><td>Sales Team Member</td><td>Sydney</td><td>2026-07-15</td></tr>
+<tr><td>Saveonsahara</td><td>Casual Sales Assistant - Bendigo</td><td>Bendigo</td><td>2026-07-15</td></tr>
+<tr><td>Salvos Org Au</td><td>Casual Sales Assistant - Bendigo</td><td>Bendigo</td><td>2026-07-15</td></tr>
+<tr><td>Salvos Org Au</td><td>Full-time Sales Assistant - Cannington</td><td>Wangara</td><td>2026-07-15</td></tr>
+<tr><td>The Trustee For The Salvation Army Victoria Property Trust</td><td>Full-time Sales Assistant - Cannington</td><td>Wangara</td><td>2026-07-15</td></tr>
+<tr><td>Salvation Army</td><td>Full-time Sales Assistant - Cannington</td><td>Wangara</td><td>2026-07-15</td></tr>
+<tr><td>GENUINE PARTS COMPANY</td><td>Customer Sales & Service - Repco Port Hedland - Full Time</td><td>Port Hedland</td><td>2026-07-15</td></tr>
+<tr><td>Motionsolutions</td><td>Customer Sales & Service - Repco Port Hedland - Full Time</td><td>Port Hedland</td><td>2026-07-15</td></tr>
+<tr><td>Hill & Smith Holdings</td><td>Administrative Assistant, Corporate</td><td>Melbourne</td><td>2026-07-15</td></tr>
+<tr><td>Hill & Smith Holdings</td><td>Administrative Assistant, Disputes</td><td>Melbourne</td><td>2026-07-15</td></tr>
+<tr><td>HERBERT SMITH FREEHILLS</td><td>Administrative Assistant, Disputes</td><td>Melbourne</td><td>2026-07-15</td></tr>
+<tr><td>HERBERT SMITH FREEHILLS</td><td>Administrative Assistant, Corporate</td><td>Melbourne</td><td>2026-07-15</td></tr>
+<tr><td>BOUYGUES CONSTRUCTION IT SNC</td><td>Whs Coordinator</td><td>Huntingwood</td><td>2026-07-15</td></tr>
+<tr><td>Scentre Group Ltd</td><td>Marketing Executive - Westfield Chermside - 12-month Contract</td><td>Brisbane</td><td>2026-07-15</td></tr>
+<tr><td>Mymhcommunity</td><td>Hospital Assistant</td><td>Albury</td><td>2026-07-15</td></tr>
+<tr><td>048</td><td>Hospital Assistant</td><td>Albury</td><td>2026-07-15</td></tr>
+<tr><td>Aldi Australia</td><td>Retail Assistant - Kadina</td><td>Kadina</td><td>2026-07-15</td></tr>
+<tr><td>Aldi Australia</td><td>Retail Assistant - Darlinghurst</td><td>Sydney</td><td>2026-07-15</td></tr>
+<tr><td>Downer EDI</td><td>Project Support Coordinator</td><td>Nowra Hill</td><td>2026-07-15</td></tr>
+<tr><td>Aldi Australia</td><td>Retail Assistant - Plympton</td><td>Plympton</td><td>2026-07-15</td></tr>
+<tr><td>Aldi Australia</td><td>Retail Assistant - Thuringowa</td><td>Thuringowa Central</td><td>2026-07-15</td></tr>
+<tr><td>Baxconnect</td><td>Business Support Assistant</td><td>Old Toongabbie</td><td>2026-07-15</td></tr>
+<tr><td>EverCommerce</td><td>Everwell - Customer Support Specialist (remote, Australia)</td><td>Victoria</td><td>2026-07-15</td></tr>
+<tr><td>jobs.mq.edu.au</td><td>Administration Assistant</td><td>Sydney</td><td>2026-07-15</td></tr>
+<tr><td>Macquarie</td><td>Administration Assistant</td><td>Sydney</td><td>2026-07-15</td></tr>
+<tr><td>Busy Bees Australia & New Zealand</td><td>Content Specialist</td><td>Brisbane</td><td>2026-07-15</td></tr>
+<tr><td>Busy Bees Early Learning Australia</td><td>Content Specialist</td><td>Brisbane</td><td>2026-07-15</td></tr>
+<tr><td>UnitingCare Queensland</td><td>Retail Assistant</td><td>Maroochydore</td><td>2026-07-15</td></tr>
+<tr><td>Icareigive</td><td>Executive Assistant</td><td>Brisbane</td><td>2026-07-15</td></tr>
+<tr><td>UnitingCare Queensland</td><td>Executive Assistant</td><td>Brisbane</td><td>2026-07-15</td></tr>
+<tr><td>The Salvation Army</td><td>Part-time Sales Assistant - Croydon</td><td>Kidman Park</td><td>2026-07-15</td></tr>
+<tr><td>Retirementcorporation</td><td>Administration Assistant</td><td>Toukley</td><td>2026-07-15</td></tr>
+<tr><td>RSL LifeCare</td><td>Administration Assistant</td><td>Toukley</td><td>2026-07-15</td></tr>
+<tr><td>Eu</td><td>Executive Assistant & Project Support Officer</td><td>Melbourne</td><td>2026-07-15</td></tr>
+<tr><td>Qurmit</td><td>Executive Assistant & Project Support Officer</td><td>Melbourne</td><td>2026-07-15</td></tr>
 </table>
