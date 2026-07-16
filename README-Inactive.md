@@ -357,4 +357,52 @@
 <tr><td>RSL LifeCare</td><td>Administration Assistant</td><td>Toukley</td><td>2026-07-15</td></tr>
 <tr><td>Eu</td><td>Executive Assistant & Project Support Officer</td><td>Melbourne</td><td>2026-07-15</td></tr>
 <tr><td>Qurmit</td><td>Executive Assistant & Project Support Officer</td><td>Melbourne</td><td>2026-07-15</td></tr>
+<tr><td>GHD</td><td>Ghd Summer Internship Program 2026/27 - Sydney</td><td>Sydney</td><td>2026-07-16</td></tr>
+<tr><td>The NSW Department of Education</td><td>Ict Field Services Support Officer</td><td>Griffith +10</td><td>2026-07-16</td></tr>
+<tr><td>IDEXX Laboratories Inc</td><td>Technical Support Representative</td><td>Australia</td><td>2026-07-16</td></tr>
+<tr><td>Pacificsmilesdental Com Au</td><td>It Support Engineer</td><td>Sydney</td><td>2026-07-16</td></tr>
+<tr><td>a360inc</td><td>Software Engineer</td><td>Melbourne</td><td>2026-07-16</td></tr>
+<tr><td>Comcov</td><td>Staff Software Engineer (ai)</td><td>Melbourne</td><td>2026-07-16</td></tr>
+<tr><td>Caterpillar of Australia</td><td>Technical Support Representative</td><td>Australia</td><td>2026-07-16</td></tr>
+<tr><td>ST VINCENT'S PRIVATE HOSPITAL SYDNEY</td><td>Enablement Analyst</td><td>Sydney</td><td>2026-07-16</td></tr>
+<tr><td>MATER HOSPITAL SYDNEY</td><td>Enablement Analyst</td><td>Sydney</td><td>2026-07-16</td></tr>
+<tr><td>Assurant Services Australia Pty Limited</td><td>Process Improvement Analyst</td><td>Australia</td><td>2026-07-16</td></tr>
+<tr><td>Amentum Pr</td><td>Export Control Specialist</td><td>ACT</td><td>2026-07-16</td></tr>
+<tr><td>Thales Group</td><td>Technical Business Analyst</td><td>Australia</td><td>2026-07-16</td></tr>
+<tr><td>VANGUARD AUSTRALIA</td><td>Fund Financial & Regulatory Reporting Analyst, Specialist</td><td>Australia</td><td>2026-07-16</td></tr>
+<tr><td>VANGUARD AUSTRALIA</td><td>Investment Risk Analyst</td><td>Australia</td><td>2026-07-16</td></tr>
+<tr><td>Healthcare Australia</td><td>Registered Nurse Mental Health</td><td>Adelaide</td><td>2026-07-16</td></tr>
+<tr><td>UnitingCare</td><td>Clinical - Registered Nurse Central Coast/newcastle Nsw</td><td>Sydney</td><td>2026-07-16</td></tr>
+<tr><td>219</td><td>Casual Registered And Endorsed Enrolled Nurses</td><td>Melbourne</td><td>2026-07-16</td></tr>
+<tr><td>St Vincent's Private Hospital Melbourne</td><td>Casual Registered And Endorsed Enrolled Nurses</td><td>Melbourne</td><td>2026-07-16</td></tr>
+<tr><td>Mira Vista Care Center</td><td>Casual Registered And Endorsed Enrolled Nurses</td><td>Melbourne</td><td>2026-07-16</td></tr>
+<tr><td>St Vincent’s Health Australia</td><td>Registered Nurse- Anaesthetic/recovery</td><td>Sydney</td><td>2026-07-16</td></tr>
+<tr><td>219</td><td>Registered Nurse- Anaesthetic/recovery</td><td>Sydney</td><td>2026-07-16</td></tr>
+<tr><td>Xylem</td><td>Service Center Technician</td><td>Kalgoorlie</td><td>2026-07-16</td></tr>
+<tr><td>Miele X B.V.</td><td>Service Technician - Qld</td><td>Australia</td><td>2026-07-16</td></tr>
+<tr><td>Miele X B.V.</td><td>Service Technician - Nsw</td><td>Australia</td><td>2026-07-16</td></tr>
+<tr><td>miele.pt</td><td>Service Technician - Qld</td><td>Australia</td><td>2026-07-16</td></tr>
+<tr><td>miele.pt</td><td>Service Technician - Nsw</td><td>Australia</td><td>2026-07-16</td></tr>
+<tr><td>Miele S.r.l</td><td>Service Technician - Nsw</td><td>Australia</td><td>2026-07-16</td></tr>
+<tr><td>Miele S.r.l</td><td>Service Technician - Qld</td><td>Australia</td><td>2026-07-16</td></tr>
+<tr><td>Toro Company</td><td>Field Service Technician</td><td>Brisbane</td><td>2026-07-16</td></tr>
+<tr><td>Sofitel Melbourne On Collins</td><td>Shift Engineer / Duty Technician</td><td>Sydney</td><td>2026-07-16</td></tr>
+<tr><td>SGS Australia Pty Ltd</td><td>Maintenance Technician (burton)</td><td>Wingfield</td><td>2026-07-16</td></tr>
+<tr><td>W Brisbane</td><td>Maintenance Technician (handyman)</td><td>Perth</td><td>2026-07-16</td></tr>
+<tr><td>The Good Guys</td><td>Retail Team Member</td><td>Sydney</td><td>2026-07-16</td></tr>
+<tr><td>GPC Tools & Equipment Sydney</td><td>Customer Sales & Service - Repco Altona - Casual</td><td>Melbourne</td><td>2026-07-16</td></tr>
+<tr><td>VFC Corporation</td><td>The North Face : Sales Assistant, Casual - Chadstone</td><td>Melbourne</td><td>2026-07-16</td></tr>
+<tr><td>Jobist Com Ng</td><td>Customer Banking Specialist - Tarneit</td><td>Melbourne</td><td>2026-07-16</td></tr>
+<tr><td>166</td><td>Full-time Sales Assistant - Cannington</td><td>Wangara</td><td>2026-07-16</td></tr>
+<tr><td>The Trustee For The Salvation Army Victoria Property Trust</td><td>Casual Sales Assistant - Bendigo</td><td>Bendigo</td><td>2026-07-16</td></tr>
+<tr><td>Salvation Army</td><td>Casual Sales Assistant - Bendigo</td><td>Bendigo +3</td><td>2026-07-16</td></tr>
+<tr><td>WEPLOY</td><td>Client Coordinator</td><td>Sydney</td><td>2026-07-16</td></tr>
+<tr><td>The Salvation Army</td><td>Sales Assistant</td><td>Brisbane</td><td>2026-07-16</td></tr>
+<tr><td>Thejolietbank</td><td>Customer Service Specialist - 12 Month Secondment</td><td>Sydney</td><td>2026-07-16</td></tr>
+<tr><td>Xn Karrirbanken Kcb</td><td>Customer Service Specialist - 12 Month Secondment</td><td>Sydney</td><td>2026-07-16</td></tr>
+<tr><td>Markham Bank</td><td>Customer Service Specialist - 12 Month Secondment</td><td>Sydney</td><td>2026-07-16</td></tr>
+<tr><td>Thejolietbank</td><td>Marketing Coordinator, Kit</td><td>Australia</td><td>2026-07-16</td></tr>
+<tr><td>Xn Karrirbanken Kcb</td><td>Marketing Coordinator, Kit</td><td>Australia</td><td>2026-07-16</td></tr>
+<tr><td>CBA New Digital Businesses Pty Ltd</td><td>Marketing Coordinator, Kit</td><td>Australia</td><td>2026-07-16</td></tr>
+<tr><td>Markham Bank</td><td>Marketing Coordinator, Kit</td><td>Australia</td><td>2026-07-16</td></tr>
 </table>
