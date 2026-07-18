@@ -532,4 +532,79 @@
 <tr><td>Sephora USA Inc</td><td>Retail Assistant - Carousel</td><td>Perth</td><td>2026-07-17</td></tr>
 <tr><td>Aldi Australia</td><td>Junior Store Assistant - Warragul</td><td>Warragul</td><td>2026-07-17</td></tr>
 <tr><td>TAL Australia</td><td>Bid & Implementation Coordinator</td><td>Melbourne</td><td>2026-07-17</td></tr>
+<tr><td>The Good Guys</td><td>Expression Of Interest: Ict Support Technician - Bendigo</td><td>Bendigo</td><td>2026-07-18</td></tr>
+<tr><td>JB Hi-Fi</td><td>Expression Of Interest: Ict Support Technician - Bendigo</td><td>Bendigo</td><td>2026-07-18</td></tr>
+<tr><td>315</td><td>Complex Customer Service Specialist</td><td>Australia</td><td>2026-07-18</td></tr>
+<tr><td>Wesley Mission Queensland</td><td>Service Desk And Field Officer</td><td>Australia</td><td>2026-07-18</td></tr>
+<tr><td>111</td><td>Complex Customer Service Specialist</td><td>Australia</td><td>2026-07-18</td></tr>
+<tr><td>Salvos Org Au</td><td>Compliance Officer</td><td>Australia</td><td>2026-07-18</td></tr>
+<tr><td>The Trustee For The Salvation Army Victoria Property Trust</td><td>Compliance Officer</td><td>Australia</td><td>2026-07-18</td></tr>
+<tr><td>General Motors Australia & New Zealand</td><td>Daily Operations Analyst</td><td>Australia</td><td>2026-07-18</td></tr>
+<tr><td>Challenger</td><td>Analyst, Asset Allocation</td><td>Sydney</td><td>2026-07-18</td></tr>
+<tr><td>Jobist Com Ng</td><td>Analyst - Regional And Agribusiness</td><td>Darwin</td><td>2026-07-18</td></tr>
+<tr><td>YMCA (Salvation Army listing?)</td><td>Registered Nurse</td><td>Goulburn</td><td>2026-07-18</td></tr>
+<tr><td>The Salvation Army</td><td>Registered Nurse</td><td>Goulburn</td><td>2026-07-18</td></tr>
+<tr><td>The Trustee For The Salvation Army Victoria Property Trust</td><td>Registered Nurse</td><td>Goulburn</td><td>2026-07-18</td></tr>
+<tr><td>166</td><td>Registered Nurse</td><td>Goulburn</td><td>2026-07-18</td></tr>
+<tr><td>The Salvation Army Australia</td><td>Registered Nurse</td><td>Goulburn</td><td>2026-07-18</td></tr>
+<tr><td>University of Melbourne</td><td>Neuropsychology Research Assistant</td><td>Melbourne</td><td>2026-07-18</td></tr>
+<tr><td>Mediix</td><td>Msk Physiotherapist</td><td>Melbourne</td><td>2026-07-18</td></tr>
+<tr><td>Mediix</td><td>Msk Physiotherapist / With Interest In Pilates</td><td>Melbourne</td><td>2026-07-18</td></tr>
+<tr><td>Academic Jobs</td><td>Research Assistant – history Of Hourglass</td><td>Melbourne</td><td>2026-07-18</td></tr>
+<tr><td>the University</td><td>Research Assistant – history Of Hourglass</td><td>Melbourne</td><td>2026-07-18</td></tr>
+<tr><td>Getinge AB</td><td>Field Service Engineer (qualified Electrician) - Infection Control - Wa</td><td>Perth</td><td>2026-07-18</td></tr>
+<tr><td>Getinge AB</td><td>Field Service Engineer (qualified Electrician) - Infection Control Qld</td><td>Brisbane</td><td>2026-07-18</td></tr>
+<tr><td>Optus</td><td>Network Engineer - Field</td><td>Sydney</td><td>2026-07-18</td></tr>
+<tr><td>Asset College</td><td>Field Technician</td><td>Sydney</td><td>2026-07-18</td></tr>
+<tr><td>Unity of Roseburg</td><td>Technical Field Engineer</td><td>Australia</td><td>2026-07-18</td></tr>
+<tr><td>Unisys UK</td><td>Technical Field Engineer</td><td>Australia</td><td>2026-07-18</td></tr>
+<tr><td>CONSTRUCCIONES Y AUXILIAR DE FERROCARRILES S.A</td><td>Electrical Maintenance Technician</td><td>Sydney</td><td>2026-07-18</td></tr>
+<tr><td>Geotab</td><td>Field Services Specialist</td><td>Adelaide</td><td>2026-07-18</td></tr>
+<tr><td>SRG Global</td><td>Lubrication Technician</td><td>Portland</td><td>2026-07-18</td></tr>
+<tr><td>SRG Global</td><td>Technical Specialist - Ssan Equipment</td><td>Australia</td><td>2026-07-18</td></tr>
+<tr><td>Karriere Als Cs</td><td>Maintenance Officer</td><td>Wangara</td><td>2026-07-18</td></tr>
+<tr><td>KION</td><td>Maintenance Technician</td><td>Australia</td><td>2026-07-18</td></tr>
+<tr><td>KION GROUP AG</td><td>Maintenance Technician</td><td>Australia</td><td>2026-07-18</td></tr>
+<tr><td>Willenbrock Fordertechnik GmbH & Co. KG</td><td>Maintenance Technician</td><td>Australia</td><td>2026-07-18</td></tr>
+<tr><td>KION Group</td><td>Maintenance Technician</td><td>Australia</td><td>2026-07-18</td></tr>
+<tr><td>Dematic Inc</td><td>Maintenance Technician</td><td>Australia</td><td>2026-07-18</td></tr>
+<tr><td>dormakaba International Holding AG</td><td>Service Technician</td><td>Regency Park</td><td>2026-07-18</td></tr>
+<tr><td>dormakaba International Holding AG</td><td>Service Technician - Industrial</td><td>Perth</td><td>2026-07-18</td></tr>
+<tr><td>hancockironore</td><td>Maintainer Electrical - Job Share</td><td>Newman</td><td>2026-07-18</td></tr>
+<tr><td>EssilorLuxottica SA</td><td>Field Service Technician Vic</td><td>Bowden</td><td>2026-07-18</td></tr>
+<tr><td>Molson Coors</td><td>Drinks Dispense Technician</td><td>Perth</td><td>2026-07-18</td></tr>
+<tr><td>UA Power Group</td><td>Production Technician (mechanical)</td><td>Gillman SA</td><td>2026-07-18</td></tr>
+<tr><td>OPSM (EssilorLuxottica Group)</td><td>Part Time Retail Associate / Sunglass Warringah Mall, Nsw</td><td>Brookvale</td><td>2026-07-18</td></tr>
+<tr><td>Sunglass Hut</td><td>Part Time Retail Associate / Sunglass Hut Parramatta, Nsw</td><td>Sydney</td><td>2026-07-18</td></tr>
+<tr><td>OPSM (EssilorLuxottica Group)</td><td>Retail Associate / Sunglass Hut Broadway, Nsw</td><td>Sydney</td><td>2026-07-18</td></tr>
+<tr><td>OPSM (EssilorLuxottica Group)</td><td>Associate Dispenser / Opsm / Pt / Vic / Altona Gate</td><td>Melbourne</td><td>2026-07-18</td></tr>
+<tr><td>OPSM (EssilorLuxottica Group)</td><td>Retail Associate / Sunglass Hut Bondi, Nsw Junction, Nsw</td><td>Sydney</td><td>2026-07-18</td></tr>
+<tr><td>OPSM (EssilorLuxottica Group)</td><td>Retail Associate / C / Sgh / Miranda</td><td>Sydney</td><td>2026-07-18</td></tr>
+<tr><td>OPSM (EssilorLuxottica Group)</td><td>Retail Associate / Opsm Mosman Bridgepoint</td><td>Sydney</td><td>2026-07-18</td></tr>
+<tr><td>OPSM (EssilorLuxottica Group)</td><td>Retail Associate / Sunglass Hut Myer Eastgardens, Nsw</td><td>Eastgardens</td><td>2026-07-18</td></tr>
+<tr><td>OPSM (EssilorLuxottica Group)</td><td>Retail Associate / Sunglass Hut / C / Vic / Myer Launceston</td><td>Launceston</td><td>2026-07-18</td></tr>
+<tr><td>OPSM (EssilorLuxottica Group)</td><td>Retail Associate / Opsm Narellan, Nsw</td><td>Narellan</td><td>2026-07-18</td></tr>
+<tr><td>Reece</td><td>Warehouse Assistant (actrol) - Rockhampton</td><td>Rockhampton</td><td>2026-07-18</td></tr>
+<tr><td>Linfox</td><td>Transport Coordinator</td><td>East Arm</td><td>2026-07-18</td></tr>
+<tr><td>Sofitel Melbourne On Collins</td><td>Executive Assistant To Gm</td><td>Sydney</td><td>2026-07-18</td></tr>
+<tr><td>Voith</td><td>Sh 2.0 Warehouse Administrator</td><td>Snowy</td><td>2026-07-18</td></tr>
+<tr><td>Medilaw Group</td><td>Administration Assistant</td><td>Brisbane</td><td>2026-07-18</td></tr>
+<tr><td>Aldi Australia</td><td>Retail Assistant - Mount Barker</td><td>Adelaide</td><td>2026-07-18</td></tr>
+<tr><td>Aldi Australia</td><td>Retail Assistant - Point Cook</td><td>Melbourne</td><td>2026-07-18</td></tr>
+<tr><td>Aldi Australia</td><td>Retail Assistant - Lower Plenty</td><td>Lower Plenty</td><td>2026-07-18</td></tr>
+<tr><td>Macquarie Cloud Services</td><td>Executive Assistant</td><td>2 Market Street</td><td>2026-07-18</td></tr>
+<tr><td>Macquarie Technology Group</td><td>Executive Assistant</td><td>2 Market Street</td><td>2026-07-18</td></tr>
+<tr><td>Aldi Australia</td><td>Retail Assistant - Erskine Park</td><td>Campbelltown</td><td>2026-07-18</td></tr>
+<tr><td>Aldi Australia</td><td>Junior Store Assistant - Lithgow</td><td>Pottery Estate</td><td>2026-07-18</td></tr>
+<tr><td>Church of Jesus Christ</td><td>Australia: Administrative Assistant (sydney)</td><td>Sydney</td><td>2026-07-18</td></tr>
+<tr><td>The Church of Jesus Christ of Latter-day Saints</td><td>Australia: Administrative Assistant (sydney)</td><td>Sydney</td><td>2026-07-18</td></tr>
+<tr><td>Jebel Ali Free Zone (JAFZA)</td><td>Operations Support Coordinator</td><td>Melbourne</td><td>2026-07-18</td></tr>
+<tr><td>La Trobe University</td><td>Administrative Assistant – First Nations Health Research</td><td>Melbourne</td><td>2026-07-18</td></tr>
+<tr><td>Minter Ellison Services Pty Ltd</td><td>Executive Assistant</td><td>Sydney</td><td>2026-07-18</td></tr>
+<tr><td>Coates</td><td>Customer Service Coordinator</td><td>Hume</td><td>2026-07-18</td></tr>
+<tr><td>transport</td><td>Technical Specialist</td><td>Australia</td><td>2026-07-18</td></tr>
+<tr><td>CMA CGM Group</td><td>Project Coordinator / Hazelmere Wa</td><td>Hazelmere WA</td><td>2026-07-18</td></tr>
+<tr><td>CEVA Logistics</td><td>Compliance Coordinator / Minto Nsw</td><td>Sydney</td><td>2026-07-18</td></tr>
+<tr><td>WesTrac Pty Ltd</td><td>Customer Coordinator</td><td>Tomago</td><td>2026-07-18</td></tr>
+<tr><td>JBS Australia Pty Ltd</td><td>General Administrator</td><td>Melbourne</td><td>2026-07-18</td></tr>
 </table>
