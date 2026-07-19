@@ -607,4 +607,163 @@
 <tr><td>CEVA Logistics</td><td>Compliance Coordinator / Minto Nsw</td><td>Sydney</td><td>2026-07-18</td></tr>
 <tr><td>WesTrac Pty Ltd</td><td>Customer Coordinator</td><td>Tomago</td><td>2026-07-18</td></tr>
 <tr><td>JBS Australia Pty Ltd</td><td>General Administrator</td><td>Melbourne</td><td>2026-07-18</td></tr>
+<tr><td>The University of Queensland (UQ)</td><td>It Customer Support Officer</td><td>St Lucia</td><td>2026-07-19</td></tr>
+<tr><td>AMP</td><td>Tech Support Analyst</td><td>Sydney</td><td>2026-07-19</td></tr>
+<tr><td>The University of Queensland</td><td>It Customer Support Officer</td><td>St Lucia</td><td>2026-07-19</td></tr>
+<tr><td>042</td><td>Assurance Technical Support Officer</td><td>Australia</td><td>2026-07-19</td></tr>
+<tr><td>Dailytribune</td><td>Maintenance And Customer Support Engineer</td><td>Australia</td><td>2026-07-19</td></tr>
+<tr><td>Realestateandlivingmedia</td><td>Software Engineer</td><td>Melbourne</td><td>2026-07-19</td></tr>
+<tr><td>Jobgether</td><td>Staff Backend Engineer (financial Ledger)</td><td>Australia</td><td>2026-07-19</td></tr>
+<tr><td>Inlogik</td><td>Software Engineer</td><td>Melbourne</td><td>2026-07-19</td></tr>
+<tr><td>Domain</td><td>It Support Specialist- Richmond, Va</td><td>Melbourne</td><td>2026-07-19</td></tr>
+<tr><td>Medibank Private Ltd</td><td>Software Engineer - Analytics</td><td>Melbourne</td><td>2026-07-19</td></tr>
+<tr><td>The NSW Department of Education</td><td>Business Intelligence Officer</td><td>Sydney</td><td>2026-07-19</td></tr>
+<tr><td>BHP INNOVATION Pty Ltd</td><td>Analyst Rail Control Data</td><td>Australia</td><td>2026-07-19</td></tr>
+<tr><td>The NSW Department of Education</td><td>Data Analyst</td><td>Sydney</td><td>2026-07-19</td></tr>
+<tr><td>St Vincent's Health Australia</td><td>Enablement Analyst</td><td>Australia</td><td>2026-07-19</td></tr>
+<tr><td>FLSmidth Pty Limited</td><td>Specialist - Product Analytics</td><td>Australia</td><td>2026-07-19</td></tr>
+<tr><td>ING</td><td>Analytics Enablement Expert - 6 Month Fixed Term Contract</td><td>Sydney</td><td>2026-07-19</td></tr>
+<tr><td>hancockironore</td><td>Payroll Analyst</td><td>Perth</td><td>2026-07-19</td></tr>
+<tr><td>Textron Inc</td><td>Accountant - Melbourne</td><td>Melbourne</td><td>2026-07-19</td></tr>
+<tr><td>Spotless</td><td>Strategy Analyst</td><td>Melbourne</td><td>2026-07-19</td></tr>
+<tr><td>jobs.barclays</td><td>Bbplc Australia Branch Avp - Operations Analyst</td><td>Sydney</td><td>2026-07-19</td></tr>
+<tr><td>Barclays</td><td>Bbplc Australia Branch Avp - Operations Analyst</td><td>Sydney</td><td>2026-07-19</td></tr>
+<tr><td>Brightonparkbank</td><td>Bbplc Australia Branch Avp - Operations Analyst</td><td>Sydney</td><td>2026-07-19</td></tr>
+<tr><td>AustralianSuper</td><td>Business Analyst</td><td>Melbourne</td><td>2026-07-19</td></tr>
+<tr><td>AustralianSuper</td><td>Contact Centre Incident Analyst</td><td>Melbourne</td><td>2026-07-19</td></tr>
+<tr><td>Leidos Holdings Inc.</td><td>Business Analyst - 6 Month Contract</td><td>Australia</td><td>2026-07-19</td></tr>
+<tr><td>Beyond Bank Australia</td><td>Business Analyst</td><td>Melbourne</td><td>2026-07-19</td></tr>
+<tr><td>Sofitel Melbourne On Collins</td><td>Hotel Accountant</td><td>Sydney</td><td>2026-07-19</td></tr>
+<tr><td>Lifeblood</td><td>Registered Nurse</td><td>Port Macquarie</td><td>2026-07-19</td></tr>
+<tr><td>Neurosurgeon role (org unclear)</td><td>Registered Nurse - District Nursing</td><td>Melbourne</td><td>2026-07-19</td></tr>
+<tr><td>Mymhcommunity</td><td>Continence Physiotherapist</td><td>Melbourne</td><td>2026-07-19</td></tr>
+<tr><td>048</td><td>Continence Physiotherapist</td><td>Melbourne</td><td>2026-07-19</td></tr>
+<tr><td>Mira Vista Care Center</td><td>Registered Nurse</td><td>Sydney</td><td>2026-07-19</td></tr>
+<tr><td>St Vincent's Care Services</td><td>Personal Care Assistant</td><td>Melbourne</td><td>2026-07-19</td></tr>
+<tr><td>Saveonsahara</td><td>Registered Nurse</td><td>Goulburn</td><td>2026-07-19</td></tr>
+<tr><td>Perenti Global Ltd</td><td>Btp - Field Service Technicians I plant Mechanic Heavy Diesel - Mt Thorley Based</td><td>Mount Thorley</td><td>2026-07-19</td></tr>
+<tr><td>Perenti Global Ltd</td><td>Btp - Field Service Technician - Mackay Based</td><td>Brisbane</td><td>2026-07-19</td></tr>
+<tr><td>Yancoal Australia Ltd</td><td>Maintenance Technician - Mechanical</td><td>Mudgee</td><td>2026-07-19</td></tr>
+<tr><td>Diversey Com Hr</td><td>Service Technician</td><td>Mount Isa</td><td>2026-07-19</td></tr>
+<tr><td>diversey.si</td><td>Service Technician</td><td>Mount Isa</td><td>2026-07-19</td></tr>
+<tr><td>UA Power Group</td><td>Wind Service Technician</td><td>Macarthur</td><td>2026-07-19</td></tr>
+<tr><td>Plug Power</td><td>Electrolyzer Service Specialist</td><td>Australia</td><td>2026-07-19</td></tr>
+<tr><td>SANDVIK</td><td>Maintenance Electrician</td><td>Heatherbrae</td><td>2026-07-19</td></tr>
+<tr><td>Nestlé</td><td>Maintenance Electrician</td><td>Wahgunyah</td><td>2026-07-19</td></tr>
+<tr><td>BHP INNOVATION Pty Ltd</td><td>Mechanical Technician (fixed Plant) / Wa Iron Ore / Residential Newman</td><td>Newman</td><td>2026-07-19</td></tr>
+<tr><td>BHP INNOVATION Pty Ltd</td><td>Coal Processing Technician - Electrical And Mechanical / Mt Arthur Coal / Nswec</td><td>Australia</td><td>2026-07-19</td></tr>
+<tr><td>BHP INNOVATION Pty Ltd</td><td>Mechanical Fitter - Underground Fixed Plant / Carrapateena</td><td>Carrapateena</td><td>2026-07-19</td></tr>
+<tr><td>BHP INNOVATION Pty Ltd</td><td>Belt Splicer / Inland Conveyors / Maintenance West</td><td>Australia</td><td>2026-07-19</td></tr>
+<tr><td>BHP INNOVATION Pty Ltd</td><td>Diesel Fitters Field Services Western Australia</td><td>Perth</td><td>2026-07-19</td></tr>
+<tr><td>jobsnl.info</td><td>Customer Field Technician I Newcastle</td><td>Newcastle</td><td>2026-07-19</td></tr>
+<tr><td>NBN Co Limited</td><td>Customer Field Technician I Newcastle</td><td>Newcastle</td><td>2026-07-19</td></tr>
+<tr><td>J. R. Simplot Company</td><td>Maintenance Electrician (day) - Ulverstone</td><td>Ulverstone</td><td>2026-07-19</td></tr>
+<tr><td>J. R. Simplot Company</td><td>Maintenance Fitter (casual) - Ulverstone</td><td>Ulverstone</td><td>2026-07-19</td></tr>
+<tr><td>Metso</td><td>Field Service Technician Automation</td><td>Brisbane</td><td>2026-07-19</td></tr>
+<tr><td>Voith</td><td>Sh 2.0 Field Service Engineer (m/f/d)</td><td>Snowy</td><td>2026-07-19</td></tr>
+<tr><td>Voith</td><td>Field Service Engineer (m/f/d) Balance Of Plant Mechanical - Australia</td><td>Snowy</td><td>2026-07-19</td></tr>
+<tr><td>Burkinagoldmines</td><td>Technician Mechanical Maintenance</td><td>Western Australia</td><td>2026-07-19</td></tr>
+<tr><td>Sodexo</td><td>Refrigeration Mechanics / Fifo / 8:6 / Various Sites</td><td>Western Australia</td><td>2026-07-19</td></tr>
+<tr><td>ORIGIN ENERGY Ltd</td><td>Mechanical Fitter</td><td>Eraring</td><td>2026-07-19</td></tr>
+<tr><td>Cummins</td><td>Technician – Field Service</td><td>Newman</td><td>2026-07-19</td></tr>
+<tr><td>Honeywell 3</td><td>Security Technician</td><td>Darwin City</td><td>2026-07-19</td></tr>
+<tr><td>Honeywell 2</td><td>Security Technician</td><td>Darwin City</td><td>2026-07-19</td></tr>
+<tr><td>Honeywell</td><td>Security Technician</td><td>Darwin City</td><td>2026-07-19</td></tr>
+<tr><td>Coates</td><td>Fitter Mechanic - Field Service</td><td>Moranbah</td><td>2026-07-19</td></tr>
+<tr><td>Nyrstar</td><td>Tradesperson Fitter</td><td>Port Pirie</td><td>2026-07-19</td></tr>
+<tr><td>JBT Marel</td><td>Field Service Engineer, Marel Cedar Creek</td><td>Brisbane</td><td>2026-07-19</td></tr>
+<tr><td>transport</td><td>Rail Maintainer (mechanical) Tfle-ahmc & Fmc (temporary Opportunity - Up To 20 Months)</td><td>Sydney</td><td>2026-07-19</td></tr>
+<tr><td>Thomas Global Systems</td><td>Electronic Maintenance Technician (perm Or Contract)</td><td>Sydney</td><td>2026-07-19</td></tr>
+<tr><td>santillana.cat</td><td>Field Service Representative</td><td>Australia</td><td>2026-07-19</td></tr>
+<tr><td>WesTrac Pty Ltd</td><td>Plant Mechanic - Field Service</td><td>Griffith</td><td>2026-07-19</td></tr>
+<tr><td>WesTrac Pty Ltd</td><td>Auto Electrician - Field Service</td><td>Kalgoorlie</td><td>2026-07-19</td></tr>
+<tr><td>WesTrac Pty Ltd</td><td>Line Borer - Field Service</td><td>Tomago</td><td>2026-07-19</td></tr>
+<tr><td>WesTrac Pty Ltd</td><td>Field Service Plant Mechanic Cadia</td><td>Cadia</td><td>2026-07-19</td></tr>
+<tr><td>JBS Australia Pty Ltd</td><td>Maintenance Electrician</td><td>Cobram</td><td>2026-07-19</td></tr>
+<tr><td>JBS Australia Pty Ltd</td><td>Maintenance Fitter</td><td>Sydney</td><td>2026-07-19</td></tr>
+<tr><td>JBS Australia Pty Ltd</td><td>Maintenance Greaser</td><td>Dinmore</td><td>2026-07-19</td></tr>
+<tr><td>Ingersoll Rand PLC</td><td>Service Engineer</td><td>Melbourne</td><td>2026-07-19</td></tr>
+<tr><td>ALSTOM TRANSPORT SA</td><td>Service Maintainer</td><td>Wulkuraka</td><td>2026-07-19</td></tr>
+<tr><td>E80 Group</td><td>Service Technician Automation - Yatala</td><td>Yatala</td><td>2026-07-19</td></tr>
+<tr><td>Getinge AB</td><td>Field Service Engineer (qualified Electrician) / Adelaide, Sa</td><td>Adelaide</td><td>2026-07-19</td></tr>
+<tr><td>The Reject Shop</td><td>Retail Team Member - Dalby</td><td>Dalby</td><td>2026-07-19</td></tr>
+<tr><td>The Reject Shop</td><td>Retail Team Member - Narrabri</td><td>Narrabri</td><td>2026-07-19</td></tr>
+<tr><td>The Reject Shop</td><td>Retail Team Member - Gunnedah</td><td>Gunnedah</td><td>2026-07-19</td></tr>
+<tr><td>The Reject Shop</td><td>Retail Team Member - Ararat</td><td>Ararat</td><td>2026-07-19</td></tr>
+<tr><td>The Reject Shop</td><td>Retail Team Member - Scottsdale</td><td>Scottsdale</td><td>2026-07-19</td></tr>
+<tr><td>The Reject Shop</td><td>Retail Team Member - Myrtleford</td><td>Myrtleford</td><td>2026-07-19</td></tr>
+<tr><td>The Reject Shop</td><td>Retail Team Member - Melbourne North East</td><td>Melbourne</td><td>2026-07-19</td></tr>
+<tr><td>The Reject Shop</td><td>Retail Team Member - Melbourne Melton, Sunbury & Keilor</td><td>Melbourne</td><td>2026-07-19</td></tr>
+<tr><td>The Reject Shop</td><td>Retail Team Member - Bacchus Marsh</td><td>Melbourne</td><td>2026-07-19</td></tr>
+<tr><td>The Reject Shop</td><td>Retail Team Member - Melbourne East</td><td>Melbourne</td><td>2026-07-19</td></tr>
+<tr><td>The Reject Shop</td><td>Retail Team Member - Sydney Inner & Eastern Suburbs</td><td>Sydney</td><td>2026-07-19</td></tr>
+<tr><td>The Reject Shop</td><td>Retail Team Member - Sydney Parramatta & Auburn</td><td>Sydney</td><td>2026-07-19</td></tr>
+<tr><td>adidas AG</td><td>Casual Retail Professional - Sydney Brand Centre, Nsw</td><td>Sydney</td><td>2026-07-19</td></tr>
+<tr><td>adidas AG</td><td>Full-time Retail Professional - Dfo Moorabbin, Vic</td><td>Melbourne</td><td>2026-07-19</td></tr>
+<tr><td>adidas AG</td><td>Casual Retail Professional - Blacktown Concept Store, Nsw</td><td>Sydney</td><td>2026-07-19</td></tr>
+<tr><td>adidas AG</td><td>Casual Retail Professional - Auburn Redyard Outlet, Nsw</td><td>Sydney</td><td>2026-07-19</td></tr>
+<tr><td>adidas AG</td><td>Casual Retail Professional - Birkenhead Point Factory Outlet, Nsw</td><td>Sydney</td><td>2026-07-19</td></tr>
+<tr><td>GENUINE PARTS COMPANY</td><td>Customer Sales & Service - Repco Chinchilla - Casual</td><td>Chinchilla</td><td>2026-07-19</td></tr>
+<tr><td>GENUINE PARTS COMPANY</td><td>Customer Sales& Service - Repco Busselton - Full Time</td><td>Busselton</td><td>2026-07-19</td></tr>
+<tr><td>Aldi Australia</td><td>Retail Assistant - Albury</td><td>Albury</td><td>2026-07-19</td></tr>
+<tr><td>Reece Group</td><td>Trade Counter Assistant - Villawood</td><td>Sydney</td><td>2026-07-19</td></tr>
+<tr><td>Reece Plumbing</td><td>Trade Counter Assistant - Villawood</td><td>Sydney</td><td>2026-07-19</td></tr>
+<tr><td>Pinnacle Drinks</td><td>Customer Assistant - Dan Murphy’s South Melbourne</td><td>Melbourne</td><td>2026-07-19</td></tr>
+<tr><td>H & M Hennes & Mauritz AB</td><td>Sales Advisor - Casual</td><td>Melbourne</td><td>2026-07-19</td></tr>
+<tr><td>Trek Bikes</td><td>Sales Associate - Full Time</td><td>Melbourne</td><td>2026-07-19</td></tr>
+<tr><td>The TJX Companies, Inc</td><td>Store Associate - Casual</td><td>Ballina</td><td>2026-07-19</td></tr>
+<tr><td>GENUINE PARTS COMPANY</td><td>Customer Sales & Service - Repco Lidcombe - Casual</td><td>Sydney</td><td>2026-07-19</td></tr>
+<tr><td>GENUINE PARTS COMPANY</td><td>Customer Sales & Service - Repco North Mackay - Casual</td><td>North Mackay</td><td>2026-07-19</td></tr>
+<tr><td>Cosentino</td><td>Showroom Specialist Sydney</td><td>Sydney</td><td>2026-07-19</td></tr>
+<tr><td>Sofitel Melbourne On Collins</td><td>Guest Services Agent</td><td>Melbourne</td><td>2026-07-19</td></tr>
+<tr><td>Eagers Automotive Ltd</td><td>Store Person</td><td>Wingfield</td><td>2026-07-19</td></tr>
+<tr><td>John Holland Group</td><td>Store Person</td><td>Clovelly Park</td><td>2026-07-19</td></tr>
+<tr><td>Arc'teryx</td><td>Casual Sales Associate - Birkenhead Point</td><td>Sydney</td><td>2026-07-19</td></tr>
+<tr><td>JBS Australia Pty Ltd</td><td>Maintenance Storeperson - Weekend Roster</td><td>Dinmore</td><td>2026-07-19</td></tr>
+<tr><td>St Vincent de Paul Society Australia</td><td>Shop Assistant</td><td>Sydney</td><td>2026-07-19</td></tr>
+<tr><td>cbcity</td><td>Casual Customer Experience Officer Leisure & Aquatics</td><td>Melbourne</td><td>2026-07-19</td></tr>
+<tr><td>OPSM (EssilorLuxottica Group)</td><td>Associate Dispenser / Opsm Laurieton, Nsw</td><td>Laurieton</td><td>2026-07-19</td></tr>
+<tr><td>OPSM (EssilorLuxottica Group)</td><td>Retail Associate / Opsm Port Macquarie, Nsw</td><td>Port Macquarie</td><td>2026-07-19</td></tr>
+<tr><td>OPSM (EssilorLuxottica Group)</td><td>Retail Associate / Sunglass Hut, Port Macquarie Central, Nsw</td><td>Port Macquarie</td><td>2026-07-19</td></tr>
+<tr><td>OPSM (EssilorLuxottica Group)</td><td>Retail Associate / Opsm Lake Haven, Nsw 1</td><td>Lake Haven</td><td>2026-07-19</td></tr>
+<tr><td>Amentum Pr</td><td>Project Controller</td><td>Australia</td><td>2026-07-19</td></tr>
+<tr><td>166</td><td>Business Administration Support</td><td>Brisbane</td><td>2026-07-19</td></tr>
+<tr><td>Porters Liquor</td><td>Warehouse Assistant - Endeavour Delivery Rydalmere</td><td>Sydney</td><td>2026-07-19</td></tr>
+<tr><td>Knox City Council</td><td>Strategic Project Officer</td><td>Knox Civic Centre</td><td>2026-07-19</td></tr>
+<tr><td>IRT</td><td>Administration Employee - Irt Culburra Beach</td><td>Culburra Beach</td><td>2026-07-19</td></tr>
+<tr><td>Webuild SpA</td><td>Expression Of Interest - Project Risk Coordinator</td><td>Cooma</td><td>2026-07-19</td></tr>
+<tr><td>Park Hyatt Melbourne</td><td>Executive Assistant (local Only)</td><td>Melbourne</td><td>2026-07-19</td></tr>
+<tr><td>Wesco</td><td>Associate Specialist - Supplier Relations</td><td>Melbourne</td><td>2026-07-19</td></tr>
+<tr><td>ielts.mq.edu.au</td><td>Customer Service Administrator</td><td>Sydney</td><td>2026-07-19</td></tr>
+<tr><td>Bega Group</td><td>Inventory Coordinator</td><td>Koroit</td><td>2026-07-19</td></tr>
+<tr><td>Bega Group</td><td>Quality Specialist - Lab And Sanitation</td><td>Melbourne</td><td>2026-07-19</td></tr>
+<tr><td>Commonwealth Scientific And Industrial Research Organisation</td><td>Project Officer - Implementation</td><td>Melbourne</td><td>2026-07-19</td></tr>
+<tr><td>Yancoal Australia Ltd</td><td>Projects Administration Assistant</td><td>Mudgee</td><td>2026-07-19</td></tr>
+<tr><td>Yancoal Australia Ltd</td><td>Administration Assistant - Chpp</td><td>Newcastle</td><td>2026-07-19</td></tr>
+<tr><td>Yancoal Australia Ltd</td><td>Water-tailings Management Compliance Coordinator</td><td>Newcastle</td><td>2026-07-19</td></tr>
+<tr><td>Yancoal Australia Ltd</td><td>Project Coordinator - Maintenance</td><td>Mudgee</td><td>2026-07-19</td></tr>
+<tr><td>Academic Jobs</td><td>Coordinator, Food Programs</td><td>Melbourne</td><td>2026-07-19</td></tr>
+<tr><td>the University</td><td>Coordinator, Food Programs</td><td>Melbourne</td><td>2026-07-19</td></tr>
+<tr><td>jobs.unimelb.edu.au</td><td>Coordinator, Food Programs</td><td>Melbourne</td><td>2026-07-19</td></tr>
+<tr><td>University of Melbourne</td><td>Coordinator, Food Programs</td><td>Melbourne</td><td>2026-07-19</td></tr>
+<tr><td>University Health</td><td>Coordinator, Food Programs</td><td>Melbourne</td><td>2026-07-19</td></tr>
+<tr><td>Aidapply</td><td>Business Administration Support</td><td>Brisbane</td><td>2026-07-19</td></tr>
+<tr><td>Saveonsahara</td><td>Business Administration Support</td><td>Brisbane</td><td>2026-07-19</td></tr>
+<tr><td>The Salvation Army</td><td>Business Administration Support</td><td>Brisbane</td><td>2026-07-19</td></tr>
+<tr><td>Sparke Helmore Lawyers</td><td>Administration Assistant, Legal Support</td><td>Brisbane</td><td>2026-07-19</td></tr>
+<tr><td>Aldi Australia</td><td>Retail Assistant - Eastgardens</td><td>Eastgardens</td><td>2026-07-19</td></tr>
+<tr><td>Aldi Australia</td><td>Retail Assistant - Karingal</td><td>Melbourne</td><td>2026-07-19</td></tr>
+<tr><td>Pets at Home</td><td>Retail Sales Assistant / Puppy School Trainer / Mandurah</td><td>Mandurah</td><td>2026-07-19</td></tr>
+<tr><td>Goodstart Early Learning Ltd</td><td>Administration Assistant</td><td>Fernvale</td><td>2026-07-19</td></tr>
+<tr><td>Goodstart Early Learning Ltd</td><td>State Administration Assistant - Wa</td><td>Perth</td><td>2026-07-19</td></tr>
+<tr><td>Goodstart Early Learning Ltd</td><td>Administrative Assistant</td><td>Cairns</td><td>2026-07-19</td></tr>
+<tr><td>miele.kz</td><td>Miele Account Specialist</td><td>Melbourne</td><td>2026-07-19</td></tr>
+<tr><td>Aldi Australia</td><td>Retail Assistant - Harlaxton</td><td>Harlaxton</td><td>2026-07-19</td></tr>
+<tr><td>Aldi Australia</td><td>Retail Assistant - Brookvale</td><td>Brookvale</td><td>2026-07-19</td></tr>
+<tr><td>H&S AUSTRALIA</td><td>Executive Assistant</td><td>Australia</td><td>2026-07-19</td></tr>
+<tr><td>Aldi Australia</td><td>Retail Assistant - Ashgrove</td><td>Brisbane</td><td>2026-07-19</td></tr>
+<tr><td>Peninsula Plus</td><td>Client Experience And Administration Officer</td><td>Melbourne</td><td>2026-07-19</td></tr>
+<tr><td>Aldi Australia</td><td>Retail Assistant - Carindale</td><td>Brisbane</td><td>2026-07-19</td></tr>
+<tr><td>The NSW Department of Education</td><td>Executive Assistant</td><td>Sydney</td><td>2026-07-19</td></tr>
+<tr><td>The NSW Department of Education</td><td>Project Officer</td><td>Eveleigh</td><td>2026-07-19</td></tr>
 </table>
