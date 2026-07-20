@@ -766,4 +766,73 @@
 <tr><td>Aldi Australia</td><td>Retail Assistant - Carindale</td><td>Brisbane</td><td>2026-07-19</td></tr>
 <tr><td>The NSW Department of Education</td><td>Executive Assistant</td><td>Sydney</td><td>2026-07-19</td></tr>
 <tr><td>The NSW Department of Education</td><td>Project Officer</td><td>Eveleigh</td><td>2026-07-19</td></tr>
+<tr><td>DXC Technology UK</td><td>2027 Dxc Technology Graduate Program Australia</td><td>Sydney</td><td>2026-07-20</td></tr>
+<tr><td>NORTHROP GRUMMAN</td><td>Intern - Finance</td><td>Brisbane</td><td>2026-07-20</td></tr>
+<tr><td>JLL UK</td><td>Intern</td><td>Sydney</td><td>2026-07-20</td></tr>
+<tr><td>DXC Technology Australia & New Zealand</td><td>2027 Dxc Technology Graduate Program Australia</td><td>Sydney</td><td>2026-07-20</td></tr>
+<tr><td>Department of Communities and Justice</td><td>Analyst</td><td>Sydney</td><td>2026-07-20</td></tr>
+<tr><td>Peter MacCallum Cancer Centre</td><td>Chsrc Data Analyst</td><td>Melbourne</td><td>2026-07-20</td></tr>
+<tr><td>dcj.nsw.gov.au</td><td>Financial Analyst (business Partnering)</td><td>Sydney</td><td>2026-07-20</td></tr>
+<tr><td>dcj.nsw.gov.au</td><td>Strategic Reporting Analyst</td><td>Sydney</td><td>2026-07-20</td></tr>
+<tr><td>dcj</td><td>Strategic Reporting Analyst</td><td>Sydney</td><td>2026-07-20</td></tr>
+<tr><td>Jobgether</td><td>Ad Operations Analyst</td><td>Australia</td><td>2026-07-20</td></tr>
+<tr><td>Spotless</td><td>Inventory Analyst</td><td>Melbourne</td><td>2026-07-20</td></tr>
+<tr><td>Tenzing Ltd</td><td>Guidewire Business Analyst - Sydney</td><td>Sydney</td><td>2026-07-20</td></tr>
+<tr><td>MUFG Pension & Market Services</td><td>Operational Integrity Analyst</td><td>Australia</td><td>2026-07-20</td></tr>
+<tr><td>MUFG Pension</td><td>Operational Integrity Analyst</td><td>Australia</td><td>2026-07-20</td></tr>
+<tr><td>TAL Australia</td><td>Business Analyst – Third Party Risk (6-month Ftc)</td><td>Sydney</td><td>2026-07-20</td></tr>
+<tr><td>Gippsland Health Alliance</td><td>Registered And Enrolled Nurses - Nurse Bank</td><td>Australia</td><td>2026-07-20</td></tr>
+<tr><td>Peter MacCallum Cancer Centre</td><td>Registered Nurse Grade 2 - Imaging</td><td>Melbourne</td><td>2026-07-20</td></tr>
+<tr><td>Peter MacCallum Cancer Centre</td><td>Pharmacist Grade 2</td><td>Melbourne</td><td>2026-07-20</td></tr>
+<tr><td>Peter MacCallum Cancer Centre</td><td>Pharmacist Grade 2 – Aseptic Manufacturing</td><td>Melbourne</td><td>2026-07-20</td></tr>
+<tr><td>Medibank Private Ltd</td><td>Registered Nurse</td><td>Walkerville</td><td>2026-07-20</td></tr>
+<tr><td>Medibank Private Ltd</td><td>Community Registered Nurse</td><td>Melbourne</td><td>2026-07-20</td></tr>
+<tr><td>Estia Health</td><td>Registered Nurse, Casual - Reservoir Vic</td><td>Melbourne</td><td>2026-07-20</td></tr>
+<tr><td>GENESISCARE</td><td>Registered Nurse</td><td>Australia</td><td>2026-07-20</td></tr>
+<tr><td>Macquarie</td><td>Research Associate</td><td>Sydney</td><td>2026-07-20</td></tr>
+<tr><td>FAMILY AND DISABILITY SERVICES</td><td>Registered Nurse</td><td>Sunrise Beach</td><td>2026-07-20</td></tr>
+<tr><td>048</td><td>Registered Nurse</td><td>Edgewater</td><td>2026-07-20</td></tr>
+<tr><td>ST VINCENT'S PRIVATE HOSPITAL SYDNEY</td><td>Personal Care Assistant</td><td>Melbourne</td><td>2026-07-20</td></tr>
+<tr><td>Mira Vista Care Center</td><td>Registered Nurse - District Nursing</td><td>Melbourne</td><td>2026-07-20</td></tr>
+<tr><td>OPSM (EssilorLuxottica Group)</td><td>Field Service Technician Vic</td><td>Bowden</td><td>2026-07-20</td></tr>
+<tr><td>Komatsu Marketing Support Australia Pty Ltd</td><td>Technician - Field Service / Site Support</td><td>Townsville</td><td>2026-07-20</td></tr>
+<tr><td>Komatsu Marketing Support Australia Pty Ltd</td><td>Technician - Field Service</td><td>Geraldton</td><td>2026-07-20</td></tr>
+<tr><td>Komatsu Marketing Support Australia Pty Ltd</td><td>Auto Electrician - Metro Field Service</td><td>Wacol</td><td>2026-07-20</td></tr>
+<tr><td>Cantire</td><td>Bms Service Technician</td><td>Australia</td><td>2026-07-20</td></tr>
+<tr><td>Mars Australia</td><td>Maintenance Technician - 12 Hour Night Shift - $2,500 Sign On Bonus</td><td>Australia</td><td>2026-07-20</td></tr>
+<tr><td>Amgen Australia Pty Ltd</td><td>Instrumentation Technician (various Shifts: Days, Swing, Grave)</td><td>Australia</td><td>2026-07-20</td></tr>
+<tr><td>Arjo AB</td><td>Service Technician - Hobart, Tasmania</td><td>Hobart</td><td>2026-07-20</td></tr>
+<tr><td>Webuild SpA</td><td>Mechanical Fitter</td><td>Perth</td><td>2026-07-20</td></tr>
+<tr><td>Webuild SpA</td><td>Camp Maintenance</td><td>Cooma</td><td>2026-07-20</td></tr>
+<tr><td>Lupine Properties LLC</td><td>Maintenance Electrician</td><td>Australia</td><td>2026-07-20</td></tr>
+<tr><td>Kardex Remstar</td><td>Field Service Technician</td><td>Melbourne</td><td>2026-07-20</td></tr>
+<tr><td>Bega Group</td><td>Maintenance Fitter</td><td>Sydney</td><td>2026-07-20</td></tr>
+<tr><td>OPSM (EssilorLuxottica Group)</td><td>Retail Associate / Oakley / C / Vic / Chadstone</td><td>Melbourne</td><td>2026-07-20</td></tr>
+<tr><td>OPSM (EssilorLuxottica Group)</td><td>Associate Dispenser / Opsm / Pt / Vic / Werribee</td><td>Melbourne</td><td>2026-07-20</td></tr>
+<tr><td>The Reject Shop</td><td>Retail Team Member - Port Pirie</td><td>Port Pirie</td><td>2026-07-20</td></tr>
+<tr><td>The Reject Shop</td><td>Retail Team Member - Adelaide North East</td><td>Adelaide North East</td><td>2026-07-20</td></tr>
+<tr><td>The Reject Shop</td><td>Retail Team Member - Kadina</td><td>Kadina</td><td>2026-07-20</td></tr>
+<tr><td>The Reject Shop</td><td>Retail Team Member - Mt Gambier</td><td>Mt Gambier</td><td>2026-07-20</td></tr>
+<tr><td>The Reject Shop</td><td>Retail Team Member - Benalla & Wangaratta</td><td>Benalla +1</td><td>2026-07-20</td></tr>
+<tr><td>Komatsu Marketing Support Australia Pty Ltd</td><td>Service Coordinator - Townsville (atr-m149)</td><td>Townsville</td><td>2026-07-20</td></tr>
+<tr><td>dcj.nsw.gov.au</td><td>Housing Support Assistant</td><td>Sydney</td><td>2026-07-20</td></tr>
+<tr><td>dcj.nsw.gov.au</td><td>Executive Support Officer</td><td>Calala</td><td>2026-07-20</td></tr>
+<tr><td>dcj.nsw.gov.au</td><td>Executive Assistant</td><td>Sydney</td><td>2026-07-20</td></tr>
+<tr><td>stellen-essen.de</td><td>Digital Marketing Coordinator</td><td>Brendale</td><td>2026-07-20</td></tr>
+<tr><td>Liebherr Machines Bulle SA</td><td>Administration Assistant - Parts</td><td>Sydney</td><td>2026-07-20</td></tr>
+<tr><td>Aldi Australia</td><td>Retail Assistant - Lakemba</td><td>Sydney</td><td>2026-07-20</td></tr>
+<tr><td>Aldi Australia</td><td>Retail Assistant - Canterbury</td><td>Melbourne</td><td>2026-07-20</td></tr>
+<tr><td>Saveonsahara</td><td>Part-time Sales Assistant - Prahran</td><td>Prahan</td><td>2026-07-20</td></tr>
+<tr><td>Aidapply</td><td>Part-time Sales Assistant - Prahran</td><td>Melbourne</td><td>2026-07-20</td></tr>
+<tr><td>The Trustee For The Salvation Army Victoria Property Trust</td><td>Part-time Sales Assistant - Prahran</td><td>Melbourne</td><td>2026-07-20</td></tr>
+<tr><td>Nouryon</td><td>Facilities Coordinator</td><td>Melbourne</td><td>2026-07-20</td></tr>
+<tr><td>Saveonsahara</td><td>Sales Assistant - Katoomba</td><td>Campbelltown</td><td>2026-07-20</td></tr>
+<tr><td>Aidapply</td><td>Sales Assistant - Katoomba</td><td>Campbelltown</td><td>2026-07-20</td></tr>
+<tr><td>The Trustee For The Salvation Army Victoria Property Trust</td><td>Sales Assistant - Katoomba</td><td>Campbelltown</td><td>2026-07-20</td></tr>
+<tr><td>Aldi Australia</td><td>Junior Store Assistant - Bentleigh</td><td>Melbourne</td><td>2026-07-20</td></tr>
+<tr><td>Aldi Australia</td><td>Retail Assistant - Woodcroft</td><td>Adelaide</td><td>2026-07-20</td></tr>
+<tr><td>Aldi Australia</td><td>Retail Assistant - Moss Vale</td><td>Wollongong</td><td>2026-07-20</td></tr>
+<tr><td>UnitingCare Health</td><td>Executive Assistant</td><td>Brisbane</td><td>2026-07-20</td></tr>
+<tr><td>BlueCare</td><td>Executive Assistant</td><td>Brisbane</td><td>2026-07-20</td></tr>
+<tr><td>FAMILY AND DISABILITY SERVICES</td><td>Executive Assistant</td><td>Brisbane</td><td>2026-07-20</td></tr>
 </table>
