@@ -888,4 +888,31 @@
 <tr><td>Hatch Ltd</td><td>Executive Assistant</td><td>Brisbane</td><td>2026-07-21</td></tr>
 <tr><td>GENUINE PARTS COMPANY</td><td>Digital Marketing Coordinator</td><td>Brendale</td><td>2026-07-21</td></tr>
 <tr><td>GPC Tools & Equipment Sydney</td><td>Digital Marketing Coordinator</td><td>Brendale</td><td>2026-07-21</td></tr>
+<tr><td>Dchfreeholdtoyota</td><td>Financial & Business Planning Analyst</td><td>Melbourne</td><td>2026-07-22</td></tr>
+<tr><td>219</td><td>Registered Nurse - Casual</td><td>Australia</td><td>2026-07-22</td></tr>
+<tr><td>219</td><td>Registered Nurse</td><td>Sydney</td><td>2026-07-22</td></tr>
+<tr><td>Neurosurgeon role (org unclear)</td><td>Registered Nurse - Casual</td><td>Toowoomba</td><td>2026-07-22</td></tr>
+<tr><td>Konekt</td><td>Physiotherapist</td><td>Sydney</td><td>2026-07-22</td></tr>
+<tr><td>intranet.sydney.edu.au</td><td>Postdoctoral Research Associate In Pain Neurobiology And Brain Imaging</td><td>Sydney</td><td>2026-07-22</td></tr>
+<tr><td>sydney.edu.au</td><td>Postdoctoral Research Associate In Pain Neurobiology And Brain Imaging</td><td>Sydney</td><td>2026-07-22</td></tr>
+<tr><td>Epworth HealthCare</td><td>Registered & Enrolled Nurses - General Surgical 5 North Eastern</td><td>Melbourne</td><td>2026-07-22</td></tr>
+<tr><td>Komatsu Marketing Support Australia Pty Ltd</td><td>Mobile Plant Mechanic - Field Service</td><td>Sydney</td><td>2026-07-22</td></tr>
+<tr><td>142</td><td>Customer Field Technician I Mildura</td><td>Mildura</td><td>2026-07-22</td></tr>
+<tr><td>Clickedu</td><td>Customer Field Technician I Mildura</td><td>Mildura</td><td>2026-07-22</td></tr>
+<tr><td>Mynminfo</td><td>Customer Field Technician I Sunshine Coast</td><td>Maroochydore</td><td>2026-07-22</td></tr>
+<tr><td>142</td><td>Customer Field Technician I Sunshine Coast</td><td>Maroochydore</td><td>2026-07-22</td></tr>
+<tr><td>Fm93</td><td>Customer Field Technician I Sunshine Coast</td><td>Maroochydore</td><td>2026-07-22</td></tr>
+<tr><td>nbn</td><td>Customer Field Technician I Sunshine Coast</td><td>Maroochydore</td><td>2026-07-22</td></tr>
+<tr><td>Mynminfo</td><td>Customer Field Technician I Sydney Metro</td><td>Sydney</td><td>2026-07-22</td></tr>
+<tr><td>The Good Guys</td><td>Retail Team Member</td><td>Melbourne</td><td>2026-07-22</td></tr>
+<tr><td>The Reject Shop</td><td>Retail Team Member - Esperance</td><td>Esperance</td><td>2026-07-22</td></tr>
+<tr><td>The Reject Shop</td><td>Retail Team Member - Perth East</td><td>Perth East</td><td>2026-07-22</td></tr>
+<tr><td>Mira Vista Care Center</td><td>Administration Assistant</td><td>Melbourne</td><td>2026-07-22</td></tr>
+<tr><td>SVHA</td><td>Administration Assistant</td><td>Melbourne</td><td>2026-07-22</td></tr>
+<tr><td>Aidapply</td><td>Administration Assistant</td><td>Batemans Bay</td><td>2026-07-22</td></tr>
+<tr><td>The Trustee For The Salvation Army Victoria Property Trust</td><td>Administration Assistant</td><td>Batemans Bay</td><td>2026-07-22</td></tr>
+<tr><td>Saveonsahara</td><td>Administration Assistant</td><td>Batemans Bay</td><td>2026-07-22</td></tr>
+<tr><td>The Salvation Army</td><td>Administration Assistant</td><td>Batemans Bay</td><td>2026-07-22</td></tr>
+<tr><td>Aldi Australia</td><td>Junior Store Assistant - Eden Rise</td><td>Melbourne</td><td>2026-07-22</td></tr>
+<tr><td>ievo Job database</td><td>Administration Assistant</td><td>Sydney</td><td>2026-07-22</td></tr>
 </table>
