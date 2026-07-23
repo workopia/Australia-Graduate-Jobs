@@ -915,4 +915,55 @@
 <tr><td>The Salvation Army</td><td>Administration Assistant</td><td>Batemans Bay</td><td>2026-07-22</td></tr>
 <tr><td>Aldi Australia</td><td>Junior Store Assistant - Eden Rise</td><td>Melbourne</td><td>2026-07-22</td></tr>
 <tr><td>ievo Job database</td><td>Administration Assistant</td><td>Sydney</td><td>2026-07-22</td></tr>
+<tr><td>A49 2</td><td>Expressions Of Interest - Wsp National Internships 2026</td><td>Sydney</td><td>2026-07-23</td></tr>
+<tr><td>ING</td><td>Intern, Acquisition Finance</td><td>Sydney</td><td>2026-07-23</td></tr>
+<tr><td>PIMCO</td><td>2027 Summer Internship – Account Analyst, Apac (sydney)</td><td>Sydney</td><td>2026-07-23</td></tr>
+<tr><td>Sealed Air</td><td>Application Development Engineer</td><td>Melbourne</td><td>2026-07-23</td></tr>
+<tr><td>Leidos UK</td><td>Software Support Analyst</td><td>Australia</td><td>2026-07-23</td></tr>
+<tr><td>Leidos UK</td><td>Software Engineers/developers Tspv</td><td>Australia</td><td>2026-07-23</td></tr>
+<tr><td>The Lottery Corporation</td><td>Vulnerability Analyst</td><td>Sydney</td><td>2026-07-23</td></tr>
+<tr><td>Chubb</td><td>Ai Engineer (12 Month Contract)</td><td>Sydney</td><td>2026-07-23</td></tr>
+<tr><td>EY</td><td>Ai Engineer - Ai And Data</td><td>Australia</td><td>2026-07-23</td></tr>
+<tr><td>Apa Com Au</td><td>Insurance Analyst</td><td>Australia</td><td>2026-07-23</td></tr>
+<tr><td>ST VINCENT'S PRIVATE HOSPITAL SYDNEY</td><td>Service Desk Analyst (qld)</td><td>Bown Hills</td><td>2026-07-23</td></tr>
+<tr><td>219</td><td>Service Desk Analyst (qld)</td><td>Bown Hills</td><td>2026-07-23</td></tr>
+<tr><td>St Vincent’s Health Australia</td><td>Service Desk Analyst (qld)</td><td>Bown Hills</td><td>2026-07-23</td></tr>
+<tr><td>Klamathfallstoyota</td><td>Financial & Business Planning Analyst</td><td>Melbourne</td><td>2026-07-23</td></tr>
+<tr><td>Mediix</td><td>Physiotherapist / Private Practice</td><td>Melbourne</td><td>2026-07-23</td></tr>
+<tr><td>intranet.sydney.edu.au</td><td>Postdoctoral Research Associate In Applied Quantum Computing Research</td><td>Sydney</td><td>2026-07-23</td></tr>
+<tr><td>sydney.edu.au</td><td>Postdoctoral Research Associate In Applied Quantum Computing Research</td><td>Sydney</td><td>2026-07-23</td></tr>
+<tr><td>careers.uni.edu</td><td>Postdoctoral Research Associate In Applied Quantum Computing Research</td><td>Sydney</td><td>2026-07-23</td></tr>
+<tr><td>University of Melbourne</td><td>Research Assistant- Lift-cd Study</td><td>Melbourne</td><td>2026-07-23</td></tr>
+<tr><td>University Health</td><td>Research Assistant- Lift-cd Study</td><td>Melbourne</td><td>2026-07-23</td></tr>
+<tr><td>MQ Health</td><td>Registered Nurse (respiratory & Endoscopy)</td><td>Australia</td><td>2026-07-23</td></tr>
+<tr><td>Mqhealth Org Au</td><td>Registered Nurse (respiratory & Endoscopy)</td><td>Australia</td><td>2026-07-23</td></tr>
+<tr><td>ST VINCENT'S PRIVATE HOSPITAL SYDNEY</td><td>Registered Nurse - Casual</td><td>Australia</td><td>2026-07-23</td></tr>
+<tr><td>BGIS</td><td>Electrical Technician</td><td>Adelaide</td><td>2026-07-23</td></tr>
+<tr><td>TABCORP ASSETS Pty Ltd</td><td>Field Technician</td><td>Regional NSW</td><td>2026-07-23</td></tr>
+<tr><td>TABCORP ASSETS Pty Ltd</td><td>Field Technician – 12-month Project Opportunity</td><td>Brisbane</td><td>2026-07-23</td></tr>
+<tr><td>UA Power Group</td><td>Field Services Technician</td><td>Sydney</td><td>2026-07-23</td></tr>
+<tr><td>Liebherr Machines Bulle SA</td><td>Service Technician</td><td>Mt Thorley</td><td>2026-07-23</td></tr>
+<tr><td>Liebherr Machines Bulle SA</td><td>Field Service Technician - Electrical</td><td>Sydney</td><td>2026-07-23</td></tr>
+<tr><td>Civmec Ltd</td><td>Mechanical Fitter</td><td>Eneabba</td><td>2026-07-23</td></tr>
+<tr><td>Unisys UK</td><td>Airport Tech Field Eng - Melbourne, Vic</td><td>Melbourne</td><td>2026-07-23</td></tr>
+<tr><td>Unisys</td><td>Airport Tech Field Eng - Melbourne, Vic</td><td>Melbourne</td><td>2026-07-23</td></tr>
+<tr><td>unistrasi.it</td><td>Airport Tech Field Eng - Melbourne, Vic</td><td>Melbourne</td><td>2026-07-23</td></tr>
+<tr><td>Mynminfo</td><td>Customer Field Technician I Mildura</td><td>Mildura</td><td>2026-07-23</td></tr>
+<tr><td>Fm93</td><td>Customer Field Technician I Mildura</td><td>Mildura</td><td>2026-07-23</td></tr>
+<tr><td>Nouryon</td><td>Trade Centre Assistant</td><td>Mackay</td><td>2026-07-23</td></tr>
+<tr><td>Sofitel Melbourne On Collins</td><td>Guest Services - Switchboard Operator / Full Time</td><td>Melbourne</td><td>2026-07-23</td></tr>
+<tr><td>LKQ Europe</td><td>Sales Advisor</td><td>Perth</td><td>2026-07-23</td></tr>
+<tr><td>The Reject Shop</td><td>Retail Team Member - Karratha</td><td>Karratha</td><td>2026-07-23</td></tr>
+<tr><td>The Reject Shop</td><td>Retail Team Member - Albany</td><td>Albany</td><td>2026-07-23</td></tr>
+<tr><td>Aldi Australia</td><td>Retail Assistant - Indooroopilly</td><td>Brisbane</td><td>2026-07-23</td></tr>
+<tr><td>Salomon</td><td>Marketing Co-ordinator</td><td>Moorabbin Airport</td><td>2026-07-23</td></tr>
+<tr><td>166</td><td>Administration Assistant</td><td>Batemans Bay</td><td>2026-07-23</td></tr>
+<tr><td>JLL UK</td><td>Facilities Coordinator</td><td>Sydney</td><td>2026-07-23</td></tr>
+<tr><td>Mondelez</td><td>Quality Coordinator</td><td>Australia</td><td>2026-07-23</td></tr>
+<tr><td>Menselsa</td><td>Quality Coordinator</td><td>Australia</td><td>2026-07-23</td></tr>
+<tr><td>Blackstone</td><td>Executive Assistant, Institutional Client Solutions - Sydney</td><td>Sydney</td><td>2026-07-23</td></tr>
+<tr><td>The Blackstone Group</td><td>Executive Assistant, Institutional Client Solutions - Sydney</td><td>Sydney</td><td>2026-07-23</td></tr>
+<tr><td>Inchcape PLC</td><td>Administration Assistant</td><td>Melbourne</td><td>2026-07-23</td></tr>
+<tr><td>sydney.edu.au</td><td>It Graduate Program Coordinator</td><td>Sydney</td><td>2026-07-23</td></tr>
+<tr><td>219</td><td>Administration Assistant</td><td>Melbourne</td><td>2026-07-23</td></tr>
 </table>
