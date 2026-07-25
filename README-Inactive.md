@@ -1065,4 +1065,114 @@
 <tr><td>Barwon Health</td><td>Community Awareness Coordinator, Headspace Colac</td><td>Geelong</td><td>2026-07-24</td></tr>
 <tr><td>Aldi Australia</td><td>Retail Assistant - South Melbourne</td><td>Melbourne</td><td>2026-07-24</td></tr>
 <tr><td>FEROCIA</td><td>Executive Assistant (12-month Contract)</td><td>Melbourne</td><td>2026-07-24</td></tr>
+<tr><td>afa'afea</td><td>Intern - Business Development And Strategy</td><td>Wacol</td><td>2026-07-25</td></tr>
+<tr><td>IMC Trading</td><td>Launchpad - Trading And Quant Research</td><td>Sydney</td><td>2026-07-25</td></tr>
+<tr><td>GSK</td><td>Gsk 12 Month Internship - Medical (australia)</td><td>Melbourne</td><td>2026-07-25</td></tr>
+<tr><td>NCS Group Australia</td><td>Software Engineer - .net /aws- Contract/perm - Mid Level</td><td>Sydney</td><td>2026-07-25</td></tr>
+<tr><td>Datacom</td><td>Desktop Support Engineer - Sydney</td><td>Sydney</td><td>2026-07-25</td></tr>
+<tr><td>Amazon</td><td>Data Center IT Support Engineer, MEL - DCO</td><td>Melbourne</td><td>2026-07-25</td></tr>
+<tr><td>MSS SECURITY PTY</td><td>It Support Analyst</td><td>Australia</td><td>2026-07-25</td></tr>
+<tr><td>Jobgether</td><td>Golang Engineer</td><td>Australia</td><td>2026-07-25</td></tr>
+<tr><td>Leidos Holdings Inc.</td><td>End User Support Analyst</td><td>Australia</td><td>2026-07-25</td></tr>
+<tr><td>GPC Tools & Equipment Sydney</td><td>Technical Support</td><td>Sydney</td><td>2026-07-25</td></tr>
+<tr><td>BHP INNOVATION Pty Ltd</td><td>Analyst Rail Control Data</td><td>Australia</td><td>2026-07-25</td></tr>
+<tr><td>Cultureamp</td><td>Associate Data Scientist</td><td>Melbourne</td><td>2026-07-25</td></tr>
+<tr><td>CULTURE AMP</td><td>Staff Applied Ai Scientist</td><td>Sydney</td><td>2026-07-25</td></tr>
+<tr><td>LNW GAMING ANZ PTY LTD</td><td>Ai Engineer / Ai Analyst</td><td>Australia</td><td>2026-07-25</td></tr>
+<tr><td>Downer EDI</td><td>Inventory Analyst</td><td>Melbourne</td><td>2026-07-25</td></tr>
+<tr><td>Downer</td><td>Inventory Analyst</td><td>Melbourne</td><td>2026-07-25</td></tr>
+<tr><td>Downer Group</td><td>Inventory Analyst</td><td>Melbourne</td><td>2026-07-25</td></tr>
+<tr><td>Caritas Australia</td><td>Business Analyst</td><td>Sydney</td><td>2026-07-25</td></tr>
+<tr><td>Mediix</td><td>New Graduate Physiotherapist</td><td>Melbourne</td><td>2026-07-25</td></tr>
+<tr><td>Estia Health</td><td>Registered Nurse</td><td>Australia</td><td>2026-07-25</td></tr>
+<tr><td>Estia Health</td><td>Registered Nurse / Casual Role / Keysborough</td><td>Melbourne</td><td>2026-07-25</td></tr>
+<tr><td>HammondCare</td><td>Registered Nurse</td><td>Sydney</td><td>2026-07-25</td></tr>
+<tr><td>BlueCare</td><td>Registered Nurse</td><td>Hervey Bay</td><td>2026-07-25</td></tr>
+<tr><td>BlueCare</td><td>Registered Nurse Medical Ward</td><td>Maroochydore</td><td>2026-07-25</td></tr>
+<tr><td>UnitingCare Health</td><td>Registered Nurse Medical Ward</td><td>Maroochydore</td><td>2026-07-25</td></tr>
+<tr><td>Dm50</td><td>Registered Nurse - Casual</td><td>Australia</td><td>2026-07-25</td></tr>
+<tr><td>Westviewhealth</td><td>Registered Nurse</td><td>Mercy Place Wyndham</td><td>2026-07-25</td></tr>
+<tr><td>Extendicarecharleswood</td><td>Registered Nurse</td><td>Mercy Place Wyndham</td><td>2026-07-25</td></tr>
+<tr><td>ST VINCENT'S PRIVATE HOSPITAL SYDNEY</td><td>Registered Nurse</td><td>Sydney</td><td>2026-07-25</td></tr>
+<tr><td>Mediix</td><td>Early Career Physiotherapist / Private Practice</td><td>Melbourne</td><td>2026-07-25</td></tr>
+<tr><td>Mediix</td><td>Physiotherapist / Private Practice / Full-time</td><td>Melbourne</td><td>2026-07-25</td></tr>
+<tr><td>Accord Care QLD Pty Ltd</td><td>Disability Support Worker</td><td>Melbourne</td><td>2026-07-25</td></tr>
+<tr><td>Extendicarecharleswood</td><td>Physiotherapist</td><td>Melbourne</td><td>2026-07-25</td></tr>
+<tr><td>Mymhcommunity</td><td>Registered Nurse - Subacute Hospital</td><td>Young</td><td>2026-07-25</td></tr>
+<tr><td>Westviewhealth</td><td>Registered Nurse - Subacute Hospital</td><td>Young</td><td>2026-07-25</td></tr>
+<tr><td>Extendicarecharleswood</td><td>Registered Nurse - Subacute Hospital</td><td>Young</td><td>2026-07-25</td></tr>
+<tr><td>St Vincent’s Health Australia</td><td>Registered Nurse</td><td>Sydney</td><td>2026-07-25</td></tr>
+<tr><td>Epworth HealthCare</td><td>Registered Nurse - Anaesthetics / Pacu</td><td>Melbourne</td><td>2026-07-25</td></tr>
+<tr><td>BHP INNOVATION Pty Ltd</td><td>Surface Mechanical Maintenance Fitter - Olympic Dam, 7/7</td><td>Roxby Downs</td><td>2026-07-25</td></tr>
+<tr><td>Coates</td><td>Fitter Mechanic - Field Service</td><td>Wollongong</td><td>2026-07-25</td></tr>
+<tr><td>SANDVIK</td><td>Service Technician</td><td>Mackay</td><td>2026-07-25</td></tr>
+<tr><td>WesTrac Pty Ltd</td><td>Plant Mechanic - Field Service</td><td>Tamworth</td><td>2026-07-25</td></tr>
+<tr><td>WesTrac Pty Ltd</td><td>Heavy Duty Mechanic - Field Service</td><td>Kalgoorlie</td><td>2026-07-25</td></tr>
+<tr><td>Ingersoll Rand PLC</td><td>Service Technician</td><td>WA</td><td>2026-07-25</td></tr>
+<tr><td>E80 Group</td><td>Service Technician Automation - Yatala</td><td>Melbourne</td><td>2026-07-25</td></tr>
+<tr><td>CONSTRUCCIONES Y AUXILIAR DE FERROCARRILES S.A</td><td>Electrical Maintenance Technician</td><td>Sydney</td><td>2026-07-25</td></tr>
+<tr><td>SRG Global</td><td>Lubrication Technician</td><td>Portland</td><td>2026-07-25</td></tr>
+<tr><td>SRG Global</td><td>Technical Specialist - Ssan Equipment</td><td>Australia</td><td>2026-07-25</td></tr>
+<tr><td>SRG Global</td><td>Operational Technology (ot) Field Specialist</td><td>Perth</td><td>2026-07-25</td></tr>
+<tr><td>Cw Ems</td><td>Building Maintenance Technician</td><td>Australia</td><td>2026-07-25</td></tr>
+<tr><td>Scania CV AB</td><td>Heavy Vehicle Technician - $6000 Sign On Bonus - Wingfield</td><td>Wingfield</td><td>2026-07-25</td></tr>
+<tr><td>KARL STORZ SE & Co. KG</td><td>Technical Solutions Specialist Qld (m/f/d)</td><td>Queensland</td><td>2026-07-25</td></tr>
+<tr><td>Orora Group</td><td>Maintenance Fitter Day</td><td>Adelaide</td><td>2026-07-25</td></tr>
+<tr><td>Komatsu Marketing Support Australia Pty Ltd</td><td>Technician - Field Service Rental</td><td>Adelaide</td><td>2026-07-25</td></tr>
+<tr><td>Komatsu Marketing Support Australia Pty Ltd</td><td>Technician</td><td>Gladstone</td><td>2026-07-25</td></tr>
+<tr><td>Komatsu Marketing Support Australia Pty Ltd</td><td>Forklift Mechanic - Rockhampton (atr-f177)</td><td>Rockhampton</td><td>2026-07-25</td></tr>
+<tr><td>Komatsu Marketing Support Australia Pty Ltd</td><td>Technician - Resident Field Service</td><td>Wollongong</td><td>2026-07-25</td></tr>
+<tr><td>Komatsu Marketing Support Australia Pty Ltd</td><td>Field Service Technician - Wollongong (atr-f219)</td><td>Wollongong</td><td>2026-07-25</td></tr>
+<tr><td>Komatsu Marketing Support Australia Pty Ltd</td><td>Hv Electrician - Product Support Advisor</td><td>Pilbara</td><td>2026-07-25</td></tr>
+<tr><td>Komatsu Marketing Support Australia Pty Ltd</td><td>Hd Fitter - Field Service</td><td>Kalgoorlie</td><td>2026-07-25</td></tr>
+<tr><td>The Good Guys</td><td>Retail Team Member</td><td>Bundall</td><td>2026-07-25</td></tr>
+<tr><td>GPC Tools & Equipment Sydney</td><td>Customer Sales & Service - Repco Wodonga - Full Time</td><td>Wodonga</td><td>2026-07-25</td></tr>
+<tr><td>EssilorLuxottica SA</td><td>Associate Dispenser / Opsm / Pt / Vic / Werribee</td><td>Melbourne</td><td>2026-07-25</td></tr>
+<tr><td>EssilorLuxottica SA</td><td>Retail Associate / Oakley / C / Vic / Chadstone</td><td>Melbourne</td><td>2026-07-25</td></tr>
+<tr><td>EssilorLuxottica SA</td><td>Retail Associate / Sunglass Hut / C / Vic / Emporium</td><td>Melbourne</td><td>2026-07-25</td></tr>
+<tr><td>EssilorLuxottica SA</td><td>Retail Associate 1</td><td>Kawana Waters</td><td>2026-07-25</td></tr>
+<tr><td>EssilorLuxottica SA</td><td>Retail Associate I Sunglass Hut I Casual I Jetty Road, Sa</td><td>Glenelg</td><td>2026-07-25</td></tr>
+<tr><td>EssilorLuxottica SA</td><td>Associate Dispenser I Opsm I Full Time I Marion, Sa</td><td>Oaklands Park</td><td>2026-07-25</td></tr>
+<tr><td>EssilorLuxottica SA</td><td>Retail Associate I Sunglass Hut I Casual I Elizabeth, Sa</td><td>Elizabeth</td><td>2026-07-25</td></tr>
+<tr><td>EssilorLuxottica SA</td><td>Associate Dispenser / Opsm / Pt / Vic / Bairnsdale</td><td>Bairnsdale</td><td>2026-07-25</td></tr>
+<tr><td>EssilorLuxottica SA</td><td>Associate Dispenser / Opsm / Pt / Vic / Chadstone</td><td>Melbourne</td><td>2026-07-25</td></tr>
+<tr><td>Sephora USA Inc</td><td>Retail Assistant - Mt Gravatt</td><td>Mt Gravatt</td><td>2026-07-25</td></tr>
+<tr><td>Sephora USA Inc</td><td>Retail Assistant - Bondi</td><td>Sydney</td><td>2026-07-25</td></tr>
+<tr><td>H & M Hennes & Mauritz AB</td><td>Casual Sales Advisor - Docklands</td><td>Melbourne</td><td>2026-07-25</td></tr>
+<tr><td>Skip to main con</td><td>Warehouse Order Picker</td><td>Waverley</td><td>2026-07-25</td></tr>
+<tr><td>Cotton On</td><td>Part Time Team Member - Cotton On Westfield Garden City</td><td>Mount Gravatt</td><td>2026-07-25</td></tr>
+<tr><td>GPC Tools & Equipment Sydney</td><td>Store Stock Associate</td><td>Australia</td><td>2026-07-25</td></tr>
+<tr><td>TJX Winners HomeSense</td><td>Store Associate - Casual</td><td>Rockhampton</td><td>2026-07-25</td></tr>
+<tr><td>DHL Group</td><td>Brisbane Airport /storeperson Level 1</td><td>Brisbane</td><td>2026-07-25</td></tr>
+<tr><td>IDEXX Laboratories, Inc.</td><td>Stores Officer</td><td>Brisbane</td><td>2026-07-25</td></tr>
+<tr><td>Aldi Australia</td><td>Junior Store Assistant - Gladstone</td><td>West Gladstone</td><td>2026-07-25</td></tr>
+<tr><td>Aidapply</td><td>Sales Assistant - Port Melbourne</td><td>Melbourne</td><td>2026-07-25</td></tr>
+<tr><td>The Trustee For The Salvation Army Victoria Property Trust</td><td>Sales Assistant - Port Melbourne</td><td>Melbourne</td><td>2026-07-25</td></tr>
+<tr><td>Saveonsahara</td><td>Sales Assistant - Port Melbourne</td><td>Melbourne</td><td>2026-07-25</td></tr>
+<tr><td>The Salvation Army</td><td>Sales Assistant - Port Melbourne</td><td>Melbourne</td><td>2026-07-25</td></tr>
+<tr><td>SBD Inc</td><td>Business Care Partner</td><td>Melbourne</td><td>2026-07-25</td></tr>
+<tr><td>Inchcape</td><td>Administration Assistant</td><td>Melbourne</td><td>2026-07-25</td></tr>
+<tr><td>Komatsu Marketing Support Australia Pty Ltd</td><td>Service Coordinator - Townsville (atr-m149)</td><td>Townsville</td><td>2026-07-25</td></tr>
+<tr><td>Cushman & Wakefield</td><td>Facilities Coordinator</td><td>Sydney</td><td>2026-07-25</td></tr>
+<tr><td>Talison Lithium</td><td>Product Haulage And Shipping Coordinator</td><td>Greenbushes</td><td>2026-07-25</td></tr>
+<tr><td>Nuvasivejp</td><td>Distribution Coordinator</td><td>Australia</td><td>2026-07-25</td></tr>
+<tr><td>Gold Fields</td><td>Coordinator : Projects (electrical)</td><td>Granny Smith - Laverton</td><td>2026-07-25</td></tr>
+<tr><td>461</td><td>Admin Support Team Member - West Operations (wa/ Sa/nt)</td><td>Unley</td><td>2026-07-25</td></tr>
+<tr><td>Osudiningjobs</td><td>Admin Support Team Member - West Operations (wa/ Sa/nt)</td><td>Unley</td><td>2026-07-25</td></tr>
+<tr><td>The University</td><td>Indigenous Graduate Research Program Coordinator</td><td>Melbourne</td><td>2026-07-25</td></tr>
+<tr><td>Extendicarecharleswood</td><td>Inpatient Administrative Coordinator</td><td>Melbourne</td><td>2026-07-25</td></tr>
+<tr><td>Westviewhealth</td><td>Inpatient Administrative Coordinator</td><td>Melbourne</td><td>2026-07-25</td></tr>
+<tr><td>Pets at Home</td><td>Retail Sales Assistant / Puppy School Trainer / Casual / Engadine</td><td>Campbelltown</td><td>2026-07-25</td></tr>
+<tr><td>Thepetspotco</td><td>Retail Sales Assistant / Puppy School Trainer / Casual / Engadine</td><td>Campbelltown</td><td>2026-07-25</td></tr>
+<tr><td>transport</td><td>Executive Assistant</td><td>Australia</td><td>2026-07-25</td></tr>
+<tr><td>Gippsland Health Alliance</td><td>Administration Assistant</td><td>Warragul</td><td>2026-07-25</td></tr>
+<tr><td>JBS Australia Pty Ltd</td><td>International Workforce Compliance Specialist</td><td>Brisbane</td><td>2026-07-25</td></tr>
+<tr><td>University of Melbourne</td><td>Indigenous Graduate Research Program Coordinator</td><td>Melbourne</td><td>2026-07-25</td></tr>
+<tr><td>The University Of Melbourne</td><td>Indigenous Graduate Research Program Coordinator</td><td>Melbourne</td><td>2026-07-25</td></tr>
+<tr><td>WesTrac Pty Ltd</td><td>Customer Coordinator</td><td>Tomago</td><td>2026-07-25</td></tr>
+<tr><td>dcj</td><td>Housing Support Assistant</td><td>Sydney</td><td>2026-07-25</td></tr>
+<tr><td>dcj</td><td>Executive Support Officer</td><td>Calala</td><td>2026-07-25</td></tr>
+<tr><td>dcj.nsw.gov.au</td><td>Executive Support Officer</td><td>Calala</td><td>2026-07-25</td></tr>
+<tr><td>dcj</td><td>Executive Assistant</td><td>Sydney</td><td>2026-07-25</td></tr>
+<tr><td>dcj.nsw.gov.au</td><td>Executive Assistant</td><td>Sydney</td><td>2026-07-25</td></tr>
 </table>
