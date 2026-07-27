@@ -1299,4 +1299,58 @@
 <tr><td>Aldi Australia</td><td>Retail Assistant - Gunnedah</td><td>Gunnedah</td><td>2026-07-26</td></tr>
 <tr><td>Aldi Australia</td><td>Retail Assistant - Robina</td><td>Gold Coast</td><td>2026-07-26</td></tr>
 <tr><td>Peter MacCallum Cancer Centre</td><td>Medical Specialist – Gastroenterologist</td><td>Melbourne</td><td>2026-07-26</td></tr>
+<tr><td>Leidos UK</td><td>Graduate Software Engineer - Scoresby</td><td>Melbourne</td><td>2026-07-27</td></tr>
+<tr><td>Google</td><td>Software Engineer, Payments Identity</td><td>Sydney Nsw</td><td>2026-07-27</td></tr>
+<tr><td>Google</td><td>Software Engineer, Mobile (ios), Google Photos</td><td>Sydney Nsw</td><td>2026-07-27</td></tr>
+<tr><td>staff.unimelb.edu.au</td><td>Data Scientist And Modeller</td><td>Melbourne</td><td>2026-07-27</td></tr>
+<tr><td>onesearch.direct</td><td>Data Scientist, People Analytics</td><td>Sydney</td><td>2026-07-27</td></tr>
+<tr><td>Reserve Bank of Australia</td><td>Ai Engineer – Genai Platforms & Applications</td><td>Australia</td><td>2026-07-27</td></tr>
+<tr><td>Genpt</td><td>Service Desk Analyst - Gpc Asia Pacific - Full Time</td><td>Melbourne</td><td>2026-07-27</td></tr>
+<tr><td>Motionsolutions</td><td>Service Desk Analyst - Gpc Asia Pacific - Full Time</td><td>Melbourne</td><td>2026-07-27</td></tr>
+<tr><td>COVETRUS SOFTWARE SERVICES PTY [AU]</td><td>Finance Business Analyst</td><td>Brisbane</td><td>2026-07-27</td></tr>
+<tr><td>Austin Health</td><td>Physiotherapist Grade 4 Team Leader</td><td>Melbourne</td><td>2026-07-27</td></tr>
+<tr><td>University Health</td><td>Research Assistant</td><td>Melbourne</td><td>2026-07-27</td></tr>
+<tr><td>219</td><td>Registered Nurse - Neuroscience</td><td>Melbourne</td><td>2026-07-27</td></tr>
+<tr><td>St Vincent’s Private Hospitals Limited</td><td>Registered Nurse - Neuroscience</td><td>Melbourne</td><td>2026-07-27</td></tr>
+<tr><td>Retirementcorporation</td><td>Registered Nurse</td><td>Kandos</td><td>2026-07-27</td></tr>
+<tr><td>Opal HealthCare</td><td>Registered Nurse - Gawler Hillside Care Community</td><td>Gawler Hillside</td><td>2026-07-27</td></tr>
+<tr><td>Mediix</td><td>Physiotherapist / Private Practice</td><td>Brisbane</td><td>2026-07-27</td></tr>
+<tr><td>Peter MacCallum Cancer Centre</td><td>Pharmacist Grade 2</td><td>Melbourne</td><td>2026-07-27</td></tr>
+<tr><td>Peter MacCallum Cancer Centre</td><td>Pharmacist Grade 2 – Aseptic Manufacturing</td><td>Melbourne</td><td>2026-07-27</td></tr>
+<tr><td>Opal HealthCare</td><td>Registered Nurse - Meadowbank Grove Care Community</td><td>Meadowbank</td><td>2026-07-27</td></tr>
+<tr><td>WesTrac Pty Ltd</td><td>Plant Mechanic - Field Service</td><td>Bathurst</td><td>2026-07-27</td></tr>
+<tr><td>Optus</td><td>Network Engineer - Field</td><td>Sydney</td><td>2026-07-27</td></tr>
+<tr><td>dormakaba International Holding AG</td><td>Service Technician</td><td>Regency Park</td><td>2026-07-27</td></tr>
+<tr><td>dormakaba International Holding AG</td><td>Service Technician - Industrial</td><td>Perth</td><td>2026-07-27</td></tr>
+<tr><td>Gold Fields Limited</td><td>Technician : Mechanical (fixed)</td><td>St Ives +1</td><td>2026-07-27</td></tr>
+<tr><td>Emploisgevernovahydro</td><td>Wind Farm Field Service Technician - Bodangora</td><td>Dubbo</td><td>2026-07-27</td></tr>
+<tr><td>GE VERNOVA</td><td>Wind Farm Field Service Technician - Bodangora</td><td>Dubbo</td><td>2026-07-27</td></tr>
+<tr><td>OPSM (EssilorLuxottica Group)</td><td>Associate Dispenser</td><td>Bundaberg</td><td>2026-07-27</td></tr>
+<tr><td>OPSM (EssilorLuxottica Group)</td><td>Retail Associate / Sunglass Hut Chatswood, Nsw</td><td>Sydney</td><td>2026-07-27</td></tr>
+<tr><td>OPSM (EssilorLuxottica Group)</td><td>Retail Associate / Rayban / C / Vic / Chadstone</td><td>Melbourne</td><td>2026-07-27</td></tr>
+<tr><td>OPSM (EssilorLuxottica Group)</td><td>Retail Associate / Sunglass Hut Parramatta, Nsw</td><td>Sydney</td><td>2026-07-27</td></tr>
+<tr><td>Coles Supermarkets Australia Pty Ltd</td><td>Inventory Team Member - Coles Group - Wetherill Park Customer Fulfilment Centre</td><td>Campbelltown</td><td>2026-07-27</td></tr>
+<tr><td>OPSM (EssilorLuxottica Group)</td><td>Retail Associate / Opsm Narellan, Nsw</td><td>Narellan</td><td>2026-07-27</td></tr>
+<tr><td>OPSM (EssilorLuxottica Group)</td><td>Retail Associate / Opsm Macquarie Centre, Nsw</td><td>Sydney</td><td>2026-07-27</td></tr>
+<tr><td>OPSM (EssilorLuxottica Group)</td><td>Retail Associate / Opsm Castle Towers, Nsw</td><td>Sydney</td><td>2026-07-27</td></tr>
+<tr><td>Sunglass Hut</td><td>Retail Associate / Sunglass Hut / C / Vic / Emporium</td><td>Melbourne</td><td>2026-07-27</td></tr>
+<tr><td>OPSM (EssilorLuxottica Group)</td><td>Retail Associate I Sunglass Hut I Casual I Jetty Road, Sa</td><td>Glenelg</td><td>2026-07-27</td></tr>
+<tr><td>OPSM (EssilorLuxottica Group)</td><td>Retail Associate 1</td><td>Kawana Waters</td><td>2026-07-27</td></tr>
+<tr><td>OPSM (EssilorLuxottica Group)</td><td>Associate Dispenser / Opsm / Pt / Vic / Bairnsdale</td><td>Bairnsdale</td><td>2026-07-27</td></tr>
+<tr><td>OPSM (EssilorLuxottica Group)</td><td>Associate Dispenser / Opsm / Pt / Vic / Chadstone</td><td>Melbourne</td><td>2026-07-27</td></tr>
+<tr><td>IRT</td><td>Category/procurement Coordinator</td><td>Wollongong</td><td>2026-07-27</td></tr>
+<tr><td>Aldi Australia</td><td>Retail Assistant - Dalyellup *new Store* (coming Soon)</td><td>Bunbury</td><td>2026-07-27</td></tr>
+<tr><td>Reece Group</td><td>Customer Service Coordinator - Viadux (tullamarine)</td><td>Melbourne</td><td>2026-07-27</td></tr>
+<tr><td>BPT THE BIRDANCO PRACTICE TRUST</td><td>Administration Assistant</td><td>Bunbury</td><td>2026-07-27</td></tr>
+<tr><td>rsme.info</td><td>Administration Assistant</td><td>Bunbury</td><td>2026-07-27</td></tr>
+<tr><td>ST VINCENT'S PRIVATE HOSPITAL SYDNEY</td><td>Enrolled Nurse Graduate Program Coordinator</td><td>Melbourne</td><td>2026-07-27</td></tr>
+<tr><td>Aldi Australia</td><td>Retail Assistant - Erskine Park</td><td>Campbelltown</td><td>2026-07-27</td></tr>
+<tr><td>CollegeXpress</td><td>Fleet Coordinator</td><td>Australia</td><td>2026-07-27</td></tr>
+<tr><td>Greenlyamz</td><td>Fleet Coordinator</td><td>Australia</td><td>2026-07-27</td></tr>
+<tr><td>219</td><td>Enrolled Nurse Graduate Program Coordinator</td><td>Melbourne</td><td>2026-07-27</td></tr>
+<tr><td>Sdhhns</td><td>Enrolled Nurse Graduate Program Coordinator</td><td>Melbourne</td><td>2026-07-27</td></tr>
+<tr><td>St Vincent’s Health Australia Group</td><td>Enrolled Nurse Graduate Program Coordinator</td><td>Melbourne</td><td>2026-07-27</td></tr>
+<tr><td>Austin Health</td><td>Data Coordinator</td><td>Melbourne</td><td>2026-07-27</td></tr>
+<tr><td>Austin Health</td><td>Administrator</td><td>Melbourne</td><td>2026-07-27</td></tr>
+<tr><td>Cisco UK</td><td>Administrative Assistant, Melbourne</td><td>Melbourne</td><td>2026-07-27</td></tr>
 </table>
