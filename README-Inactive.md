@@ -1353,4 +1353,41 @@
 <tr><td>Austin Health</td><td>Data Coordinator</td><td>Melbourne</td><td>2026-07-27</td></tr>
 <tr><td>Austin Health</td><td>Administrator</td><td>Melbourne</td><td>2026-07-27</td></tr>
 <tr><td>Cisco UK</td><td>Administrative Assistant, Melbourne</td><td>Melbourne</td><td>2026-07-27</td></tr>
+<tr><td>Alcoar</td><td>Information Technology Vacation Student</td><td>Portland</td><td>2026-07-28</td></tr>
+<tr><td>medifoxdan.de</td><td>Software Engineer</td><td>Sydney</td><td>2026-07-28</td></tr>
+<tr><td>mementor DE GmbH</td><td>Software Engineer</td><td>Sydney</td><td>2026-07-28</td></tr>
+<tr><td>Recair</td><td>Software Engineer</td><td>Melbourne</td><td>2026-07-28</td></tr>
+<tr><td>AIA Australia Limited</td><td>Actuarial Pricing Intern</td><td>Australia</td><td>2026-07-28</td></tr>
+<tr><td>AIA Australia Limited</td><td>2026 2h Actuarial Internship Programme, Aia Group Office</td><td>Australia</td><td>2026-07-28</td></tr>
+<tr><td>dcj</td><td>Financial Analyst (business Partnering)</td><td>Sydney</td><td>2026-07-28</td></tr>
+<tr><td>AusNet Services</td><td>Technical Business Analyst</td><td>Victoria</td><td>2026-07-28</td></tr>
+<tr><td>GENUINE PARTS COMPANY</td><td>Service Desk Analyst - Gpc Asia Pacific - Full Time</td><td>Melbourne</td><td>2026-07-28</td></tr>
+<tr><td>Mediix</td><td>Physiotherapist</td><td>Brisbane</td><td>2026-07-28</td></tr>
+<tr><td>Mediix</td><td>Msk Physiotherapist / Private Practice / Full Time</td><td>Brisbane</td><td>2026-07-28</td></tr>
+<tr><td>Mediix</td><td>Physiotherapist / Gym Based</td><td>Brisbane</td><td>2026-07-28</td></tr>
+<tr><td>Mediix</td><td>Physiotherapist / Full Time</td><td>Brisbane</td><td>2026-07-28</td></tr>
+<tr><td>GENESISCARE</td><td>Registered Nurse</td><td>Australia</td><td>2026-07-28</td></tr>
+<tr><td>Dementia Support Australia</td><td>Clinical Partner - Physiotherapy</td><td>Melbourne</td><td>2026-07-28</td></tr>
+<tr><td>HammondCare</td><td>Clinical Partner - Physiotherapy</td><td>Melbourne</td><td>2026-07-28</td></tr>
+<tr><td>BHP INNOVATION Pty Ltd</td><td>Mechanical Fitter / Maintenance West / Talent Pool</td><td>Perth</td><td>2026-07-28</td></tr>
+<tr><td>Queensland Rail Ltd</td><td>Mechanical Fitter</td><td>Ipswich</td><td>2026-07-28</td></tr>
+<tr><td>Prysmian Australia</td><td>Field Service Engineer</td><td>Australia</td><td>2026-07-28</td></tr>
+<tr><td>Halliburton</td><td>Tool Technician I - Iii</td><td>Perth</td><td>2026-07-28</td></tr>
+<tr><td>Halliburton</td><td>Mechanic Technician I - Iii</td><td>Perth</td><td>2026-07-28</td></tr>
+<tr><td>Hotel Chadstone Melbourne MGallery</td><td>Maintenance Technician</td><td>Sydney</td><td>2026-07-28</td></tr>
+<tr><td>WesTrac Pty Ltd</td><td>Plant Mechanic</td><td>Mt Thorley</td><td>2026-07-28</td></tr>
+<tr><td>OPSM (EssilorLuxottica Group)</td><td>Retail Associate / Sunglass Hut Myer Eastgardens, Nsw</td><td>Eastgardens</td><td>2026-07-28</td></tr>
+<tr><td>OPSM (EssilorLuxottica Group)</td><td>Retail Associate / Sunglass Hut / C / Vic / Myer Launceston</td><td>Launceston</td><td>2026-07-28</td></tr>
+<tr><td>BHP INNOVATION Pty Ltd</td><td>Training Administrator / Adelaide Office / Monday To Friday Roster</td><td>Adelaide</td><td>2026-07-28</td></tr>
+<tr><td>dcj.nsw.gov.au</td><td>Administration Support Assistant - Housing</td><td>Parkes</td><td>2026-07-28</td></tr>
+<tr><td>Webuild SpA</td><td>Expression Of Interest - Project Risk Coordinator</td><td>Cooma</td><td>2026-07-28</td></tr>
+<tr><td>Cochlear</td><td>Logistics Operations Coordinator</td><td>Macquarie University</td><td>2026-07-28</td></tr>
+<tr><td>Cleanaway Waste Management Ltd</td><td>Fleet Administration Coordinator</td><td>Melbourne</td><td>2026-07-28</td></tr>
+<tr><td>JLL</td><td>Executive Team Assistant, Logistics & Industrial</td><td>Brisbane</td><td>2026-07-28</td></tr>
+<tr><td>jll.co.in</td><td>Executive Team Assistant, Logistics & Industrial</td><td>Brisbane</td><td>2026-07-28</td></tr>
+<tr><td>JL</td><td>Executive Team Assistant, Logistics & Industrial</td><td>Brisbane</td><td>2026-07-28</td></tr>
+<tr><td>Cerebralpalsy Org Au</td><td>Student Engagement Coordinator</td><td>Sydney</td><td>2026-07-28</td></tr>
+<tr><td>Cerebral Palsy Alliance</td><td>Student Engagement Coordinator</td><td>Sydney</td><td>2026-07-28</td></tr>
+<tr><td>ASX</td><td>Administration Assistant</td><td>Australia</td><td>2026-07-28</td></tr>
+<tr><td>LE001-ASXOPS ASX OPERATIONS PTY</td><td>Administration Assistant</td><td>Australia</td><td>2026-07-28</td></tr>
 </table>
