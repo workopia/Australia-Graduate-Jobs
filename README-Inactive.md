@@ -1390,4 +1390,130 @@
 <tr><td>Cerebral Palsy Alliance</td><td>Student Engagement Coordinator</td><td>Sydney</td><td>2026-07-28</td></tr>
 <tr><td>ASX</td><td>Administration Assistant</td><td>Australia</td><td>2026-07-28</td></tr>
 <tr><td>LE001-ASXOPS ASX OPERATIONS PTY</td><td>Administration Assistant</td><td>Australia</td><td>2026-07-28</td></tr>
+<tr><td>Estée Lauder</td><td>Estee Lauder Travel Retail - Beauty Advisor Sydney International Airport - Part Time</td><td>Sydney</td><td>2026-07-29</td></tr>
+<tr><td>Estée Lauder</td><td>Le Labo Retail Specialist - Fitzroy - Casual</td><td>Melbourne</td><td>2026-07-29</td></tr>
+<tr><td>Estée Lauder</td><td>Estee Lauder Travel Retail - Beauty Advisor Sydney International Airport - Full Time</td><td>Sydney</td><td>2026-07-29</td></tr>
+<tr><td>Bayer</td><td>Testing Research Associate</td><td>Sydney</td><td>2026-07-29</td></tr>
+<tr><td>Whitehaven Coal</td><td>Vacation Student - Hse (mcc)</td><td>Maules Creek</td><td>2026-07-29</td></tr>
+<tr><td>RELX</td><td>Paid Student Internship Opportunities In Legal Tech</td><td>Australia</td><td>2026-07-29</td></tr>
+<tr><td>LexisNexis</td><td>Paid Student Internship Opportunities In Legal Tech</td><td>Australia</td><td>2026-07-29</td></tr>
+<tr><td>Royal Bank of Canada</td><td>2026/2027 Summer Internship Program – Global Markets</td><td>Sydney</td><td>2026-07-29</td></tr>
+<tr><td>Royal Bank of Canada</td><td>2026/2027 Summer Internship Program – Global Investment Banking</td><td>Sydney</td><td>2026-07-29</td></tr>
+<tr><td>Royal Bank of Canada</td><td>2026/2027 Summer Internship Program – Corporate Banking</td><td>Sydney</td><td>2026-07-29</td></tr>
+<tr><td>Greystar Australia Property Manager</td><td>Intern, Student Operations</td><td>Australia</td><td>2026-07-29</td></tr>
+<tr><td>Gsicareers</td><td>Gsk 12 Month Internship - Regulatory Affairs & Quality Assurance (australia)</td><td>Melbourne</td><td>2026-07-29</td></tr>
+<tr><td>The Ritz-Carlton, Melbourne</td><td>The Ritz-carlton, Melbourne - Finance Internship</td><td>Melbourne</td><td>2026-07-29</td></tr>
+<tr><td>Alcoa</td><td>Health & Safety Vacation Student</td><td>Portland</td><td>2026-07-29</td></tr>
+<tr><td>Alcoa</td><td>Information Technology Vacation Student</td><td>Portland</td><td>2026-07-29</td></tr>
+<tr><td>Amazon</td><td>Software Development Engineer, AWS</td><td>Sydney</td><td>2026-07-29</td></tr>
+<tr><td>Grasslakeanimalhospital</td><td>Software Engineer</td><td>Sydney</td><td>2026-07-29</td></tr>
+<tr><td>Cytbjgs</td><td>Data Scientist, People Analytics</td><td>Sydney</td><td>2026-07-29</td></tr>
+<tr><td>Westpac Group</td><td>Analyst Bao Services</td><td>Sydney</td><td>2026-07-29</td></tr>
+<tr><td>Westpac</td><td>Analyst Bao Services</td><td>Sydney</td><td>2026-07-29</td></tr>
+<tr><td>Sdhhns</td><td>Registered Nurse - Casual</td><td>Australia</td><td>2026-07-29</td></tr>
+<tr><td>MA MISSION AUSTRALIA</td><td>Registered Nurse</td><td>Orange</td><td>2026-07-29</td></tr>
+<tr><td>Opal HealthCare</td><td>Registered Nurse - Mill Park Glades Care Community</td><td>Melbourne</td><td>2026-07-29</td></tr>
+<tr><td>UnitingCare Health</td><td>Registered Nurse</td><td>Bundaberg Riverlea +1</td><td>2026-07-29</td></tr>
+<tr><td>Austin Health</td><td>Physiotherapist Grade 4 Team Leader</td><td>Melbourne</td><td>2026-07-29</td></tr>
+<tr><td>Lifeblood</td><td>Registered Nurse - Hervey Bay</td><td>Hervey Bay</td><td>2026-07-29</td></tr>
+<tr><td>Lifeblood</td><td>Registered Nurse - Goulburn</td><td>Goulburn</td><td>2026-07-29</td></tr>
+<tr><td>Lifeblood</td><td>Registered Nurse</td><td>Port Macquarie</td><td>2026-07-29</td></tr>
+<tr><td>Lifeblood</td><td>Ds Registered Nurse</td><td>Townsville</td><td>2026-07-29</td></tr>
+<tr><td>Lifeblood</td><td>Registered Nurse - The Shire</td><td>Sydney</td><td>2026-07-29</td></tr>
+<tr><td>IRT</td><td>Rn - Qld</td><td>Meridan Plains</td><td>2026-07-29</td></tr>
+<tr><td>BAXTER HEALTHCARE PTY AUS</td><td>Compounding Technician</td><td>Melbourne</td><td>2026-07-29</td></tr>
+<tr><td>UnitingCare</td><td>Clinical - Registered Nurse</td><td>Sydney</td><td>2026-07-29</td></tr>
+<tr><td>Opal HealthCare</td><td>Registered Nurse - Norah Head Care Community</td><td>Norah Head</td><td>2026-07-29</td></tr>
+<tr><td>Opal HealthCare</td><td>Registered Nurse - Narrabeen Glades Care Community</td><td>Narrabeen Glades Care Community</td><td>2026-07-29</td></tr>
+<tr><td>Opal HealthCare</td><td>Registered Nurse - Kanwal Gardens Care Community</td><td>Kanwal</td><td>2026-07-29</td></tr>
+<tr><td>Estia Health</td><td>Registered Nurse</td><td>Queensland +3</td><td>2026-07-29</td></tr>
+<tr><td>Estia Health</td><td>Registered Nurse / Casual</td><td>Queensland +3</td><td>2026-07-29</td></tr>
+<tr><td>125</td><td>Registered Nurse</td><td>Townsville</td><td>2026-07-29</td></tr>
+<tr><td>Barwon Health</td><td>Registered Nurse (grade 2), Cherry Creek</td><td>Cherry Creek</td><td>2026-07-29</td></tr>
+<tr><td>Mymhcommunity</td><td>Registered Nurse</td><td>Albury</td><td>2026-07-29</td></tr>
+<tr><td>Westviewhealth</td><td>Registered Nurse</td><td>Albury</td><td>2026-07-29</td></tr>
+<tr><td>Mira Vista Care Center</td><td>Grade 1 Physiotherapist</td><td>Melbourne</td><td>2026-07-29</td></tr>
+<tr><td>Sdhhns</td><td>Grade 1 Physiotherapist</td><td>Melbourne</td><td>2026-07-29</td></tr>
+<tr><td>Svhs Org Au</td><td>Grade 1 Physiotherapist</td><td>Melbourne</td><td>2026-07-29</td></tr>
+<tr><td>ST VINCENT'S PRIVATE HOSPITAL SYDNEY</td><td>Grade 1 Physiotherapist</td><td>Melbourne</td><td>2026-07-29</td></tr>
+<tr><td>MATER HOSPITAL SYDNEY</td><td>Grade 1 Physiotherapist</td><td>Melbourne</td><td>2026-07-29</td></tr>
+<tr><td>Mqhealth Org Au</td><td>Registered Nurse (theatre - Urology)</td><td>Australia</td><td>2026-07-29</td></tr>
+<tr><td>ST VINCENT'S PRIVATE HOSPITAL SYDNEY</td><td>Registered Nurse - Part Time Permanent</td><td>Australia</td><td>2026-07-29</td></tr>
+<tr><td>Svhs Org Au</td><td>Grade 2 Physiotherapist - Cardiorespiratory</td><td>Melbourne</td><td>2026-07-29</td></tr>
+<tr><td>Mira Vista Care Center</td><td>Registered Nurse Day Surgery (casual)</td><td>Sydney</td><td>2026-07-29</td></tr>
+<tr><td>Sdhhns</td><td>Registered Nurse Day Surgery (casual)</td><td>Sydney</td><td>2026-07-29</td></tr>
+<tr><td>Neurosurgeon role (org unclear)</td><td>Registered Nurse Day Surgery (casual)</td><td>Sydney</td><td>2026-07-29</td></tr>
+<tr><td>Gippsland Health Alliance</td><td>Registered Nurse</td><td>Warragul</td><td>2026-07-29</td></tr>
+<tr><td>Gippsland Health Alliance</td><td>Registered/enrolled Nurse</td><td>Australia</td><td>2026-07-29</td></tr>
+<tr><td>Gippsland Health Alliance</td><td>Perioperative (registered Nurse) 1</td><td>Sale</td><td>2026-07-29</td></tr>
+<tr><td>Gippsland Health Alliance</td><td>Registered And Enrolled Nurses - Nurse Bank</td><td>Bairnsdale</td><td>2026-07-29</td></tr>
+<tr><td>Gippsland Health Alliance</td><td>Registered Nurse - Dialysis</td><td>Bairnsdale</td><td>2026-07-29</td></tr>
+<tr><td>Peter MacCallum Cancer Centre</td><td>Registered Nurse Grade 2 - Perioperative</td><td>Melbourne</td><td>2026-07-29</td></tr>
+<tr><td>UnitingCare</td><td>Registered Nurse - Salamander Bay</td><td>Salamander Bay</td><td>2026-07-29</td></tr>
+<tr><td>Opal HealthCare</td><td>Registered Nurse - Killara Glades Care Community</td><td>Killara Glades</td><td>2026-07-29</td></tr>
+<tr><td>Opal HealthCare</td><td>Registered Nurse (night Duty) - Wahroonga Tallwoods Care Community</td><td>Sydney</td><td>2026-07-29</td></tr>
+<tr><td>Mira Vista Care Center</td><td>Registered Nurse - Part Time Permanent</td><td>Australia</td><td>2026-07-29</td></tr>
+<tr><td>Saveonsahara</td><td>Registered Nurse - Casual</td><td>Sydney</td><td>2026-07-29</td></tr>
+<tr><td>The Salvation Army</td><td>Registered Nurse - Casual</td><td>Sydney</td><td>2026-07-29</td></tr>
+<tr><td>I-MED Radiology</td><td>Registered Nurse</td><td>Central Melbourne</td><td>2026-07-29</td></tr>
+<tr><td>Mediix</td><td>Msk Physiotherapist - Full Time - Private Practice</td><td>Sydney</td><td>2026-07-29</td></tr>
+<tr><td>Mediix</td><td>Part Time Physiotherapist / The Shire</td><td>Sydney</td><td>2026-07-29</td></tr>
+<tr><td>Mediix</td><td>Msk Physiotherapist</td><td>Sydney</td><td>2026-07-29</td></tr>
+<tr><td>166</td><td>Registered Nurse - Casual</td><td>Sydney</td><td>2026-07-29</td></tr>
+<tr><td>Harwell Home Care Pty Ltd</td><td>Registered Nurse (ipswich)</td><td>Ipswich</td><td>2026-07-29</td></tr>
+<tr><td>Estia Health</td><td>Registered Nurse / Kurunjang / Casual</td><td>Melbourne</td><td>2026-07-29</td></tr>
+<tr><td>University of Sydney</td><td>Postdoctoral Research Associate</td><td>Sydney</td><td>2026-07-29</td></tr>
+<tr><td>sydney.edu.au</td><td>Postdoctoral Research Associate</td><td>Sydney</td><td>2026-07-29</td></tr>
+<tr><td>Wearetheuniversity</td><td>Postdoctoral Research Associate</td><td>Sydney</td><td>2026-07-29</td></tr>
+<tr><td>Cerebralpalsy Org Au</td><td>Disability Support Practitioner</td><td>Sydney</td><td>2026-07-29</td></tr>
+<tr><td>Cerebral Palsy Alliance</td><td>Disability Support Practitioner</td><td>Sydney</td><td>2026-07-29</td></tr>
+<tr><td>UnitingCare Queensland</td><td>Registered Nurse</td><td>Brisbane</td><td>2026-07-29</td></tr>
+<tr><td>397</td><td>Registered Nurse</td><td>Australia</td><td>2026-07-29</td></tr>
+<tr><td>Wesley Mission Queensland</td><td>Registered Nurse-5</td><td>North Brisbane</td><td>2026-07-29</td></tr>
+<tr><td>Qmgfoundation</td><td>Registered Nurse-5</td><td>North Brisbane</td><td>2026-07-29</td></tr>
+<tr><td>438</td><td>Physiotherapist Gr 3 Emergency And Ssu</td><td>Melbourne</td><td>2026-07-29</td></tr>
+<tr><td>Mymhcommunity</td><td>Physiotherapist Gr 3 Emergency And Ssu</td><td>Melbourne</td><td>2026-07-29</td></tr>
+<tr><td>Seniorlivingchaplains</td><td>Community Registered Nurse</td><td>Casino</td><td>2026-07-29</td></tr>
+<tr><td>Retirementcorporation</td><td>Community Registered Nurse</td><td>Casino</td><td>2026-07-29</td></tr>
+<tr><td>Austin Health</td><td>Pharmacy Technician</td><td>Melbourne</td><td>2026-07-29</td></tr>
+<tr><td>Epworth HealthCare</td><td>Physiotherapist Inpatient Rehabilitation - Grade 2</td><td>Melbourne</td><td>2026-07-29</td></tr>
+<tr><td>Mediix</td><td>Msk Physiotherapist / With Interest In Pilates</td><td>Melbourne</td><td>2026-07-29</td></tr>
+<tr><td>Mediix</td><td>New Graduate Physiotherapist</td><td>Melbourne</td><td>2026-07-29</td></tr>
+<tr><td>Mediix</td><td>Paediatric Physiotherapist</td><td>Melbourne</td><td>2026-07-29</td></tr>
+<tr><td>Mediix</td><td>New Graduate / Early Career Physiotherapist / Private Practice</td><td>Melbourne</td><td>2026-07-29</td></tr>
+<tr><td>UnitingCare</td><td>Registered Nurse - Gerringong</td><td>Gerringong</td><td>2026-07-29</td></tr>
+<tr><td>Opal HealthCare</td><td>Registered Nurse- Aldinga Beach Care Community</td><td>Adelaide</td><td>2026-07-29</td></tr>
+<tr><td>Opal HealthCare</td><td>Night Duty Registered Nurse - Wahroonga Tallwoods Care Community</td><td>Sydney</td><td>2026-07-29</td></tr>
+<tr><td>Opal HealthCare</td><td>Night Duty Registered Nurse - Toongabbie Terrace Care Community</td><td>Sydney</td><td>2026-07-29</td></tr>
+<tr><td>The Trustee For The Salvation Army Victoria Property Trust</td><td>Registered Nurse - Casual</td><td>Sydney</td><td>2026-07-29</td></tr>
+<tr><td>Epworth HealthCare</td><td>Registered Nurse - Perioperative</td><td>Melbourne</td><td>2026-07-29</td></tr>
+<tr><td>The Salvation Army Australia</td><td>Registered Nurse - Casual</td><td>Sydney</td><td>2026-07-29</td></tr>
+<tr><td>Medilaw Group</td><td>Physiotherapist - Graduate</td><td>Melbourne</td><td>2026-07-29</td></tr>
+<tr><td>Ggrctalent</td><td>Equipment Inspector (mechanical Pre-service Tradesperson)</td><td>Hebden</td><td>2026-07-29</td></tr>
+<tr><td>Coal Assets Australia</td><td>Equipment Inspector (mechanical Pre-service Tradesperson)</td><td>Hebden</td><td>2026-07-29</td></tr>
+<tr><td>Sensus Xylem Inc</td><td>Service Centre Technician</td><td>Kemps Creek</td><td>2026-07-29</td></tr>
+<tr><td>Workingatxylem</td><td>Service Centre Technician</td><td>Kemps Creek</td><td>2026-07-29</td></tr>
+<tr><td>Orora IT</td><td>Maintenance Fitter Day</td><td>Adelaide</td><td>2026-07-29</td></tr>
+<tr><td>Bay To Gulf Chapter Of The Apa</td><td>Technical Officer - Mechanical</td><td>Winnellie</td><td>2026-07-29</td></tr>
+<tr><td>35</td><td>Field Service Technician - Electrician</td><td>Mackay</td><td>2026-07-29</td></tr>
+<tr><td>Air Liquide Australia</td><td>Field Service Technician - Electrician</td><td>Mackay</td><td>2026-07-29</td></tr>
+<tr><td>Air Liquide Healthcare</td><td>Field Service Technician - Electrician</td><td>Mackay</td><td>2026-07-29</td></tr>
+<tr><td>BlueScope Steel</td><td>Mechanical Maintenance technician</td><td>Townsville</td><td>2026-07-29</td></tr>
+<tr><td>EssilorLuxottica SA</td><td>Associate Dispenser / Opsm / Pt / Vic / Ringwood</td><td>Melbourne</td><td>2026-07-29</td></tr>
+<tr><td>Kering</td><td>Gucci Store Operations Associate</td><td>Sydney</td><td>2026-07-29</td></tr>
+<tr><td>OPSM (EssilorLuxottica Group)</td><td>Retail Associate / Oakley / C / Vic / Chadstone</td><td>Melbourne</td><td>2026-07-29</td></tr>
+<tr><td>OPSM (EssilorLuxottica Group)</td><td>Retail Associate / Sunglass Hut / C / Vic / Emporium</td><td>Melbourne</td><td>2026-07-29</td></tr>
+<tr><td>OPSM (EssilorLuxottica Group)</td><td>Associate Dispenser / Opsm / Pt / Vic / Werribee</td><td>Melbourne</td><td>2026-07-29</td></tr>
+<tr><td>OPSM (EssilorLuxottica Group)</td><td>Retail Associate / Opsm Mosman Bridgepoint</td><td>Sydney</td><td>2026-07-29</td></tr>
+<tr><td>UNIQLO</td><td>Now Hiring: Uniqlo Castle Towers– Store Associates (full-time)</td><td>Castle Towers</td><td>2026-07-29</td></tr>
+<tr><td>Anko Global</td><td>Kmart Rosny - Team Member Opportunity</td><td>Rosny</td><td>2026-07-29</td></tr>
+<tr><td>Dm50</td><td>Shop Assistant</td><td>Australia</td><td>2026-07-29</td></tr>
+<tr><td>Reece Group</td><td>Trade Counter Assistant - Fire Footscray (th)</td><td>Melbourne</td><td>2026-07-29</td></tr>
+<tr><td>Reece Fire</td><td>Trade Counter Assistant - Fire Footscray (th)</td><td>Melbourne</td><td>2026-07-29</td></tr>
+<tr><td>EssilorLuxottica</td><td>Retail Associate / Oakley / C / Vic / Chadstone</td><td>Melbourne</td><td>2026-07-29</td></tr>
+<tr><td>Railserve</td><td>Project Coordinator</td><td>Melbourne</td><td>2026-07-29</td></tr>
+<tr><td>Two River Home Inspections</td><td>Project Coordinator</td><td>Melbourne</td><td>2026-07-29</td></tr>
+<tr><td>Aldi Australia</td><td>Retail Assistant - Lakes Entrance</td><td>Lakes Entrance</td><td>2026-07-29</td></tr>
+<tr><td>Aldi Australia</td><td>Retail Assistant - Bairnsdale</td><td>Bairnsdale</td><td>2026-07-29</td></tr>
+<tr><td>Konekt</td><td>Customer Service Specialist</td><td>Launceston</td><td>2026-07-29</td></tr>
 </table>
