@@ -1516,4 +1516,52 @@
 <tr><td>Aldi Australia</td><td>Retail Assistant - Lakes Entrance</td><td>Lakes Entrance</td><td>2026-07-29</td></tr>
 <tr><td>Aldi Australia</td><td>Retail Assistant - Bairnsdale</td><td>Bairnsdale</td><td>2026-07-29</td></tr>
 <tr><td>Konekt</td><td>Customer Service Specialist</td><td>Launceston</td><td>2026-07-29</td></tr>
+<tr><td>sydney.edu.au</td><td>Software Engineer</td><td>Sydney</td><td>2026-07-30</td></tr>
+<tr><td>LEAP Legal</td><td>Support Analyst - Level 1 (accounting Software)</td><td>Sydney</td><td>2026-07-30</td></tr>
+<tr><td>Jobgether</td><td>Software Engineer P2p</td><td>Australia</td><td>2026-07-30</td></tr>
+<tr><td>Canva</td><td>Staff Front End Engineer - Mobile Platform</td><td>Sydney</td><td>2026-07-30</td></tr>
+<tr><td>OBJECTIVE CORPORATION</td><td>Junior Software Support Analyst</td><td>Sydney</td><td>2026-07-30</td></tr>
+<tr><td>RSM</td><td>Graduate - Audit & Assurance</td><td>Australia</td><td>2026-07-30</td></tr>
+<tr><td>IHG Hotels & Resorts</td><td>Hotel Accountant - Intercontinental Hayman Great Barrier Reef</td><td>Australia</td><td>2026-07-30</td></tr>
+<tr><td>gww</td><td>Project Finance Analyst, Path Out</td><td>Melbourne</td><td>2026-07-30</td></tr>
+<tr><td>transport</td><td>Risk & Assurance Analyst</td><td>Australia</td><td>2026-07-30</td></tr>
+<tr><td>transport</td><td>Business Case Analyst</td><td>Australia</td><td>2026-07-30</td></tr>
+<tr><td>UnitingCare</td><td>Clinical - Registered Nurse Central Coast/newcastle Nsw</td><td>Sydney</td><td>2026-07-30</td></tr>
+<tr><td>UnitingCare</td><td>Registered Nurse</td><td>Sydney</td><td>2026-07-30</td></tr>
+<tr><td>UnitingCare</td><td>Clinical - Registered Nurse</td><td>Sydney</td><td>2026-07-30</td></tr>
+<tr><td>Hastings Deering</td><td>Field Service Fitter</td><td>Townsville</td><td>2026-07-30</td></tr>
+<tr><td>Hastings Deering NZ</td><td>Field Service Fitter</td><td>Townsville</td><td>2026-07-30</td></tr>
+<tr><td>Webuild SpA</td><td>Camp Maintenance</td><td>Cooma</td><td>2026-07-30</td></tr>
+<tr><td>Webuild SpA</td><td>Mechanical Fitter</td><td>Perth</td><td>2026-07-30</td></tr>
+<tr><td>BHP INNOVATION Pty Ltd</td><td>Belt Splicer / Inland Conveyors / Maintenance West</td><td>Australia</td><td>2026-07-30</td></tr>
+<tr><td>BHP INNOVATION Pty Ltd</td><td>Surface Mechanical Maintenance Fitter - Olympic Dam, 7/7</td><td>Roxby Downs</td><td>2026-07-30</td></tr>
+<tr><td>BHP INNOVATION Pty Ltd</td><td>Mechanical Technician (fixed Plant) / Wa Iron Ore / Residential Newman</td><td>Newman</td><td>2026-07-30</td></tr>
+<tr><td>JBS Australia Pty Ltd</td><td>Maintenance Fitter</td><td>Rockhampton</td><td>2026-07-30</td></tr>
+<tr><td>JBS Australia Pty Ltd</td><td>Maintenance Electrician</td><td>Leeton</td><td>2026-07-30</td></tr>
+<tr><td>JBS Australia Pty Ltd</td><td>Site Technician</td><td>Corowa</td><td>2026-07-30</td></tr>
+<tr><td>JBS Australia Pty Ltd</td><td>Maintenance Boiler Attendant</td><td>Bordertown</td><td>2026-07-30</td></tr>
+<tr><td>432</td><td>Customer Field Technician I Tamworth</td><td>Tamworth</td><td>2026-07-30</td></tr>
+<tr><td>The Good Guys</td><td>Retail Team Member</td><td>Melbourne</td><td>2026-07-30</td></tr>
+<tr><td>St Vincent de Paul Society Australia</td><td>Shop Assistant</td><td>Wagga Wagga</td><td>2026-07-30</td></tr>
+<tr><td>EssilorLuxottica SA</td><td>Associate Dispenser</td><td>Bundaberg</td><td>2026-07-30</td></tr>
+<tr><td>EssilorLuxottica SA</td><td>Retail Associate I Sunglass Hut I Casual I Myer Marion, Sa</td><td>Oaklands Park</td><td>2026-07-30</td></tr>
+<tr><td>Sephora USA Inc</td><td>Retail Assistant - Northlakes</td><td>Queensland</td><td>2026-07-30</td></tr>
+<tr><td>Sephora USA Inc</td><td>Retail Assistant - Melbourne Central</td><td>Melbourne</td><td>2026-07-30</td></tr>
+<tr><td>Sephora USA Inc</td><td>Retail Assistant - Eastland</td><td>Melbourne</td><td>2026-07-30</td></tr>
+<tr><td>Sephora USA Inc</td><td>Retail Assistant - Chadstone</td><td>Melbourne</td><td>2026-07-30</td></tr>
+<tr><td>EssilorLuxottica</td><td>Retail Associate / Oakley Sydney, Nsw</td><td>Sydney</td><td>2026-07-30</td></tr>
+<tr><td>GPC Tools & Equipment Sydney</td><td>Store Counter Sales</td><td>Sydney</td><td>2026-07-30</td></tr>
+<tr><td>Metcash</td><td>Warehouse Order Picker</td><td>Waverley</td><td>2026-07-30</td></tr>
+<tr><td>Aldi Australia</td><td>Retail Assistant - Australind</td><td>Australind</td><td>2026-07-30</td></tr>
+<tr><td>The Good Guys</td><td>Sales Team Member</td><td>Perth</td><td>2026-07-30</td></tr>
+<tr><td>dcj</td><td>Administration Support Assistant - Housing</td><td>Shellharbour</td><td>2026-07-30</td></tr>
+<tr><td>dcj</td><td>Spc Projects - Executive Assistant</td><td>Sydney</td><td>2026-07-30</td></tr>
+<tr><td>Inchcape plc</td><td>Administration Assistant</td><td>Melbourne</td><td>2026-07-30</td></tr>
+<tr><td>Thejolietbank</td><td>Executive Assistant</td><td>Sydney</td><td>2026-07-30</td></tr>
+<tr><td>CBA New Digital Businesses Pty Ltd</td><td>Executive Assistant</td><td>Sydney</td><td>2026-07-30</td></tr>
+<tr><td>Xn Karrirbanken Kcb</td><td>Executive Assistant</td><td>Sydney</td><td>2026-07-30</td></tr>
+<tr><td>Cbari1</td><td>Executive Assistant</td><td>Sydney</td><td>2026-07-30</td></tr>
+<tr><td>Somethingstudio</td><td>Project Coordinator</td><td>Melbourne</td><td>2026-07-30</td></tr>
+<tr><td>960</td><td>Project Coordinator</td><td>Melbourne</td><td>2026-07-30</td></tr>
+<tr><td>643</td><td>Project Coordinator</td><td>Melbourne</td><td>2026-07-30</td></tr>
 </table>
