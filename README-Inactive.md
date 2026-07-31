@@ -1564,4 +1564,119 @@
 <tr><td>Somethingstudio</td><td>Project Coordinator</td><td>Melbourne</td><td>2026-07-30</td></tr>
 <tr><td>960</td><td>Project Coordinator</td><td>Melbourne</td><td>2026-07-30</td></tr>
 <tr><td>643</td><td>Project Coordinator</td><td>Melbourne</td><td>2026-07-30</td></tr>
+<tr><td>ANZ Bank</td><td>2026/27 Au Institutional Summer Intern Program</td><td>Melbourne</td><td>2026-07-31</td></tr>
+<tr><td>Case Law Reporter</td><td>Paid Student Internship Opportunities In Legal Tech</td><td>Australia</td><td>2026-07-31</td></tr>
+<tr><td>Alcoa Corporation</td><td>Information Technology Vacation Student</td><td>Portland</td><td>2026-07-31</td></tr>
+<tr><td>Alcoa Corporation</td><td>Health & Safety Vacation Student</td><td>Portland</td><td>2026-07-31</td></tr>
+<tr><td>RBC (Royal Bank of Canada)</td><td>2026/2027 Summer Internship Program – Global Markets</td><td>Sydney</td><td>2026-07-31</td></tr>
+<tr><td>Watermancanyonpa</td><td>Intern, Experience</td><td>Los Angeles +10</td><td>2026-07-31</td></tr>
+<tr><td>Watermancanyonpa</td><td>Intern, Production Design</td><td>Los Angeles +10</td><td>2026-07-31</td></tr>
+<tr><td>Lifeblood</td><td>Service Desk Officer</td><td>Melbourne</td><td>2026-07-31</td></tr>
+<tr><td>Amazon</td><td>Software Development Engineer II, Ads AI Core Infra</td><td>Melbourne</td><td>2026-07-31</td></tr>
+<tr><td>ALSTOM TRANSPORT SA</td><td>Help Desk Technician</td><td>Melbourne</td><td>2026-07-31</td></tr>
+<tr><td>DXC Technology Australia & New Zealand</td><td>Analyst Ii Software Engineering</td><td>Australia</td><td>2026-07-31</td></tr>
+<tr><td>Netwealth - See Wealth Differently</td><td>Software Engineer In Test</td><td>Melbourne</td><td>2026-07-31</td></tr>
+<tr><td>careers.uni.edu</td><td>Software Engineer</td><td>Sydney</td><td>2026-07-31</td></tr>
+<tr><td>the University</td><td>Data Scientist And Modeller</td><td>Melbourne</td><td>2026-07-31</td></tr>
+<tr><td>MARSH MCLENNAN</td><td>Business/data Analyst – Marsh Risk</td><td>Melbourne</td><td>2026-07-31</td></tr>
+<tr><td>Marsh & McLennan Companies Inc</td><td>Business/data Analyst – Marsh Risk</td><td>Melbourne</td><td>2026-07-31</td></tr>
+<tr><td>Mable</td><td>Reconciliations Accountant</td><td>Sydney</td><td>2026-07-31</td></tr>
+<tr><td>Grant Thornton Australia</td><td>Service Desk Analyst</td><td>Melbourne</td><td>2026-07-31</td></tr>
+<tr><td>Yancoal Australia Ltd</td><td>Accountant</td><td>Mudgee</td><td>2026-07-31</td></tr>
+<tr><td>RACV</td><td>Junior Systems Analyst</td><td>Melbourne</td><td>2026-07-31</td></tr>
+<tr><td>Opal HealthCare</td><td>Registered Nurse - Varsity Views Care Community</td><td>Lake Street</td><td>2026-07-31</td></tr>
+<tr><td>Opal HealthCare</td><td>Registered Nurse Night Duty - Gawler Hillside Care Community</td><td>Adelaide</td><td>2026-07-31</td></tr>
+<tr><td>Opal HealthCare</td><td>Registered Nurse Night Duty - Aldinga Beach Care Community</td><td>Adelaide</td><td>2026-07-31</td></tr>
+<tr><td>Opal HealthCare</td><td>Registered Nurse - Templestowe Woodlands Care Community</td><td>Melbourne</td><td>2026-07-31</td></tr>
+<tr><td>Opal HealthCare</td><td>Registered Nurse - Northcote Mews Care Community</td><td>Melbourne</td><td>2026-07-31</td></tr>
+<tr><td>Opal HealthCare</td><td>Night Duty Registered Nurse - Bayswater Gardens Care Community</td><td>Melbourne</td><td>2026-07-31</td></tr>
+<tr><td>Opal HealthCare</td><td>Registered Nurse - Clyde North Terrace Care Community</td><td>Melbourne</td><td>2026-07-31</td></tr>
+<tr><td>Opal HealthCare</td><td>Registered Nurse - Greenwich Horizons Care Community</td><td>Sydney</td><td>2026-07-31</td></tr>
+<tr><td>Opal HealthCare</td><td>Personal Care Worker - Ivanhoe</td><td>Melbourne</td><td>2026-07-31</td></tr>
+<tr><td>Opal HealthCare</td><td>Registered Nurse - Canterbury Place Care Community</td><td>Melbourne</td><td>2026-07-31</td></tr>
+<tr><td>Opal HealthCare</td><td>Registered Nurse - Epping Grand Care Community</td><td>Melbourne</td><td>2026-07-31</td></tr>
+<tr><td>Opal HealthCare</td><td>Pathway Carer - Victoria</td><td>Melbourne</td><td>2026-07-31</td></tr>
+<tr><td>Opal HealthCare</td><td>Registered Nurse - Gawler Hillside Care Community</td><td>Adelaide</td><td>2026-07-31</td></tr>
+<tr><td>Opal HealthCare</td><td>Registered Nurse- Aldinga Beach Care Community</td><td>Adelaide</td><td>2026-07-31</td></tr>
+<tr><td>Opal HealthCare</td><td>Night Duty Registered Nurse - Toongabbie Terrace Care Community</td><td>Sydney</td><td>2026-07-31</td></tr>
+<tr><td>Opal HealthCare</td><td>Registered Nurse - Bankstown Terrace Care Community</td><td>Sydney</td><td>2026-07-31</td></tr>
+<tr><td>Opal HealthCare</td><td>Registered Nurse - Killara Glades Care Community</td><td>Sydney</td><td>2026-07-31</td></tr>
+<tr><td>Opal HealthCare</td><td>Registered Nurse - Adelaide & Surrounding Suburbs</td><td>Adelaide</td><td>2026-07-31</td></tr>
+<tr><td>Opal HealthCare</td><td>Registered Nurse - Mill Park Glades Care Community</td><td>Melbourne</td><td>2026-07-31</td></tr>
+<tr><td>Opal HealthCare</td><td>Registered Nurse - Mooroolbark Manor Care Community</td><td>Melbourne</td><td>2026-07-31</td></tr>
+<tr><td>Opal HealthCare</td><td>Night Duty Registered Nurse - Stanmore Place Care Community</td><td>Sydney</td><td>2026-07-31</td></tr>
+<tr><td>Opal HealthCare</td><td>Registered Nurse - Narrabeen Glades Care Community</td><td>Sydney</td><td>2026-07-31</td></tr>
+<tr><td>Opal HealthCare</td><td>Registered Nurse - Lansdowne Gardens On Manns</td><td>Sydney</td><td>2026-07-31</td></tr>
+<tr><td>Opal HealthCare</td><td>Registered Nurse - Kanwal Gardens Care Community</td><td>Sydney</td><td>2026-07-31</td></tr>
+<tr><td>Opal HealthCare</td><td>Registered Nurse (night Duty) - Wahroonga Tallwoods Care Community</td><td>Sydney</td><td>2026-07-31</td></tr>
+<tr><td>UnitingCare</td><td>Uniting Flexconnect Registered Nurse Pool – Sydney West</td><td>Brisbane</td><td>2026-07-31</td></tr>
+<tr><td>UnitingCare</td><td>Uniting Flexconnect Registered Nurse Pool – Sydney</td><td>Sydney</td><td>2026-07-31</td></tr>
+<tr><td>UnitingCare</td><td>Registered Nurse - Wesley Heights</td><td>Sydney</td><td>2026-07-31</td></tr>
+<tr><td>UnitingCare</td><td>Registered Nurse - The Garrison</td><td>Sydney</td><td>2026-07-31</td></tr>
+<tr><td>962</td><td>Customer Field Technician I Melbourne Metro</td><td>Melbourne</td><td>2026-07-31</td></tr>
+<tr><td>982</td><td>Customer Field Technician I Melbourne Metro</td><td>Melbourne</td><td>2026-07-31</td></tr>
+<tr><td>978</td><td>Customer Field Technician I Melbourne Metro</td><td>Melbourne</td><td>2026-07-31</td></tr>
+<tr><td>984</td><td>Customer Field Technician I Melbourne Metro</td><td>Melbourne</td><td>2026-07-31</td></tr>
+<tr><td>Nbqifa</td><td>Customer Field Technician I Melbourne Metro</td><td>Melbourne</td><td>2026-07-31</td></tr>
+<tr><td>Cummins</td><td>Technician - Field Service</td><td>Hume</td><td>2026-07-31</td></tr>
+<tr><td>Gold Fields Limited</td><td>Technician : Mechanical (field)</td><td>Gruyere</td><td>2026-07-31</td></tr>
+<tr><td>Komatsu Marketing Support Australia Pty Ltd</td><td>Field Service Technician - Brisbane (atr-f222)</td><td>Brisbane</td><td>2026-07-31</td></tr>
+<tr><td>Komatsu Marketing Support Australia Pty Ltd</td><td>Technician - Newcastle (atr-f220)</td><td>Newcastle</td><td>2026-07-31</td></tr>
+<tr><td>Amgen Australia Pty Ltd</td><td>Warehouse Technician</td><td>Australia</td><td>2026-07-31</td></tr>
+<tr><td>VANDERLANDE INDUSTRIES</td><td>Service Technician</td><td>Heathwood</td><td>2026-07-31</td></tr>
+<tr><td>Orica Australia Pty Ltd</td><td>Field Support Technician</td><td>South Townsville</td><td>2026-07-31</td></tr>
+<tr><td>Orica Australia Pty Ltd</td><td>Technician - Hcd</td><td>NSW</td><td>2026-07-31</td></tr>
+<tr><td>Liebherr Machines Bulle SA</td><td>Field Service Technician - Electrical</td><td>Sydney</td><td>2026-07-31</td></tr>
+<tr><td>Bureau Veritas</td><td>Maintenance Person</td><td>Wingfield</td><td>2026-07-31</td></tr>
+<tr><td>Caterpillar of Australia</td><td>Maintenance Technician-1</td><td>Australia</td><td>2026-07-31</td></tr>
+<tr><td>The Good Guys</td><td>Retail Team Member</td><td>Mount Gravatt</td><td>2026-07-31</td></tr>
+<tr><td>Puma</td><td>Casual Sales Associate - Homebush</td><td>Sydney</td><td>2026-07-31</td></tr>
+<tr><td>JBS Australia Pty Ltd</td><td>Salesperson</td><td>Sydney</td><td>2026-07-31</td></tr>
+<tr><td>JBS Australia Pty Ltd</td><td>Maintenance Storeperson - Weekend Roster</td><td>Dinmore</td><td>2026-07-31</td></tr>
+<tr><td>GPC Tools & Equipment Sydney</td><td>Customer Sales & Service - Repco Albany - Casual</td><td>Albany</td><td>2026-07-31</td></tr>
+<tr><td>Stellen-essen.de</td><td>Customer Sales & Service - Repco Busselton - Casual</td><td>Australia</td><td>2026-07-31</td></tr>
+<tr><td>GPC Tools & Equipment Sydney</td><td>Customer Sales & Service - Repco Busselton - Casual</td><td>Busselton</td><td>2026-07-31</td></tr>
+<tr><td>UNIQLO</td><td>Now Hiring: Uniqlo Erina Fair– Store Associates (full-time)</td><td>Erina Fair</td><td>2026-07-31</td></tr>
+<tr><td>Hotel Chadstone Melbourne MGallery</td><td>Guest Services - Switchboard Operator / Part Time</td><td>Melbourne</td><td>2026-07-31</td></tr>
+<tr><td>On Shop</td><td>Store Advisor (casual) - Bondi Junction - Sydney</td><td>Sydney</td><td>2026-07-31</td></tr>
+<tr><td>Reece Group</td><td>Trade Counter Assistant - Bendigo</td><td>Bendigo</td><td>2026-07-31</td></tr>
+<tr><td>Reece Plumbing</td><td>Trade Counter Assistant - Bendigo</td><td>Bendigo</td><td>2026-07-31</td></tr>
+<tr><td>Kmart Group</td><td>Kmart Rosny - Team Member Opportunity</td><td>Rosny</td><td>2026-07-31</td></tr>
+<tr><td>Prysmian Australia</td><td>Shipping Associate</td><td>Australia</td><td>2026-07-31</td></tr>
+<tr><td>GPC Tools & Equipment Sydney</td><td>Customer Sales & Service - Repco Casuarina - Nt</td><td>Casuarina</td><td>2026-07-31</td></tr>
+<tr><td>Repco</td><td>Customer Sales & Service - Repco Casuarina - Nt</td><td>Casuarina</td><td>2026-07-31</td></tr>
+<tr><td>Motionsolutions</td><td>Customer Sales & Service - Repco Kilmore - Casual</td><td>Melbourne</td><td>2026-07-31</td></tr>
+<tr><td>GPC Tools & Equipment Sydney</td><td>Customer Sales & Service - Repco Kilmore - Casual</td><td>Melbourne</td><td>2026-07-31</td></tr>
+<tr><td>Nike</td><td>Casual Retail Associate I Athlete - Nike, Gold Coast Harbourtown</td><td>Gold Coast Harbourtown</td><td>2026-07-31</td></tr>
+<tr><td>Nike</td><td>Retail Associate I Full Time Athlete - Nike, Gold Coast Harbourtown</td><td>Gold Coast Harbourtown</td><td>2026-07-31</td></tr>
+<tr><td>Commtq</td><td>Customer Banking Specialist - Courg</td><td>Melbourne</td><td>2026-07-31</td></tr>
+<tr><td>CBA New Digital Businesses Pty Ltd</td><td>Customer Banking Specialist - Courg</td><td>Melbourne</td><td>2026-07-31</td></tr>
+<tr><td>JB Hi-Fi</td><td>Sales Team Member</td><td>Melbourne</td><td>2026-07-31</td></tr>
+<tr><td>DECJUBA</td><td>Casual Retail Assistant - Balgowlah</td><td>Sydney</td><td>2026-07-31</td></tr>
+<tr><td>DECJUBA</td><td>Casual Retail Assistant - South Perth</td><td>Perth</td><td>2026-07-31</td></tr>
+<tr><td>DECJUBA</td><td>Casual Retail Assistant - Hurstville</td><td>Sydney</td><td>2026-07-31</td></tr>
+<tr><td>Coates</td><td>Customer Service Coordinator</td><td>Brisbane</td><td>2026-07-31</td></tr>
+<tr><td>Nyrstar</td><td>Projects Construction Coordinator</td><td>Port Pirie</td><td>2026-07-31</td></tr>
+<tr><td>CMA CGM Group</td><td>Compliance Coordinator / Minto Nsw</td><td>Sydney</td><td>2026-07-31</td></tr>
+<tr><td>CMA CGM Group</td><td>Project Coordinator / Hazelmere Wa</td><td>Hazelmere WA</td><td>2026-07-31</td></tr>
+<tr><td>WesTrac Pty Ltd</td><td>Customer Service Coordinator</td><td>Campbelltown</td><td>2026-07-31</td></tr>
+<tr><td>The Salvation Army</td><td>Administration Assistant</td><td>Brisbane</td><td>2026-07-31</td></tr>
+<tr><td>The Salvation Army Victoria ARC</td><td>Administration Assistant</td><td>Perth</td><td>2026-07-31</td></tr>
+<tr><td>The Salvation Army</td><td>Programs Worker</td><td>Sydney</td><td>2026-07-31</td></tr>
+<tr><td>The Salvation Army Victoria ARC</td><td>Programs Worker</td><td>Sydney</td><td>2026-07-31</td></tr>
+<tr><td>Retirementcorporation</td><td>Marketing And Events Coordinator</td><td>Sydney</td><td>2026-07-31</td></tr>
+<tr><td>Seniorlivingchaplains</td><td>Marketing And Events Coordinator</td><td>Sydney</td><td>2026-07-31</td></tr>
+<tr><td>dcj</td><td>Administration Assistant - Reiby Youth Justice Centre, Youth Justice</td><td>Airds</td><td>2026-07-31</td></tr>
+<tr><td>dcj.nsw.gov.au</td><td>Administration Assistant - Reiby Youth Justice Centre, Youth Justice</td><td>Airds</td><td>2026-07-31</td></tr>
+<tr><td>Aldi Australia</td><td>Retail Assistant - Dubbo</td><td>Dubbo</td><td>2026-07-31</td></tr>
+<tr><td>Westpac</td><td>Executive Assistant</td><td>Sydney</td><td>2026-07-31</td></tr>
+<tr><td>Westpac Group</td><td>Executive Assistant</td><td>Sydney</td><td>2026-07-31</td></tr>
+<tr><td>Konekt</td><td>Regional Support Coordinator</td><td>Darwin</td><td>2026-07-31</td></tr>
+<tr><td>GPC Tools & Equipment Sydney</td><td>Account Specialist</td><td>Sydney</td><td>2026-07-31</td></tr>
+<tr><td>KBR Inc</td><td>Administrative Specialist</td><td>Australia</td><td>2026-07-31</td></tr>
+<tr><td>AkzoNobel N.V.</td><td>Facilities Coordinator</td><td>Melbourne</td><td>2026-07-31</td></tr>
+<tr><td>Aldi Australia</td><td>Retail Assistant - Narooma</td><td>Narooma</td><td>2026-07-31</td></tr>
+<tr><td>Aldi Australia</td><td>Retail Assistant - Weston</td><td>Weston</td><td>2026-07-31</td></tr>
+<tr><td>dcj.nsw.gov.au</td><td>Housing Support Assistant</td><td>Sydney</td><td>2026-07-31</td></tr>
+<tr><td>dcj.nsw.gov.au</td><td>Spc Projects - Executive Assistant</td><td>Sydney</td><td>2026-07-31</td></tr>
 </table>
