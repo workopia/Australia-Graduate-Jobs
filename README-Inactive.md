@@ -1679,4 +1679,179 @@
 <tr><td>Aldi Australia</td><td>Retail Assistant - Weston</td><td>Weston</td><td>2026-07-31</td></tr>
 <tr><td>dcj.nsw.gov.au</td><td>Housing Support Assistant</td><td>Sydney</td><td>2026-07-31</td></tr>
 <tr><td>dcj.nsw.gov.au</td><td>Spc Projects - Executive Assistant</td><td>Sydney</td><td>2026-07-31</td></tr>
+<tr><td>Europcar Inc</td><td>Bi Transformation Trainee - 6-month Internship</td><td>Australia</td><td>2026-08-01</td></tr>
+<tr><td>ANZ Bank</td><td>2026/27 Au Agribusiness Summer Intern Program</td><td>Australia</td><td>2026-08-01</td></tr>
+<tr><td>Accenture Australia</td><td>Java Developer</td><td>Australia</td><td>2026-08-01</td></tr>
+<tr><td>Canva</td><td>Backend Software Engineer - Product & Features (java)</td><td>Sydney</td><td>2026-08-01</td></tr>
+<tr><td>The NSW Department of Education</td><td>Ict Field Services Support Officer</td><td>Griffith</td><td>2026-08-01</td></tr>
+<tr><td>Aston Martin Lagonda Ltd</td><td>Software Engineer</td><td>Gaydon</td><td>2026-08-01</td></tr>
+<tr><td>Jobgether</td><td>Support Specialist (tier 3)</td><td>Australia</td><td>2026-08-01</td></tr>
+<tr><td>University of Melbourne</td><td>Data Scientist And Modeller</td><td>Melbourne</td><td>2026-08-01</td></tr>
+<tr><td>NCS Australia Group</td><td>Gcp Ai Engineer</td><td>Sydney</td><td>2026-08-01</td></tr>
+<tr><td>AIA Australia</td><td>Engineer, Ai Application</td><td>Australia</td><td>2026-08-01</td></tr>
+<tr><td>Txcba</td><td>Data Scientist, People Analytics</td><td>Sydney</td><td>2026-08-01</td></tr>
+<tr><td>University Health</td><td>Data Scientist And Modeller</td><td>Melbourne</td><td>2026-08-01</td></tr>
+<tr><td>Levis Media</td><td>Dtc Data Analyst</td><td>Melbourne</td><td>2026-08-01</td></tr>
+<tr><td>triplezero.vic.gov.au</td><td>Risk Analyst</td><td>Melbourne</td><td>2026-08-01</td></tr>
+<tr><td>Marsh & McLennan Companies Inc</td><td>Compliance Officer</td><td>Sydney</td><td>2026-08-01</td></tr>
+<tr><td>transport.nsw.gov.au</td><td>Business Analyst</td><td>Australia</td><td>2026-08-01</td></tr>
+<tr><td>transport.nsw.gov.au</td><td>Business Analyst - Temporary Opportunity Until 28 Feb 2027</td><td>Australia</td><td>2026-08-01</td></tr>
+<tr><td>Scentre Group Ltd</td><td>Finance Analyst - Development , Design And Construction</td><td>Sydney</td><td>2026-08-01</td></tr>
+<tr><td>IHG</td><td>Hotel Accountant - Intercontinental Hayman Great Barrier Reef</td><td>Hayman Island</td><td>2026-08-01</td></tr>
+<tr><td>Mercer</td><td>Rectification Analyst (apex)</td><td>Sydney</td><td>2026-08-01</td></tr>
+<tr><td>Downer</td><td>Business Analyst</td><td>Melbourne</td><td>2026-08-01</td></tr>
+<tr><td>UA Power Group</td><td>Finance Analyst - Consumer Gross Margin</td><td>Melbourne</td><td>2026-08-01</td></tr>
+<tr><td>Spotless</td><td>Business Analyst</td><td>Melbourne</td><td>2026-08-01</td></tr>
+<tr><td>Downer Group</td><td>Business Analyst</td><td>Melbourne</td><td>2026-08-01</td></tr>
+<tr><td>UnitingCare Health</td><td>Registered Nurse</td><td>Brisbane</td><td>2026-08-01</td></tr>
+<tr><td>UnitingCare Qld</td><td>Registered Nurse</td><td>Warana</td><td>2026-08-01</td></tr>
+<tr><td>Opal HealthCare</td><td>Registered Nurse - Winston Hillside Care Community</td><td>Sydney</td><td>2026-08-01</td></tr>
+<tr><td>Opal HealthCare</td><td>Registered Nurse (night Duty) - Winston Hillside Care Community</td><td>Sydney</td><td>2026-08-01</td></tr>
+<tr><td>Opal HealthCare</td><td>Registered Nurse - Bairnsdale Parklands Care Community</td><td>Bairnsdale</td><td>2026-08-01</td></tr>
+<tr><td>Opal HealthCare</td><td>Waverley Valley Registered Nurse</td><td>Waverley Valley</td><td>2026-08-01</td></tr>
+<tr><td>Opal HealthCare</td><td>Registered Nurse - Paynesville Gardens Care Community</td><td>Paynesville</td><td>2026-08-01</td></tr>
+<tr><td>Opal HealthCare</td><td>Registered Nurse - Lakes Entrance Care Community</td><td>Lakes Entrance</td><td>2026-08-01</td></tr>
+<tr><td>Opal HealthCare</td><td>Registered Nurse - Phillip Island Care Community</td><td>Cowes</td><td>2026-08-01</td></tr>
+<tr><td>Opal HealthCare</td><td>Registered Nurse - Dubbo Homestead Care Community</td><td>Dubbo</td><td>2026-08-01</td></tr>
+<tr><td>Opal HealthCare</td><td>Registered Nurse - Surrey Hills Gardens Care Community</td><td>Surrey Hills Vic</td><td>2026-08-01</td></tr>
+<tr><td>Opal HealthCare</td><td>Registered Nurse - Inverloch Coast Care Community</td><td>Inverloch</td><td>2026-08-01</td></tr>
+<tr><td>Opal HealthCare</td><td>Registered Nurse - Bairnsdale Parklands & Lakes Entrance</td><td>Lakes Entrance +1</td><td>2026-08-01</td></tr>
+<tr><td>Opal HealthCare</td><td>Registered Nurse - Camberwell Gables Care Community</td><td>Melbourne</td><td>2026-08-01</td></tr>
+<tr><td>Opal HealthCare</td><td>Registered Nurse - Warrandyte Gardens Care Community</td><td>Melbourne</td><td>2026-08-01</td></tr>
+<tr><td>Opal HealthCare</td><td>Registered Nurse - Ivanhoe Grand Care Community</td><td>Melbourne</td><td>2026-08-01</td></tr>
+<tr><td>Opal HealthCare</td><td>Registered Nurse - Kew Grove Care Community</td><td>Melbourne</td><td>2026-08-01</td></tr>
+<tr><td>Opal HealthCare</td><td>Registered Nurse Night Duty - Marsden Park Care Community</td><td>Marsden Park</td><td>2026-08-01</td></tr>
+<tr><td>Opal HealthCare</td><td>Registered Nurse -templestowe Views Care Community</td><td>Templestowe Lower Vic</td><td>2026-08-01</td></tr>
+<tr><td>Opal HealthCare</td><td>Registered Nurse Night Duty - Joslin Manor Care Community</td><td>Joslin</td><td>2026-08-01</td></tr>
+<tr><td>Opal HealthCare</td><td>Registered Nurse - Newstead Grand Care Community</td><td>Newstead</td><td>2026-08-01</td></tr>
+<tr><td>Opal HealthCare</td><td>Registered Nurse Night Duty - Glen Osmond Grove Care Community</td><td>Glen Osmond</td><td>2026-08-01</td></tr>
+<tr><td>Opal HealthCare</td><td>Registered Nurse - Warrnambool Riverside And Place Care Community</td><td>Warrnambool</td><td>2026-08-01</td></tr>
+<tr><td>Opal HealthCare</td><td>Registered Nurse - Glenroy Terrace Care Community</td><td>Melbourne</td><td>2026-08-01</td></tr>
+<tr><td>Opal HealthCare</td><td>Registered Nurse - Vermont Views Care Community</td><td>Melbourne</td><td>2026-08-01</td></tr>
+<tr><td>Opal HealthCare</td><td>Registered Nurse - Mount Eliza Botanica Care Community</td><td>Melbourne</td><td>2026-08-01</td></tr>
+<tr><td>Opal HealthCare</td><td>Registered Nurse - Templestowe Grove Care Community</td><td>Melbourne</td><td>2026-08-01</td></tr>
+<tr><td>Opal HealthCare</td><td>Registered Nurse - Avondale Heights Care Community</td><td>Melbourne</td><td>2026-08-01</td></tr>
+<tr><td>Opal HealthCare</td><td>Registered Nurse - Sponsor Opportunity</td><td>Melbourne Vic</td><td>2026-08-01</td></tr>
+<tr><td>Opal HealthCare</td><td>Registered Nurse - Narrandera Homestead Care Community</td><td>Narrandera</td><td>2026-08-01</td></tr>
+<tr><td>Opal HealthCare</td><td>Registered Nurse (night Duty) - Meadowbank Grove Care Community</td><td>Meadowbank</td><td>2026-08-01</td></tr>
+<tr><td>Opal HealthCare</td><td>Registered Nurse - Chiswick Manor Care Community</td><td>Chiswick</td><td>2026-08-01</td></tr>
+<tr><td>Opal HealthCare</td><td>Registered Nurse - Ashmore Gardens Care Community</td><td>Ashmore Gardens</td><td>2026-08-01</td></tr>
+<tr><td>Opal HealthCare</td><td>Registered Nurse - Nambour Gardens Care Community</td><td>Nambour Gardens</td><td>2026-08-01</td></tr>
+<tr><td>Opal HealthCare</td><td>Registered Nurse - Springwood Terrace Care Community</td><td>Brisbane</td><td>2026-08-01</td></tr>
+<tr><td>Opal HealthCare</td><td>Registered Nurse - Mount Waverley Glades Care Community</td><td>Melbourne</td><td>2026-08-01</td></tr>
+<tr><td>Opal HealthCare</td><td>Registered Nurse - Preston Hilltop Care Community</td><td>Melbourne</td><td>2026-08-01</td></tr>
+<tr><td>Opal HealthCare</td><td>Registered Nurse - Bella Vista Gardens Care Community</td><td>Sydney</td><td>2026-08-01</td></tr>
+<tr><td>Opal HealthCare</td><td>Night Duty Registered Nurse - Auburn Glen Care Community</td><td>Sydney</td><td>2026-08-01</td></tr>
+<tr><td>SRG Global</td><td>Operational Technology (ot) Field Specialist</td><td>Perth</td><td>2026-08-01</td></tr>
+<tr><td>KARL STORZ SE & Co. KG</td><td>Technical Solutions Specialist Qld (m/f/d)</td><td>Queensland</td><td>2026-08-01</td></tr>
+<tr><td>Komatsu Marketing Support Australia Pty Ltd</td><td>Field Service Technician - Wollongong (atr-f219)</td><td>Wollongong</td><td>2026-08-01</td></tr>
+<tr><td>Komatsu Marketing Support Australia Pty Ltd</td><td>Technician - Field Service</td><td>Bunbury</td><td>2026-08-01</td></tr>
+<tr><td>Komatsu Marketing Support Australia Pty Ltd</td><td>Mobile Plant Mechanic / Diesel Fitter</td><td>Mt Isa</td><td>2026-08-01</td></tr>
+<tr><td>Komatsu Marketing Support Australia Pty Ltd</td><td>Leading Hand - Field Service</td><td>Port Hedland</td><td>2026-08-01</td></tr>
+<tr><td>GrainCorp Ltd</td><td>Maintenance Fitter - Echuca</td><td>Echuca</td><td>2026-08-01</td></tr>
+<tr><td>GrainCorp Ltd</td><td>Maintenance Fitter - Mackay</td><td>Mackay</td><td>2026-08-01</td></tr>
+<tr><td>GrainCorp Ltd</td><td>Maintenance Fitter - Pinkenba</td><td>Pinkenba</td><td>2026-08-01</td></tr>
+<tr><td>MACA</td><td>Auto Electrician - Field Service</td><td>Australia</td><td>2026-08-01</td></tr>
+<tr><td>MACA</td><td>Serviceperson</td><td>Newman</td><td>2026-08-01</td></tr>
+<tr><td>Hancock Iron Ore</td><td>Maintainer Electrical</td><td>Newman</td><td>2026-08-01</td></tr>
+<tr><td>Evolution Mining</td><td>Electrical Technician</td><td>Parkes</td><td>2026-08-01</td></tr>
+<tr><td>Nordson</td><td>Field Service Technician Ii</td><td>Melbourne</td><td>2026-08-01</td></tr>
+<tr><td>Voith</td><td>Sh 2.0 Field Service Engineer (m/f/d)</td><td>Snowy</td><td>2026-08-01</td></tr>
+<tr><td>Voith</td><td>Field Service Engineer (m/f/d) Balance Of Plant Mechanical - Australia</td><td>Snowy</td><td>2026-08-01</td></tr>
+<tr><td>Perenti Global Ltd</td><td>Btp - Field Service Technicians I plant Mechanic Heavy Diesel - Mt Thorley Based</td><td>Mount Thorley</td><td>2026-08-01</td></tr>
+<tr><td>Perenti Global Ltd</td><td>Btp - Field Service Technician - Mackay Based</td><td>Brisbane</td><td>2026-08-01</td></tr>
+<tr><td>Infios</td><td>Amr Field Service Engineer</td><td>Melbourne</td><td>2026-08-01</td></tr>
+<tr><td>Metso</td><td>Field Service Technician Automation</td><td>Brisbane</td><td>2026-08-01</td></tr>
+<tr><td>Ecolab Pty Ltd</td><td>Field Service Technician (syd To Newcastle)</td><td>Sydney</td><td>2026-08-01</td></tr>
+<tr><td>Ingersoll Rand PLC</td><td>Service Technician</td><td>Kalgoorlie</td><td>2026-08-01</td></tr>
+<tr><td>Ecolab</td><td>Field Service Technician (syd To Newcastle)</td><td>Sydney</td><td>2026-08-01</td></tr>
+<tr><td>Coates</td><td>Fitter Mechanic - Field Service</td><td>Moranbah</td><td>2026-08-01</td></tr>
+<tr><td>Nyrstar</td><td>Tradesperson Fitter</td><td>Port Pirie</td><td>2026-08-01</td></tr>
+<tr><td>Coates</td><td>Pump Mechanic - Field Service</td><td>Kalgoorlie</td><td>2026-08-01</td></tr>
+<tr><td>E80 Group</td><td>Service Technician Automation - Yatala</td><td>Melbourne</td><td>2026-08-01</td></tr>
+<tr><td>WesTrac Pty Ltd</td><td>Field Service Plant Mechanic</td><td>Cobar</td><td>2026-08-01</td></tr>
+<tr><td>The Good Guys</td><td>Retail Team Member</td><td>Melbourne</td><td>2026-08-01</td></tr>
+<tr><td>GENUINE PARTS COMPANY</td><td>Customer Sales & Service - Repco Bendigo - Casual</td><td>Bendigo</td><td>2026-08-01</td></tr>
+<tr><td>GPC Tools & Equipment Sydney</td><td>Customer Sales & Service - Repco Narrogin - Casual</td><td>Narrogin</td><td>2026-08-01</td></tr>
+<tr><td>GENUINE PARTS COMPANY</td><td>Customer Sales & Service - Repco North Rockhampton -casual</td><td>North Rockhampton</td><td>2026-08-01</td></tr>
+<tr><td>Domain</td><td>Sales Associate, Apartments.com - Dallas, Tx</td><td>Melbourne</td><td>2026-08-01</td></tr>
+<tr><td>The Good Guys</td><td>Customer Service Team Member</td><td>Melbourne</td><td>2026-08-01</td></tr>
+<tr><td>The Reject Shop</td><td>Retail Team Member - Karratha</td><td>Karratha</td><td>2026-08-01</td></tr>
+<tr><td>The Reject Shop</td><td>Retail Team Member - Margaret River</td><td>Margaret River</td><td>2026-08-01</td></tr>
+<tr><td>Motionsolutions</td><td>Customer Sales & Service - Repco Clayton - Full Time</td><td>Nth Springvale</td><td>2026-08-01</td></tr>
+<tr><td>GENUINE PARTS COMPANY</td><td>Customer Sales & Service - Repco Clayton - Full Time</td><td>Nth Springvale</td><td>2026-08-01</td></tr>
+<tr><td>Motionsolutions</td><td>Sales Assistant - Amx Pakenham - Casual</td><td>Melbourne</td><td>2026-08-01</td></tr>
+<tr><td>GENUINE PARTS COMPANY</td><td>Sales Assistant - Amx Pakenham - Casual</td><td>Melbourne</td><td>2026-08-01</td></tr>
+<tr><td>Hermès International</td><td>Sales Associate, 12-month Contract, Sydney Trust</td><td>Sydney</td><td>2026-08-01</td></tr>
+<tr><td>The Good Guys</td><td>Sales Team Member</td><td>Melbourne</td><td>2026-08-01</td></tr>
+<tr><td>The Reject Shop</td><td>Retail Team Member - Goondiwindi</td><td>Goondiwindi</td><td>2026-08-01</td></tr>
+<tr><td>UnitingCare Qld</td><td>Warehouse Assistant / Forklift Driver</td><td>Kunda Park</td><td>2026-08-01</td></tr>
+<tr><td>UnitingCare Health</td><td>Warehouse Assistant / Forklift Driver</td><td>Kunda Park</td><td>2026-08-01</td></tr>
+<tr><td>Ingersoll Rand PLC</td><td>Salesperson</td><td>Perth</td><td>2026-08-01</td></tr>
+<tr><td>OPSM (EssilorLuxottica Group)</td><td>Associate Dispenser</td><td>Gladstone</td><td>2026-08-01</td></tr>
+<tr><td>OPSM (EssilorLuxottica Group)</td><td>Retail Associate / Opsm Port Macquarie, Nsw</td><td>Port Macquarie</td><td>2026-08-01</td></tr>
+<tr><td>OPSM (EssilorLuxottica Group)</td><td>Retail Associate / Sunglass Hut, Port Macquarie Central, Nsw</td><td>Port Macquarie</td><td>2026-08-01</td></tr>
+<tr><td>OPSM (EssilorLuxottica Group)</td><td>Retail Associate / Rayban / C / Vic / Chadstone</td><td>Melbourne</td><td>2026-08-01</td></tr>
+<tr><td>OPSM (EssilorLuxottica Group)</td><td>Associate Dispenser / Opsm / Pt / Vic / Altona Gate</td><td>Melbourne</td><td>2026-08-01</td></tr>
+<tr><td>OPSM (EssilorLuxottica Group)</td><td>Retail Associate / Sunglass Hut Parramatta, Nsw</td><td>Sydney</td><td>2026-08-01</td></tr>
+<tr><td>OPSM (EssilorLuxottica Group)</td><td>Retail Associate / Sunglass Hut Chatswood, Nsw</td><td>Sydney</td><td>2026-08-01</td></tr>
+<tr><td>OPSM (EssilorLuxottica Group)</td><td>Retail Associate / Sunglass Hut Bondi, Nsw Junction, Nsw</td><td>Sydney</td><td>2026-08-01</td></tr>
+<tr><td>OPSM (EssilorLuxottica Group)</td><td>Retail Associate / Opsm Castle Towers, Nsw</td><td>Sydney</td><td>2026-08-01</td></tr>
+<tr><td>OPSM (EssilorLuxottica Group)</td><td>Retail Associate / Opsm Macquarie Centre, Nsw</td><td>Sydney</td><td>2026-08-01</td></tr>
+<tr><td>Coles Supermarkets Australia Pty Ltd</td><td>Inventory Team Member - Coles Group - Wetherill Park Customer Fulfilment Centre</td><td>Campbelltown</td><td>2026-08-01</td></tr>
+<tr><td>The North Face</td><td>The North Face : Sales Associate (casual) - Bondi</td><td>Sydney</td><td>2026-08-01</td></tr>
+<tr><td>UNIQLO</td><td>Now Hiring: Uniqlo Chatswood - Store Associates (full-time)</td><td>Sydney</td><td>2026-08-01</td></tr>
+<tr><td>Aldi Australia</td><td>Retail Assistant - Kepnock</td><td>Kepnock</td><td>2026-08-01</td></tr>
+<tr><td>Porters Liquor</td><td>Customer Assistant - Dan Murphy’s Ascot Vale</td><td>Melbourne</td><td>2026-08-01</td></tr>
+<tr><td>Cotton On</td><td>Casual Team Member - Cotton On Broadmeadows Shopping Centre</td><td>Broadmeadows Shopping Centre</td><td>2026-08-01</td></tr>
+<tr><td>Kekoa Iron</td><td>Associate Specialist, Warehouse Operations</td><td>Australia</td><td>2026-08-01</td></tr>
+<tr><td>OPSM (EssilorLuxottica Group)</td><td>Retail Associate I Sunglass Hut I Casual I Myer Marion, Sa</td><td>Oaklands Park</td><td>2026-08-01</td></tr>
+<tr><td>PPG Industries</td><td>Sales Assistant</td><td>Melbourne</td><td>2026-08-01</td></tr>
+<tr><td>AkzoNobel N.V.</td><td>Trade Centre Assistant</td><td>Mackay</td><td>2026-08-01</td></tr>
+<tr><td>Aldi Australia</td><td>Junior Store Assistant - Yarrawonga</td><td>Yarrawonga</td><td>2026-08-01</td></tr>
+<tr><td>Aloyoga Inc</td><td>Sales Associate (full-time) - The Galeries</td><td>Sydney</td><td>2026-08-01</td></tr>
+<tr><td>JB Hi-Fi</td><td>Retail Team Member</td><td>Melbourne</td><td>2026-08-01</td></tr>
+<tr><td>adidas AG</td><td>Casual Retail Professional - Auburn Redyard Outlet, Nsw</td><td>Sydney</td><td>2026-08-01</td></tr>
+<tr><td>adidas AG</td><td>Casual Retail Professional - Sydney Brand Centre, Nsw</td><td>Sydney</td><td>2026-08-01</td></tr>
+<tr><td>adidas AG</td><td>Casual Retail Professional - Homebush Factory Outlet, Nsw</td><td>Sydney</td><td>2026-08-01</td></tr>
+<tr><td>dcj</td><td>Administration Support Assistant - Housing</td><td>Wagga Wagga</td><td>2026-08-01</td></tr>
+<tr><td>BHP INNOVATION Pty Ltd</td><td>Training Administrator / Adelaide Office / Monday To Friday Roster</td><td>Adelaide</td><td>2026-08-01</td></tr>
+<tr><td>Aldi Australia</td><td>Junior Store Assistant - Brandon Park</td><td>Melbourne</td><td>2026-08-01</td></tr>
+<tr><td>Downer</td><td>Site Administrator - Indigenous Trainee (rrjv)</td><td>Kapooka</td><td>2026-08-01</td></tr>
+<tr><td>Spotless</td><td>Site Administrator - Indigenous Trainee (rrjv)</td><td>Kapooka</td><td>2026-08-01</td></tr>
+<tr><td>The Lottery Corporation</td><td>Project Coordinator - Remediation</td><td>Melbourne (Kulin Nation)</td><td>2026-08-01</td></tr>
+<tr><td>TABCORP ASSETS Pty Ltd</td><td>Project Coordinator - Remediation</td><td>Melbourne</td><td>2026-08-01</td></tr>
+<tr><td>Commonwealth Scientific And Industrial Research Organisation</td><td>Executive Assistant - People Partnering & Services</td><td>Melbourne</td><td>2026-08-01</td></tr>
+<tr><td>Commonwealth Scientific And Industrial Research Organisation</td><td>Project Officer - Implementation</td><td>Melbourne</td><td>2026-08-01</td></tr>
+<tr><td>Goodstart Early Learning Ltd</td><td>Administration Assistant</td><td>Buddina</td><td>2026-08-01</td></tr>
+<tr><td>Ixom</td><td>Supply Chain Coordinator</td><td>Melbourne</td><td>2026-08-01</td></tr>
+<tr><td>St Vincent's Health Australia</td><td>Administration Assistant</td><td>Melbourne</td><td>2026-08-01</td></tr>
+<tr><td>SVHA</td><td>Administration Assistant</td><td>Melbourne</td><td>2026-08-01</td></tr>
+<tr><td>Austin Health</td><td>Administrator</td><td>Melbourne</td><td>2026-08-01</td></tr>
+<tr><td>OPSM (EssilorLuxottica Group)</td><td>Local Store Marketing Coordinator - 12 Month Contract</td><td>Sydney</td><td>2026-08-01</td></tr>
+<tr><td>Babcock International</td><td>Payroll Administrative Support Officer</td><td>Adelaide</td><td>2026-08-01</td></tr>
+<tr><td>IRT</td><td>Administration Employee - Irt Culburra Beach</td><td>Culburra Beach</td><td>2026-08-01</td></tr>
+<tr><td>IRT</td><td>Category/procurement Coordinator</td><td>Wollongong</td><td>2026-08-01</td></tr>
+<tr><td>Liontown Resources Ltd</td><td>Site Services Coordinator</td><td>Kathleen</td><td>2026-08-01</td></tr>
+<tr><td>Royal Automobile Club of Victoria</td><td>Community Programs Coordinator</td><td>Melbourne</td><td>2026-08-01</td></tr>
+<tr><td>Hatch Ltd</td><td>Executive Assistant</td><td>Brisbane</td><td>2026-08-01</td></tr>
+<tr><td>Hatch Ltd</td><td>Facilities Assistant / Receptionist</td><td>Brisbane</td><td>2026-08-01</td></tr>
+<tr><td>166</td><td>Administration Assistant</td><td>Australia</td><td>2026-08-01</td></tr>
+<tr><td>Travel + Leisure Co. International</td><td>Field Marketing Coordinator</td><td>Australia</td><td>2026-08-01</td></tr>
+<tr><td>Voith</td><td>Sh 2.0 Warehouse Administrator</td><td>Snowy</td><td>2026-08-01</td></tr>
+<tr><td>Minter Ellison Services Pty Ltd</td><td>Executive Assistant</td><td>Sydney</td><td>2026-08-01</td></tr>
+<tr><td>The Blackstone Group</td><td>Institutional Client Solutions - Executive Assistant - Sydney</td><td>Sydney</td><td>2026-08-01</td></tr>
+<tr><td>BLACKSTONE</td><td>Institutional Client Solutions - Executive Assistant - Sydney</td><td>Sydney</td><td>2026-08-01</td></tr>
+<tr><td>IDP Education</td><td>Project Co-ordinator (pmo) - Back Office Modernisation</td><td>Melbourne</td><td>2026-08-01</td></tr>
+<tr><td>BlueScope Steel</td><td>Customer Service Specialist</td><td>Perth</td><td>2026-08-01</td></tr>
+<tr><td>The University of Queensland</td><td>Executive Assistant</td><td>St Lucia</td><td>2026-08-01</td></tr>
+<tr><td>smp.uq.edu.au</td><td>Executive Assistant</td><td>St Lucia</td><td>2026-08-01</td></tr>
+<tr><td>facultysenate.uark.edu</td><td>Executive Assistant</td><td>St Lucia</td><td>2026-08-01</td></tr>
+<tr><td>Aldi Australia</td><td>Junior Store Assistant - Eden Rise</td><td>Melbourne</td><td>2026-08-01</td></tr>
+<tr><td>Thepetspotco</td><td>Retail Sales Assistant / Casual / Maroochydore</td><td>Maroochydore</td><td>2026-08-01</td></tr>
+<tr><td>DECJUBA</td><td>Casual Retail Assistant - Dfo Brisbane</td><td>Brisbane Airport</td><td>2026-08-01</td></tr>
+<tr><td>DECJUBA</td><td>Casual Retail Assistant - Sunshine Plaza</td><td>Maroochydore</td><td>2026-08-01</td></tr>
+<tr><td>DECJUBA</td><td>Casual Retail Assistant-joondalup</td><td>Perth</td><td>2026-08-01</td></tr>
+<tr><td>DECJUBA</td><td>Casual Retail Assistant - South Wharf</td><td>South Wharf</td><td>2026-08-01</td></tr>
+<tr><td>DECJUBA</td><td>Casual Retail Assistant - North Lakes</td><td>Brisbane</td><td>2026-08-01</td></tr>
 </table>
