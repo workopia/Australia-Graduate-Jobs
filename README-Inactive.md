@@ -1854,4 +1854,106 @@
 <tr><td>DECJUBA</td><td>Casual Retail Assistant-joondalup</td><td>Perth</td><td>2026-08-01</td></tr>
 <tr><td>DECJUBA</td><td>Casual Retail Assistant - South Wharf</td><td>South Wharf</td><td>2026-08-01</td></tr>
 <tr><td>DECJUBA</td><td>Casual Retail Assistant - North Lakes</td><td>Brisbane</td><td>2026-08-01</td></tr>
+<tr><td>The Climate Corporation</td><td>Field Service Engineer (radiology)</td><td>Sydney</td><td>2026-08-02</td></tr>
+<tr><td>Bayer</td><td>Industriemechaniker*in (alle Geschlechter) - Fördertechnik & Hochregallager</td><td>Sydney</td><td>2026-08-02</td></tr>
+<tr><td>SPP</td><td>2027 Spp Summer Internship</td><td>Melbourne</td><td>2026-08-02</td></tr>
+<tr><td>Shift</td><td>Frontend Engineer - React/typescript</td><td>Sydney</td><td>2026-08-02</td></tr>
+<tr><td>Jobgether</td><td>Ios Software Engineer - Ai Neobank App</td><td>Australia</td><td>2026-08-02</td></tr>
+<tr><td>jobdayuib.cat</td><td>Technical Support Representative</td><td>Australia</td><td>2026-08-02</td></tr>
+<tr><td>santillana.cat</td><td>Technical Support Representative</td><td>Australia</td><td>2026-08-02</td></tr>
+<tr><td>Mable</td><td>Front-end Engineer</td><td>Sydney</td><td>2026-08-02</td></tr>
+<tr><td>Chevron Australia</td><td>2026-2027 Information Technology - Software Engineer - Full-time</td><td>Australia</td><td>2026-08-02</td></tr>
+<tr><td>Ingalcivil Com Au</td><td>Campaign Data Analyst</td><td>Australia</td><td>2026-08-02</td></tr>
+<tr><td>Ingalcivil Com Au</td><td>Digital Sales Analyst</td><td>Australia</td><td>2026-08-02</td></tr>
+<tr><td>Flightcrewready</td><td>Data Analyst</td><td>Australia</td><td>2026-08-02</td></tr>
+<tr><td>National Australia Bank (NAB)</td><td>Ai Scientist - Immediate Start</td><td>Melbourne</td><td>2026-08-02</td></tr>
+<tr><td>Heidi Health</td><td>Data Analyst - Sales</td><td>Melbourne</td><td>2026-08-02</td></tr>
+<tr><td>Beta Cae</td><td>Data Analyst</td><td>Australia</td><td>2026-08-02</td></tr>
+<tr><td>Armaokchapter</td><td>Campaign Data Analyst</td><td>Australia</td><td>2026-08-02</td></tr>
+<tr><td>ING</td><td>Digital Sales Analyst</td><td>Australia</td><td>2026-08-02</td></tr>
+<tr><td>Ingenico</td><td>Security Risk Analyst (preston, Melbourne)</td><td>Melbourne</td><td>2026-08-02</td></tr>
+<tr><td>Deloitte Australia</td><td>Analyst / Financial Services - Regulatory Audit / Melbourne</td><td>Melbourne</td><td>2026-08-02</td></tr>
+<tr><td>Deloitte Australia</td><td>Analyst / Financial Services - Regulatory Audit / Sydney</td><td>Sydney</td><td>2026-08-02</td></tr>
+<tr><td>Deloitte Australia</td><td>External Audit / Multiple Opportunities Available</td><td>Sydney</td><td>2026-08-02</td></tr>
+<tr><td>Osudiningjobs</td><td>Business Analyst</td><td>Australia</td><td>2026-08-02</td></tr>
+<tr><td>PRICEWATERHOUSECOOPERS</td><td>Accountant</td><td>Australia</td><td>2026-08-02</td></tr>
+<tr><td>PRICEWATERHOUSECOOPERS</td><td>External Auditor</td><td>Australia</td><td>2026-08-02</td></tr>
+<tr><td>dcj</td><td>Strategic Reporting Analyst</td><td>Sydney</td><td>2026-08-02</td></tr>
+<tr><td>dcj.nsw.gov.au</td><td>Strategic Reporting Analyst</td><td>Sydney</td><td>2026-08-02</td></tr>
+<tr><td>POWERCOR AUSTRALIA Ltd</td><td>Finance Analyst</td><td>Melbourne</td><td>2026-08-02</td></tr>
+<tr><td>Noumi Ltd</td><td>Group Analyst</td><td>Sydney</td><td>2026-08-02</td></tr>
+<tr><td>Orora Group</td><td>Procurement Analyst</td><td>Melbourne</td><td>2026-08-02</td></tr>
+<tr><td>Peter MacCallum Cancer Centre</td><td>Research Assistant - Darcy Lab</td><td>Melbourne</td><td>2026-08-02</td></tr>
+<tr><td>UnitingCare Qld</td><td>Registered Nurse</td><td>Brisbane</td><td>2026-08-02</td></tr>
+<tr><td>Opal HealthCare</td><td>Registered Nurse - Blacktown Terrace Care Community</td><td>Blacktown Terrace</td><td>2026-08-02</td></tr>
+<tr><td>Opal HealthCare</td><td>Registered Nurse - Wantirna Views Care Community</td><td>Wantirna Views</td><td>2026-08-02</td></tr>
+<tr><td>Opal HealthCare</td><td>Registered Nurse - Epping Meadows</td><td>Melbourne</td><td>2026-08-02</td></tr>
+<tr><td>Opal HealthCare</td><td>Registered Nurse</td><td>Melbourne</td><td>2026-08-02</td></tr>
+<tr><td>Opal HealthCare</td><td>Registered Nurse - Croydon Grove Care Community</td><td>Melbourne</td><td>2026-08-02</td></tr>
+<tr><td>Opal HealthCare</td><td>Registered Nurse - Altona Gardens Care Community</td><td>Melbourne</td><td>2026-08-02</td></tr>
+<tr><td>Opal HealthCare</td><td>Registered Nurse - Malvern East Horizons Care Community</td><td>Melbourne</td><td>2026-08-02</td></tr>
+<tr><td>WesTrac Pty Ltd</td><td>Plant Mechanic</td><td>Sydney</td><td>2026-08-02</td></tr>
+<tr><td>Coates</td><td>Field Service Mechanic</td><td>Gold Coast</td><td>2026-08-02</td></tr>
+<tr><td>Nyrstar</td><td>Lubrication Technician</td><td>Port Pirie</td><td>2026-08-02</td></tr>
+<tr><td>WesTrac Pty Ltd</td><td>Drill Technician</td><td>Guildford</td><td>2026-08-02</td></tr>
+<tr><td>ALS Limited</td><td>Maintenance All Rounder</td><td>Malaga</td><td>2026-08-02</td></tr>
+<tr><td>Karriere Als Cs</td><td>Maintenance All Rounder</td><td>Malaga</td><td>2026-08-02</td></tr>
+<tr><td>Caterpillar of Australia</td><td>Shop Technician I</td><td>Australia</td><td>2026-08-02</td></tr>
+<tr><td>Cummins Inc.</td><td>Technician - Field Service</td><td>Muswellbrook</td><td>2026-08-02</td></tr>
+<tr><td>NBN Co Limited</td><td>Customer Field Technician / Melbourne Metro</td><td>Melbourne</td><td>2026-08-02</td></tr>
+<tr><td>783</td><td>Customer Field Technician / Melbourne Metro</td><td>Melbourne</td><td>2026-08-02</td></tr>
+<tr><td>040</td><td>Customer Field Technician / Melbourne Metro</td><td>Melbourne</td><td>2026-08-02</td></tr>
+<tr><td>BHP INNOVATION Pty Ltd</td><td>Mechanical Fitter / Maintenance West / Talent Pool</td><td>Perth</td><td>2026-08-02</td></tr>
+<tr><td>Asset College</td><td>Field Technician</td><td>Perth</td><td>2026-08-02</td></tr>
+<tr><td>Yancoal Australia Ltd</td><td>Maintenance Technician - Mechanical</td><td>Mudgee</td><td>2026-08-02</td></tr>
+<tr><td>Queensland Rail Ltd</td><td>Mechanical Fitter</td><td>Ipswich</td><td>2026-08-02</td></tr>
+<tr><td>WesTrac Pty Ltd</td><td>Field Service Plant Mechanic Cadia</td><td>Cadia</td><td>2026-08-02</td></tr>
+<tr><td>WesTrac Pty Ltd</td><td>Plant Mechanic - Field Service</td><td>Dubbo</td><td>2026-08-02</td></tr>
+<tr><td>WesTrac Pty Ltd</td><td>Auto Electrician - Field Service</td><td>Tamworth</td><td>2026-08-02</td></tr>
+<tr><td>SRG Global</td><td>Lubrication Technician</td><td>Portland</td><td>2026-08-02</td></tr>
+<tr><td>SRG Global</td><td>Technical Specialist - Ssan Equipment</td><td>Australia</td><td>2026-08-02</td></tr>
+<tr><td>The Good Guys</td><td>Retail Team Member</td><td>Lange</td><td>2026-08-02</td></tr>
+<tr><td>EssilorLuxottica</td><td>Associate Dispenser / Opsm / Pt / Vic / Werribee</td><td>Melbourne</td><td>2026-08-02</td></tr>
+<tr><td>EssilorLuxottica</td><td>Retail Associate / Sunglass Hut / C / Vic / Dfo Southwharf</td><td>South Wharf</td><td>2026-08-02</td></tr>
+<tr><td>EssilorLuxottica</td><td>Retail Associate / Sunglass Hut, Port Macquarie Central, Nsw</td><td>Port Macquarie</td><td>2026-08-02</td></tr>
+<tr><td>EssilorLuxottica</td><td>Associate Dispenser / Opsm Laurieton, Nsw</td><td>Laurieton</td><td>2026-08-02</td></tr>
+<tr><td>Sunglass Hut</td><td>Retail Associate / Sunglass Hut / C / Vic / Eastlands</td><td>Melbourne</td><td>2026-08-02</td></tr>
+<tr><td>EssilorLuxottica</td><td>Retail Associate / Sunglass Hut Broadway, Nsw</td><td>Sydney</td><td>2026-08-02</td></tr>
+<tr><td>Porters Liquor</td><td>Customer Assistant - Dan Murphy’s Rowville</td><td>Melbourne</td><td>2026-08-02</td></tr>
+<tr><td>Pinnacle Drinks</td><td>Customer Assistant - Dan Murphy’s Brighton</td><td>Melbourne</td><td>2026-08-02</td></tr>
+<tr><td>Aldi Australia</td><td>Junior Store Assistant - Horsham</td><td>Horsham</td><td>2026-08-02</td></tr>
+<tr><td>Porters Liquor</td><td>Liquor Team Member - Bws Unley</td><td>Sa</td><td>2026-08-02</td></tr>
+<tr><td>Cotton On</td><td>Part Time Sales Team Member- Factorie Broadmeadows</td><td>Melbourne</td><td>2026-08-02</td></tr>
+<tr><td>EssilorLuxottica SA</td><td>Retail Associate / Sunglass Hut, Port Macquarie Central, Nsw</td><td>Port Macquarie</td><td>2026-08-02</td></tr>
+<tr><td>OPSM (EssilorLuxottica Group)</td><td>Associate Dispenser / Opsm Laurieton, Nsw</td><td>Laurieton</td><td>2026-08-02</td></tr>
+<tr><td>Repco</td><td>Customer Sales & Service - Repco North Rockhampton -casual</td><td>North Rockhampton</td><td>2026-08-02</td></tr>
+<tr><td>Motionsolutions</td><td>Customer Sales & Service - Repco Bendigo - Casual</td><td>Bendigo</td><td>2026-08-02</td></tr>
+<tr><td>Motionsolutions</td><td>Customer Sales & Service - Repco Narrogin - Casual</td><td>Narrogin</td><td>2026-08-02</td></tr>
+<tr><td>Repco</td><td>Customer Sales & Service - Repco North Cairns - Casual</td><td>North Cairns</td><td>2026-08-02</td></tr>
+<tr><td>Stellen-Essen.de</td><td>Customer Sales & Service - Repco Tuggerah - Casual</td><td>Tuggerah</td><td>2026-08-02</td></tr>
+<tr><td>GPC Tools & Equipment Sydney</td><td>Customer Sales & Service - Repco North Cairns - Casual</td><td>North Cairns</td><td>2026-08-02</td></tr>
+<tr><td>Trevor GrandPre</td><td>Administration Assistant</td><td>Cairns</td><td>2026-08-02</td></tr>
+<tr><td>Coates</td><td>Customer Service Coordinator</td><td>Chinchilla</td><td>2026-08-02</td></tr>
+<tr><td>Nyrstar</td><td>Projects Construction Coordinator</td><td>Port Pirie</td><td>2026-08-02</td></tr>
+<tr><td>Matterport (part of CoStar Group)</td><td>Recruitment Coordinator</td><td>Sydney</td><td>2026-08-02</td></tr>
+<tr><td>Diageo PLC</td><td>Executive Assistant - Part Time</td><td>Sydney</td><td>2026-08-02</td></tr>
+<tr><td>careers.uni.edu</td><td>Upskilling Project Officer (targeted)</td><td>Camperdown Campus</td><td>2026-08-02</td></tr>
+<tr><td>Whitehaven Coal</td><td>Coordinator - Warehouse</td><td>Gunnedah</td><td>2026-08-02</td></tr>
+<tr><td>UnitingCare</td><td>Leisure And Wellness Coordinator</td><td>Nambucca Heads</td><td>2026-08-02</td></tr>
+<tr><td>UnitingCare</td><td>Leisure & Wellness Coordinator</td><td>Sydney</td><td>2026-08-02</td></tr>
+<tr><td>Aldi Australia</td><td>Retail Assistant - Murray Bridge</td><td>Adelaide</td><td>2026-08-02</td></tr>
+<tr><td>DECJUBA</td><td>Casual Retail Assistant - Epping</td><td>Melbourne</td><td>2026-08-02</td></tr>
+<tr><td>EssilorLuxottica</td><td>Customer Service Coordinator</td><td>Kemps Creek</td><td>2026-08-02</td></tr>
+<tr><td>AusNet Services</td><td>Contract Specialist</td><td>Melbourne</td><td>2026-08-02</td></tr>
+<tr><td>The Ritz-Carlton</td><td>Marketing Coordinator</td><td>Port Douglas</td><td>2026-08-02</td></tr>
+<tr><td>Downer EDI</td><td>Site Administrator - Indigenous Trainee (rrjv)</td><td>Kapooka</td><td>2026-08-02</td></tr>
+<tr><td>Mymhcommunity</td><td>After Hours Co-ordinator</td><td>Melbourne</td><td>2026-08-02</td></tr>
+<tr><td>438</td><td>After Hours Co-ordinator</td><td>Melbourne</td><td>2026-08-02</td></tr>
+<tr><td>Westviewhealth</td><td>After Hours Co-ordinator</td><td>Melbourne</td><td>2026-08-02</td></tr>
+<tr><td>KBR Inc</td><td>Digital Engineering Coordinator</td><td>Melbourne</td><td>2026-08-02</td></tr>
+<tr><td>KBR - Kellogg Brown & Root Pty Ltd</td><td>Digital Engineering Coordinator</td><td>Melbourne</td><td>2026-08-02</td></tr>
+<tr><td>KBR</td><td>Digital Engineering Coordinator</td><td>Melbourne</td><td>2026-08-02</td></tr>
+<tr><td>MAERSK</td><td>4pl Export Logistics Coordinator</td><td>Au</td><td>2026-08-02</td></tr>
+<tr><td>Joinmaersksales</td><td>4pl Export Logistics Coordinator</td><td>Australia</td><td>2026-08-02</td></tr>
+<tr><td>dcj.nsw.gov.au</td><td>Administration Support Assistant - Housing</td><td>Wagga Wagga</td><td>2026-08-02</td></tr>
 </table>
