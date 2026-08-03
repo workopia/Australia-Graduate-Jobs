@@ -1956,4 +1956,41 @@
 <tr><td>MAERSK</td><td>4pl Export Logistics Coordinator</td><td>Au</td><td>2026-08-02</td></tr>
 <tr><td>Joinmaersksales</td><td>4pl Export Logistics Coordinator</td><td>Australia</td><td>2026-08-02</td></tr>
 <tr><td>dcj.nsw.gov.au</td><td>Administration Support Assistant - Housing</td><td>Wagga Wagga</td><td>2026-08-02</td></tr>
+<tr><td>Fluor</td><td>General Maintenance Technician (active Ts/sci Required)</td><td>Adelaide</td><td>2026-08-03</td></tr>
+<tr><td>Evolution Mining</td><td>Vacation Student Metallurgy</td><td>Parkes +3</td><td>2026-08-03</td></tr>
+<tr><td>LE001-ASXOPS ASX OPERATIONS PTY</td><td>Data & Ai Analyst</td><td>Australia</td><td>2026-08-03</td></tr>
+<tr><td>Bilue</td><td>Ai Data Scientist</td><td>Sydney</td><td>2026-08-03</td></tr>
+<tr><td>Investmentbankinginternships</td><td>Campaign Data Analyst</td><td>Australia</td><td>2026-08-03</td></tr>
+<tr><td>Investmentbankinginternships</td><td>Digital Sales Analyst</td><td>Australia</td><td>2026-08-03</td></tr>
+<tr><td>cbcity.nsw.gov.au</td><td>Parking Compliance Officer</td><td>Sydney</td><td>2026-08-03</td></tr>
+<tr><td>Downer Group</td><td>Compliance Advisor</td><td>Milton</td><td>2026-08-03</td></tr>
+<tr><td>Spotless</td><td>Compliance Advisor</td><td>Milton</td><td>2026-08-03</td></tr>
+<tr><td>UnitingCare Health</td><td>Registered Nurse</td><td>Kenmore Hills</td><td>2026-08-03</td></tr>
+<tr><td>Austin Health</td><td>Basic Physician Trainee - Bpt2</td><td>Melbourne</td><td>2026-08-03</td></tr>
+<tr><td>The Salvation Army Victoria ARC</td><td>Registered Nurse</td><td>Brisbane</td><td>2026-08-03</td></tr>
+<tr><td>YMCA (Salvation Army listing?)</td><td>Registered Nurse</td><td>Brisbane</td><td>2026-08-03</td></tr>
+<tr><td>Cerebralpalsy Org Au</td><td>Disability Support Practitioner</td><td>Sydney</td><td>2026-08-03</td></tr>
+<tr><td>Cerebral Palsy Alliance</td><td>Disability Support Practitioner</td><td>Sydney</td><td>2026-08-03</td></tr>
+<tr><td>Somethingstudio</td><td>Civil Maintenance Worker (nightshift)</td><td>Hope Valley</td><td>2026-08-03</td></tr>
+<tr><td>Trevor GrandPre</td><td>Mechanical Fitter</td><td>Larapinta</td><td>2026-08-03</td></tr>
+<tr><td>Greenlyamz</td><td>Mechanical Fitter</td><td>Larapinta</td><td>2026-08-03</td></tr>
+<tr><td>700</td><td>Service & Equipment Engineer</td><td>Melbourne</td><td>2026-08-03</td></tr>
+<tr><td>Solenis</td><td>Service & Equipment Engineer</td><td>Melbourne</td><td>2026-08-03</td></tr>
+<tr><td>SANDVIK</td><td>Service Technician</td><td>Mount Isa</td><td>2026-08-03</td></tr>
+<tr><td>Mineral Resources</td><td>Field Technician</td><td>Osborne Park</td><td>2026-08-03</td></tr>
+<tr><td>GPC Tools & Equipment Sydney</td><td>Sales Assistant - Amx Pakenham - Full Time</td><td>Melbourne</td><td>2026-08-03</td></tr>
+<tr><td>Genpt</td><td>Sales Assistant - Amx Pakenham - Full Time</td><td>Melbourne</td><td>2026-08-03</td></tr>
+<tr><td>EssilorLuxottica</td><td>Retail Associate I Sunglass Hut I Casual I Myer Marion, Sa</td><td>Oaklands Park</td><td>2026-08-03</td></tr>
+<tr><td>EssilorLuxottica</td><td>Retail Associate / Rayban / C / Vic / Chadstone</td><td>Melbourne</td><td>2026-08-03</td></tr>
+<tr><td>EssilorLuxottica</td><td>Retail Associate / Sunglass Hut Parramatta, Nsw</td><td>Sydney</td><td>2026-08-03</td></tr>
+<tr><td>EssilorLuxottica</td><td>Associate Dispenser</td><td>Gladstone</td><td>2026-08-03</td></tr>
+<tr><td>Greenlyamz</td><td>Administration Assistant</td><td>Cairns</td><td>2026-08-03</td></tr>
+<tr><td>Aldi Australia</td><td>Retail Assistant - Lavington</td><td>Lavington</td><td>2026-08-03</td></tr>
+<tr><td>BHP INNOVATION Pty Ltd</td><td>Projects Coordinator - Mine Services / Carrapateena</td><td>Australia</td><td>2026-08-03</td></tr>
+<tr><td>Buildsafe Sydney</td><td>Recruitment Coordinator</td><td>Gold Coast</td><td>2026-08-03</td></tr>
+<tr><td>Msssecurity Com Au</td><td>Administration Assistant</td><td>Queensland</td><td>2026-08-03</td></tr>
+<tr><td>Kit</td><td>Customer Service Specialist - Aftercare</td><td>Perth Central</td><td>2026-08-03</td></tr>
+<tr><td>RSL LifeCare</td><td>Administration Assistant</td><td>Page</td><td>2026-08-03</td></tr>
+<tr><td>RSL LIFECARE LIMITED</td><td>Administration Assistant</td><td>Page</td><td>2026-08-03</td></tr>
+<tr><td>Matterport</td><td>Recruitment Coordinator</td><td>Sydney</td><td>2026-08-03</td></tr>
 </table>
