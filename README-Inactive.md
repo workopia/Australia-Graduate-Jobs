@@ -2070,4 +2070,49 @@
 <tr><td>dcj</td><td>Administration Assistant, Clerk Grade 3/4 - Junee Correctional Centre</td><td>Junee</td><td>2026-08-04</td></tr>
 <tr><td>Benetas</td><td>Administration Assistant - Gisborne Oaks</td><td>Melbourne</td><td>2026-08-04</td></tr>
 <tr><td>Noumi Ltd</td><td>Distribution Coordinator</td><td>Shepparton</td><td>2026-08-04</td></tr>
+<tr><td>afa'afea</td><td>Intern - Business Development And Strategy</td><td>Wacol</td><td>2026-08-05</td></tr>
+<tr><td>ST VINCENT'S HOSPITAL SYDNEY</td><td>Enablement Analyst</td><td>Sydney</td><td>2026-08-05</td></tr>
+<tr><td>University Of Sydney Ancestry & Health Genomics Lab</td><td>Data Analyst - University Of Sydney Ancestry & Health Genomics Lab</td><td>Sydney</td><td>2026-08-05</td></tr>
+<tr><td>Sumitomo Mitsui Banking Corporation</td><td>Analyst, Customer Risk Assessment (up To 14 Months Contract)</td><td>Australia</td><td>2026-08-05</td></tr>
+<tr><td>Domain</td><td>Financial Analyst, Costar Group - Arlington, Va</td><td>Arlington +1</td><td>2026-08-05</td></tr>
+<tr><td>Downer EDI</td><td>Compliance Advisor</td><td>Milton</td><td>2026-08-05</td></tr>
+<tr><td>Wsre</td><td>Registered Nurse</td><td>Brisbane</td><td>2026-08-05</td></tr>
+<tr><td>Austin Health</td><td>Pharmacy Technician</td><td>Melbourne</td><td>2026-08-05</td></tr>
+<tr><td>Kone Corporation</td><td>Maintenance Technician</td><td>Sydney</td><td>2026-08-05</td></tr>
+<tr><td>KONE Oyj</td><td>Maintenance Technician</td><td>Sydney</td><td>2026-08-05</td></tr>
+<tr><td>57</td><td>Maintenance Technician</td><td>Sydney</td><td>2026-08-05</td></tr>
+<tr><td>JBS Australia Pty Ltd</td><td>Maintenance Electrician</td><td>Yanco</td><td>2026-08-05</td></tr>
+<tr><td>JBS Australia Pty Ltd</td><td>Maintenance Fitter</td><td>Yanco</td><td>2026-08-05</td></tr>
+<tr><td>Perenti Global Ltd</td><td>Light Vehicle Fitter - Bellevue</td><td>Bellevue</td><td>2026-08-05</td></tr>
+<tr><td>Vestas</td><td>Service Technician - Au</td><td>Melbourne +6</td><td>2026-08-05</td></tr>
+<tr><td>adidas AG</td><td>Casual Retail Professional - Auburn Redyard Outlet, Nsw</td><td>Sydney</td><td>2026-08-05</td></tr>
+<tr><td>adidas AG</td><td>Casual Retail Professional - Sydney Brand Centre, Nsw</td><td>Sydney</td><td>2026-08-05</td></tr>
+<tr><td>adidas AG</td><td>Casual Retail Professional - Homebush Factory Outlet, Nsw</td><td>Sydney</td><td>2026-08-05</td></tr>
+<tr><td>The Good Guys</td><td>Retail Team Member</td><td>Glenside</td><td>2026-08-05</td></tr>
+<tr><td>OPSM (EssilorLuxottica Group)</td><td>Associate Dispenser I Opsm I Full Time I Marion, Sa</td><td>Oaklands Park</td><td>2026-08-05</td></tr>
+<tr><td>OPSM (EssilorLuxottica Group)</td><td>Retail Associate 1</td><td>Kawana Waters</td><td>2026-08-05</td></tr>
+<tr><td>OPSM (EssilorLuxottica Group)</td><td>Retail Associate I Sunglass Hut I Casual I Myer Marion, Sa</td><td>Oaklands Park</td><td>2026-08-05</td></tr>
+<tr><td>OPSM (EssilorLuxottica Group)</td><td>Retail Associate / Opsm Narellan, Nsw</td><td>Narellan</td><td>2026-08-05</td></tr>
+<tr><td>OPSM (EssilorLuxottica Group)</td><td>Retail Associate I Sunglass Hut I Casual I Elizabeth, Sa</td><td>Elizabeth</td><td>2026-08-05</td></tr>
+<tr><td>OPSM (EssilorLuxottica Group)</td><td>Retail Associate I Sunglass Hut I Casual I Jetty Road, Sa</td><td>Glenelg</td><td>2026-08-05</td></tr>
+<tr><td>OPSM (EssilorLuxottica Group)</td><td>Retail Associate / Sunglass Hut / C / Vic / Myer Launceston</td><td>Launceston</td><td>2026-08-05</td></tr>
+<tr><td>OPSM (EssilorLuxottica Group)</td><td>Associate Dispenser</td><td>Bundaberg</td><td>2026-08-05</td></tr>
+<tr><td>OPSM (EssilorLuxottica Group)</td><td>Associate Dispenser I Opsm I Part Time I Margaret River, Wa</td><td>Margaret River</td><td>2026-08-05</td></tr>
+<tr><td>OPSM (EssilorLuxottica Group)</td><td>Retail Associate / Sunglass Hut / C / Vic / Eastlands</td><td>Melbourne</td><td>2026-08-05</td></tr>
+<tr><td>OPSM (EssilorLuxottica Group)</td><td>Retail Associate / Sunglass Hut Broadway, Nsw</td><td>Sydney</td><td>2026-08-05</td></tr>
+<tr><td>Metcash</td><td>Warehouse Order Picker</td><td>Waverley</td><td>2026-08-05</td></tr>
+<tr><td>Medibank Private Ltd</td><td>Customer Success Coordinator</td><td>Melbourne</td><td>2026-08-05</td></tr>
+<tr><td>Aldi Australia</td><td>Junior Store Assistant - Bacchus Marsh</td><td>Melbourne</td><td>2026-08-05</td></tr>
+<tr><td>The Good Guys</td><td>Sales Team Member</td><td>Melbourne</td><td>2026-08-05</td></tr>
+<tr><td>RMIT University</td><td>Rmit Galleries And Engagement: Coordinator Operations</td><td>Melbourne</td><td>2026-08-05</td></tr>
+<tr><td>Qurmit</td><td>Rmit Galleries And Engagement: Coordinator Operations</td><td>Melbourne</td><td>2026-08-05</td></tr>
+<tr><td>Qurmit</td><td>Operations Coordinator (international Recruitment)</td><td>Melbourne</td><td>2026-08-05</td></tr>
+<tr><td>University of Sydney</td><td>Executive Support Assistant</td><td>Darlington Campus</td><td>2026-08-05</td></tr>
+<tr><td>University of Sydney</td><td>Executive Support Assistant - Targeted</td><td>Darlington Campus</td><td>2026-08-05</td></tr>
+<tr><td>sydney.edu.au</td><td>Executive Support Assistant - Targeted</td><td>Darlington Campus</td><td>2026-08-05</td></tr>
+<tr><td>sydney.edu.au</td><td>Executive Support Assistant</td><td>Darlington Campus</td><td>2026-08-05</td></tr>
+<tr><td>CMA CGM Group</td><td>Compliance Coordinator / Minto Nsw</td><td>Sydney</td><td>2026-08-05</td></tr>
+<tr><td>CMA CGM Group</td><td>Project Coordinator / Hazelmere Wa</td><td>Hazelmere WA</td><td>2026-08-05</td></tr>
+<tr><td>Peter MacCallum Cancer Centre</td><td>Administration Assistant - Medical Oncology</td><td>Melbourne</td><td>2026-08-05</td></tr>
+<tr><td>DHL Group</td><td>Sunshine / Transport Coordinator</td><td>Victoria</td><td>2026-08-05</td></tr>
 </table>
