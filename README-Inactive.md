@@ -2115,4 +2115,58 @@
 <tr><td>CMA CGM Group</td><td>Project Coordinator / Hazelmere Wa</td><td>Hazelmere WA</td><td>2026-08-05</td></tr>
 <tr><td>Peter MacCallum Cancer Centre</td><td>Administration Assistant - Medical Oncology</td><td>Melbourne</td><td>2026-08-05</td></tr>
 <tr><td>DHL Group</td><td>Sunshine / Transport Coordinator</td><td>Victoria</td><td>2026-08-05</td></tr>
+<tr><td>UpGuard</td><td>It & Security Operations Analyst</td><td>Sydney</td><td>2026-08-06</td></tr>
+<tr><td>Lyra Technology Group</td><td>It Support Engineer, Level 2 - Osit</td><td>Osborne Park</td><td>2026-08-06</td></tr>
+<tr><td>Tactiq</td><td>Staff Software Engineer, Browser Extension & Persistence</td><td>Sydney</td><td>2026-08-06</td></tr>
+<tr><td>SAVILLS Pty Ltd</td><td>It Support Officer</td><td>Sydney</td><td>2026-08-06</td></tr>
+<tr><td>Mira Vista Care Center</td><td>Enablement Analyst</td><td>Australia</td><td>2026-08-06</td></tr>
+<tr><td>AGL Energy</td><td>Financial Systems & Data Analyst (12 Month Max-term)</td><td>Melbourne</td><td>2026-08-06</td></tr>
+<tr><td>CommBank</td><td>Entry / Graduate Credit Risk Analyst</td><td>Australia</td><td>2026-08-06</td></tr>
+<tr><td>Kit</td><td>Customer Lifecycle Analyst - Financial Crime</td><td>Australia</td><td>2026-08-06</td></tr>
+<tr><td>NTT AUSTRALIA PTY</td><td>Business Analyst</td><td>Australia</td><td>2026-08-06</td></tr>
+<tr><td>BizCover</td><td>Complaints & Idr Officer</td><td>Sydney</td><td>2026-08-06</td></tr>
+<tr><td>RSL LIFECARE LIMITED</td><td>Registered Nurse</td><td>Condobolin</td><td>2026-08-06</td></tr>
+<tr><td>Cerebralpalsy Org Au</td><td>Disability Support Practitioner</td><td>Sydney</td><td>2026-08-06</td></tr>
+<tr><td>The Hammond Care Group</td><td>Registered Nurse</td><td>Sydney</td><td>2026-08-06</td></tr>
+<tr><td>Seniorlivingchaplains</td><td>Registered Nurse</td><td>Galston</td><td>2026-08-06</td></tr>
+<tr><td>Sdhhns</td><td>Registered Nurse</td><td>Maroochydore</td><td>2026-08-06</td></tr>
+<tr><td>Mymhcommunity</td><td>Physiotherapist</td><td>Melbourne</td><td>2026-08-06</td></tr>
+<tr><td>438</td><td>Physiotherapist</td><td>Melbourne</td><td>2026-08-06</td></tr>
+<tr><td>Westviewhealth</td><td>Physiotherapist</td><td>Melbourne</td><td>2026-08-06</td></tr>
+<tr><td>Sdhhns</td><td>Registered Nurse - Mental Health Rehabilitation Team & Peipod</td><td>Sydney</td><td>2026-08-06</td></tr>
+<tr><td>Mira Vista Care Center</td><td>Registered Nurse - Mental Health Rehabilitation Team & Peipod</td><td>Sydney</td><td>2026-08-06</td></tr>
+<tr><td>St Vincent's Health Australia</td><td>Registered Nurse - Mental Health Rehabilitation Team & Peipod</td><td>Sydney</td><td>2026-08-06</td></tr>
+<tr><td>Sdhhns</td><td>Casual Grade 2 Physiotherapists- Maternity</td><td>Melbourne</td><td>2026-08-06</td></tr>
+<tr><td>St Vincent's Health Australia</td><td>Casual Grade 2 Physiotherapists- Maternity</td><td>Melbourne</td><td>2026-08-06</td></tr>
+<tr><td>Mira Vista Care Center</td><td>Casual Grade 2 Physiotherapists- Maternity</td><td>Melbourne</td><td>2026-08-06</td></tr>
+<tr><td>Epworth HealthCare</td><td>Registered Nurse General Surgical - 5 Gray Richmond</td><td>Melbourne</td><td>2026-08-06</td></tr>
+<tr><td>Epworth HealthCare</td><td>Physiotherapist Inpatient Rehabilitation Abi/neuro - Grade 2</td><td>Melbourne</td><td>2026-08-06</td></tr>
+<tr><td>Harwell Home Care Pty Ltd</td><td>Registered Nurse (brisbane South) (start Asap)</td><td>Brisbane South</td><td>2026-08-06</td></tr>
+<tr><td>Harwell Home Care Pty Ltd</td><td>Registered Nurse (the Hills)</td><td>Australia</td><td>2026-08-06</td></tr>
+<tr><td>166</td><td>Registered Nurse</td><td>Brisbane</td><td>2026-08-06</td></tr>
+<tr><td>Komatsu Marketing Support Australia Pty Ltd</td><td>Technician - Resident Field Service</td><td>Wollongong</td><td>2026-08-06</td></tr>
+<tr><td>unistrasi.it</td><td>Associate Technical Field Engineer</td><td>Sydney</td><td>2026-08-06</td></tr>
+<tr><td>Unisys</td><td>Associate Technical Field Engineer</td><td>Sydney</td><td>2026-08-06</td></tr>
+<tr><td>Mars Australia</td><td>Electrical Technician</td><td>Asquith</td><td>2026-08-06</td></tr>
+<tr><td>Mars</td><td>Electrical Technician</td><td>Asquith</td><td>2026-08-06</td></tr>
+<tr><td>Liebherr Machines Bulle SA</td><td>Field Service Technician</td><td>Sydney</td><td>2026-08-06</td></tr>
+<tr><td>Liebherr Machines Bulle SA</td><td>Service Technician</td><td>Mt Thorley</td><td>2026-08-06</td></tr>
+<tr><td>EssilorLuxottica</td><td>Retail Associate / Oakley / Casual I West Beach Vault, Sa</td><td>West Beach</td><td>2026-08-06</td></tr>
+<tr><td>Nike</td><td>Part Time Athlete / Retail Associate (22.5 Hrs) Nike, South Wharf</td><td>Melbourne Southwharf</td><td>2026-08-06</td></tr>
+<tr><td>Nike</td><td>Full Time Athlete / Retail Associate - Nike, South Wharf</td><td>Melbourne Southwharf</td><td>2026-08-06</td></tr>
+<tr><td>Nike</td><td>Casual Athlete / Retail Associate - Nike, South Wharf</td><td>Melbourne Southwharf</td><td>2026-08-06</td></tr>
+<tr><td>Nike</td><td>Part Time Athlete / Retail Associate - Nike, South Wharf</td><td>Melbourne Southwharf</td><td>2026-08-06</td></tr>
+<tr><td>Nike</td><td>Part Time Athlete / Retail Associate - Nike, Birkenhead Point</td><td>Birkenhead Point</td><td>2026-08-06</td></tr>
+<tr><td>Aldi Australia</td><td>Retail Assistant - Mudgee</td><td>Mudgee</td><td>2026-08-06</td></tr>
+<tr><td>Aldi Australia</td><td>Junior Store Assistant - Maribyrnong</td><td>Melbourne</td><td>2026-08-06</td></tr>
+<tr><td>St Vincent de Paul Society Australia</td><td>Shop Assistant</td><td>Sydney</td><td>2026-08-06</td></tr>
+<tr><td>EssilorLuxottica SA</td><td>Retail Associate</td><td>Melbourne</td><td>2026-08-06</td></tr>
+<tr><td>UnitingCare</td><td>Quality Coordinator</td><td>Griffith</td><td>2026-08-06</td></tr>
+<tr><td>Apa Com Au</td><td>Project Controller</td><td>Brisbane Ann Street</td><td>2026-08-06</td></tr>
+<tr><td>397</td><td>Health And Wellness Coordinator</td><td>Cobbitty</td><td>2026-08-06</td></tr>
+<tr><td>Dm50</td><td>Health And Wellness Coordinator</td><td>Cobbitty</td><td>2026-08-06</td></tr>
+<tr><td>Aldi Australia</td><td>Retail Assistant - Orange</td><td>Orange</td><td>2026-08-06</td></tr>
+<tr><td>Aldi Australia</td><td>Retail Assistant - Wolli Creek</td><td>Sydney</td><td>2026-08-06</td></tr>
+<tr><td>RSL LIFECARE LIMITED</td><td>Quality Coordinator</td><td>Sydney</td><td>2026-08-06</td></tr>
+<tr><td>RMIT University</td><td>Operations Coordinator (international Recruitment)</td><td>Melbourne</td><td>2026-08-06</td></tr>
 </table>
