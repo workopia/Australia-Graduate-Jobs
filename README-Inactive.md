@@ -2169,4 +2169,94 @@
 <tr><td>Aldi Australia</td><td>Retail Assistant - Wolli Creek</td><td>Sydney</td><td>2026-08-06</td></tr>
 <tr><td>RSL LIFECARE LIMITED</td><td>Quality Coordinator</td><td>Sydney</td><td>2026-08-06</td></tr>
 <tr><td>RMIT University</td><td>Operations Coordinator (international Recruitment)</td><td>Melbourne</td><td>2026-08-06</td></tr>
+<tr><td>Evolution Mining</td><td>Vacation Student Metallurgy</td><td>Northparkes +2</td><td>2026-08-07</td></tr>
+<tr><td>Wellington Management</td><td>Intern, Anz</td><td>Sydney</td><td>2026-08-07</td></tr>
+<tr><td>transport.nsw.gov.au</td><td>Software Engineer</td><td>Australia</td><td>2026-08-07</td></tr>
+<tr><td>Datacom</td><td>Graduate Ai & Cx Engineer</td><td>Sydney</td><td>2026-08-07</td></tr>
+<tr><td>Jobgether</td><td>Ai Engineer (remote, International)</td><td>Australia</td><td>2026-08-07</td></tr>
+<tr><td>gesundheitsstellenmarkt.de</td><td>Demand Analyst</td><td>Australia</td><td>2026-08-07</td></tr>
+<tr><td>Carsales</td><td>Data Analyst</td><td>Melbourne</td><td>2026-08-07</td></tr>
+<tr><td>Hbinsurance</td><td>Data And Workforce Analyst</td><td>Australia</td><td>2026-08-07</td></tr>
+<tr><td>NCS Group Australia</td><td>Technical Business Analyst</td><td>Brisbane</td><td>2026-08-07</td></tr>
+<tr><td>POWERCOR AUSTRALIA Ltd</td><td>Business Performance Reporting Analyst</td><td>Melbourne</td><td>2026-08-07</td></tr>
+<tr><td>transport.nsw.gov.au</td><td>Business Case Analyst</td><td>Australia</td><td>2026-08-07</td></tr>
+<tr><td>triplezero</td><td>Risk Analyst</td><td>Melbourne</td><td>2026-08-07</td></tr>
+<tr><td>transport.nsw.gov.au</td><td>Business Analyst (temporary Fixed Term Full Time Opportunity Until 30 June 2027)</td><td>Sydney</td><td>2026-08-07</td></tr>
+<tr><td>hancockironore</td><td>Payroll Analyst</td><td>Perth</td><td>2026-08-07</td></tr>
+<tr><td>dcj.nsw.gov.au</td><td>Financial Analyst (business Partnering)</td><td>Sydney</td><td>2026-08-07</td></tr>
+<tr><td>dcj.nsw.gov.au</td><td>Assistant Analyst</td><td>Sydney</td><td>2026-08-07</td></tr>
+<tr><td>Benetas</td><td>Physiotherapist</td><td>Melbourne</td><td>2026-08-07</td></tr>
+<tr><td>ST VINCENT'S PRIVATE HOSPITAL SYDNEY</td><td>Registered Nurse</td><td>Maroochydore</td><td>2026-08-07</td></tr>
+<tr><td>ST VINCENT'S PRIVATE HOSPITAL SYDNEY</td><td>Registered Nurse - Mental Health Rehabilitation Team & Peipod</td><td>Sydney</td><td>2026-08-07</td></tr>
+<tr><td>ST VINCENT'S PRIVATE HOSPITAL SYDNEY</td><td>Registered Nurse - Intensive Care Unit</td><td>Brisbane</td><td>2026-08-07</td></tr>
+<tr><td>Mirchims</td><td>Casual Sessional: Physiotherapy</td><td>Melbourne</td><td>2026-08-07</td></tr>
+<tr><td>The University Of Melbourne</td><td>Research Assistant - Metabolic Neuroscience Laboratory</td><td>Melbourne</td><td>2026-08-07</td></tr>
+<tr><td>University of Melbourne</td><td>Research Assistant - Metabolic Neuroscience Laboratory</td><td>Melbourne</td><td>2026-08-07</td></tr>
+<tr><td>Epworth HealthCare</td><td>Physiotherapist Outpatient Rehabilitation Abi/neuro - Grade 2</td><td>Melbourne</td><td>2026-08-07</td></tr>
+<tr><td>Peter MacCallum Cancer Centre</td><td>Registered Nurse Grade 2 - Perioperative</td><td>Melbourne</td><td>2026-08-07</td></tr>
+<tr><td>Harwell Home Care Pty Ltd</td><td>Registered Nurse (blacktown)</td><td>Sydney</td><td>2026-08-07</td></tr>
+<tr><td>Harwell Home Care Pty Ltd</td><td>Registered Nurse (parramatta)</td><td>Sydney</td><td>2026-08-07</td></tr>
+<tr><td>RSL LifeCare</td><td>Community Registered Nurse</td><td>Sydney</td><td>2026-08-07</td></tr>
+<tr><td>Medibank Private Ltd</td><td>Community Registered Nurse</td><td>Melbourne</td><td>2026-08-07</td></tr>
+<tr><td>St Vincent's Health Australia</td><td>Registered Nurse</td><td>Maroochydore</td><td>2026-08-07</td></tr>
+<tr><td>Mira Vista Care Center</td><td>Registered Nurse</td><td>Maroochydore</td><td>2026-08-07</td></tr>
+<tr><td>Evolution Mining</td><td>Serviceperson</td><td>Cowal</td><td>2026-08-07</td></tr>
+<tr><td>Johnson Controls</td><td>Service Hvac Technician</td><td>Port Macquaire</td><td>2026-08-07</td></tr>
+<tr><td>Johnson Controls OpenBlue</td><td>Service Hvac Technician</td><td>Port Macquaire</td><td>2026-08-07</td></tr>
+<tr><td>Visy</td><td>Maintenance Fitter</td><td>Perth</td><td>2026-08-07</td></tr>
+<tr><td>SGS Australia Pty Ltd</td><td>Maintenance Technician (burton)</td><td>Wingfield</td><td>2026-08-07</td></tr>
+<tr><td>SANDVIK</td><td>Field Service Technician - Rock Drills Auditor</td><td>Newcastle (Heatherbrae)</td><td>2026-08-07</td></tr>
+<tr><td>Thelineageway</td><td>Mechanical Fitter</td><td>Hemmant</td><td>2026-08-07</td></tr>
+<tr><td>Lineage</td><td>Mechanical Fitter</td><td>Hemmant</td><td>2026-08-07</td></tr>
+<tr><td>WesTrac Pty Ltd</td><td>Plant Mechanic - Resident Field Service</td><td>Grafton</td><td>2026-08-07</td></tr>
+<tr><td>Spotless</td><td>Hvac Tech</td><td>Sydney</td><td>2026-08-07</td></tr>
+<tr><td>Downer</td><td>Hvac Tech</td><td>Sydney</td><td>2026-08-07</td></tr>
+<tr><td>Downer EDI</td><td>Hvac Tech</td><td>Sydney</td><td>2026-08-07</td></tr>
+<tr><td>Komatsu Marketing Support Australia Pty Ltd</td><td>Hd Fitter - Field Service</td><td>Kalgoorlie</td><td>2026-08-07</td></tr>
+<tr><td>Komatsu Marketing Support Australia Pty Ltd</td><td>Field Service Technician - Brisbane (atr-f222)</td><td>Brisbane</td><td>2026-08-07</td></tr>
+<tr><td>Komatsu Marketing Support Australia Pty Ltd</td><td>Technician - Newcastle (atr-f220)</td><td>Newcastle</td><td>2026-08-07</td></tr>
+<tr><td>Komatsu Marketing Support Australia Pty Ltd</td><td>Field Service Technician - Wollongong (atr-f219)</td><td>Wollongong</td><td>2026-08-07</td></tr>
+<tr><td>Komatsu Marketing Support Australia Pty Ltd</td><td>Hv Electrician - Product Support Advisor</td><td>Pilbara</td><td>2026-08-07</td></tr>
+<tr><td>Komatsu Marketing Support Australia Pty Ltd</td><td>Auto Electrician - Metro Field Service</td><td>Wacol</td><td>2026-08-07</td></tr>
+<tr><td>Motionsolutions</td><td>Customer Sales & Service - Repco Doveton - Full Time</td><td>Melbourne</td><td>2026-08-07</td></tr>
+<tr><td>GPC Tools & Equipment Sydney</td><td>Customer Sales & Service - Repco Doveton - Full Time</td><td>Melbourne</td><td>2026-08-07</td></tr>
+<tr><td>Mecanicien.ca</td><td>Customer Sales & Service - Repco Doveton - Full Time</td><td>Melbourne</td><td>2026-08-07</td></tr>
+<tr><td>Repco</td><td>Customer Sales & Service - Repco Doveton - Full Time</td><td>Melbourne</td><td>2026-08-07</td></tr>
+<tr><td>Motionsolutions</td><td>Customer Sales & Service - Repco Taren Point - Full Time</td><td>Taren Point</td><td>2026-08-07</td></tr>
+<tr><td>Repco</td><td>Customer Sales & Service - Repco Grafton - Casual</td><td>Grafton</td><td>2026-08-07</td></tr>
+<tr><td>Motionsolutions</td><td>Customer Sales & Service - Repco Tuggerah - Casual</td><td>Tuggerah</td><td>2026-08-07</td></tr>
+<tr><td>GENUINE PARTS COMPANY</td><td>Customer Sales & Service - Repco Tuggerah - Casual</td><td>Tuggerah</td><td>2026-08-07</td></tr>
+<tr><td>GENUINE PARTS COMPANY</td><td>Customer Sales & Service - Repco Grafton - Casual</td><td>Grafton</td><td>2026-08-07</td></tr>
+<tr><td>GPC Tools & Equipment Sydney</td><td>Customer Sales & Service - Repco Taren Point - Full Time</td><td>Taren Point</td><td>2026-08-07</td></tr>
+<tr><td>GPC Tools & Equipment Sydney</td><td>Customer Sales & Service - Repco Taren Point - Casual</td><td>Taren Point</td><td>2026-08-07</td></tr>
+<tr><td>Mecanicien.ca</td><td>Customer Sales & Service - Repco Taren Point - Full Time</td><td>Taren Point</td><td>2026-08-07</td></tr>
+<tr><td>Mecanicien.ca</td><td>Customer Sales & Service - Repco Taren Point - Casual</td><td>Taren Point</td><td>2026-08-07</td></tr>
+<tr><td>Mecanicien.ca</td><td>Customer Sales & Service - Repco Grafton - Casual</td><td>Grafton</td><td>2026-08-07</td></tr>
+<tr><td>Stellen-essen.de</td><td>Customer Sales & Service - Repco Taren Point - Full Time</td><td>Taren Point</td><td>2026-08-07</td></tr>
+<tr><td>H & M Hennes & Mauritz AB</td><td>Casual Sales Advisor - Chadstone</td><td>Melbourne</td><td>2026-08-07</td></tr>
+<tr><td>Mymhcommunity</td><td>Hospital Assistant</td><td>Albury</td><td>2026-08-07</td></tr>
+<tr><td>smp.uq.edu.au</td><td>Executive Assistant (academic Services Division)</td><td>St Lucia Campus</td><td>2026-08-07</td></tr>
+<tr><td>about.uq.edu.au</td><td>Executive Assistant (academic Services Division)</td><td>St Lucia Campus</td><td>2026-08-07</td></tr>
+<tr><td>The University of Queensland (UQ)</td><td>Executive Assistant (academic Services Division)</td><td>St Lucia</td><td>2026-08-07</td></tr>
+<tr><td>Gold Fields Limited</td><td>Coordinator : Projects (electrical)</td><td>Granny Smith - Laverton</td><td>2026-08-07</td></tr>
+<tr><td>Aldi Australia</td><td>Retail Assistant - Newcastle</td><td>Cooks Hill</td><td>2026-08-07</td></tr>
+<tr><td>Aldi Australia</td><td>Retail Assistant - Taigum</td><td>Brisbane</td><td>2026-08-07</td></tr>
+<tr><td>Aldi Australia</td><td>Retail Assistant - Runaway Bay</td><td>Gold Coast</td><td>2026-08-07</td></tr>
+<tr><td>Aldi Australia</td><td>Retail Assistant - Warwick</td><td>Toowoomba</td><td>2026-08-07</td></tr>
+<tr><td>Aldi Australia</td><td>Retail Assistant - Hamilton (nsw)</td><td>Brisbane</td><td>2026-08-07</td></tr>
+<tr><td>The Salvation Army Employment Plus</td><td>It Operations Support Coordinator</td><td>Melbourne</td><td>2026-08-07</td></tr>
+<tr><td>The Salvation Army Victoria ARC</td><td>It Operations Support Coordinator</td><td>Melbourne</td><td>2026-08-07</td></tr>
+<tr><td>Aidapply</td><td>It Operations Support Coordinator</td><td>Melbourne</td><td>2026-08-07</td></tr>
+<tr><td>The Salvation Army</td><td>It Operations Support Coordinator</td><td>Melbourne</td><td>2026-08-07</td></tr>
+<tr><td>DDR Indigenous Contractors</td><td>Learning & Development Administrator</td><td>Perth</td><td>2026-08-07</td></tr>
+<tr><td>MyIntegra</td><td>Regional Support Coordinator</td><td>Brisbane</td><td>2026-08-07</td></tr>
+<tr><td>University of Melbourne</td><td>Executive Assistant</td><td>Melbourne</td><td>2026-08-07</td></tr>
+<tr><td>The University Of Melbourne</td><td>Executive Assistant</td><td>Melbourne</td><td>2026-08-07</td></tr>
+<tr><td>The University</td><td>Executive Assistant</td><td>Melbourne</td><td>2026-08-07</td></tr>
+<tr><td>Academic Jobs</td><td>Executive Assistant</td><td>Melbourne</td><td>2026-08-07</td></tr>
+<tr><td>Domain</td><td>Recruitment Coordinator</td><td>Sydney</td><td>2026-08-07</td></tr>
+<tr><td>Bega Cheese</td><td>Network Coordinator</td><td>Chullora</td><td>2026-08-07</td></tr>
+<tr><td>Bega Group</td><td>Network Coordinator</td><td>Chullora</td><td>2026-08-07</td></tr>
+<tr><td>Bega Cheese</td><td>Logistics Coordinator</td><td>Chullora</td><td>2026-08-07</td></tr>
+<tr><td>Bega Group</td><td>Logistics Coordinator</td><td>Chullora</td><td>2026-08-07</td></tr>
 </table>
