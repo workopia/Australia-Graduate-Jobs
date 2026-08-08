@@ -2259,4 +2259,130 @@
 <tr><td>Bega Group</td><td>Network Coordinator</td><td>Chullora</td><td>2026-08-07</td></tr>
 <tr><td>Bega Cheese</td><td>Logistics Coordinator</td><td>Chullora</td><td>2026-08-07</td></tr>
 <tr><td>Bega Group</td><td>Logistics Coordinator</td><td>Chullora</td><td>2026-08-07</td></tr>
+<tr><td>Shift</td><td>It Support</td><td>Sydney</td><td>2026-08-08</td></tr>
+<tr><td>THALES</td><td>Software Engineer</td><td>Australia</td><td>2026-08-08</td></tr>
+<tr><td>Thales Group</td><td>Software Engineer</td><td>Australia</td><td>2026-08-08</td></tr>
+<tr><td>Jobgether</td><td>Dotnetcore Developers</td><td>Australia</td><td>2026-08-08</td></tr>
+<tr><td>BGIS</td><td>It Help Desk Support Analyst</td><td>Sydney</td><td>2026-08-08</td></tr>
+<tr><td>Accenture Australia</td><td>German Infra Tech Support Practitioner</td><td>Australia</td><td>2026-08-08</td></tr>
+<tr><td>Jobgether</td><td>Software Craftsperson/node.js/react.js/ai</td><td>Australia</td><td>2026-08-08</td></tr>
+<tr><td>dcj</td><td>Analyst</td><td>Sydney</td><td>2026-08-08</td></tr>
+<tr><td>VANGUARD AUSTRALIA</td><td>Data Analyst, Specialist</td><td>Australia</td><td>2026-08-08</td></tr>
+<tr><td>VANGUARD AUSTRALIA</td><td>Data Reporting, Specialist</td><td>Australia</td><td>2026-08-08</td></tr>
+<tr><td>JPMorgan Chase</td><td>2026 / 2027 Corporate Analyst Development Program - Summer Analyst - Sydney</td><td>Sydney</td><td>2026-08-08</td></tr>
+<tr><td>dcj</td><td>Financial And Economic Analyst</td><td>Sydney</td><td>2026-08-08</td></tr>
+<tr><td>dcj</td><td>Financial Planning Analyst</td><td>Sydney</td><td>2026-08-08</td></tr>
+<tr><td>dcj</td><td>Assistant Analyst</td><td>Sydney</td><td>2026-08-08</td></tr>
+<tr><td>Deloitte Australia</td><td>Analyst / Financial Services - Regulatory Audit / Melbourne</td><td>Melbourne</td><td>2026-08-08</td></tr>
+<tr><td>Deloitte Australia</td><td>Analyst / Financial Services - Regulatory Audit / Sydney</td><td>Sydney</td><td>2026-08-08</td></tr>
+<tr><td>Otis Elevator Company Pty Ltd</td><td>Business Analyst - Delivery Operations</td><td>Sydney</td><td>2026-08-08</td></tr>
+<tr><td>Royal Automobile Club of Victoria</td><td>Junior Systems Analyst</td><td>Melbourne</td><td>2026-08-08</td></tr>
+<tr><td>Zurich Insurance Company Ltd</td><td>Planning And Performance Analyst</td><td>Brisbane</td><td>2026-08-08</td></tr>
+<tr><td>Evolution Mining</td><td>Business Analyst - Process Improvement</td><td>Sydney</td><td>2026-08-08</td></tr>
+<tr><td>Coal Assets Australia</td><td>Mine Accountant (fixed Term)</td><td>Clermont</td><td>2026-08-08</td></tr>
+<tr><td>Stonecreekgc</td><td>Mine Accountant (fixed Term)</td><td>Clermont</td><td>2026-08-08</td></tr>
+<tr><td>transport</td><td>Business Analyst (temporary Fixed Term Full Time Opportunity Until 30 June 2027)</td><td>Australia</td><td>2026-08-08</td></tr>
+<tr><td>sydney.edu.au</td><td>Aem Product Specialist (aem Business Analyst)</td><td>Sydney</td><td>2026-08-08</td></tr>
+<tr><td>dcj.nsw.gov.au</td><td>Financial Planning Analyst</td><td>Sydney</td><td>2026-08-08</td></tr>
+<tr><td>Downer Group</td><td>Project Analyst</td><td>Sydney</td><td>2026-08-08</td></tr>
+<tr><td>Downer EDI</td><td>Project Analyst</td><td>Sydney</td><td>2026-08-08</td></tr>
+<tr><td>Downer</td><td>Project Analyst</td><td>Sydney</td><td>2026-08-08</td></tr>
+<tr><td>Spotless</td><td>Project Analyst</td><td>Sydney</td><td>2026-08-08</td></tr>
+<tr><td>Estia Health</td><td>Registered Nurse</td><td>Dalmeny</td><td>2026-08-08</td></tr>
+<tr><td>Cerebral Palsy Alliance</td><td>Disability Support Practitioner</td><td>Sydney</td><td>2026-08-08</td></tr>
+<tr><td>UnitingCare Health</td><td>Registered Nurse</td><td>Rockhampton</td><td>2026-08-08</td></tr>
+<tr><td>125</td><td>Registered Nurse</td><td>Kenmore Hills</td><td>2026-08-08</td></tr>
+<tr><td>125</td><td>Registered Nurse Or Enrolled Nurse</td><td>Urraween</td><td>2026-08-08</td></tr>
+<tr><td>GENESISCARE</td><td>Registered Nurse</td><td>Gateshead</td><td>2026-08-08</td></tr>
+<tr><td>Careersat MQ</td><td>Postdoctoral Research Fellow – Electrical Engineering</td><td>Sydney</td><td>2026-08-08</td></tr>
+<tr><td>Careersat MQ</td><td>Research Associate In Statistical Modelling</td><td>Sydney</td><td>2026-08-08</td></tr>
+<tr><td>Macquarie Group</td><td>Postdoctoral Research Fellow – Electrical Engineering</td><td>Sydney</td><td>2026-08-08</td></tr>
+<tr><td>Macquarie Group</td><td>Research Associate In Statistical Modelling</td><td>Sydney</td><td>2026-08-08</td></tr>
+<tr><td>UnitingCare Qld</td><td>Registered Nurse Rehabilitation Unit</td><td>Maroochydore</td><td>2026-08-08</td></tr>
+<tr><td>UnitingCare Health</td><td>Registered Nurse Rehabilitation Unit</td><td>Maroochydore</td><td>2026-08-08</td></tr>
+<tr><td>UnitingCare</td><td>Registered Nurse</td><td>Taralga</td><td>2026-08-08</td></tr>
+<tr><td>UnitingCare</td><td>Clinical - Registered Nurse</td><td>Sydney</td><td>2026-08-08</td></tr>
+<tr><td>The University</td><td>Research Assistant - Metabolic Neuroscience Laboratory</td><td>Melbourne</td><td>2026-08-08</td></tr>
+<tr><td>HammondCare</td><td>Registered Nurse</td><td>Sydney</td><td>2026-08-08</td></tr>
+<tr><td>Wesley Mission Queensland</td><td>Physiotherapist</td><td>Brisbane</td><td>2026-08-08</td></tr>
+<tr><td>Qmgfoundation</td><td>Physiotherapist</td><td>Brisbane</td><td>2026-08-08</td></tr>
+<tr><td>438</td><td>Registered Nurse</td><td>Yarrawonga</td><td>2026-08-08</td></tr>
+<tr><td>Mymhcommunity</td><td>Registered Nurse</td><td>Yarrawonga</td><td>2026-08-08</td></tr>
+<tr><td>St Vincent's Health Australia</td><td>Registered Nurse - Intensive Care Unit</td><td>Brisbane</td><td>2026-08-08</td></tr>
+<tr><td>Mira Vista Care Center</td><td>Registered Nurse - Intensive Care Unit</td><td>Brisbane</td><td>2026-08-08</td></tr>
+<tr><td>Neurosurgeon role (org unclear)</td><td>Registered Nurse - Intensive Care Unit</td><td>Brisbane</td><td>2026-08-08</td></tr>
+<tr><td>Svhs Org Au</td><td>Registered Nurse - Intensive Care Unit</td><td>Brisbane</td><td>2026-08-08</td></tr>
+<tr><td>Nestle SA</td><td>Maintenance Electrician</td><td>Wahgunyah</td><td>2026-08-08</td></tr>
+<tr><td>Unisys</td><td>Tech Field Eng</td><td>Brisbane</td><td>2026-08-08</td></tr>
+<tr><td>WesTrac Pty Ltd</td><td>Plant Mechanic</td><td>Bulga</td><td>2026-08-08</td></tr>
+<tr><td>Perenti Global Ltd</td><td>Btp - Field Service Technicians I plant Mechanic Heavy Diesel - Mt Thorley Based</td><td>Mount Thorley</td><td>2026-08-08</td></tr>
+<tr><td>Perenti Global Ltd</td><td>Btp - Field Service Technician - Mackay Based</td><td>Brisbane</td><td>2026-08-08</td></tr>
+<tr><td>158</td><td>Customer Field Technician / Brisbane</td><td>Brisbane</td><td>2026-08-08</td></tr>
+<tr><td>NBN</td><td>Customer Field Technician / Brisbane</td><td>Brisbane</td><td>2026-08-08</td></tr>
+<tr><td>669</td><td>Customer Field Technician / Brisbane</td><td>Brisbane</td><td>2026-08-08</td></tr>
+<tr><td>040</td><td>Customer Field Technician / Brisbane</td><td>Brisbane</td><td>2026-08-08</td></tr>
+<tr><td>The Salvation Army Employment Plus</td><td>Maintenance Worker</td><td>Goulburn</td><td>2026-08-08</td></tr>
+<tr><td>The Salvation Army Victoria ARC</td><td>Maintenance Worker</td><td>Goulburn</td><td>2026-08-08</td></tr>
+<tr><td>Aidapply</td><td>Maintenance Worker</td><td>Goulburn</td><td>2026-08-08</td></tr>
+<tr><td>The Salvation Army</td><td>Maintenance Worker</td><td>Goulburn</td><td>2026-08-08</td></tr>
+<tr><td>Thiess</td><td>Serviceperson</td><td>Iron Bridge</td><td>2026-08-08</td></tr>
+<tr><td>Honeywell</td><td>Security Technician</td><td>Kalgoorlie</td><td>2026-08-08</td></tr>
+<tr><td>dormakaba International Holding AG</td><td>Service Technician</td><td>Regency Park</td><td>2026-08-08</td></tr>
+<tr><td>Fulton Hogan Ltd</td><td>Field Service Mechanic</td><td>Hazelmere</td><td>2026-08-08</td></tr>
+<tr><td>Bega Group</td><td>Maintenance Fitter</td><td>Bentley</td><td>2026-08-08</td></tr>
+<tr><td>Bega Cheese</td><td>Maintenance Fitter</td><td>Perth</td><td>2026-08-08</td></tr>
+<tr><td>Brambles</td><td>Maintenance Fitter</td><td>Kemps Creek</td><td>2026-08-08</td></tr>
+<tr><td>Cubictransportation</td><td>Field Maintenance Technician Ctc-lis</td><td>Townsville</td><td>2026-08-08</td></tr>
+<tr><td>Cubic Transportation Systems</td><td>Field Maintenance Technician Ctc-lis</td><td>Townsville</td><td>2026-08-08</td></tr>
+<tr><td>Whitehaven Coal</td><td>Hv Technician (maules Creek, Workshop)</td><td>Gunnedah</td><td>2026-08-08</td></tr>
+<tr><td>Bunnings</td><td>Customer Service Team Member – Seasonal Casual (mornington, Hastings)</td><td>Melbourne</td><td>2026-08-08</td></tr>
+<tr><td>St Vincent de Paul Society Australia</td><td>Shop Assistant</td><td>Camden</td><td>2026-08-08</td></tr>
+<tr><td>The Good Guys</td><td>Retail Team Member</td><td>Invermay</td><td>2026-08-08</td></tr>
+<tr><td>Nouryon</td><td>Trade Centre Assistant</td><td>Mackay</td><td>2026-08-08</td></tr>
+<tr><td>UNIQLO</td><td>Now Hiring: Uniqlo Eastland – Store Associates (full-time)</td><td>Melbourne</td><td>2026-08-08</td></tr>
+<tr><td>UNIQLO</td><td>Now Hiring: Uniqlo Bondi - Store Associates (full/part-time)</td><td>Sydney</td><td>2026-08-08</td></tr>
+<tr><td>Pets at Home</td><td>Retail Sales Assistant / Northcote</td><td>Melbourne</td><td>2026-08-08</td></tr>
+<tr><td>Thepetspotco</td><td>Retail Sales Assistant / Northcote</td><td>Melbourne</td><td>2026-08-08</td></tr>
+<tr><td>Repco</td><td>Customer Sales & Service - Repco Wagga Wagga - Full Time</td><td>East Wagga Wagga</td><td>2026-08-08</td></tr>
+<tr><td>GPC Tools & Equipment Sydney</td><td>Customer Sales & Service - Repco Wagga Wagga - Full Time</td><td>East Wagga Wagga</td><td>2026-08-08</td></tr>
+<tr><td>Genpt</td><td>Customer Sales & Service - Repco Wagga Wagga - Full Time</td><td>East Wagga Wagga</td><td>2026-08-08</td></tr>
+<tr><td>Mecanicien.ca</td><td>Customer Sales & Service - Repco Warrnambool - Casual</td><td>Warrnambool</td><td>2026-08-08</td></tr>
+<tr><td>Motionsolutions</td><td>Customer Sales & Service - Repco Warrnambool - Casual</td><td>Warrnambool</td><td>2026-08-08</td></tr>
+<tr><td>GPC Tools & Equipment Sydney</td><td>Customer Sales & Service - Repco Warrnambool - Casual</td><td>Warrnambool</td><td>2026-08-08</td></tr>
+<tr><td>ALS Limited</td><td>Bottle Preparation Attendant</td><td>Brisbane</td><td>2026-08-08</td></tr>
+<tr><td>Karriere Als Cs</td><td>Bottle Preparation Attendant</td><td>Brisbane</td><td>2026-08-08</td></tr>
+<tr><td>OPSM (EssilorLuxottica Group)</td><td>Retail Associate / Oakley / Pt / Vic / Chadstone</td><td>Melbourne</td><td>2026-08-08</td></tr>
+<tr><td>Sunglass Hut</td><td>Retail Associate / Sunglass Hut Myer Chatswood, Nsw</td><td>Sydney</td><td>2026-08-08</td></tr>
+<tr><td>Beacon Roofing Supply</td><td>Warehouse Associate</td><td>Melbourne</td><td>2026-08-08</td></tr>
+<tr><td>adidas AG</td><td>Casual Retail Professional - Sydney Outlet Village, Liverpool Nsw</td><td>Sydney</td><td>2026-08-08</td></tr>
+<tr><td>GPC Tools & Equipment Sydney</td><td>Customer Sales & Service - Repco Booval - Casual</td><td>Booval</td><td>2026-08-08</td></tr>
+<tr><td>H & M Hennes & Mauritz AB</td><td>Sales Advisor 38h</td><td>Melbourne</td><td>2026-08-08</td></tr>
+<tr><td>Reece Group</td><td>Trade Counter Assistant - Mill Park</td><td>Melbourne</td><td>2026-08-08</td></tr>
+<tr><td>Reece Plumbing</td><td>Trade Counter Assistant - Mill Park</td><td>Melbourne</td><td>2026-08-08</td></tr>
+<tr><td>Pets at Home</td><td>Retail Sales Assistant / Somerville</td><td>Melbourne</td><td>2026-08-08</td></tr>
+<tr><td>Thepetspotco</td><td>Retail Sales Assistant / Somerville</td><td>Melbourne</td><td>2026-08-08</td></tr>
+<tr><td>dcj</td><td>Executive Assistant</td><td>Sydney</td><td>2026-08-08</td></tr>
+<tr><td>Ixom</td><td>Supply Chain Coordinator</td><td>Melbourne</td><td>2026-08-08</td></tr>
+<tr><td>dcj</td><td>Administration Assistant - Reiby Youth Justice Centre, Youth Justice</td><td>Airds</td><td>2026-08-08</td></tr>
+<tr><td>dcj</td><td>Spc Projects - Executive Assistant</td><td>Sydney</td><td>2026-08-08</td></tr>
+<tr><td>Sephora USA Inc</td><td>Retail Assistant - Carousel</td><td>Perth</td><td>2026-08-08</td></tr>
+<tr><td>Nouryon</td><td>Facilities Coordinator</td><td>Melbourne</td><td>2026-08-08</td></tr>
+<tr><td>DSV Panalpina AS</td><td>Freight Forwarder, Implant Coordinator</td><td>Melbourne Airport</td><td>2026-08-08</td></tr>
+<tr><td>Voith</td><td>Sh 2.0 Warehouse Administrator</td><td>Snowy</td><td>2026-08-08</td></tr>
+<tr><td>Grantthorntongcs</td><td>Administration Assistant</td><td>Cairns</td><td>2026-08-08</td></tr>
+<tr><td>Sparke Helmore Lawyers</td><td>Administration Assistant, Legal Support</td><td>Newcastle</td><td>2026-08-08</td></tr>
+<tr><td>DECJUBA</td><td>Casual Retail Assistant - South Wharf</td><td>South Wharf</td><td>2026-08-08</td></tr>
+<tr><td>DECJUBA</td><td>Casual Retail Assistant - Dfo Brisbane</td><td>Brisbane Airport</td><td>2026-08-08</td></tr>
+<tr><td>DECJUBA</td><td>Casual Retail Assistant - Sunshine Plaza</td><td>Maroochydore</td><td>2026-08-08</td></tr>
+<tr><td>DECJUBA</td><td>Casual Retail Assistant - Epping</td><td>Melbourne</td><td>2026-08-08</td></tr>
+<tr><td>DECJUBA</td><td>Casual Retail Assistant - Balgowlah</td><td>Sydney</td><td>2026-08-08</td></tr>
+<tr><td>DECJUBA</td><td>Casual Retail Assistant - Hurstville</td><td>Sydney</td><td>2026-08-08</td></tr>
+<tr><td>Trevor GrandPre</td><td>Administration Assistant</td><td>Mcdougalls Hill</td><td>2026-08-08</td></tr>
+<tr><td>Greenlyamz</td><td>Administration Assistant</td><td>Mcdougalls Hill</td><td>2026-08-08</td></tr>
+<tr><td>Coates</td><td>Customer Service Coordinator</td><td>Brisbane</td><td>2026-08-08</td></tr>
+<tr><td>Nyrstar</td><td>Projects Construction Coordinator</td><td>Port Pirie</td><td>2026-08-08</td></tr>
+<tr><td>Hill & Smith Holdings</td><td>Part Time Legal Assistant</td><td>Sydney</td><td>2026-08-08</td></tr>
+<tr><td>HERBERT SMITH FREEHILLS</td><td>Part Time Legal Assistant</td><td>Sydney</td><td>2026-08-08</td></tr>
+<tr><td>Transurban</td><td>Community Engagement Coordinator (public Affairs Coordinator)</td><td>Sydney</td><td>2026-08-08</td></tr>
+<tr><td>WesTrac Pty Ltd</td><td>Customer Coordinator</td><td>Tomago</td><td>2026-08-08</td></tr>
 </table>
