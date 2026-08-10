@@ -2517,4 +2517,54 @@
 <tr><td>Symal</td><td>Executive Assistant</td><td>Melbourne</td><td>2026-08-09</td></tr>
 <tr><td>dcj</td><td>Administration Assistant, Clerk Grade 3/4 - Junee Correctional Centre</td><td>Junee</td><td>2026-08-09</td></tr>
 <tr><td>Lightsource bp</td><td>Program Coordinator</td><td>Sydney</td><td>2026-08-09</td></tr>
+<tr><td>Coles Supermarkets Australia Pty Ltd</td><td>Commercial Data Analyst</td><td>Australia</td><td>2026-08-10</td></tr>
+<tr><td>Coles Supermarkets Australia Pty Ltd</td><td>Commercial Analyst - Ecommerce Transformation</td><td>Australia</td><td>2026-08-10</td></tr>
+<tr><td>Downer Group</td><td>Compliance Officer</td><td>Bloomfield</td><td>2026-08-10</td></tr>
+<tr><td>triplezero.vic.gov.au</td><td>Business Analyst</td><td>Melbourne</td><td>2026-08-10</td></tr>
+<tr><td>triplezero.vic.gov.au</td><td>Business Analyst, Integration</td><td>Melbourne</td><td>2026-08-10</td></tr>
+<tr><td>Gippsland Health Alliance</td><td>Registered Nurse - Emergency</td><td>Australia</td><td>2026-08-10</td></tr>
+<tr><td>RSL LIFECARE LIMITED</td><td>Community Registered Nurse</td><td>Sydney</td><td>2026-08-10</td></tr>
+<tr><td>RSL LifeCare</td><td>Community Registered Nurse</td><td>Sydney</td><td>2026-08-10</td></tr>
+<tr><td>Epworth HealthCare</td><td>Physiotherapist Grade 2 - Inpatient Rehabilitation</td><td>Melbourne</td><td>2026-08-10</td></tr>
+<tr><td>Opal HealthCare</td><td>Registered Nurse- Everard Park Care Community</td><td>Everard Park</td><td>2026-08-10</td></tr>
+<tr><td>Opal HealthCare</td><td>Registered Nurse - Bathurst Riverview Care Community</td><td>Bathurst</td><td>2026-08-10</td></tr>
+<tr><td>Sdhhns</td><td>Registered Nurse - Community Nursing</td><td>Sydney</td><td>2026-08-10</td></tr>
+<tr><td>SVHA</td><td>Registered Nurse - Community Nursing</td><td>Sydney</td><td>2026-08-10</td></tr>
+<tr><td>Visy</td><td>Visy Workforce - Multi-site Electrician</td><td>Yatala +2</td><td>2026-08-10</td></tr>
+<tr><td>Wood Group</td><td>Junior Condition Monitoring Technician</td><td>Perth</td><td>2026-08-10</td></tr>
+<tr><td>Orora IT</td><td>Maintenance Fitter Day</td><td>Adelaide</td><td>2026-08-10</td></tr>
+<tr><td>Buyapahome</td><td>Maintenance Technician Mechanical</td><td>Diamantina</td><td>2026-08-10</td></tr>
+<tr><td>Visy</td><td>Visy Workforce - Casual Maintenance Fitter</td><td>Carole Park +2</td><td>2026-08-10</td></tr>
+<tr><td>Whitehaven Coal</td><td>Maintainer - Chpp (mechanical)</td><td>Gunnedah</td><td>2026-08-10</td></tr>
+<tr><td>315</td><td>Field Delivery Telecommunications Trainee</td><td>Sydney</td><td>2026-08-10</td></tr>
+<tr><td>111</td><td>Field Delivery Telecommunications Trainee</td><td>Sydney</td><td>2026-08-10</td></tr>
+<tr><td>Komatsu Marketing Support Australia Pty Ltd</td><td>Technician - Field Service</td><td>Geraldton</td><td>2026-08-10</td></tr>
+<tr><td>Komatsu Marketing Support Australia Pty Ltd</td><td>Technician - Field Service / Site Support</td><td>Townsville</td><td>2026-08-10</td></tr>
+<tr><td>Sensus Xylem Inc</td><td>Service Center Technician</td><td>Kalgoorlie</td><td>2026-08-10</td></tr>
+<tr><td>Repco</td><td>Customer Sales & Service - Repco Kalgoorlie - Casual</td><td>Kalgoorlie</td><td>2026-08-10</td></tr>
+<tr><td>Motionsolutions</td><td>Customer Sales & Service - Repco Mount Barker - Casual</td><td>Totness</td><td>2026-08-10</td></tr>
+<tr><td>GPC Tools & Equipment Sydney</td><td>Customer Sales & Service - Repco Muswellbrook - Casual</td><td>Muswellbrook</td><td>2026-08-10</td></tr>
+<tr><td>GPC Tools & Equipment Sydney</td><td>Customer Sales & Service - Repco Mount Barker - Casual</td><td>Totness</td><td>2026-08-10</td></tr>
+<tr><td>Genpt</td><td>Sales Assistant - Amx Lynbrook - Casual</td><td>Melbourne</td><td>2026-08-10</td></tr>
+<tr><td>EssilorLuxottica SA</td><td>Retail Associate / Eyeq St Ives, Nsw</td><td>St Ives</td><td>2026-08-10</td></tr>
+<tr><td>Sephora USA Inc</td><td>Retail Assistant - Highpoint</td><td>Melbourne</td><td>2026-08-10</td></tr>
+<tr><td>OPSM (EssilorLuxottica Group)</td><td>Retail Associate / Eyeq St Ives, Nsw</td><td>St Ives</td><td>2026-08-10</td></tr>
+<tr><td>OPSM (EssilorLuxottica Group)</td><td>Retail Associate</td><td>Melbourne</td><td>2026-08-10</td></tr>
+<tr><td>MECCA Brands Pty Ltd</td><td>Sa - Holiday Retail Assistants 2026</td><td>South Australia</td><td>2026-08-10</td></tr>
+<tr><td>MECCA Brands Pty Ltd</td><td>Tas - Holiday Retail Assistants 2026</td><td>Tasmania</td><td>2026-08-10</td></tr>
+<tr><td>MECCA Brands Pty Ltd</td><td>Qld - Holiday Retail Assistants 2026</td><td>Queensland</td><td>2026-08-10</td></tr>
+<tr><td>McCarthy Stone</td><td>Tas - Holiday Retail Assistants 2026</td><td>Tasmania</td><td>2026-08-10</td></tr>
+<tr><td>McCarthy Stone</td><td>Qld - Holiday Retail Assistants 2026</td><td>Queensland</td><td>2026-08-10</td></tr>
+<tr><td>McCarthy Stone</td><td>Sa - Holiday Retail Assistants 2026</td><td>South Australia</td><td>2026-08-10</td></tr>
+<tr><td>Nestle SA</td><td>Casual Sales Assistant - Chadstone</td><td>Melbourne</td><td>2026-08-10</td></tr>
+<tr><td>Skip to main con</td><td>Retail Team Member</td><td>Keith</td><td>2026-08-10</td></tr>
+<tr><td>Skip to main con</td><td>Warehouse Order Picker</td><td>Waverley</td><td>2026-08-10</td></tr>
+<tr><td>John Holland Group</td><td>Junior Contracts Administrator</td><td>Adelaide</td><td>2026-08-10</td></tr>
+<tr><td>John Holland Group</td><td>Sustainability Specialist</td><td>Sydney</td><td>2026-08-10</td></tr>
+<tr><td>Aldi Australia</td><td>Retail Assistant - Karingal</td><td>Melbourne</td><td>2026-08-10</td></tr>
+<tr><td>smp.uq.edu.au</td><td>Project Officer (threatened Species Index)</td><td>Long Pocket</td><td>2026-08-10</td></tr>
+<tr><td>THE UNIVERSITY OF QUEENSLAND</td><td>Project Officer (threatened Species Index)</td><td>Long Pocket</td><td>2026-08-10</td></tr>
+<tr><td>Aldi Australia</td><td>Retail Assistant - South Melbourne</td><td>Melbourne</td><td>2026-08-10</td></tr>
+<tr><td>BGIS</td><td>Facilities Coordinator</td><td>Sydney</td><td>2026-08-10</td></tr>
+<tr><td>Fulton Hogan Ltd</td><td>Community & Stakeholder Coordinator</td><td>Brisbane</td><td>2026-08-10</td></tr>
 </table>
