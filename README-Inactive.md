@@ -2567,4 +2567,45 @@
 <tr><td>Aldi Australia</td><td>Retail Assistant - South Melbourne</td><td>Melbourne</td><td>2026-08-10</td></tr>
 <tr><td>BGIS</td><td>Facilities Coordinator</td><td>Sydney</td><td>2026-08-10</td></tr>
 <tr><td>Fulton Hogan Ltd</td><td>Community & Stakeholder Coordinator</td><td>Brisbane</td><td>2026-08-10</td></tr>
+<tr><td>transport.nsw.gov.au</td><td>Software Engineer (temporary Opportunity - Up To 12 Months)</td><td>Sydney</td><td>2026-08-11</td></tr>
+<tr><td>ORIGIN ENERGY Ltd</td><td>Engineer - Software</td><td>Barangaroo</td><td>2026-08-11</td></tr>
+<tr><td>transport.nsw.gov.au</td><td>Data Analyst Maritime</td><td>Sydney</td><td>2026-08-11</td></tr>
+<tr><td>QBE Insurance</td><td>Strategic Workforce Planning Analyst</td><td>Sydney</td><td>2026-08-11</td></tr>
+<tr><td>Sodexo</td><td>Business Analyst – Technology Digital & Data (tddi) / Mon To Fri 38 Hours / Balcatta Support Centre</td><td>Perth</td><td>2026-08-11</td></tr>
+<tr><td>Sodexo HCA Clear Lake</td><td>Business Analyst – Technology Digital & Data (tddi) / Mon To Fri 38 Hours / Balcatta Support Centre</td><td>Perth</td><td>2026-08-11</td></tr>
+<tr><td>Mercer</td><td>Rectification Analyst</td><td>Sydney</td><td>2026-08-11</td></tr>
+<tr><td>Spotless</td><td>Compliance Officer</td><td>Bloomfield</td><td>2026-08-11</td></tr>
+<tr><td>Downer</td><td>Compliance Officer</td><td>Bloomfield</td><td>2026-08-11</td></tr>
+<tr><td>IRT</td><td>Registered Nurse</td><td>St Georges Basin</td><td>2026-08-11</td></tr>
+<tr><td>ST VINCENT'S HOSPITAL SYDNEY</td><td>Registered Nurse (rn) - Pathway To Specialty Practice: Peri-operative And Peri-anaesthetics</td><td>Melbourne</td><td>2026-08-11</td></tr>
+<tr><td>ST VINCENT'S HOSPITAL SYDNEY</td><td>Registered Nurse - Community Nursing</td><td>Sydney</td><td>2026-08-11</td></tr>
+<tr><td>Mirchims</td><td>Research Assistant</td><td>Melbourne</td><td>2026-08-11</td></tr>
+<tr><td>Gippsland Health Alliance</td><td>Registered Nurse</td><td>Warragul</td><td>2026-08-11</td></tr>
+<tr><td>Gippsland Health Alliance</td><td>Registered Nurse - Dialysis</td><td>Bairnsdale</td><td>2026-08-11</td></tr>
+<tr><td>Gippsland Health Alliance</td><td>Registered Nurse Acute</td><td>Australia</td><td>2026-08-11</td></tr>
+<tr><td>Gippsland Health Alliance</td><td>Registered And Enrolled Nurses - Nurse Bank</td><td>Bairnsdale</td><td>2026-08-11</td></tr>
+<tr><td>990</td><td>Customer Field Technician</td><td>Warburton</td><td>2026-08-11</td></tr>
+<tr><td>unistrasi.it</td><td>Tech Field Eng</td><td>Townsville</td><td>2026-08-11</td></tr>
+<tr><td>Unisys</td><td>Tech Field Eng</td><td>Townsville</td><td>2026-08-11</td></tr>
+<tr><td>Schneider Electric</td><td>Bms Service Technician</td><td>Queensland</td><td>2026-08-11</td></tr>
+<tr><td>Cw Ems</td><td>Building Maintenance Technician</td><td>Client Site</td><td>2026-08-11</td></tr>
+<tr><td>Cushman & Wakefield</td><td>Building Maintenance Technician</td><td>Client Site</td><td>2026-08-11</td></tr>
+<tr><td>GrainCorp Ltd</td><td>Maintenance Fitter - Portland</td><td>Portland</td><td>2026-08-11</td></tr>
+<tr><td>GrainCorp Ltd</td><td>Maintenance Fitter - Horsham/warracknabeal</td><td>Horsham</td><td>2026-08-11</td></tr>
+<tr><td>The Good Guys</td><td>Retail Team Member</td><td>Osborne Park</td><td>2026-08-11</td></tr>
+<tr><td>Aidapply</td><td>Part-time Sales Assistant - South Melbourne</td><td>Melbourne</td><td>2026-08-11</td></tr>
+<tr><td>The Salvation Army</td><td>Part-time Sales Assistant - South Melbourne</td><td>Melbourne</td><td>2026-08-11</td></tr>
+<tr><td>Arc'teryx</td><td>Casual Athlete Advisor: Emporium</td><td>Melbourne</td><td>2026-08-11</td></tr>
+<tr><td>Repco</td><td>Customer Sales & Service - Repco Taren Point - Casual</td><td>Taren Point</td><td>2026-08-11</td></tr>
+<tr><td>GPC Tools & Equipment Sydney</td><td>Customer Sales & Service - Repco Taren Point - Casual</td><td>Taren Point</td><td>2026-08-11</td></tr>
+<tr><td>Repco</td><td>Customer Sales & Service - Repco Muswellbrook - Casual</td><td>Muswellbrook</td><td>2026-08-11</td></tr>
+<tr><td>Mira Vista Care Center</td><td>Administration Assistant - Rehab At Home And Hearts At Home Programs</td><td>Melbourne</td><td>2026-08-11</td></tr>
+<tr><td>ANZ Bank</td><td>Compliance Specialist</td><td>Brisbane QLD 4000</td><td>2026-08-11</td></tr>
+<tr><td>ANZ Bank</td><td>Executive Assistant</td><td>Melbourne</td><td>2026-08-11</td></tr>
+<tr><td>ANZ Bank</td><td>Executive Assistant - Internal Audit Office</td><td>Melbourne</td><td>2026-08-11</td></tr>
+<tr><td>Aldi Australia</td><td>Retail Assistant - Willetton</td><td>Perth</td><td>2026-08-11</td></tr>
+<tr><td>transport.nsw.gov.au</td><td>Legal Assistant</td><td>Sydney</td><td>2026-08-11</td></tr>
+<tr><td>Australian Financial Complaints Authority</td><td>Executive Assistant</td><td>Melbourne</td><td>2026-08-11</td></tr>
+<tr><td>Talent Corp</td><td>Training Specialist</td><td>Sydney</td><td>2026-08-11</td></tr>
+<tr><td>Skip to main con</td><td>Trade And Retail Assistant</td><td>Pambula</td><td>2026-08-11</td></tr>
 </table>
