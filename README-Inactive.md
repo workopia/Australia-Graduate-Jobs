@@ -3128,4 +3128,68 @@
 <tr><td>Deloitte Australia</td><td>Professional Assistant (12 Month Fixed Term)</td><td>Perth</td><td>2026-08-14</td></tr>
 <tr><td>IRT</td><td>Category/procurement Coordinator</td><td>Wollongong</td><td>2026-08-14</td></tr>
 <tr><td>Aldi Australia</td><td>Retail Assistant - Byron Bay</td><td>Gold Coast</td><td>2026-08-14</td></tr>
+<tr><td>AECOM UK</td><td>Cost Management Intern (nov 2026)</td><td>Sydney</td><td>2026-08-15</td></tr>
+<tr><td>Caterpillar of Australia</td><td>Material Planning Intern</td><td>Australia</td><td>2026-08-15</td></tr>
+<tr><td>KBR - Kellogg Brown & Root Pty Ltd</td><td>Software Engineer</td><td>Melbourne</td><td>2026-08-15</td></tr>
+<tr><td>KBR</td><td>Software Engineer</td><td>Melbourne</td><td>2026-08-15</td></tr>
+<tr><td>369</td><td>Staff Software Engineer - .net</td><td>Sydney Cbd Area</td><td>2026-08-15</td></tr>
+<tr><td>Cbari1</td><td>Staff Software Engineer - .net</td><td>Sydney Cbd Area</td><td>2026-08-15</td></tr>
+<tr><td>dcj</td><td>Financial Planning Analyst</td><td>Sydney</td><td>2026-08-15</td></tr>
+<tr><td>dcj</td><td>Assistant Analyst</td><td>Sydney</td><td>2026-08-15</td></tr>
+<tr><td>AusNet Services</td><td>Asset Assessment Officer</td><td>Victoria</td><td>2026-08-15</td></tr>
+<tr><td>Symal</td><td>Investor Relations Analyst</td><td>Melbourne</td><td>2026-08-15</td></tr>
+<tr><td>BlueCare</td><td>Registered Nurse</td><td>Ayr +1</td><td>2026-08-15</td></tr>
+<tr><td>SVHA</td><td>Day Procedure Rn</td><td>Melbourne</td><td>2026-08-15</td></tr>
+<tr><td>Sdhhns</td><td>Day Procedure Rn</td><td>Melbourne</td><td>2026-08-15</td></tr>
+<tr><td>Serco Asia Pacific</td><td>Registered Nurse</td><td>Sydney</td><td>2026-08-15</td></tr>
+<tr><td>Opal HealthCare</td><td>Registered Nurse - Springwood Terrace Care Community</td><td>Brisbane</td><td>2026-08-15</td></tr>
+<tr><td>Opal HealthCare</td><td>Registered Nurse (night Duty) - Meadowbank Grove Care Community</td><td>Meadowbank</td><td>2026-08-15</td></tr>
+<tr><td>Opal HealthCare</td><td>Registered Nurse - Bethania Parklands Care Community</td><td>Bethania</td><td>2026-08-15</td></tr>
+<tr><td>Sdhhns</td><td>Registered Nurse - Casual Nurse Bank – Dialysis</td><td>Melbourne</td><td>2026-08-15</td></tr>
+<tr><td>Mira Vista Care Center</td><td>Registered Nurse - Casual Nurse Bank – Dialysis</td><td>Melbourne</td><td>2026-08-15</td></tr>
+<tr><td>Sdhhns</td><td>Physiotherapist (casual)</td><td>Sydney</td><td>2026-08-15</td></tr>
+<tr><td>SVHA</td><td>Physiotherapist (casual)</td><td>Sydney</td><td>2026-08-15</td></tr>
+<tr><td>Mira Vista Care Center</td><td>Physiotherapist (casual)</td><td>Sydney</td><td>2026-08-15</td></tr>
+<tr><td>Opal HealthCare</td><td>Registered Nurse- Wallarah Point Care Community</td><td>Toukley +1</td><td>2026-08-15</td></tr>
+<tr><td>Opal HealthCare</td><td>Registered Nurse - Geraldton Shore Care Community</td><td>Geraldton</td><td>2026-08-15</td></tr>
+<tr><td>Opal HealthCare</td><td>Registered Nurse</td><td>Sydney</td><td>2026-08-15</td></tr>
+<tr><td>UnitingCare</td><td>Registered Nurse - Garden Suburb</td><td>Garden Suburb</td><td>2026-08-15</td></tr>
+<tr><td>UnitingCare</td><td>Ndis Support Coordinator Fixed Term (sydney Metro)</td><td>Sydney</td><td>2026-08-15</td></tr>
+<tr><td>IRT</td><td>Registered Nurse</td><td>Au</td><td>2026-08-15</td></tr>
+<tr><td>Serco Asia Pacific</td><td>Registered Nurse Primary Care-acacia Prison</td><td>Wooroloo</td><td>2026-08-15</td></tr>
+<tr><td>Westviewhealth</td><td>Registered Nurse</td><td>Melbourne</td><td>2026-08-15</td></tr>
+<tr><td>Talison Lithium</td><td>Occupational Hygiene Technician</td><td>Greenbushes</td><td>2026-08-15</td></tr>
+<tr><td>afa'afea</td><td>Technician - Brisbane North</td><td>Pinkenba</td><td>2026-08-15</td></tr>
+<tr><td>transport.nsw.gov.au</td><td>Rail Maintainer, Tfle Electrical (temporary Opportunity - Upto 23 Months)</td><td>Sydney</td><td>2026-08-15</td></tr>
+<tr><td>transport.nsw.gov.au</td><td>Rail Maintainer (mechanical) Tfle-ahmc & Fmc (temporary Opportunity - Up To 20 Months)</td><td>Sydney</td><td>2026-08-15</td></tr>
+<tr><td>transport.nsw.gov.au</td><td>Mechanical Tradesperson</td><td>Broken Hill</td><td>2026-08-15</td></tr>
+<tr><td>MACA</td><td>Field Service Specialist - Hd Fitter</td><td>Western Australia</td><td>2026-08-15</td></tr>
+<tr><td>MACA</td><td>Serviceperson</td><td>Cue</td><td>2026-08-15</td></tr>
+<tr><td>MACA</td><td>Auto Electrician - Field Service</td><td>Western Australia</td><td>2026-08-15</td></tr>
+<tr><td>dormakaba International Holding AG</td><td>Service Technician</td><td>Regency Park</td><td>2026-08-15</td></tr>
+<tr><td>JBS Australia Pty Ltd</td><td>Maintenance Boiler Attendant</td><td>Bordertown</td><td>2026-08-15</td></tr>
+<tr><td>JBS Australia Pty Ltd</td><td>Maintenance Fitter</td><td>Bordertown</td><td>2026-08-15</td></tr>
+<tr><td>Luxottica Retail Australia Pty Ltd</td><td>Retail Associate / Oakley / Pt / Vic / Chadstone</td><td>Melbourne</td><td>2026-08-15</td></tr>
+<tr><td>Luxottica Retail Australia Pty Ltd</td><td>Retail Associate / Sunglass Hut Myer Sydney, Nsw</td><td>Sydney</td><td>2026-08-15</td></tr>
+<tr><td>Luxottica Retail Australia Pty Ltd</td><td>Retail Associate / Sunglass Hut / Pt / Vic / Frankston</td><td>Melbourne</td><td>2026-08-15</td></tr>
+<tr><td>Luxottica Retail Australia Pty Ltd</td><td>Retail Associate / Sunglass Hut Myer Chatswood, Nsw</td><td>Sydney</td><td>2026-08-15</td></tr>
+<tr><td>Luxottica Retail Australia Pty Ltd</td><td>Retail Associate / Sunglass Hut Bondi, Nsw Junction, Nsw</td><td>Sydney</td><td>2026-08-15</td></tr>
+<tr><td>Luxottica Retail Australia Pty Ltd</td><td>Retail Associate</td><td>Eagle Farm</td><td>2026-08-15</td></tr>
+<tr><td>Luxottica Retail Australia Pty Ltd</td><td>Retail Associate / Oakley / Casual I West Beach Vault, Sa</td><td>West Beach</td><td>2026-08-15</td></tr>
+<tr><td>EyeQ</td><td>Retail Associate / Eyeq St Ives, Nsw</td><td>St Ives</td><td>2026-08-15</td></tr>
+<tr><td>Luxottica Retail Australia Pty Ltd</td><td>Retail Associate / Sunglass Hut Myer Bondi Junction Nsw</td><td>Sydney</td><td>2026-08-15</td></tr>
+<tr><td>OPSM</td><td>Associate Dispenser I Opsm I Pt I Vic I Traralgon</td><td>Traralgon</td><td>2026-08-15</td></tr>
+<tr><td>Priceline Pty Ltd</td><td>Sales Assistant - Casual</td><td>Eaton</td><td>2026-08-15</td></tr>
+<tr><td>Priceline Pty Ltd</td><td>Glow Assistant - Casual</td><td>Melbourne</td><td>2026-08-15</td></tr>
+<tr><td>Priceline Pty Ltd</td><td>Glow Advisor - Part Time</td><td>Perth</td><td>2026-08-15</td></tr>
+<tr><td>ANGLICARE</td><td>Shop Assistant</td><td>Leura</td><td>2026-08-15</td></tr>
+<tr><td>Babcock International</td><td>Security Coordinator</td><td>Adelaide</td><td>2026-08-15</td></tr>
+<tr><td>Babcock International</td><td>Purchasing & Inventory Specialist</td><td>Woodville North</td><td>2026-08-15</td></tr>
+<tr><td>Barwon Health</td><td>Food Services Administration Assistant</td><td>Geelong</td><td>2026-08-15</td></tr>
+<tr><td>Pawllywood</td><td>Category Assistant</td><td>Sydney</td><td>2026-08-15</td></tr>
+<tr><td>PVH</td><td>Category Assistant</td><td>Sydney</td><td>2026-08-15</td></tr>
+<tr><td>transport.nsw.gov.au</td><td>Project Administrator</td><td>Australia</td><td>2026-08-15</td></tr>
+<tr><td>hiremomentum.online</td><td>Project & Product Support Officer</td><td>Amberley</td><td>2026-08-15</td></tr>
+<tr><td>PAE/Amentum</td><td>Project & Product Support Officer</td><td>Amberley</td><td>2026-08-15</td></tr>
+<tr><td>Pinnacle Drinks</td><td>Food And Beverage Supervisor - Victoria Hotel</td><td>Goondiwindi</td><td>2026-08-15</td></tr>
 </table>
