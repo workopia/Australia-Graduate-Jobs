@@ -3411,4 +3411,54 @@
 <tr><td>The Lottery Corporation</td><td>Marketing Coordinator - Racing</td><td>Sydney (Eora Nation)</td><td>2026-08-16</td></tr>
 <tr><td>TABCORP ASSETS Pty Ltd</td><td>Marketing Coordinator - Racing</td><td>Sydney</td><td>2026-08-16</td></tr>
 <tr><td>Babcock International</td><td>Payroll Administrative Support Officer</td><td>Adelaide</td><td>2026-08-16</td></tr>
+<tr><td>Ernst & Young</td><td>Software Engineer (optimisation)</td><td>Boorloo</td><td>2026-08-17</td></tr>
+<tr><td>transport</td><td>Business Intelligence Specialist</td><td>Australia</td><td>2026-08-17</td></tr>
+<tr><td>Deloitte Australia</td><td>External Audit / Multiple Opportunities Available</td><td>Sydney</td><td>2026-08-17</td></tr>
+<tr><td>Coles</td><td>Intelligence Operations Officer</td><td>Victoria</td><td>2026-08-17</td></tr>
+<tr><td>Coles</td><td>Strategy & Delivery Business Partner</td><td>Victoria</td><td>2026-08-17</td></tr>
+<tr><td>Bega Group</td><td>Quality Compliance And Safety Specialist</td><td>Tatura</td><td>2026-08-17</td></tr>
+<tr><td>Team Global Express</td><td>Commercial Analyst</td><td>Melbourne</td><td>2026-08-17</td></tr>
+<tr><td>teamglobalexp.co.nz</td><td>Commercial Analyst</td><td>Melbourne</td><td>2026-08-17</td></tr>
+<tr><td>Mercy Health</td><td>Registered Nurse</td><td>Melbourne</td><td>2026-08-17</td></tr>
+<tr><td>Epworth HealthCare</td><td>Registered Nurse - Cath Lab</td><td>Melbourne</td><td>2026-08-17</td></tr>
+<tr><td>Opal HealthCare</td><td>Registered Nurse Night Duty - Aldinga Beach Care Community</td><td>Adelaide</td><td>2026-08-17</td></tr>
+<tr><td>Opal HealthCare</td><td>Registered Nurse- Aldinga Beach Care Community</td><td>Adelaide</td><td>2026-08-17</td></tr>
+<tr><td>Austin Health</td><td>Critical Care Registered Nurse Ed</td><td>Melbourne</td><td>2026-08-17</td></tr>
+<tr><td>Austin Health</td><td>Registered Nurse</td><td>Melbourne</td><td>2026-08-17</td></tr>
+<tr><td>Austin Health</td><td>Surgical Liaison Nurse</td><td>Melbourne</td><td>2026-08-17</td></tr>
+<tr><td>Epworth HealthCare</td><td>Registered Nurse - Anaesthetics / Pacu</td><td>Melbourne</td><td>2026-08-17</td></tr>
+<tr><td>Serco Asia Pacific</td><td>Mental Health Registered Nurse</td><td>Brisbane</td><td>2026-08-17</td></tr>
+<tr><td>Serco Asia Pacific</td><td>Registered Nurse-adf Health Services Contract</td><td>Melbourne</td><td>2026-08-17</td></tr>
+<tr><td>Opal HealthCare</td><td>Registered Nurse - Gawler Hillside Care Community</td><td>Adelaide</td><td>2026-08-17</td></tr>
+<tr><td>Bega Cheese</td><td>Maintenance Electrician</td><td>Koroit</td><td>2026-08-17</td></tr>
+<tr><td>Bega Group</td><td>Maintenance Electrician</td><td>Koroit</td><td>2026-08-17</td></tr>
+<tr><td>Bega Cheese</td><td>Electrical Technician</td><td>Sydney</td><td>2026-08-17</td></tr>
+<tr><td>Bega Group</td><td>Electrical Technician</td><td>Sydney</td><td>2026-08-17</td></tr>
+<tr><td>Select International Inc</td><td>Field Service Electronics/electrical Engineering Technician I/ii/iii</td><td>Melbourne</td><td>2026-08-17</td></tr>
+<tr><td>Newmont Corporation</td><td>Mine Maintenance</td><td>Tanami</td><td>2026-08-17</td></tr>
+<tr><td>Transport for NSW</td><td>Mechanical Tradesperson</td><td>Broken Hill</td><td>2026-08-17</td></tr>
+<tr><td>Komatsu Marketing Support Australia Pty Ltd</td><td>Auto Electrician - Metro Field Service</td><td>Australia</td><td>2026-08-17</td></tr>
+<tr><td>Coates</td><td>Pump Mechanic - Field Service</td><td>Kalgoorlie</td><td>2026-08-17</td></tr>
+<tr><td>Coates</td><td>Fitter Mechanic - Field Service</td><td>Wollongong</td><td>2026-08-17</td></tr>
+<tr><td>St Vincent de Paul Society NSW</td><td>Shop Assistant</td><td>Sydney</td><td>2026-08-17</td></tr>
+<tr><td>The Good Guys</td><td>Christmas Casual - Thomastown</td><td>Melbourne</td><td>2026-08-17</td></tr>
+<tr><td>Bunnings</td><td>Customer Service Team Member – Seasonal Casual (mornington, Hastings)</td><td>Melbourne</td><td>2026-08-17</td></tr>
+<tr><td>Bunnings Group</td><td>Customer Service Team Member - Seasonal Casual</td><td>Melbourne</td><td>2026-08-17</td></tr>
+<tr><td>Bunnings Group</td><td>Customer Service Team Member</td><td>Melbourne</td><td>2026-08-17</td></tr>
+<tr><td>Bunnings</td><td>Customer Service Team Member</td><td>Melbourne</td><td>2026-08-17</td></tr>
+<tr><td>Msssecurity Com Au</td><td>Loading Dock Coordinator</td><td>New South Wales</td><td>2026-08-17</td></tr>
+<tr><td>DECJUBA</td><td>Casual Retail Assistant - Sunshine Plaza</td><td>Maroochydore</td><td>2026-08-17</td></tr>
+<tr><td>DECJUBA</td><td>Casual Retail Assistant - Hurstville</td><td>Sydney</td><td>2026-08-17</td></tr>
+<tr><td>SVHA</td><td>Administrative Assistant</td><td>Melbourne</td><td>2026-08-17</td></tr>
+<tr><td>Bankofhwfs</td><td>Customer Service Specialist</td><td>Perth Central</td><td>2026-08-17</td></tr>
+<tr><td>Bankwest</td><td>Customer Service Specialist</td><td>Perth</td><td>2026-08-17</td></tr>
+<tr><td>Cubic Defense</td><td>Exercise And Simulation Planner</td><td>Sydney</td><td>2026-08-17</td></tr>
+<tr><td>Cubic Transportation Systems</td><td>Exercise And Simulation Planner</td><td>Sydney</td><td>2026-08-17</td></tr>
+<tr><td>Pet O</td><td>Retail Assistant</td><td>Melbourne</td><td>2026-08-17</td></tr>
+<tr><td>Academic Jobs</td><td>Coordinator, Scheduling</td><td>Melbourne</td><td>2026-08-17</td></tr>
+<tr><td>Priceline Pty Ltd</td><td>Facilities Coordinator</td><td>Marsden Park</td><td>2026-08-17</td></tr>
+<tr><td>Priceline Pty Ltd</td><td>Sales Assistant - Casual</td><td>South Eveleigh</td><td>2026-08-17</td></tr>
+<tr><td>Priceline Pty Ltd</td><td>Project Coordinator</td><td>Melbourne</td><td>2026-08-17</td></tr>
+<tr><td>Priceline Pty Ltd</td><td>Ecommerce Trade Coordinator</td><td>Melbourne</td><td>2026-08-17</td></tr>
+<tr><td>transport</td><td>Visual Engagement Specialist</td><td>Sydney</td><td>2026-08-17</td></tr>
 </table>
