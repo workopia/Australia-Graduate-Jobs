@@ -3461,4 +3461,54 @@
 <tr><td>Priceline Pty Ltd</td><td>Project Coordinator</td><td>Melbourne</td><td>2026-08-17</td></tr>
 <tr><td>Priceline Pty Ltd</td><td>Ecommerce Trade Coordinator</td><td>Melbourne</td><td>2026-08-17</td></tr>
 <tr><td>transport</td><td>Visual Engagement Specialist</td><td>Sydney</td><td>2026-08-17</td></tr>
+<tr><td>Royal Bank of Canada</td><td>2026/2027 Summer Internship Program – Corporate Banking</td><td>Sydney</td><td>2026-08-18</td></tr>
+<tr><td>WesTrac Pty Ltd</td><td>Sap Support Specialist</td><td>Guildford</td><td>2026-08-18</td></tr>
+<tr><td>transport</td><td>Data Analyst</td><td>Australia</td><td>2026-08-18</td></tr>
+<tr><td>Westviewhealth</td><td>Workforce Systems & Data Officer</td><td>Melbourne</td><td>2026-08-18</td></tr>
+<tr><td>Mymhcommunity</td><td>Workforce Systems & Data Officer</td><td>Melbourne</td><td>2026-08-18</td></tr>
+<tr><td>Coles</td><td>Business Analyst, Srm</td><td>Victoria</td><td>2026-08-18</td></tr>
+<tr><td>Coles</td><td>Commercial Analyst - Ecommerce Transformation</td><td>Victoria</td><td>2026-08-18</td></tr>
+<tr><td>BlueCare</td><td>Registered Nurse</td><td>Maroochydore</td><td>2026-08-18</td></tr>
+<tr><td>Anglicare Sydney</td><td>Registered Nurse</td><td>Sydney</td><td>2026-08-18</td></tr>
+<tr><td>The University Of Melbourne</td><td>Research Assistant In Computational Drug Discovery</td><td>Melbourne</td><td>2026-08-18</td></tr>
+<tr><td>jobs.unimelb.edu.au</td><td>Research Assistant In Computational Drug Discovery</td><td>Melbourne</td><td>2026-08-18</td></tr>
+<tr><td>University of Melbourne</td><td>Research Assistant In Computational Drug Discovery</td><td>Melbourne</td><td>2026-08-18</td></tr>
+<tr><td>RMIT</td><td>Research Assistant</td><td>Melbourne</td><td>2026-08-18</td></tr>
+<tr><td>RMIT</td><td>Casual Researcher - Ante Zdilar</td><td>Melbourne</td><td>2026-08-18</td></tr>
+<tr><td>SVHA</td><td>Grade 3 Physiotherapist</td><td>Melbourne</td><td>2026-08-18</td></tr>
+<tr><td>St Vincent's Hospital Melbourne</td><td>Physiotherapist Grade 2 - Mental Health</td><td>Melbourne</td><td>2026-08-18</td></tr>
+<tr><td>St Vincent’s Hospital Melbourne</td><td>Grade 3 Physiotherapist</td><td>Melbourne</td><td>2026-08-18</td></tr>
+<tr><td>Salvation Army Australia</td><td>Registered Nurse - Ppt</td><td>Erina</td><td>2026-08-18</td></tr>
+<tr><td>The Salvation Army</td><td>Registered Nurse - Ppt</td><td>Erina</td><td>2026-08-18</td></tr>
+<tr><td>Peter MacCallum Cancer Centre</td><td>Physiotherapist Grade 1</td><td>Melbourne</td><td>2026-08-18</td></tr>
+<tr><td>RSL LIFECARE LIMITED</td><td>Registered Nurse</td><td>Hawks Nest</td><td>2026-08-18</td></tr>
+<tr><td>RSL LifeCare</td><td>Registered Nurse</td><td>Hawks Nest</td><td>2026-08-18</td></tr>
+<tr><td>Epworth HealthCare</td><td>Registered Nurse - Orthopaedics</td><td>Melbourne</td><td>2026-08-18</td></tr>
+<tr><td>Opal HealthCare</td><td>Personal Care Worker - Mulgrave Rise Care Community</td><td>Melbourne</td><td>2026-08-18</td></tr>
+<tr><td>Konekt</td><td>Physiotherapist</td><td>Sydney</td><td>2026-08-18</td></tr>
+<tr><td>Early Start Australia</td><td>Physiotherapist</td><td>Sydney</td><td>2026-08-18</td></tr>
+<tr><td>Medibank Private Ltd</td><td>Community Registered Nurse</td><td>Melbourne</td><td>2026-08-18</td></tr>
+<tr><td>St Vincent’s Hospital Sydney</td><td>Research Business Officer</td><td>Sydney</td><td>2026-08-18</td></tr>
+<tr><td>OBrien AU</td><td>Casual Mobile Chip Repair Technician</td><td>Bayswater Vic</td><td>2026-08-18</td></tr>
+<tr><td>Voith</td><td>Sh 2.0 Field Service Engineer (m/f/d)</td><td>Snowy</td><td>2026-08-18</td></tr>
+<tr><td>Voith</td><td>Field Service Engineer (m/f/d) Balance Of Plant Mechanical - Australia</td><td>Snowy</td><td>2026-08-18</td></tr>
+<tr><td>AMX</td><td>Sales Assistant - Amx Hoppers Crossing - Casual</td><td>Melbourne</td><td>2026-08-18</td></tr>
+<tr><td>GENUINE PARTS COMPANY</td><td>Sales Assistant - Amx Hoppers Crossing - Casual</td><td>Melbourne</td><td>2026-08-18</td></tr>
+<tr><td>The Good Guys</td><td>Christmas Casual - Western Suburbs</td><td>Melbourne</td><td>2026-08-18</td></tr>
+<tr><td>The Good Guys</td><td>Christmas Casual - North-west Melbourne</td><td>Melbourne</td><td>2026-08-18</td></tr>
+<tr><td>The Good Guys</td><td>Christmas Casual - South-east Melbourne</td><td>Melbourne</td><td>2026-08-18</td></tr>
+<tr><td>The Good Guys</td><td>Christmas Casual - South East Peninsula Melbourne</td><td>Melbourne</td><td>2026-08-18</td></tr>
+<tr><td>The Good Guys</td><td>Christmas Casual - South Eastern Suburbs Melbourne</td><td>Melbourne</td><td>2026-08-18</td></tr>
+<tr><td>The Good Guys</td><td>Christmas Casual - Hoppers Crossing</td><td>Melbourne</td><td>2026-08-18</td></tr>
+<tr><td>Wilson Sporting Goods Co.</td><td>Casual Athlete Advisor</td><td>Melbourne</td><td>2026-08-18</td></tr>
+<tr><td>CSL Behring</td><td>Executive Assistant, Corporate Affairs</td><td>Melbourne</td><td>2026-08-18</td></tr>
+<tr><td>The Salvation Army Victoria ARC</td><td>Casual Administration And Campaign Support</td><td>Derwent Park</td><td>2026-08-18</td></tr>
+<tr><td>Salvation Army Australia</td><td>Casual Administration And Campaign Support</td><td>Derwent Park</td><td>2026-08-18</td></tr>
+<tr><td>The Salvation Army</td><td>Casual Administration And Campaign Support</td><td>Derwent Park</td><td>2026-08-18</td></tr>
+<tr><td>Thales Group</td><td>Delivery Escort & Logistics Officer</td><td>Woolloomooloo</td><td>2026-08-18</td></tr>
+<tr><td>166</td><td>Casual Administration And Campaign Support</td><td>Derwent Park</td><td>2026-08-18</td></tr>
+<tr><td>ASICS OCEANIA PTY LTD</td><td>Seasonal Casual Retail Assistant - Homebush Dfo</td><td>Sydney</td><td>2026-08-18</td></tr>
+<tr><td>Serco Asia Pacific</td><td>Executive Assistant</td><td>Lavadia</td><td>2026-08-18</td></tr>
+<tr><td>DHL Group</td><td>Gateway Operations Agent - Mel Gtw</td><td>Melbourne</td><td>2026-08-18</td></tr>
+<tr><td>Voith</td><td>Sh 2.0 Warehouse Administrator</td><td>Snowy</td><td>2026-08-18</td></tr>
 </table>
