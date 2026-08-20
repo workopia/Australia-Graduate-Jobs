@@ -3606,4 +3606,94 @@
 <tr><td>ALDI Australia</td><td>Retail Assistant - Rockingham</td><td>Rockingham</td><td>2026-08-19</td></tr>
 <tr><td>Marriott International</td><td>Banquets Supervisor</td><td>Perth</td><td>2026-08-19</td></tr>
 <tr><td>CSL</td><td>Executive Assistant, Corporate Affairs</td><td>Melbourne</td><td>2026-08-19</td></tr>
+<tr><td>LSKD</td><td>Seasonal Casual - Distribution Centre Team</td><td>Australia</td><td>2026-08-20</td></tr>
+<tr><td>LSKD</td><td>Bondi Seasonal Casual - Retail Educator</td><td>Sydney</td><td>2026-08-20</td></tr>
+<tr><td>LSKD</td><td>Chatswood Chase Seasonal Casual - Retail Educator</td><td>Sydney</td><td>2026-08-20</td></tr>
+<tr><td>OMERS Administration Corporation Inc</td><td>Intern, Ai Enablement & Adoption Specialist (fall 2026, 4 Months) - Sydney, Australia</td><td>Sydney</td><td>2026-08-20</td></tr>
+<tr><td>EY</td><td>Software Engineer (optimisation)</td><td>Boorloo</td><td>2026-08-20</td></tr>
+<tr><td>THALES</td><td>Cyber Security Analyst</td><td>Sydney</td><td>2026-08-20</td></tr>
+<tr><td>Thales Group</td><td>Cyber Security Analyst</td><td>Sydney</td><td>2026-08-20</td></tr>
+<tr><td>Bega Cheese</td><td>Regional Support Analyst</td><td>Melbourne</td><td>2026-08-20</td></tr>
+<tr><td>Bega Group</td><td>Regional Support Analyst</td><td>Melbourne</td><td>2026-08-20</td></tr>
+<tr><td>Jobgether</td><td>Game Developer - Voxel-based Engine (java)</td><td>Australia</td><td>2026-08-20</td></tr>
+<tr><td>Mymhcommunity</td><td>Data And Support Analyst</td><td>Melbourne</td><td>2026-08-20</td></tr>
+<tr><td>438</td><td>Data And Support Analyst</td><td>Melbourne</td><td>2026-08-20</td></tr>
+<tr><td>Westviewhealth</td><td>Data And Support Analyst</td><td>Melbourne</td><td>2026-08-20</td></tr>
+<tr><td>Bilue</td><td>Ai Data Scientist (expression Of Interest)</td><td>Sydney</td><td>2026-08-20</td></tr>
+<tr><td>Coles Supermarkets Australia Pty Ltd</td><td>Data Scientist - Hawthorn East</td><td>Melbourne</td><td>2026-08-20</td></tr>
+<tr><td>Royal Automobile Club of Victoria</td><td>Digital Engagement And Conversation Analyst</td><td>Melbourne</td><td>2026-08-20</td></tr>
+<tr><td>Evolution Mining</td><td>Mine Accountant</td><td>West Wyalong</td><td>2026-08-20</td></tr>
+<tr><td>transport.nsw.gov.au</td><td>Business Analyst</td><td>Australia</td><td>2026-08-20</td></tr>
+<tr><td>transport.nsw.gov.au</td><td>Enforcement Information Officer</td><td>Sydney</td><td>2026-08-20</td></tr>
+<tr><td>transport.nsw.gov.au</td><td>Investment Analyst</td><td>Australia</td><td>2026-08-20</td></tr>
+<tr><td>transport.nsw.gov.au</td><td>Commercial Revenue Analyst G7 (temporary Opportunity - Up To 11 Months)</td><td>Sydney</td><td>2026-08-20</td></tr>
+<tr><td>Marriott International</td><td>Accountant</td><td>Melbourne</td><td>2026-08-20</td></tr>
+<tr><td>BlueCare</td><td>Registered Nurse</td><td>Biloela</td><td>2026-08-20</td></tr>
+<tr><td>ANGLICARE</td><td>Registered Nurse</td><td>Elizabeth Lodge</td><td>2026-08-20</td></tr>
+<tr><td>Dm50</td><td>Registered Nurse</td><td>Elizabeth Lodge</td><td>2026-08-20</td></tr>
+<tr><td>Wesley Mission Queensland</td><td>Registered Nurse</td><td>Brisbane</td><td>2026-08-20</td></tr>
+<tr><td>Opal HealthCare</td><td>Registered Nurse- Everard Park Care Community</td><td>Everard Park</td><td>2026-08-20</td></tr>
+<tr><td>Opal HealthCare</td><td>Registered Nurse - Lansdowne Gardens On Wycombe</td><td>Sydney</td><td>2026-08-20</td></tr>
+<tr><td>Mymhcommunity</td><td>Registered Nurse</td><td>Warrnambool</td><td>2026-08-20</td></tr>
+<tr><td>72</td><td>Registered Nurse</td><td>Warrnambool</td><td>2026-08-20</td></tr>
+<tr><td>Mercy Health</td><td>Registered Nurse</td><td>Warrnambool</td><td>2026-08-20</td></tr>
+<tr><td>Neurosurgeon role (org unclear)</td><td>Registered Nurse Plastics/ent Ward</td><td>Melbourne</td><td>2026-08-20</td></tr>
+<tr><td>SVHA</td><td>Registered Nurse Plastics/ent Ward</td><td>Melbourne</td><td>2026-08-20</td></tr>
+<tr><td>St Vincent's Private Hospital</td><td>Registered Nurse Plastics/ent Ward</td><td>Melbourne</td><td>2026-08-20</td></tr>
+<tr><td>Neurosurgeon role (org unclear)</td><td>Registered Nurse</td><td>Sydney</td><td>2026-08-20</td></tr>
+<tr><td>St Vincent’s Private Hospital Melbourne Fitzroy campus (SVPHM)</td><td>Perioperative Robotic Nurse</td><td>Melbourne</td><td>2026-08-20</td></tr>
+<tr><td>SVHA</td><td>Perioperative Robotic Nurse</td><td>Melbourne</td><td>2026-08-20</td></tr>
+<tr><td>St Vincent's Private Hospital Melbourne</td><td>Perioperative Robotic Nurse</td><td>Melbourne</td><td>2026-08-20</td></tr>
+<tr><td>IRT</td><td>Registered Nurse - Irt Sarah Claydon</td><td>Shoalhaven</td><td>2026-08-20</td></tr>
+<tr><td>UnitingCare</td><td>Registered Nurse - Bowden Brae</td><td>Sydney</td><td>2026-08-20</td></tr>
+<tr><td>Austin Health</td><td>Physiotherapist G2</td><td>Melbourne</td><td>2026-08-20</td></tr>
+<tr><td>166</td><td>Registered Nurse - Ppt</td><td>Erina</td><td>2026-08-20</td></tr>
+<tr><td>UnitingCare Queensland</td><td>Registered Nurse - Surgical Wards</td><td>Maroochydore</td><td>2026-08-20</td></tr>
+<tr><td>BlueCare</td><td>Registered Nurse - Surgical Wards</td><td>Maroochydore</td><td>2026-08-20</td></tr>
+<tr><td>Icareigive</td><td>Registered Nurse - Surgical Wards</td><td>Maroochydore</td><td>2026-08-20</td></tr>
+<tr><td>UnitingCare</td><td>Registered Nurse - Kari Court</td><td>St Ives</td><td>2026-08-20</td></tr>
+<tr><td>UnitingCare Qld</td><td>Registered Nurse</td><td>Brisbane</td><td>2026-08-20</td></tr>
+<tr><td>McDonald's Australia</td><td>Maintenance</td><td>Ballina</td><td>2026-08-20</td></tr>
+<tr><td>Ingersoll Rand PLC</td><td>Service Technician</td><td>WA</td><td>2026-08-20</td></tr>
+<tr><td>JBS Australia Pty Ltd</td><td>Maintenance Electrician</td><td>Yanco</td><td>2026-08-20</td></tr>
+<tr><td>Orica Australia Pty Ltd</td><td>Field Maintenance Technician</td><td>Mount Isa</td><td>2026-08-20</td></tr>
+<tr><td>Orica Australia Pty Ltd</td><td>Field Support Technician</td><td>South Townsville</td><td>2026-08-20</td></tr>
+<tr><td>Hollister Incorporated</td><td>Maintenance Electrician</td><td>Ballina</td><td>2026-08-20</td></tr>
+<tr><td>RACV</td><td>Maintenance Administrator</td><td>Royal Pines Resort</td><td>2026-08-20</td></tr>
+<tr><td>Webuild SpA</td><td>Mechanical Fitter</td><td>Karratha</td><td>2026-08-20</td></tr>
+<tr><td>DECJUBA</td><td>Casual Retail Assistant - Werribee</td><td>Melbourne</td><td>2026-08-20</td></tr>
+<tr><td>Sephora USA Inc</td><td>Retail Assistant - Eastland</td><td>Melbourne</td><td>2026-08-20</td></tr>
+<tr><td>Repco Australia - A Division of GPC Asia Pacific</td><td>Customer Sales & Service - Repco North Rockhampton - Casual</td><td>North Rockhampton</td><td>2026-08-20</td></tr>
+<tr><td>Repco</td><td>Customer Sales & Service - Repco North Rockhampton - Casual</td><td>North Rockhampton</td><td>2026-08-20</td></tr>
+<tr><td>ASICS OCEANIA PTY LTD</td><td>Seasonal Casual Retail Assistant - Essendon</td><td>Melbourne</td><td>2026-08-20</td></tr>
+<tr><td>EssilorLuxottica SA</td><td>Associate Dispenser</td><td>Yarrawonga</td><td>2026-08-20</td></tr>
+<tr><td>EssilorLuxottica SA</td><td>Retail Associate / Opsm Oran Park, Nsw</td><td>Oran Park</td><td>2026-08-20</td></tr>
+<tr><td>EssilorLuxottica SA</td><td>Retail Associate / Sunglass Hut Homebush Dfo, Nsw</td><td>Sydney</td><td>2026-08-20</td></tr>
+<tr><td>EssilorLuxottica SA</td><td>Retail Associate / Sunglass Hut Castle Hill, Nsw</td><td>Sydney</td><td>2026-08-20</td></tr>
+<tr><td>EssilorLuxottica SA</td><td>Associate Dispenser I Opsm I Pt I Vic I Traralgon</td><td>Traralgon</td><td>2026-08-20</td></tr>
+<tr><td>EssilorLuxottica SA</td><td>Retail Associate / Sunglass Hut / C / Vic / Highpoint</td><td>Melbourne</td><td>2026-08-20</td></tr>
+<tr><td>EssilorLuxottica SA</td><td>Retail Associate / Opsm Bankstown, Nsw</td><td>Sydney</td><td>2026-08-20</td></tr>
+<tr><td>EssilorLuxottica SA</td><td>Retail Associate / Sunglass Hut Canberra Outlet, Act</td><td>Fyshwick</td><td>2026-08-20</td></tr>
+<tr><td>EssilorLuxottica SA</td><td>Associate Dispenser I Opsm I Part Time I Arndale, Sa</td><td>Kilkenny</td><td>2026-08-20</td></tr>
+<tr><td>EssilorLuxottica SA</td><td>Retail Associate / Sunglass Hut Tamworth, Nsw</td><td>Tamworth</td><td>2026-08-20</td></tr>
+<tr><td>Sunglass Hut</td><td>Retail Associate / Sunglass Hut Dubbo, Nsw</td><td>Dubbo</td><td>2026-08-20</td></tr>
+<tr><td>EssilorLuxottica SA</td><td>Retail Associate / Sunglass Hut Myer Eastgardens, Nsw,</td><td>Eastgardens</td><td>2026-08-20</td></tr>
+<tr><td>EssilorLuxottica SA</td><td>Retail Associate / Sunglass Hut Centrepoint</td><td>Sydney</td><td>2026-08-20</td></tr>
+<tr><td>OPSM (EssilorLuxottica Group)</td><td>Retail Associate / Sunglass Hut Myer Bondi Junction Nsw</td><td>Sydney</td><td>2026-08-20</td></tr>
+<tr><td>OPSM (EssilorLuxottica Group)</td><td>Retail Associate / Opsm Narellan, Nsw</td><td>Narellan</td><td>2026-08-20</td></tr>
+<tr><td>Sunglass Hut</td><td>Retail Associate / Sunglass Hut / C / Vic / Myer Bendigo</td><td>Bendigo</td><td>2026-08-20</td></tr>
+<tr><td>Sunglass Hut</td><td>Retail Associate / Sunglass Hut / C / Vic / Myer Doncaster</td><td>Melbourne</td><td>2026-08-20</td></tr>
+<tr><td>OPSM (EssilorLuxottica Group)</td><td>Retail Associate / Opsm Oran Park, Nsw</td><td>Oran Park</td><td>2026-08-20</td></tr>
+<tr><td>OPSM (EssilorLuxottica Group)</td><td>Associate Dispenser</td><td>Yarrawonga</td><td>2026-08-20</td></tr>
+<tr><td>Sunglass Hut</td><td>Retail Associate / Sunglass Hut Castle Hill, Nsw</td><td>Sydney</td><td>2026-08-20</td></tr>
+<tr><td>Canva</td><td>Executive Assistant To Founder (relocate To Australia)</td><td>Sydney</td><td>2026-08-20</td></tr>
+<tr><td>Coates</td><td>Customer Service Coordinator</td><td>Chinchilla</td><td>2026-08-20</td></tr>
+<tr><td>Goodstart Early Learning Ltd</td><td>Executive Assistant / Team Coordinator</td><td>Murarrie</td><td>2026-08-20</td></tr>
+<tr><td>Transport for NSW</td><td>Visual Engagement Specialist</td><td>Sydney</td><td>2026-08-20</td></tr>
+<tr><td>Transport for NSW</td><td>Project Change Coordinator</td><td>Australia</td><td>2026-08-20</td></tr>
+<tr><td>Central Gippsland Health</td><td>Executive Assistant</td><td>Sale</td><td>2026-08-20</td></tr>
+<tr><td>Gippsland Health Alliance</td><td>Victorian Rural Generalist Program Project Officer</td><td>Bairnsdale</td><td>2026-08-20</td></tr>
+<tr><td>dcj</td><td>Administration Assistant - Reiby Youth Justice Centre, Youth Justice</td><td>Airds</td><td>2026-08-20</td></tr>
+<tr><td>Legal Aid NSW</td><td>Executive Assistant And Project Officer</td><td>Sydney</td><td>2026-08-20</td></tr>
+<tr><td>MYER</td><td>Digital Marketing Coordinator</td><td>Support Office</td><td>2026-08-20</td></tr>
 </table>
