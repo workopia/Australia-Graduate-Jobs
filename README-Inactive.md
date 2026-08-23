@@ -4068,4 +4068,63 @@
 <tr><td>students.flinders.edu.au</td><td>Administrative Assistant</td><td>Bedford Park</td><td>2026-08-23</td></tr>
 <tr><td>Nestle SA</td><td>Transport Coordinator</td><td>Blayney</td><td>2026-08-23</td></tr>
 <tr><td>Serco Asia Pacific</td><td>Executive Assistant</td><td>Lavadia</td><td>2026-08-23</td></tr>
+<tr><td>AECOM UK</td><td>Architecture Intern (nov 2026)</td><td>Brisbane</td><td>2026-08-23</td></tr>
+<tr><td>Accenture Australia</td><td>Security Analyst- Au Citizen With Security Clearance</td><td>Sydney</td><td>2026-08-23</td></tr>
+<tr><td>Halfspace ApS</td><td>Security Analyst- Au Citizen With Security Clearance</td><td>Sydney</td><td>2026-08-23</td></tr>
+<tr><td>RFD TV Streaming</td><td>Assurance Technical Support Officer</td><td>Melbourne</td><td>2026-08-23</td></tr>
+<tr><td>AUSSIE BROADBAND LIMITED</td><td>Assurance Technical Support Officer</td><td>Melbourne</td><td>2026-08-23</td></tr>
+<tr><td>The Marian Center</td><td>Technical Support Officer</td><td>Melbourne</td><td>2026-08-23</td></tr>
+<tr><td>Mercy Health</td><td>Technical Support Officer</td><td>Melbourne</td><td>2026-08-23</td></tr>
+<tr><td>Transport for NSW</td><td>Application Developer (bi Specialist)</td><td>Australia</td><td>2026-08-23</td></tr>
+<tr><td>Missioneb</td><td>Data Insights Analyst</td><td>Sydney</td><td>2026-08-23</td></tr>
+<tr><td>MA MISSION AUSTRALIA</td><td>Data Insights Analyst</td><td>Sydney</td><td>2026-08-23</td></tr>
+<tr><td>Jetstar Airways</td><td>Data Analyst - Finance Operations</td><td>Melbourne</td><td>2026-08-23</td></tr>
+<tr><td>dcj</td><td>Disaster Recovery Intelligence Officer</td><td>Sydney</td><td>2026-08-23</td></tr>
+<tr><td>about.uq.edu.au</td><td>Data Scientist, Marketing</td><td>St Lucia Campus</td><td>2026-08-23</td></tr>
+<tr><td>smp.uq.edu.au</td><td>Data Scientist, Marketing</td><td>St Lucia Campus</td><td>2026-08-23</td></tr>
+<tr><td>Koala AU</td><td>Ethical Supply Chains Specialist</td><td>Sydney</td><td>2026-08-23</td></tr>
+<tr><td>Coles</td><td>Labour Standards Analyst</td><td>Victoria</td><td>2026-08-23</td></tr>
+<tr><td>Opal HealthCare</td><td>*registered Nurse Night Duty - Sa All Care Communities</td><td>Joslin +5</td><td>2026-08-23</td></tr>
+<tr><td>Opal HealthCare</td><td>Registered Nurse Night Duty - Murdoch Gardens Care Community</td><td>Murdoch</td><td>2026-08-23</td></tr>
+<tr><td>HammondCare</td><td>Clinical Partner - Nursing</td><td>Tuggerah</td><td>2026-08-23</td></tr>
+<tr><td>Rsconstruction</td><td>Community Registered Nurse</td><td>Hc Hunter</td><td>2026-08-23</td></tr>
+<tr><td>Serco Asia Pacific</td><td>Registered Nurse</td><td>Williamtown</td><td>2026-08-23</td></tr>
+<tr><td>I-MED Radiology</td><td>Registered Nurse</td><td>Gippsland</td><td>2026-08-23</td></tr>
+<tr><td>MQ Health</td><td>Registered Nurse (clinical Trials Unit)</td><td>75 Talavera</td><td>2026-08-23</td></tr>
+<tr><td>BlueCare</td><td>Registered Nurse</td><td>Redcliffe</td><td>2026-08-23</td></tr>
+<tr><td>UnitingCare Health</td><td>Registered Nurse</td><td>Brisbane</td><td>2026-08-23</td></tr>
+<tr><td>Academic Jobs</td><td>Research Assistant In Computational Drug Discovery</td><td>Melbourne</td><td>2026-08-23</td></tr>
+<tr><td>staff.unimelb.edu.au</td><td>Research Assistant In Computational Drug Discovery</td><td>Melbourne</td><td>2026-08-23</td></tr>
+<tr><td>Peter MacCallum Cancer Centre</td><td>Physiotherapist Grade 1</td><td>Melbourne</td><td>2026-08-23</td></tr>
+<tr><td>Peter MacCallum Cancer Centre</td><td>Hith/pac Nurse Grade 3b - Peter Mac At Home</td><td>Melbourne</td><td>2026-08-23</td></tr>
+<tr><td>Peter MacCallum Cancer Centre</td><td>Research Assistant - Physical Sciences</td><td>Melbourne</td><td>2026-08-23</td></tr>
+<tr><td>The University Of Melbourne</td><td>Research Assistant In Computational Drug Discovery</td><td>Melbourne</td><td>2026-08-23</td></tr>
+<tr><td>Northrop Grumman Australia</td><td>Field Services Representative</td><td>Amberley</td><td>2026-08-23</td></tr>
+<tr><td>Liebherr Australia</td><td>Field Service Technician - Electrician</td><td>Wollongong</td><td>2026-08-23</td></tr>
+<tr><td>E80 Group</td><td>Service Technician Automation - Yatala</td><td>Yatala +1</td><td>2026-08-23</td></tr>
+<tr><td>ORIGIN ENERGY Ltd</td><td>Maintenance Technician - Level 3</td><td>Dalby</td><td>2026-08-23</td></tr>
+<tr><td>ORIGIN ENERGY Ltd</td><td>Maintenance Technician - Mechanical</td><td>Dalby</td><td>2026-08-23</td></tr>
+<tr><td>Emploisgevernovahydro</td><td>Field Service Technician - Services And Commissioning</td><td>Sydney</td><td>2026-08-23</td></tr>
+<tr><td>Sunglass Hut</td><td>Retail Associate / Sunglass Hut Parramatta, Nsw</td><td>Sydney</td><td>2026-08-23</td></tr>
+<tr><td>Aldi Australia</td><td>Retail Assistant - St Marys</td><td>Saint Marys</td><td>2026-08-23</td></tr>
+<tr><td>The Good Guys</td><td>Christmas Casual - Gepps Cross Home</td><td>Gepps Cross</td><td>2026-08-23</td></tr>
+<tr><td>The Good Guys</td><td>Christmas Casual - Narellan</td><td>Narellan</td><td>2026-08-23</td></tr>
+<tr><td>The Good Guys</td><td>Christmas Casual - Erina</td><td>Erina</td><td>2026-08-23</td></tr>
+<tr><td>The Good Guys</td><td>Christmas Casual - Lake Haven</td><td>Lake Haven</td><td>2026-08-23</td></tr>
+<tr><td>The Good Guys</td><td>Christmas Casual - Hornsby</td><td>Sydney</td><td>2026-08-23</td></tr>
+<tr><td>The Good Guys</td><td>Christmas Casual - Watergardens</td><td>Melbourne</td><td>2026-08-23</td></tr>
+<tr><td>The Good Guys</td><td>Christmas Casual - Victoria Gardens</td><td>Melbourne</td><td>2026-08-23</td></tr>
+<tr><td>The Good Guys</td><td>Christmas Casual - Altona Home</td><td>Melbourne</td><td>2026-08-23</td></tr>
+<tr><td>The Good Guys</td><td>Christmas Casual - Mornington Home</td><td>Melbourne</td><td>2026-08-23</td></tr>
+<tr><td>Baierlcareers</td><td>Administration Assistant</td><td>Sydney</td><td>2026-08-23</td></tr>
+<tr><td>169o</td><td>Administration Assistant</td><td>Sydney</td><td>2026-08-23</td></tr>
+<tr><td>859</td><td>Administration Assistant</td><td>Sydney</td><td>2026-08-23</td></tr>
+<tr><td>Konekt</td><td>Administration Assistant</td><td>Bunbury</td><td>2026-08-23</td></tr>
+<tr><td>Early Start Australia</td><td>Administration Assistant</td><td>Bunbury</td><td>2026-08-23</td></tr>
+<tr><td>Sheet Society</td><td>Chadstone Part-time Retail Sales Assistants & Ops Coordinator</td><td>Melbourne</td><td>2026-08-23</td></tr>
+<tr><td>WesTrac Pty Ltd</td><td>Customer Service Coordinator</td><td>Campbelltown</td><td>2026-08-23</td></tr>
+<tr><td>transport.nsw.gov.au</td><td>Project Change Coordinator</td><td>Australia</td><td>2026-08-23</td></tr>
+<tr><td>Cleanaway Waste Management Ltd</td><td>Administration & Customer Service Officer</td><td>Morwell</td><td>2026-08-23</td></tr>
+<tr><td>Melbourne Water Corporation</td><td>Executive Assistant</td><td>Melbourne</td><td>2026-08-23</td></tr>
+<tr><td>Deloitte Australia</td><td>Professional Assistant (12 Month Fixed Term)</td><td>Perth</td><td>2026-08-23</td></tr>
 </table>
