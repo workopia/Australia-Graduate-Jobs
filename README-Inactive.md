@@ -4127,4 +4127,55 @@
 <tr><td>Cleanaway Waste Management Ltd</td><td>Administration & Customer Service Officer</td><td>Morwell</td><td>2026-08-23</td></tr>
 <tr><td>Melbourne Water Corporation</td><td>Executive Assistant</td><td>Melbourne</td><td>2026-08-23</td></tr>
 <tr><td>Deloitte Australia</td><td>Professional Assistant (12 Month Fixed Term)</td><td>Perth</td><td>2026-08-23</td></tr>
+<tr><td>Authentics Australia</td><td>Full Time Sales Assistant</td><td>Melbourne</td><td>2026-08-24</td></tr>
+<tr><td>McDonald's Australia</td><td>Electrical Technician</td><td>Sydney</td><td>2026-08-24</td></tr>
+<tr><td>AECOM UK</td><td>Heritage Specialist Intern (nov 2026)</td><td>Brisbane</td><td>2026-08-24</td></tr>
+<tr><td>Deloitte Australia</td><td>Daon / Technical Support Engineer</td><td>Sydney</td><td>2026-08-24</td></tr>
+<tr><td>Livenation</td><td>Venue Support Specialist</td><td>Sydney</td><td>2026-08-24</td></tr>
+<tr><td>Downer</td><td>Reporting And Data Analyst</td><td>Melbourne</td><td>2026-08-24</td></tr>
+<tr><td>Spotless</td><td>Reporting And Data Analyst</td><td>Melbourne</td><td>2026-08-24</td></tr>
+<tr><td>Deloitte Australia</td><td>Experienced Analyst / Regulatory Operations / Sydney</td><td>Sydney</td><td>2026-08-24</td></tr>
+<tr><td>JBS Australia Pty Ltd</td><td>Plant Accountant</td><td>Melbourne</td><td>2026-08-24</td></tr>
+<tr><td>Officeworks</td><td>Regional Injury Management Advisor</td><td>Melbourne</td><td>2026-08-24</td></tr>
+<tr><td>Opal HealthCare</td><td>Registered Nurse ( Night Duty) - Kanwal Gardens Care Community</td><td>Kanwal +1</td><td>2026-08-24</td></tr>
+<tr><td>Opal HealthCare</td><td>Registered Nurse</td><td>Sydney</td><td>2026-08-24</td></tr>
+<tr><td>Opal HealthCare</td><td>Casual Registered Nurse - Wahroonga Tallwoods Care Community</td><td>Sydney</td><td>2026-08-24</td></tr>
+<tr><td>Opal HealthCare</td><td>Registered Nurse - Narraweena Grove Care Community</td><td>Sydney</td><td>2026-08-24</td></tr>
+<tr><td>Salvation Army</td><td>Registered Nurse - Casual</td><td>Riverview</td><td>2026-08-24</td></tr>
+<tr><td>The Salvation Army Victoria ARC</td><td>Registered Nurse - Casual</td><td>Riverview</td><td>2026-08-24</td></tr>
+<tr><td>Kone Corporation</td><td>Doors Maintenance Technician</td><td>Perth</td><td>2026-08-24</td></tr>
+<tr><td>KONE Bulgaria</td><td>Doors Maintenance Technician</td><td>Perth</td><td>2026-08-24</td></tr>
+<tr><td>Weir Minerals</td><td>Field Service Fitter</td><td>Mackay +1</td><td>2026-08-24</td></tr>
+<tr><td>Weir Group</td><td>Field Service Fitter</td><td>Mackay +1</td><td>2026-08-24</td></tr>
+<tr><td>TABCORP ASSETS Pty Ltd</td><td>Field Technician</td><td>Regional NSW</td><td>2026-08-24</td></tr>
+<tr><td>The Lottery Corporation</td><td>Field Technician</td><td>Regional NSW</td><td>2026-08-24</td></tr>
+<tr><td>Perenti Global Ltd</td><td>Btp - Field Service Technicians I plant Mechanic Heavy Diesel - Mt Thorley Based</td><td>Mount Thorley</td><td>2026-08-24</td></tr>
+<tr><td>Perenti Global Ltd</td><td>Btp - Field Service Technician - Mackay Based</td><td>Mackay</td><td>2026-08-24</td></tr>
+<tr><td>DDH1 Drilling</td><td>Field Service Drill Fitter</td><td>WA</td><td>2026-08-24</td></tr>
+<tr><td>Ausdrill</td><td>Serviceperson</td><td>Kalgoorlie</td><td>2026-08-24</td></tr>
+<tr><td>Perenti Global Ltd</td><td>Field Service Technicians / Heavy Diesel Mechanics - Pilbara & Goldfields 1</td><td>Pilbara +1</td><td>2026-08-24</td></tr>
+<tr><td>ALSTOM TRANSPORT SA</td><td>Service Maintainer</td><td>Wulkuraka</td><td>2026-08-24</td></tr>
+<tr><td>Hanes Australasia</td><td>Christmas Casual / Bonds / Chadstone</td><td>Melbourne</td><td>2026-08-24</td></tr>
+<tr><td>Hanes Australasia</td><td>Christmas Casual / Sheridan Btq / Chadstone</td><td>Melbourne</td><td>2026-08-24</td></tr>
+<tr><td>Hanes Australasia</td><td>Casual Sales Assistant / Bras N Things / Greensborough</td><td>Melbourne</td><td>2026-08-24</td></tr>
+<tr><td>Hanes Australasia</td><td>Casual Sales Assistant / Bonds / Knox City</td><td>Melbourne</td><td>2026-08-24</td></tr>
+<tr><td>adidas AG</td><td>Casual Retail Professional - Homebush Factory Outlet, Nsw</td><td>Sydney</td><td>2026-08-24</td></tr>
+<tr><td>DECJUBA</td><td>Retail Assistant - Sydney Airport</td><td>Sydney</td><td>2026-08-24</td></tr>
+<tr><td>miele.es</td><td>Warehouse Storeperson (14-month Fixed Term Contract)</td><td>Eastern Creek</td><td>2026-08-24</td></tr>
+<tr><td>miele.co.jp</td><td>Warehouse Storeperson (14-month Fixed Term Contract)</td><td>Eastern Creek</td><td>2026-08-24</td></tr>
+<tr><td>St Vincent de Paul Society NSW</td><td>Shop Assistant</td><td>St Ives</td><td>2026-08-24</td></tr>
+<tr><td>Aldi Australia</td><td>Retail Assistant - South Melbourne</td><td>Melbourne</td><td>2026-08-24</td></tr>
+<tr><td>H&M</td><td>Full Time Sales Advisor (the Strand, Melbourne)</td><td>Melbourne</td><td>2026-08-24</td></tr>
+<tr><td>H&M</td><td>Part Time Sales Advisor (the Strand, Melbourne)</td><td>Melbourne</td><td>2026-08-24</td></tr>
+<tr><td>Aldi Australia</td><td>Retail Assistant - Tarneit Area</td><td>Melbourne</td><td>2026-08-24</td></tr>
+<tr><td>Aldi Australia</td><td>Retail Assistant - Altona Area</td><td>Melbourne</td><td>2026-08-24</td></tr>
+<tr><td>The Good Guys</td><td>Christmas Casual - Burnside Home</td><td>Melbourne</td><td>2026-08-24</td></tr>
+<tr><td>The Good Guys</td><td>Christmas Casual - Melton</td><td>Melbourne</td><td>2026-08-24</td></tr>
+<tr><td>Lightsource bp</td><td>Program Coordinator</td><td>Sydney</td><td>2026-08-24</td></tr>
+<tr><td>Full Well Bodywork</td><td>Community Collaboratives Coordinator</td><td>Wagga Wagga</td><td>2026-08-24</td></tr>
+<tr><td>BPT THE BIRDANCO PRACTICE TRUST</td><td>Administration Assistant</td><td>Adelaide</td><td>2026-08-24</td></tr>
+<tr><td>rsme.info</td><td>Administration Assistant</td><td>Adelaide</td><td>2026-08-24</td></tr>
+<tr><td>University of Queensland</td><td>Executive Support Officer</td><td>St Lucia Campus</td><td>2026-08-24</td></tr>
+<tr><td>The University of Queensland (UQ)</td><td>Executive Support Officer</td><td>St Lucia Campus</td><td>2026-08-24</td></tr>
+<tr><td>smp.uq.edu.au</td><td>Executive Support Officer</td><td>St Lucia Campus</td><td>2026-08-24</td></tr>
 </table>
