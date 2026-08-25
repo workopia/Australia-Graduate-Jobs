@@ -4178,4 +4178,37 @@
 <tr><td>University of Queensland</td><td>Executive Support Officer</td><td>St Lucia Campus</td><td>2026-08-24</td></tr>
 <tr><td>The University of Queensland (UQ)</td><td>Executive Support Officer</td><td>St Lucia Campus</td><td>2026-08-24</td></tr>
 <tr><td>smp.uq.edu.au</td><td>Executive Support Officer</td><td>St Lucia Campus</td><td>2026-08-24</td></tr>
+<tr><td>Mineral resources</td><td>Ai Engineer</td><td>Osborne Park</td><td>2026-08-25</td></tr>
+<tr><td>Downer Group</td><td>Reporting And Data Analyst</td><td>Melbourne</td><td>2026-08-25</td></tr>
+<tr><td>ANZ Bank</td><td>Analyst, Pre Trade Services, Markets (sb Migration)</td><td>Sydney</td><td>2026-08-25</td></tr>
+<tr><td>Estia Health</td><td>Registered Nurse</td><td>Erina</td><td>2026-08-25</td></tr>
+<tr><td>Estia Health</td><td>Registered Nurse / Ironbark / Part Time</td><td>Victoria Heights</td><td>2026-08-25</td></tr>
+<tr><td>GENESISCARE</td><td>Casual Registered Nurse</td><td>Bedford Park</td><td>2026-08-25</td></tr>
+<tr><td>GENESISCARE</td><td>Registered Nurse</td><td>Melbourne</td><td>2026-08-25</td></tr>
+<tr><td>Opal HealthCare</td><td>Registered Nurse- Wallarah Point Care Community</td><td>Toukley +1</td><td>2026-08-25</td></tr>
+<tr><td>McDonald's Australia</td><td>Maintenance</td><td>Redcliffe</td><td>2026-08-25</td></tr>
+<tr><td>KONE Belgique & Luxembourg</td><td>Doors Maintenance Technician</td><td>Perth</td><td>2026-08-25</td></tr>
+<tr><td>OPSM</td><td>Associate Dispenser</td><td>Ballina</td><td>2026-08-25</td></tr>
+<tr><td>Genpt</td><td>Customer Sales & Service - Repco Goondiwindi - Casual</td><td>Goondiwindi</td><td>2026-08-25</td></tr>
+<tr><td>Genpt</td><td>Customer Sales & Service - Repco Fawkner - Casual</td><td>Melbourne</td><td>2026-08-25</td></tr>
+<tr><td>Repco</td><td>Customer Sales & Service - Repco Fawkner - Casual</td><td>Melbourne</td><td>2026-08-25</td></tr>
+<tr><td>The Good Guys</td><td>Christmas Casual - Westfield Sydney</td><td>Sydney</td><td>2026-08-25</td></tr>
+<tr><td>The Good Guys</td><td>Christmas Casual - Sydney City</td><td>Sydney</td><td>2026-08-25</td></tr>
+<tr><td>The Good Guys</td><td>Christmas Casual - Strand Arcade</td><td>Sydney</td><td>2026-08-25</td></tr>
+<tr><td>The Good Guys</td><td>Christmas Casual - Moore Park Home</td><td>Sydney</td><td>2026-08-25</td></tr>
+<tr><td>The Good Guys</td><td>Christmas Casual - Westfield Chatswood</td><td>Sydney</td><td>2026-08-25</td></tr>
+<tr><td>The Good Guys</td><td>Christmas Casual - Bondi</td><td>Sydney</td><td>2026-08-25</td></tr>
+<tr><td>The Good Guys</td><td>Christmas Casual - Rouse Hill</td><td>Sydney</td><td>2026-08-25</td></tr>
+<tr><td>The Good Guys</td><td>Christmas Casual - Macquarie</td><td>Sydney</td><td>2026-08-25</td></tr>
+<tr><td>Arc'teryx</td><td>Casual Sales Associate - Burnside</td><td>Melbourne</td><td>2026-08-25</td></tr>
+<tr><td>The Good Guys</td><td>Christmas Casual - Essendon Home</td><td>Melbourne</td><td>2026-08-25</td></tr>
+<tr><td>The Good Guys</td><td>Christmas Casual - Broadmeadows</td><td>Melbourne</td><td>2026-08-25</td></tr>
+<tr><td>The Good Guys</td><td>Christmas Casual - Airport West</td><td>Melbourne</td><td>2026-08-25</td></tr>
+<tr><td>The Good Guys</td><td>Christmas Casual - Inner West Melbourne</td><td>Melbourne</td><td>2026-08-25</td></tr>
+<tr><td>024</td><td>Executive Assistant</td><td>Sydney</td><td>2026-08-25</td></tr>
+<tr><td>RSL LIFECARE LIMITED</td><td>Quality Coordinator</td><td>Newcastle</td><td>2026-08-25</td></tr>
+<tr><td>RMIT University</td><td>Project Coordinator</td><td>Melbourne</td><td>2026-08-25</td></tr>
+<tr><td>Qurmit</td><td>Project Coordinator</td><td>Melbourne</td><td>2026-08-25</td></tr>
+<tr><td>Inchcape</td><td>Network Development Coordinator</td><td>Norwest</td><td>2026-08-25</td></tr>
+<tr><td>Wellways</td><td>Community Collaboratives Coordinator</td><td>Wagga Wagga</td><td>2026-08-25</td></tr>
 </table>
