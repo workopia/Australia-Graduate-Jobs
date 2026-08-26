@@ -1,5 +1,5 @@
 {
- "asOf": "2026-08-25",
+ "asOf": "2026-08-26",
  "count": 643,
  "jobs": {
   "878266": {
@@ -25,6 +25,12 @@
    "company": "NEC Australia",
    "role": "Launch Your It Career With Nec Australia",
    "location": "Darwin"
+  },
+  "265373f261f149429ea8c62836d9728b": {
+   "id": "265373f261f149429ea8c62836d9728b",
+   "company": "Spotless",
+   "role": "Inclusion & Belonging Trainee",
+   "location": "Milton"
   },
   "775a5863818a31aa8c516f9b9ddfcaec": {
    "id": "775a5863818a31aa8c516f9b9ddfcaec",
@@ -482,16 +488,22 @@
    "role": "Civil Engineering Intern - Civil & Get (nov 2026)",
    "location": "Sydney"
   },
-  "9fa89cc7c35cbde62f543a4607658f57": {
-   "id": "9fa89cc7c35cbde62f543a4607658f57",
-   "company": "AECOM UK",
-   "role": "Economist Intern (nov 2026)",
-   "location": "Melbourne"
-  },
   "12318129ec1d6cf46e5e836cdd04ee22": {
    "id": "12318129ec1d6cf46e5e836cdd04ee22",
    "company": "Datacom",
    "role": "Tech Support - First Nations Ict Trainee Programme - Melbourne",
+   "location": "Melbourne"
+  },
+  "9f12fbfe300be4078380d0ebb4f1f044": {
+   "id": "9f12fbfe300be4078380d0ebb4f1f044",
+   "company": "Sitemate",
+   "role": "Junior Full Stack Engineer - Hybrid",
+   "location": "Melbourne"
+  },
+  "32abc02fd9e8ada099b354a306ec36db": {
+   "id": "32abc02fd9e8ada099b354a306ec36db",
+   "company": "Sitemate",
+   "role": "Full Stack Engineer - Hybrid",
    "location": "Melbourne"
   },
   "5a374c6f28d53fe2b9504a9b858461e1": {
@@ -962,29 +974,35 @@
    "role": "Claims Technical Specialist",
    "location": "Melbourne"
   },
-  "ef7bc121cf4bf5e8af0bdb5e11e0e0bd": {
-   "id": "ef7bc121cf4bf5e8af0bdb5e11e0e0bd",
-   "company": "Aston Martin Lagonda Ltd",
-   "role": "Nvh Powertrain Technical Specialist",
-   "location": "Gaydon"
-  },
-  "32f837de873c9de5aa9140952d16d281": {
-   "id": "32f837de873c9de5aa9140952d16d281",
-   "company": "C3 Presents",
-   "role": "Venue Support Specialist",
-   "location": "Sydney"
-  },
   "0e2ec87c68f0666d448157dd154ff9a9": {
    "id": "0e2ec87c68f0666d448157dd154ff9a9",
    "company": "Transport for NSW",
    "role": "Business Intelligence Developer",
    "location": "Unknown"
   },
+  "036061346e3b8fb13750347bd00787df": {
+   "id": "036061346e3b8fb13750347bd00787df",
+   "company": "Coles Supermarkets Australia Pty Ltd",
+   "role": "Data Analyst - Fulfilment - Coles Hawthorn East",
+   "location": "Melbourne"
+  },
   "01324124a49eac947b19cb856f90eb8b": {
    "id": "01324124a49eac947b19cb856f90eb8b",
    "company": "Infoxchange",
    "role": "Automation Engineer",
    "location": "Melbourne"
+  },
+  "502c7ef82a0c9eb8115e8bfd9d8e34af": {
+   "id": "502c7ef82a0c9eb8115e8bfd9d8e34af",
+   "company": "Transport for NSW",
+   "role": "Data & Performance Specialist",
+   "location": "Eveleigh +2"
+  },
+  "504e64c7d70dbe935bded0cc94d32dea": {
+   "id": "504e64c7d70dbe935bded0cc94d32dea",
+   "company": "Transport for NSW",
+   "role": "Data Operations Analyst",
+   "location": "Australia"
   },
   "8c734365615528f5ec984edd3100bda7": {
    "id": "8c734365615528f5ec984edd3100bda7",
@@ -1039,12 +1057,6 @@
    "company": "Gippsland Health Alliance",
    "role": "Artificial Intelligence Data Analyst",
    "location": "Latrobe"
-  },
-  "9aae4eca436f6160e552d134da96607e": {
-   "id": "9aae4eca436f6160e552d134da96607e",
-   "company": "Coles Supermarkets Australia Pty Ltd",
-   "role": "Data Analyst - Fulfilment - Coles Hawthorn East",
-   "location": "Melbourne"
   },
   "043d75d99edb63a9713c4a96f51192e4": {
    "id": "043d75d99edb63a9713c4a96f51192e4",
@@ -1436,18 +1448,6 @@
    "role": "Advanced Analytics Analyst",
    "location": "Sydney Cbd Area"
   },
-  "b482bc8ccdd52b0cf55d571facf613ff": {
-   "id": "b482bc8ccdd52b0cf55d571facf613ff",
-   "company": "COMMONWEALTH BANK OF AUSTRALIA",
-   "role": "Advanced Analytics Analyst",
-   "location": "Sydney Cbd Area"
-  },
-  "95b8005e78af711fb4cb1cc883f2007f": {
-   "id": "95b8005e78af711fb4cb1cc883f2007f",
-   "company": "CommSec",
-   "role": "Advanced Analytics Analyst",
-   "location": "Sydney"
-  },
   "7957273de3761a80686b0ac15e6f1740": {
    "id": "7957273de3761a80686b0ac15e6f1740",
    "company": "Central Gippsland Health",
@@ -1465,6 +1465,36 @@
    "company": "South32 Ltd",
    "role": "Analyst Finance Business Partnership - Fixed Term Contract",
    "location": "Collie"
+  },
+  "df1ba8ad8ee65a9d720a4609ff2288dc": {
+   "id": "df1ba8ad8ee65a9d720a4609ff2288dc",
+   "company": "Getinge AB",
+   "role": "Compliance Specialist - Service And Projects (12-month Ftc)",
+   "location": "Sydney"
+  },
+  "c774bf4960a87934a2948ce350e431ab": {
+   "id": "c774bf4960a87934a2948ce350e431ab",
+   "company": "Sofitel Melbourne On Collins",
+   "role": "Hotel Accountant (hub Role)",
+   "location": "Sydney"
+  },
+  "923b9f1cf52d0acc8f7f0b3510e8c45a": {
+   "id": "923b9f1cf52d0acc8f7f0b3510e8c45a",
+   "company": "Rest Industry Super",
+   "role": "Change Analyst, 12 Month Ftc",
+   "location": "Sydney"
+  },
+  "7ed5bbb6c47f38d4a2b9a2672890abf2": {
+   "id": "7ed5bbb6c47f38d4a2b9a2672890abf2",
+   "company": "Newell Brands Inc",
+   "role": "Financial Analyst - Supply Chain",
+   "location": "Melbourne"
+  },
+  "fa7eda557519f82eaee0cbf2f4cdef59": {
+   "id": "fa7eda557519f82eaee0cbf2f4cdef59",
+   "company": "transport.nsw.gov.au",
+   "role": "Requirements, Assurance & Traceability Analyst",
+   "location": "Sydney"
   },
   "274786bbf13b35e2093181a0ce1b0089": {
    "id": "274786bbf13b35e2093181a0ce1b0089",
@@ -1910,36 +1940,6 @@
    "role": "Partner Performance Analyst",
    "location": "Brisbane"
   },
-  "b32ad9f1f36cf3334b70b05810f0ba55": {
-   "id": "b32ad9f1f36cf3334b70b05810f0ba55",
-   "company": "Evolution Mining",
-   "role": "Business Analyst - Process Improvement",
-   "location": "Sydney"
-  },
-  "acf1fe907cad94ad278f61932b9d89b4": {
-   "id": "acf1fe907cad94ad278f61932b9d89b4",
-   "company": "Danaher Corp",
-   "role": "Accountant (lane Cove West) - Medtech",
-   "location": "Lane Cove West"
-  },
-  "9ffe29627060ebfb97c8d422f700651e": {
-   "id": "9ffe29627060ebfb97c8d422f700651e",
-   "company": "Cushman & Wakefield",
-   "role": "Lease Analyst",
-   "location": "Sydney"
-  },
-  "ee6a2dd546deeee12d5760932bbf6540": {
-   "id": "ee6a2dd546deeee12d5760932bbf6540",
-   "company": "ANZ Bank",
-   "role": "Business Analyst - Digital Delivery",
-   "location": "Melbourne"
-  },
-  "a6abdb4710e9455ed3923cc8c49c55bc": {
-   "id": "a6abdb4710e9455ed3923cc8c49c55bc",
-   "company": "ANZ Bank",
-   "role": "Analyst, Static Data, Markets (sb Migration)",
-   "location": "Sydney"
-  },
   "3a4690bed91512bbc4e7c5853d7fcd51": {
    "id": "3a4690bed91512bbc4e7c5853d7fcd51",
    "company": "UnitingCare",
@@ -1968,6 +1968,420 @@
    "id": "1fb7269b8ca7da5a8b7006296e156142",
    "company": "Installator.dk Hospital",
    "role": "Physiotherapist Grade 2",
+   "location": "Melbourne"
+  },
+  "619df6123c5942a2336ecc49a75b457e": {
+   "id": "619df6123c5942a2336ecc49a75b457e",
+   "company": "Peter MacCallum Cancer Centre",
+   "role": "Research Assistant - Delconte Laboratory",
+   "location": "Melbourne"
+  },
+  "69b755e2e44acf55e6b41e45d9f98158": {
+   "id": "69b755e2e44acf55e6b41e45d9f98158",
+   "company": "Opal HealthCare",
+   "role": "Registered Nurse - Adelaide & Surrounding Suburbs",
+   "location": "Adelaide"
+  },
+  "228bfb2561385f622fccb1e7ebf47385": {
+   "id": "228bfb2561385f622fccb1e7ebf47385",
+   "company": "Opal HealthCare",
+   "role": "Registered Nurse - Melville Parkside Care Community",
+   "location": "Myaree"
+  },
+  "213c671d502bf46f52655365c9c62d5e": {
+   "id": "213c671d502bf46f52655365c9c62d5e",
+   "company": "Opal HealthCare",
+   "role": "Registered Nurse - Mill Park Glades Care Community",
+   "location": "Melbourne"
+  },
+  "e1fb19c7c72b75fe9a865f1b992ab76a": {
+   "id": "e1fb19c7c72b75fe9a865f1b992ab76a",
+   "company": "Opal HealthCare",
+   "role": "Registered Nurse - Mooroolbark Manor Care Community",
+   "location": "Melbourne"
+  },
+  "468a3c5233cb19ab3366eec2f4046a77": {
+   "id": "468a3c5233cb19ab3366eec2f4046a77",
+   "company": "Opal HealthCare",
+   "role": "Personal Care Worker - Mooroolbark Manor Care Community",
+   "location": "Melbourne"
+  },
+  "d824cc1e9c7e45aab6ec4b770ed040c5": {
+   "id": "d824cc1e9c7e45aab6ec4b770ed040c5",
+   "company": "Opal HealthCare",
+   "role": "Pathway Carer - Southeast Melbourne",
+   "location": "Melbourne"
+  },
+  "fa79b0c60f2003bea4d0f009fbc91585": {
+   "id": "fa79b0c60f2003bea4d0f009fbc91585",
+   "company": "UnitingCare",
+   "role": "Registered Nurse",
+   "location": "Port Macquarie"
+  },
+  "f559a6e33141e47c04f58bef74d7f1ef": {
+   "id": "f559a6e33141e47c04f58bef74d7f1ef",
+   "company": "University of Melbourne",
+   "role": "Research Assistant, Centre For Youth Mental Health (cymh)",
+   "location": "Melbourne"
+  },
+  "e2f0eb4750037b6e19c0e38e3fd9c47f": {
+   "id": "e2f0eb4750037b6e19c0e38e3fd9c47f",
+   "company": "Serco Asia Pacific",
+   "role": "Registered Nurse",
+   "location": "Bandiana"
+  },
+  "f5150c0e638cf260554de85d6b677cbb": {
+   "id": "f5150c0e638cf260554de85d6b677cbb",
+   "company": "Opal HealthCare",
+   "role": "Waverley Valley Registered Nurse",
+   "location": "Waverley Valley"
+  },
+  "526a40fceb3ca7b0e174114345bf1e7e": {
+   "id": "526a40fceb3ca7b0e174114345bf1e7e",
+   "company": "Opal HealthCare",
+   "role": "Registered Nurse - Kew Grove Care Community",
+   "location": "Melbourne"
+  },
+  "24fee1424f01e4e95466b5d27804da1f": {
+   "id": "24fee1424f01e4e95466b5d27804da1f",
+   "company": "Opal HealthCare",
+   "role": "Personal Care Assistant - Kew Grove Care Community",
+   "location": "Melbourne"
+  },
+  "c93b0c7fb7b8aa61d175cfc2c0b05296": {
+   "id": "c93b0c7fb7b8aa61d175cfc2c0b05296",
+   "company": "Opal HealthCare",
+   "role": "Personal Care Worker - Preston Hilltop Care Community",
+   "location": "Melbourne"
+  },
+  "f3fef47960af6254f098183d258f0320": {
+   "id": "f3fef47960af6254f098183d258f0320",
+   "company": "Opal HealthCare",
+   "role": "Personal Care Worker - Cheltenham Parkside",
+   "location": "Melbourne"
+  },
+  "d3d4a8ba24c84d9174bc93983eee4b6d": {
+   "id": "d3d4a8ba24c84d9174bc93983eee4b6d",
+   "company": "Opal HealthCare",
+   "role": "Registered Nurse - Bairnsdale Parklands Care Community",
+   "location": "Bairnsdale"
+  },
+  "8ac80e121a1c9afa69d56bbfc934a5e4": {
+   "id": "8ac80e121a1c9afa69d56bbfc934a5e4",
+   "company": "Opal HealthCare",
+   "role": "Registered Nurse - Paynesville Gardens Care Community",
+   "location": "Paynesville"
+  },
+  "3b052358f877ef105b1bc94bf5f0cbcf": {
+   "id": "3b052358f877ef105b1bc94bf5f0cbcf",
+   "company": "Opal HealthCare",
+   "role": "Registered Nurse - Lakes Entrance Care Community",
+   "location": "Lakes Entrance"
+  },
+  "9533e9c8e1216393cd2ce0f4993a7bda": {
+   "id": "9533e9c8e1216393cd2ce0f4993a7bda",
+   "company": "Opal HealthCare",
+   "role": "Registered Nurse - Phillip Island Care Community",
+   "location": "Cowes"
+  },
+  "73c92ca649d32ecb14059d2f1f956e4b": {
+   "id": "73c92ca649d32ecb14059d2f1f956e4b",
+   "company": "Opal HealthCare",
+   "role": "Registered Nurse - Bairnsdale Parklands & Lakes Entrance",
+   "location": "Lakes Entrance +1"
+  },
+  "1190879a19d4ae79c7fb268783ae4fb7": {
+   "id": "1190879a19d4ae79c7fb268783ae4fb7",
+   "company": "Opal HealthCare",
+   "role": "Registered Nurse - Camberwell Gables Care Community",
+   "location": "Melbourne"
+  },
+  "3b575912ebbc10dc226dcd1503a483da": {
+   "id": "3b575912ebbc10dc226dcd1503a483da",
+   "company": "Opal HealthCare",
+   "role": "Registered Nurse - Warrandyte Gardens Care Community",
+   "location": "Melbourne"
+  },
+  "f99aaf14392baee155e9ee41fe75680a": {
+   "id": "f99aaf14392baee155e9ee41fe75680a",
+   "company": "Opal HealthCare",
+   "role": "Personal Care Worker - Chelsea Manor Care Community",
+   "location": "Melbourne"
+  },
+  "fa70dfabbb77de4cad280f0ff8ec2f9d": {
+   "id": "fa70dfabbb77de4cad280f0ff8ec2f9d",
+   "company": "Opal HealthCare",
+   "role": "Personal Care Worker - Croydon Place Care Community",
+   "location": "Melbourne"
+  },
+  "818050350dabaf9ff00108b74aa77953": {
+   "id": "818050350dabaf9ff00108b74aa77953",
+   "company": "Opal HealthCare",
+   "role": "Personal Care Worker - Vermont Views Care Community",
+   "location": "Melbourne"
+  },
+  "98069f437b70a66c41be04d3181ecfaa": {
+   "id": "98069f437b70a66c41be04d3181ecfaa",
+   "company": "Opal HealthCare",
+   "role": "Personal Care Worker - Northcote Mews Care Community (qr)",
+   "location": "Melbourne"
+  },
+  "cafb75f022c267f484610245f15f5fe2": {
+   "id": "cafb75f022c267f484610245f15f5fe2",
+   "company": "Opal HealthCare",
+   "role": "Personal Care Worker - Caulfield Horizons Care Community",
+   "location": "Melbourne"
+  },
+  "6e87407c7892fc779c13987bf3721a91": {
+   "id": "6e87407c7892fc779c13987bf3721a91",
+   "company": "Opal HealthCare",
+   "role": "Personal Care Worker - Chelsea Parkside Care Community",
+   "location": "Melbourne"
+  },
+  "c697f03347b8b0b87010dd12f2e8db80": {
+   "id": "c697f03347b8b0b87010dd12f2e8db80",
+   "company": "Opal HealthCare",
+   "role": "Registered Nurse - Dubbo Homestead Care Community",
+   "location": "Dubbo"
+  },
+  "29f40bb67f694a975a3cc0e1ac71f839": {
+   "id": "29f40bb67f694a975a3cc0e1ac71f839",
+   "company": "Opal HealthCare",
+   "role": "Registered Nurse - Inverloch Coast Care Community",
+   "location": "Inverloch"
+  },
+  "086a4dde56d6c24a3b1b7321e1ae8782": {
+   "id": "086a4dde56d6c24a3b1b7321e1ae8782",
+   "company": "Opal HealthCare",
+   "role": "Registered Nurse - Ivanhoe Grand Care Community",
+   "location": "Melbourne"
+  },
+  "73418af04c97af4a8ee29202abcbc8ab": {
+   "id": "73418af04c97af4a8ee29202abcbc8ab",
+   "company": "Opal HealthCare",
+   "role": "Registered Nurse - Surrey Hills Gardens Care Community",
+   "location": "Melbourne"
+  },
+  "ae78f36da826a81a59699bc92cbc5d9f": {
+   "id": "ae78f36da826a81a59699bc92cbc5d9f",
+   "company": "Opal HealthCare",
+   "role": "Registered Nurse",
+   "location": "Melbourne"
+  },
+  "d73d2330848917c5fac8162b267c3687": {
+   "id": "d73d2330848917c5fac8162b267c3687",
+   "company": "Opal HealthCare",
+   "role": "Registered Nurse -templestowe Views Care Community",
+   "location": "Melbourne"
+  },
+  "438fc82488e38877c3c9568f398df5f9": {
+   "id": "438fc82488e38877c3c9568f398df5f9",
+   "company": "Opal HealthCare",
+   "role": "Registered Nurse - Glenroy Terrace Care Community",
+   "location": "Melbourne"
+  },
+  "99452a303cc4c22dbbc4fef5c72bd3f5": {
+   "id": "99452a303cc4c22dbbc4fef5c72bd3f5",
+   "company": "Opal HealthCare",
+   "role": "Registered Nurse - Vermont Views Care Community",
+   "location": "Melbourne"
+  },
+  "5623372f09e2af51dddeba6f3f98f0f0": {
+   "id": "5623372f09e2af51dddeba6f3f98f0f0",
+   "company": "Opal HealthCare",
+   "role": "Registered Nurse - Templestowe Grove Care Community",
+   "location": "Melbourne"
+  },
+  "147908dcdf076915182f77cf8a3e986b": {
+   "id": "147908dcdf076915182f77cf8a3e986b",
+   "company": "Opal HealthCare",
+   "role": "Registered Nurse - Keilor East Manor Care Community",
+   "location": "Melbourne"
+  },
+  "b6f7f040c8f92a84d88cfba4c6074077": {
+   "id": "b6f7f040c8f92a84d88cfba4c6074077",
+   "company": "Opal HealthCare",
+   "role": "Registered Nurse - Mordialloc Grove",
+   "location": "Melbourne"
+  },
+  "0ccfae4108b928e0e630425d864704d8": {
+   "id": "0ccfae4108b928e0e630425d864704d8",
+   "company": "Opal HealthCare",
+   "role": "Personal Care Worker - Mount Eliza Botanica Care Community",
+   "location": "Melbourne"
+  },
+  "e10bc8828e6831d6f9d387c14d1e7d3c": {
+   "id": "e10bc8828e6831d6f9d387c14d1e7d3c",
+   "company": "Opal HealthCare",
+   "role": "Personal Care Worker - Malvern East Horizons Care Community",
+   "location": "Melbourne"
+  },
+  "17ab2b72c720c063afc9b408056bf886": {
+   "id": "17ab2b72c720c063afc9b408056bf886",
+   "company": "Opal HealthCare",
+   "role": "Personal Care Worker - Kilmore Grove Care Community",
+   "location": "Melbourne"
+  },
+  "4ec2f53b117c447cf2e19f65c5bfbd0c": {
+   "id": "4ec2f53b117c447cf2e19f65c5bfbd0c",
+   "company": "Opal HealthCare",
+   "role": "Registered Nurse Night Duty - Marsden Park Care Community",
+   "location": "Marsden Park"
+  },
+  "a1395854e799d51eb8e5444bb897c8e1": {
+   "id": "a1395854e799d51eb8e5444bb897c8e1",
+   "company": "Opal HealthCare",
+   "role": "Registered Nurse - Newstead Grand Care Community",
+   "location": "Newstead"
+  },
+  "b23a75c2caa324b86ba414a10fe65af7": {
+   "id": "b23a75c2caa324b86ba414a10fe65af7",
+   "company": "Opal HealthCare",
+   "role": "Registered Nurse - Narrandera Homestead Care Community",
+   "location": "Narrandera"
+  },
+  "707f3bd3d375bfe9ab6725096e36e52e": {
+   "id": "707f3bd3d375bfe9ab6725096e36e52e",
+   "company": "Opal HealthCare",
+   "role": "Registered Nurse Night Duty - Glen Osmond Grove Care Community",
+   "location": "Glen Osmond"
+  },
+  "670a241afc0f917fb92de2e966af6138": {
+   "id": "670a241afc0f917fb92de2e966af6138",
+   "company": "Opal HealthCare",
+   "role": "Registered Nurse - Mount Eliza Botanica Care Community",
+   "location": "Melbourne"
+  },
+  "0f2196f83c7df1bb8ce9c48b2745b135": {
+   "id": "0f2196f83c7df1bb8ce9c48b2745b135",
+   "company": "Opal HealthCare",
+   "role": "Registered Nurse - Avondale Heights Care Community",
+   "location": "Melbourne"
+  },
+  "d9b47cccbed31c7001b4376ef255e45b": {
+   "id": "d9b47cccbed31c7001b4376ef255e45b",
+   "company": "Opal HealthCare",
+   "role": "Registered Nurse - Sydney Metro Care Communities",
+   "location": "Sydney"
+  },
+  "345f0a437c42402fae05d42667371e75": {
+   "id": "345f0a437c42402fae05d42667371e75",
+   "company": "Opal HealthCare",
+   "role": "Personal Care Worker - Avondale Heights Care Community",
+   "location": "Melbourne"
+  },
+  "c6b52c51529df5366a91c7e6e8706e00": {
+   "id": "c6b52c51529df5366a91c7e6e8706e00",
+   "company": "Opal HealthCare",
+   "role": "Personal Care Worker - Glenroy Terrace Care Community",
+   "location": "Melbourne"
+  },
+  "5b03d1d95033d0a619c7db86ed297819": {
+   "id": "5b03d1d95033d0a619c7db86ed297819",
+   "company": "Opal HealthCare",
+   "role": "Registered Nurse - Chiswick Manor Care Community",
+   "location": "Chiswick"
+  },
+  "4d0c192eabe0f46f679648f36c23fc61": {
+   "id": "4d0c192eabe0f46f679648f36c23fc61",
+   "company": "Opal HealthCare",
+   "role": "Registered Nurse - Bella Vista Gardens Care Community",
+   "location": "Sydney"
+  },
+  "29a0fa73dbcb86e295765f814fc498c1": {
+   "id": "29a0fa73dbcb86e295765f814fc498c1",
+   "company": "Opal HealthCare",
+   "role": "Personal Care Worker - Glenroy Grove Care Community",
+   "location": "Melbourne"
+  },
+  "9dec2a8b363e04111d41c17901060999": {
+   "id": "9dec2a8b363e04111d41c17901060999",
+   "company": "Opal HealthCare",
+   "role": "Registered Nurse - Varsity Views Care Community",
+   "location": "Varsity Views"
+  },
+  "c886b91f414aa8d494824d9cc692b584": {
+   "id": "c886b91f414aa8d494824d9cc692b584",
+   "company": "Opal HealthCare",
+   "role": "Registered Nurse Reynella Hillside",
+   "location": "Old Reynella"
+  },
+  "4e4940ffcf422e2bd290ddf4139746a3": {
+   "id": "4e4940ffcf422e2bd290ddf4139746a3",
+   "company": "Opal HealthCare",
+   "role": "Registered Nurse - Springwood Terrace Care Community",
+   "location": "Brisbane"
+  },
+  "a33d596f2449f9af02fa03944086c258": {
+   "id": "a33d596f2449f9af02fa03944086c258",
+   "company": "Opal HealthCare",
+   "role": "Registered Nurse - Nambour Gardens Care Community",
+   "location": "Maroochydore"
+  },
+  "ca88f35d03f0d9d155eec6a4dcc91b3b": {
+   "id": "ca88f35d03f0d9d155eec6a4dcc91b3b",
+   "company": "Opal HealthCare",
+   "role": "Registered Nurse - Templestowe Woodlands Care Community",
+   "location": "Melbourne"
+  },
+  "0c721c9696519f31be754f888d963d1d": {
+   "id": "0c721c9696519f31be754f888d963d1d",
+   "company": "Opal HealthCare",
+   "role": "Personal Care Worker - Mulgrave Rise Care Community",
+   "location": "Melbourne"
+  },
+  "3146030f5306ef02edc61135f1af11e2": {
+   "id": "3146030f5306ef02edc61135f1af11e2",
+   "company": "Opal HealthCare",
+   "role": "Personal Care Worker - Kew Botanica Care Community",
+   "location": "Melbourne"
+  },
+  "755c8b27d181a8df7f8d727dc879d2c3": {
+   "id": "755c8b27d181a8df7f8d727dc879d2c3",
+   "company": "Opal HealthCare",
+   "role": "Personal Care Assistant",
+   "location": "Melbourne"
+  },
+  "bcf21993c7195e53eadebf00ab06c7e1": {
+   "id": "bcf21993c7195e53eadebf00ab06c7e1",
+   "company": "Opal HealthCare",
+   "role": "Personal Care Worker - Ivanhoe",
+   "location": "Melbourne"
+  },
+  "1b87f56992b6ad0ab8ef01cde02552fa": {
+   "id": "1b87f56992b6ad0ab8ef01cde02552fa",
+   "company": "Opal HealthCare",
+   "role": "Personal Care Worker - Templestowe Woodlands Care Community",
+   "location": "Melbourne"
+  },
+  "5d6dcff30f1ef5874d00162abe37b810": {
+   "id": "5d6dcff30f1ef5874d00162abe37b810",
+   "company": "Opal HealthCare",
+   "role": "Personal Care Worker - Mill Park Glades Care Community",
+   "location": "Melbourne"
+  },
+  "d34a7abca4e7be29d5287c970dd5bef0": {
+   "id": "d34a7abca4e7be29d5287c970dd5bef0",
+   "company": "Opal HealthCare",
+   "role": "Personal Care Worker - Templestowe Views Care Community",
+   "location": "Melbourne"
+  },
+  "97d6c24a50c5a41f334c62e9c2aa825d": {
+   "id": "97d6c24a50c5a41f334c62e9c2aa825d",
+   "company": "Opal HealthCare",
+   "role": "Personal Care Worker - Clyde North Terrace",
+   "location": "Melbourne"
+  },
+  "746d25fa42069e5449a441e4e2e09a55": {
+   "id": "746d25fa42069e5449a441e4e2e09a55",
+   "company": "Austin Health",
+   "role": "Registered Nurse Grade 2",
+   "location": "Melbourne"
+  },
+  "9019e51215a3edf088cdd442b712eac7": {
+   "id": "9019e51215a3edf088cdd442b712eac7",
+   "company": "Austin Health",
+   "role": "Registered Nurse Grade 2 - Recovery",
    "location": "Melbourne"
   },
   "bcce556977499fd84710d3993f776dde": {
@@ -2006,419 +2420,11 @@
    "role": "Registered Nurse Night Duty - Everard Park Care Community",
    "location": "Everard Park"
   },
-  "e4f4f1719c5b6ea5b14dc7f8f3dda3fa": {
-   "id": "e4f4f1719c5b6ea5b14dc7f8f3dda3fa",
-   "company": "Ixom",
-   "role": "Occupational Health Nurse",
-   "location": "Melbourne"
-  },
-  "7b5c94df0e6877f892685e3e1bed255a": {
-   "id": "7b5c94df0e6877f892685e3e1bed255a",
-   "company": "Gippsland Health Alliance",
-   "role": "Registered And Enrolled Nurses - Nurse Bank",
-   "location": "Bairnsdale"
-  },
-  "efa425656b2ea865afbeb1a44f27bad3": {
-   "id": "efa425656b2ea865afbeb1a44f27bad3",
-   "company": "Gippsland Health Alliance",
-   "role": "Registered Nurse Acute 0.84 Eft - Leave Replacement Position",
-   "location": "Unknown"
-  },
-  "c9449dcbc6c199451a25621c27469cf1": {
-   "id": "c9449dcbc6c199451a25621c27469cf1",
-   "company": "Latrobe Regional Health",
-   "role": "Registered Nurse",
-   "location": "Gippsland"
-  },
-  "8879e549c38872c6c09d2562c7a7c99a": {
-   "id": "8879e549c38872c6c09d2562c7a7c99a",
-   "company": "Gippsland Health Alliance",
-   "role": "Registered Midwife & Registered Nurse",
-   "location": "Gippsland"
-  },
-  "27609a35e7c611582fa447ff22f23e9b": {
-   "id": "27609a35e7c611582fa447ff22f23e9b",
-   "company": "Central Gippsland Health (CGH)",
-   "role": "Emergency Registered Nurse",
-   "location": "Sale"
-  },
-  "59329935500f25572fd13f0ddad5255f": {
-   "id": "59329935500f25572fd13f0ddad5255f",
-   "company": "Gippsland Health Alliance",
-   "role": "Registered Nurse - Clinical Resource Pool",
-   "location": "Australia"
-  },
-  "adeaedba8a9cf1eea42b5442c69d0efa": {
-   "id": "adeaedba8a9cf1eea42b5442c69d0efa",
-   "company": "Latrobe Regional Health",
-   "role": "Registered Nurse - Tanjil",
-   "location": "Tanjil"
-  },
-  "e94216a0990371de8b81ce91cb528158": {
-   "id": "e94216a0990371de8b81ce91cb528158",
-   "company": "Central Gippsland Health",
-   "role": "Perioperative (registered Nurse) 1",
-   "location": "Sale"
-  },
-  "e09abff4bad5bc922d17d599ac0940a7": {
-   "id": "e09abff4bad5bc922d17d599ac0940a7",
-   "company": "Gippsland Health Alliance",
-   "role": "Registered Nurse - Subacute Ward",
-   "location": "Bairnsdale"
-  },
-  "ded9d3226f1ddf9287fc1638c2197698": {
-   "id": "ded9d3226f1ddf9287fc1638c2197698",
-   "company": "West Gippsland Healthcare Group",
-   "role": "Registered Nurse - Special Care Nursery",
-   "location": "Warragul"
-  },
-  "c155c84d26fa26cec1de754958673848": {
-   "id": "c155c84d26fa26cec1de754958673848",
-   "company": "Gippsland Health Alliance",
-   "role": "Registered Nurse- Acute",
-   "location": "Unknown"
-  },
-  "18a467241fe5497e8e9b56e7c0eee1fe": {
-   "id": "18a467241fe5497e8e9b56e7c0eee1fe",
-   "company": "Lifeblood",
-   "role": "Registered Nurse - Goulburn",
-   "location": "Goulburn"
-  },
-  "4c01e1be1d374904a02e6874947ef9fb": {
-   "id": "4c01e1be1d374904a02e6874947ef9fb",
-   "company": "Lifeblood",
-   "role": "Registered Nurse",
-   "location": "Bunbury"
-  },
-  "ea73edf4b5ce7f33550283745f8724fc": {
-   "id": "ea73edf4b5ce7f33550283745f8724fc",
-   "company": "Lifeblood",
-   "role": "Registered Nurse Noarlunga",
-   "location": "Noarlunga"
-  },
-  "26f092d2e2ccac86f31b39d7650280cf": {
-   "id": "26f092d2e2ccac86f31b39d7650280cf",
-   "company": "Lifeblood",
-   "role": "Registered Nurse - Port Macquarie",
-   "location": "Port Macquarie"
-  },
-  "f4a944c8be666c48a6b2aad17414a512": {
-   "id": "f4a944c8be666c48a6b2aad17414a512",
-   "company": "Lifeblood",
-   "role": "Registered Nurse - Springwood",
-   "location": "Brisbane"
-  },
-  "cad7cbdfd8b51538a310f565f96ad812": {
-   "id": "cad7cbdfd8b51538a310f565f96ad812",
-   "company": "Lifeblood",
-   "role": "Registered Nurse - Town Hall",
-   "location": "Sydney"
-  },
-  "1a346bc69ed5a68d6d1fcb0f766213fb": {
-   "id": "1a346bc69ed5a68d6d1fcb0f766213fb",
-   "company": "Peter MacCallum Cancer Centre",
-   "role": "Research Assistant - Delconte Laboratory",
-   "location": "Melbourne"
-  },
-  "0dd5b767b0d2d86e9130fa7b31c7ab6a": {
-   "id": "0dd5b767b0d2d86e9130fa7b31c7ab6a",
-   "company": "St Vincent de Paul Society Australia",
-   "role": "Registered Nurse",
-   "location": "Waterloo"
-  },
-  "ed3cb3218bac1967070e7a073472390f": {
-   "id": "ed3cb3218bac1967070e7a073472390f",
-   "company": "Estia Health",
-   "role": "Registered Nurse - Maternity Leave",
-   "location": "Brisbane"
-  },
-  "8cff5a7066bd3e8ee4590d446fa7c07c": {
-   "id": "8cff5a7066bd3e8ee4590d446fa7c07c",
-   "company": "Mqhealth Org Au",
-   "role": "Registered Nurse - Endoscopy",
-   "location": "Macquarie University Hospital"
-  },
-  "73ccf1e06024504d8ccb5d191f073a53": {
-   "id": "73ccf1e06024504d8ccb5d191f073a53",
-   "company": "UnitingCare Health",
-   "role": "Registered Nurse",
-   "location": "Dicky Beach"
-  },
-  "63523fd857bc3e072865a85b8ac8b6f6": {
-   "id": "63523fd857bc3e072865a85b8ac8b6f6",
-   "company": "UnitingCare Qld",
-   "role": "Registered Nurse",
-   "location": "Cherbourg"
-  },
-  "bc6599186065bb11b1a26381709c5afa": {
-   "id": "bc6599186065bb11b1a26381709c5afa",
-   "company": "Opal HealthCare",
-   "role": "Registered Nurse - Gawler Hillside Care Community",
-   "location": "Adelaide"
-  },
-  "625db87228016b7b3b91b64f39a0f121": {
-   "id": "625db87228016b7b3b91b64f39a0f121",
-   "company": "Opal HealthCare",
-   "role": "Registered Nurse - Stanmore Place Care Community",
-   "location": "Sydney"
-  },
-  "2514026472a9adf76ed5cb507602690a": {
-   "id": "2514026472a9adf76ed5cb507602690a",
-   "company": "HammondCare",
-   "role": "Research Assistant",
-   "location": "Melbourne"
-  },
-  "4cd2744fc86cf5cfa51034ce8c4be578": {
-   "id": "4cd2744fc86cf5cfa51034ce8c4be578",
-   "company": "ST VINCENT'S PRIVATE HOSPITAL SYDNEY",
-   "role": "Registered Nurses - Anaesthetics",
-   "location": "Brisbane"
-  },
-  "6ac1c186aa8d421b62a4f6fcc46994e4": {
-   "id": "6ac1c186aa8d421b62a4f6fcc46994e4",
-   "company": "ST VINCENT'S PRIVATE HOSPITAL SYDNEY",
-   "role": "Svcs Registered Nurse (level 1)",
-   "location": "Brisbane"
-  },
-  "5a9d18e6632fe20e6fccd7e5d5667e92": {
-   "id": "5a9d18e6632fe20e6fccd7e5d5667e92",
-   "company": "ST VINCENT'S PRIVATE HOSPITAL SYDNEY",
-   "role": "Registered Nurse (level 1)",
-   "location": "Toowoomba"
-  },
-  "5185199621170f53ef70f02b39ce825c": {
-   "id": "5185199621170f53ef70f02b39ce825c",
-   "company": "Mirchims",
-   "role": "Casual Sessional: Physiotherapy",
-   "location": "Melbourne"
-  },
-  "3d3aef3974d2ff7b97b8663b37757c1e": {
-   "id": "3d3aef3974d2ff7b97b8663b37757c1e",
-   "company": "Mira Vista Care Center",
-   "role": "Registered Nurse (level 1)",
-   "location": "Toowoomba"
-  },
-  "d6cb782e6e72a2321b87009e4f9284ba": {
-   "id": "d6cb782e6e72a2321b87009e4f9284ba",
-   "company": "Installator.dk Hospital",
-   "role": "Registered Nurse (level 1)",
-   "location": "Toowoomba"
-  },
-  "b8f1647261670562834284edfe59acd3": {
-   "id": "b8f1647261670562834284edfe59acd3",
-   "company": "St Vincent’s Private Hospital Toowoomba",
-   "role": "Registered Nurse (level 1)",
-   "location": "Toowoomba"
-  },
-  "eede47c845692fc777cae6fbfb4011d8": {
-   "id": "eede47c845692fc777cae6fbfb4011d8",
-   "company": "Mira Vista Care Center",
-   "role": "Research Assistant",
-   "location": "Melbourne"
-  },
-  "c487f57b159cf1bb190b8805abddbb77": {
-   "id": "c487f57b159cf1bb190b8805abddbb77",
-   "company": "Installator.dk Hospital",
-   "role": "Research Assistant",
-   "location": "Melbourne"
-  },
-  "7afef11334e7c4bf9b255d34b9d7af20": {
-   "id": "7afef11334e7c4bf9b255d34b9d7af20",
-   "company": "St. Vincent's Hospital Melbourne",
-   "role": "Research Assistant",
-   "location": "Melbourne"
-  },
-  "7c00abed5e766a97ae64988d5e02e16e": {
-   "id": "7c00abed5e766a97ae64988d5e02e16e",
-   "company": "Austin Health",
-   "role": "Critical Care Registered Nurse Ed",
-   "location": "Melbourne"
-  },
-  "25281439bfc01fc351490d8dbf9de6c6": {
-   "id": "25281439bfc01fc351490d8dbf9de6c6",
-   "company": "Austin Health",
-   "role": "Post Graduate Nurse - Cardiac",
-   "location": "Melbourne"
-  },
-  "85e2198f9b5897ceb12a368bde7e872d": {
-   "id": "85e2198f9b5897ceb12a368bde7e872d",
-   "company": "Serco Asia Pacific",
-   "role": "Mental Health Registered Nurse",
-   "location": "Garbutt"
-  },
-  "983a8439a1fa19b8b80c68b7727ab904": {
-   "id": "983a8439a1fa19b8b80c68b7727ab904",
-   "company": "Serco Asia Pacific",
-   "role": "Registered Nurse",
-   "location": "Townsville"
-  },
-  "3db6087a60de350fe6661f58a8ba6175": {
-   "id": "3db6087a60de350fe6661f58a8ba6175",
-   "company": "Opal HealthCare",
-   "role": "Registered Nurse Night Duty - Joslin Manor Care Community",
-   "location": "Joslin"
-  },
-  "3e23d037840c9a4fb8b798badfa06c83": {
-   "id": "3e23d037840c9a4fb8b798badfa06c83",
-   "company": "Opal HealthCare",
-   "role": "Registered Nurse - Clyde North Terrace Care Community",
-   "location": "Clyde North Terrace"
-  },
-  "ef5ccd6ff11762c423e9fd53b05994cc": {
-   "id": "ef5ccd6ff11762c423e9fd53b05994cc",
-   "company": "Opal HealthCare",
-   "role": "Personal Care Worker - Epping Meadows Care Community",
-   "location": "Melbourne"
-  },
-  "9e2b5ee6456d9c73c480454a0c512af6": {
-   "id": "9e2b5ee6456d9c73c480454a0c512af6",
-   "company": "Opal HealthCare",
-   "role": "Registered Nurse - Denhams Beach Care Community",
-   "location": "Denhams Beach +11"
-  },
-  "6f3ccd55a49a9d75c19daaca519361d6": {
-   "id": "6f3ccd55a49a9d75c19daaca519361d6",
-   "company": "Opal HealthCare",
-   "role": "Registered Nurse - Adelaide & Surrounding Suburbs",
-   "location": "Glen Osmond +5"
-  },
-  "388ec4344ea0157221632f6c6e82f245": {
-   "id": "388ec4344ea0157221632f6c6e82f245",
-   "company": "Opal HealthCare",
-   "role": "Registered Nurse - Bayswater Gardens Care Community",
-   "location": "Melbourne"
-  },
-  "d55058a8f8553a0f9a081c50bbbb78ee": {
-   "id": "d55058a8f8553a0f9a081c50bbbb78ee",
-   "company": "IRT",
-   "role": "Registered Nurse - Dalmeny",
-   "location": "Dalmeny"
-  },
-  "bf0d3c7a033aa881cb8a6809f5131ee8": {
-   "id": "bf0d3c7a033aa881cb8a6809f5131ee8",
-   "company": "Installator.dk Hospital",
-   "role": "Svcs Registered Nurse (level 1)",
-   "location": "Brisbane"
-  },
-  "7ab85b4b0c6cb5f824deddc736f772c9": {
-   "id": "7ab85b4b0c6cb5f824deddc736f772c9",
-   "company": "Installator.dk Hospital",
-   "role": "Registered Nurses - Anaesthetics",
-   "location": "Brisbane"
-  },
-  "07359c9f732d8f37373665aa2d1deb4b": {
-   "id": "07359c9f732d8f37373665aa2d1deb4b",
-   "company": "St Vincent’s Private Hospital Northside",
-   "role": "Registered Nurses - Anaesthetics",
-   "location": "Brisbane"
-  },
-  "db61b07ad15e4688c879ddc7aef2bb36": {
-   "id": "db61b07ad15e4688c879ddc7aef2bb36",
-   "company": "Neurosurgeon role (org unclear)",
-   "role": "Svcs Registered Nurse (level 1)",
-   "location": "Brisbane"
-  },
-  "42579b2f925cc18aed8e388bec2178e1": {
-   "id": "42579b2f925cc18aed8e388bec2178e1",
-   "company": "Mira Vista Care Center",
-   "role": "Svcs Registered Nurse (level 1)",
-   "location": "Brisbane"
-  },
-  "ac0695cc71ace5ff9e815adceeb2a8b5": {
-   "id": "ac0695cc71ace5ff9e815adceeb2a8b5",
-   "company": "Opal HealthCare",
-   "role": "Registered Nurse - Ashmore Gardens Care Community",
-   "location": "Ashmore Gardens"
-  },
-  "859c4a6868aa7793021a28bf161dbc3c": {
-   "id": "859c4a6868aa7793021a28bf161dbc3c",
-   "company": "Opal HealthCare",
-   "role": "Registered Nurse Night Duty - Bunbury Gardens",
-   "location": "Bunbury"
-  },
-  "c04ddc1c666eb22ac748c7dfc38c7d73": {
-   "id": "c04ddc1c666eb22ac748c7dfc38c7d73",
-   "company": "Opal HealthCare",
-   "role": "Registered Nurse - Hamlyn Terrace Care Community",
-   "location": "Hamlyn +1"
-  },
-  "7541785a3adfa5d3d0ba2d5c186c70ba": {
-   "id": "7541785a3adfa5d3d0ba2d5c186c70ba",
-   "company": "Opal HealthCare",
-   "role": "Registered Nurse - Greenwich Horizons Care Community",
-   "location": "Sydney"
-  },
-  "98bcdbbfdf6ec49a1e36ca0fe1d1a736": {
-   "id": "98bcdbbfdf6ec49a1e36ca0fe1d1a736",
-   "company": "166",
-   "role": "Registered Nurse - Ppt",
-   "location": "Port Macquarie"
-  },
-  "0ce94d097cfbceed4fc7142a79925746": {
-   "id": "0ce94d097cfbceed4fc7142a79925746",
-   "company": "166",
-   "role": "Registered Nurse - Casual",
-   "location": "Riverview"
-  },
-  "8babc4c42b9a4d80e010593ba2b72c25": {
-   "id": "8babc4c42b9a4d80e010593ba2b72c25",
-   "company": "Epworth HealthCare",
-   "role": "Registered Nurse - Cardiac Services",
-   "location": "Melbourne"
-  },
-  "c815eea8313c443c087e2902aca8ebcf": {
-   "id": "c815eea8313c443c087e2902aca8ebcf",
-   "company": "Mediix",
-   "role": "Community Physiotherapist / Sydney Hills District",
-   "location": "Sydney"
-  },
-  "e3ada17126bcd84325022c5d18dfc51e": {
-   "id": "e3ada17126bcd84325022c5d18dfc51e",
-   "company": "Opal HealthCare",
-   "role": "Registered Nurse Night Duty - Hamlyn Terrace Care Community",
-   "location": "Hamlyn +2"
-  },
-  "af3ea5d4ef253736764d909a6b0f6748": {
-   "id": "af3ea5d4ef253736764d909a6b0f6748",
-   "company": "Opal HealthCare",
-   "role": "Registered Nurse Night Duty - Central Coast",
-   "location": "Kanwal +3"
-  },
-  "3ea369314200915314bafdfe4875afe6": {
-   "id": "3ea369314200915314bafdfe4875afe6",
-   "company": "Epworth HealthCare",
-   "role": "Physiotherapist Grade 2 - Acute Oncology & Neurology / Neurosurgery",
-   "location": "Melbourne"
-  },
-  "97e7c089ac91695319d7cbeae02fa95e": {
-   "id": "97e7c089ac91695319d7cbeae02fa95e",
-   "company": "Epworth HealthCare",
-   "role": "Casual Registered Nurses - Day Of Surgery Admissions (dosa)",
-   "location": "Melbourne"
-  },
-  "901be2ebfdc2050e3d147d4f3753d249": {
-   "id": "901be2ebfdc2050e3d147d4f3753d249",
-   "company": "Opal HealthCare",
-   "role": "Registered Nurse (night Duty) - Meadowbank Grove Care Community",
-   "location": "Meadowbank"
-  },
-  "9279e7a7d26e1bc25bef76836788bcb3": {
-   "id": "9279e7a7d26e1bc25bef76836788bcb3",
-   "company": "Opal HealthCare",
-   "role": "Night Duty Registered Nurse - Auburn Glen Care Community",
-   "location": "Sydney"
-  },
-  "fa53a601b5f08890dacb84a0834dded0": {
-   "id": "fa53a601b5f08890dacb84a0834dded0",
-   "company": "Opal HealthCare",
-   "role": "Registered Nurse - Carseldine Greens Care Community",
-   "location": "Carseldine Greens"
-  },
-  "4e2c796ea3b358533941d61d7257f9ea": {
-   "id": "4e2c796ea3b358533941d61d7257f9ea",
-   "company": "Opal HealthCare",
-   "role": "Registered Nurse - Northcote Mews Care Community",
-   "location": "Melbourne"
+  "3cd7d1c1f7e96b89690c55d253631d30": {
+   "id": "3cd7d1c1f7e96b89690c55d253631d30",
+   "company": "Dematic",
+   "role": "Site Support Technician",
+   "location": "Kemps Creek"
   },
   "P8-229205-0": {
    "id": "P8-229205-0",
@@ -2426,11 +2432,59 @@
    "role": "Maintenance",
    "location": "Newcastle West"
   },
+  "7b81847f1bec89e998fbdaa15af72328": {
+   "id": "7b81847f1bec89e998fbdaa15af72328",
+   "company": "EssilorLuxottica",
+   "role": "Field Service Technician",
+   "location": "Sumner Park"
+  },
+  "9a5d3202ee34e2c45981978d75f4503d": {
+   "id": "9a5d3202ee34e2c45981978d75f4503d",
+   "company": "Service Stream",
+   "role": "Hvac Technician - Woomera",
+   "location": "Woomera"
+  },
+  "249ca7d4d40caeb2f6e64229fbf084a0": {
+   "id": "249ca7d4d40caeb2f6e64229fbf084a0",
+   "company": "Service Stream",
+   "role": "Hvac Technician - Keswick",
+   "location": "Keswick"
+  },
+  "aece9ec994925c4fb7ee51820f662057": {
+   "id": "aece9ec994925c4fb7ee51820f662057",
+   "company": "Service Stream",
+   "role": "Tindal - Hvac Technician",
+   "location": "RAAF Tindal"
+  },
+  "3f3e619dd79eb4a88a5b1da30c4a5eda": {
+   "id": "3f3e619dd79eb4a88a5b1da30c4a5eda",
+   "company": "Downer",
+   "role": "Fire Systems Technician",
+   "location": "Williamtown"
+  },
   "593e9454e1802aa11d94558366655914": {
    "id": "593e9454e1802aa11d94558366655914",
    "company": "Rentokil Initial Australia",
    "role": "Cleaner Driver -medical Hygiene Service Technician - Medical / Western/northern",
    "location": "Campbellfield"
+  },
+  "041872a36d66b9d6cf95e8715a14ccc2": {
+   "id": "041872a36d66b9d6cf95e8715a14ccc2",
+   "company": "Downer",
+   "role": "Refrigeration/hvac Tech",
+   "location": "Williamtown"
+  },
+  "52655b3820d3e04517bed49e24248096": {
+   "id": "52655b3820d3e04517bed49e24248096",
+   "company": "Alstom",
+   "role": "Maintenance Technician",
+   "location": "Nowergup"
+  },
+  "59aae18ef25294cd63845f3ef79a55de": {
+   "id": "59aae18ef25294cd63845f3ef79a55de",
+   "company": "Alstom",
+   "role": "Mechanical Fitter",
+   "location": "South Dynon"
   },
   "f82ec5bfa544d68c6adc730dd6329bdc": {
    "id": "f82ec5bfa544d68c6adc730dd6329bdc",
@@ -2450,15 +2504,33 @@
    "role": "Customer Field Technician",
    "location": "Brisbane"
   },
+  "1726ff3404b05c3bc8e1e75e4af8593e": {
+   "id": "1726ff3404b05c3bc8e1e75e4af8593e",
+   "company": "NBN Co Limited",
+   "role": "Customer Field Technician",
+   "location": "Maroochydore"
+  },
   "f94251679efd5abd565ff03da68dd9ff": {
    "id": "f94251679efd5abd565ff03da68dd9ff",
    "company": "Carrier Global",
    "role": "Service Technician",
    "location": "Australia"
   },
+  "ff25478577c67edba005ce16046daefd": {
+   "id": "ff25478577c67edba005ce16046daefd",
+   "company": "Carrier Corporation",
+   "role": "Service Technician",
+   "location": "Australia"
+  },
   "fb4dc015ead52103ce6781987b56b7bd": {
    "id": "fb4dc015ead52103ce6781987b56b7bd",
    "company": "Carrier Global",
+   "role": "Transport Refrigeration Technician",
+   "location": "Australia"
+  },
+  "aa5f2fae69cd72274bf1c700afdfc3a6": {
+   "id": "aa5f2fae69cd72274bf1c700afdfc3a6",
+   "company": "Carrier Corporation",
    "role": "Transport Refrigeration Technician",
    "location": "Australia"
   },
@@ -2828,78 +2900,6 @@
    "role": "Hvac Technician - Ska-low Telescope",
    "location": "Geraldton"
   },
-  "b180fe88451c6a8e2b1ab3fa80574f47": {
-   "id": "b180fe88451c6a8e2b1ab3fa80574f47",
-   "company": "Emploisgevernovahydro",
-   "role": "Site Technician",
-   "location": "Brisbane"
-  },
-  "419817d9833a84ddf5fc9c8a730e6f4a": {
-   "id": "419817d9833a84ddf5fc9c8a730e6f4a",
-   "company": "GE VERNOVA",
-   "role": "Site Technician",
-   "location": "Brisbane"
-  },
-  "8211f96ebe5c9f3dfcfdacf1f7a466fc": {
-   "id": "8211f96ebe5c9f3dfcfdacf1f7a466fc",
-   "company": "Cummins",
-   "role": "Technician - Mechanical",
-   "location": "Carole Park"
-  },
-  "f06fb10b7db524a755153e5bc01ff128": {
-   "id": "f06fb10b7db524a755153e5bc01ff128",
-   "company": "Cummins",
-   "role": "Technician – Electrical Field Service",
-   "location": "Perth Airport"
-  },
-  "91e0fafbd05dcfc3a9f37eb9c0a40268": {
-   "id": "91e0fafbd05dcfc3a9f37eb9c0a40268",
-   "company": "GrainCorp Ltd",
-   "role": "Maintenance Fitter - Portland",
-   "location": "Portland"
-  },
-  "35e17d7f6c3d1dba8e9f51a8aca681f2": {
-   "id": "35e17d7f6c3d1dba8e9f51a8aca681f2",
-   "company": "GrainCorp Ltd",
-   "role": "Maintenance Fitter - Horsham/warracknabeal",
-   "location": "Horsham"
-  },
-  "83f03bd2dbc47c4e98425f0812887afe": {
-   "id": "83f03bd2dbc47c4e98425f0812887afe",
-   "company": "GrainCorp Ltd",
-   "role": "Maintenance Fitter - Port Of Brisbane",
-   "location": "Pinkenba"
-  },
-  "e97470944a887dd02f70afb9d7ffd374": {
-   "id": "e97470944a887dd02f70afb9d7ffd374",
-   "company": "Agfa",
-   "role": "Field Service Engineer (x-ray/ Medical Imaging)",
-   "location": "Melbourne"
-  },
-  "97082a634a33d81c28bd86f952d848a5": {
-   "id": "97082a634a33d81c28bd86f952d848a5",
-   "company": "KION",
-   "role": "Field Service Technician - Qld",
-   "location": "Larapinta"
-  },
-  "59bfbee043ff8efb465d228aed337506": {
-   "id": "59bfbee043ff8efb465d228aed337506",
-   "company": "Willenbrock Fordertechnik GmbH & Co. KG",
-   "role": "Field Service Technician - Qld",
-   "location": "Larapinta"
-  },
-  "b74fb0be83392cd7c3fa9c09d856a115": {
-   "id": "b74fb0be83392cd7c3fa9c09d856a115",
-   "company": "KION GROUP AG",
-   "role": "Field Service Technician - Qld",
-   "location": "Larapinta"
-  },
-  "e4fa5a94b52cfa0d721309e1543d8589": {
-   "id": "e4fa5a94b52cfa0d721309e1543d8589",
-   "company": "Cummins",
-   "role": "Technician - Field Service",
-   "location": "Bunbury"
-  },
   "397f08ca779a898ab1cd6adaea8a18c1": {
    "id": "397f08ca779a898ab1cd6adaea8a18c1",
    "company": "Sunglass Hut",
@@ -3001,6 +3001,66 @@
    "company": "Sunglass Hut",
    "role": "Retail Associate / Sunglass Hut / C / Vic / Myer Melbourne",
    "location": "Melbourne"
+  },
+  "153bcda315a5707ad87049d49ae4f9e8": {
+   "id": "153bcda315a5707ad87049d49ae4f9e8",
+   "company": "EssilorLuxottica",
+   "role": "Retail Associate",
+   "location": "Casuarina"
+  },
+  "5558ec5982667b1e4063dc4019e26c0e": {
+   "id": "5558ec5982667b1e4063dc4019e26c0e",
+   "company": "EssilorLuxottica",
+   "role": "Retail Associate / Sunglass Hut Chatswood, Nsw",
+   "location": "Sydney"
+  },
+  "94bc82e7c2cc41fae55289b98b772652": {
+   "id": "94bc82e7c2cc41fae55289b98b772652",
+   "company": "EssilorLuxottica",
+   "role": "Retail Associate / Opsm Chatswood, Nsw",
+   "location": "Sydney"
+  },
+  "1fec2f4479f46db2464a4bf2984e571f": {
+   "id": "1fec2f4479f46db2464a4bf2984e571f",
+   "company": "OPSM",
+   "role": "Associate Dispenser I Opsm I Part Time I Marion, Sa",
+   "location": "Oaklands Park"
+  },
+  "5fda4e8fc9b164e98df43a1f3dca001c": {
+   "id": "5fda4e8fc9b164e98df43a1f3dca001c",
+   "company": "Sunglass Hut",
+   "role": "Christmas Casual / Sunglass Hut / Rundle Mall, Sa",
+   "location": "Rundle Mall"
+  },
+  "28ff393792647762058c81a8c72ef8e8": {
+   "id": "28ff393792647762058c81a8c72ef8e8",
+   "company": "Sofitel Melbourne On Collins",
+   "role": "Guest Service Associate- F&b Service",
+   "location": "Melbourne"
+  },
+  "08995700cf2aa4b59e1494d394d09244": {
+   "id": "08995700cf2aa4b59e1494d394d09244",
+   "company": "ASICS OCEANIA PTY LTD",
+   "role": "Seasonal Casual Retail Assistant - Asics Miranda",
+   "location": "Sydney"
+  },
+  "7a55e0ec02c7e20ece9f0dff0bd9ac11": {
+   "id": "7a55e0ec02c7e20ece9f0dff0bd9ac11",
+   "company": "AkzoNobel N.V.",
+   "role": "Trade Centre Assistant",
+   "location": "Mackay"
+  },
+  "faaf3b0f5a103d982d09d93d37490319": {
+   "id": "faaf3b0f5a103d982d09d93d37490319",
+   "company": "GPC Tools & Equipment Sydney",
+   "role": "Customer Sales & Service - Repco Smithfield - Casual",
+   "location": "Sydney"
+  },
+  "a477a545c990a86298451afcec91596a": {
+   "id": "a477a545c990a86298451afcec91596a",
+   "company": "St Vincent de Paul Society Australia",
+   "role": "Shop Assistant",
+   "location": "Sydney"
   },
   "f2c47a907409359852459f574c9002c6": {
    "id": "f2c47a907409359852459f574c9002c6",
@@ -3206,12 +3266,6 @@
    "role": "Retail Assistant - Fountain Gate",
    "location": "Melbourne"
   },
-  "2adbaf44bf3382c61f5ef1d38c55f643": {
-   "id": "2adbaf44bf3382c61f5ef1d38c55f643",
-   "company": "St Vincent de Paul Society Australia",
-   "role": "Shop Assistant",
-   "location": "St Ives"
-  },
   "060cc3f7cfda6622b47da3184de893fb": {
    "id": "060cc3f7cfda6622b47da3184de893fb",
    "company": "Sunglass Hut",
@@ -3326,60 +3380,6 @@
    "role": "Trade And Retail Assistant",
    "location": "Pambula"
   },
-  "44a266ac428c72da2111335ed75a70c4": {
-   "id": "44a266ac428c72da2111335ed75a70c4",
-   "company": "Repco Australia - A Division of GPC Asia Pacific",
-   "role": "Customer Sales & Service - Repco Treendale - Casual",
-   "location": "Australind"
-  },
-  "32193a8896c0008054bd84475ac81d7b": {
-   "id": "32193a8896c0008054bd84475ac81d7b",
-   "company": "Repco",
-   "role": "Customer Sales & Service - Repco Treendale - Casual",
-   "location": "Australind"
-  },
-  "2278febf202e45297956c9394c8ec5c1": {
-   "id": "2278febf202e45297956c9394c8ec5c1",
-   "company": "Repco Australia - A Division of GPC Asia Pacific",
-   "role": "Warehouse Assistant - Stedi Truganina",
-   "location": "Melbourne"
-  },
-  "eec143a3959869f152e626c71a24aa95": {
-   "id": "eec143a3959869f152e626c71a24aa95",
-   "company": "GPC Tools & Equipment Sydney",
-   "role": "Warehouse Assistant - Stedi Truganina",
-   "location": "Melbourne"
-  },
-  "2386f6b008c22a763e1c011b1e0b7c1c": {
-   "id": "2386f6b008c22a763e1c011b1e0b7c1c",
-   "company": "Genpt",
-   "role": "Warehouse Assistant - Stedi Truganina",
-   "location": "Melbourne"
-  },
-  "369ff4ef697dcd3a85da41f47c3f8eb0": {
-   "id": "369ff4ef697dcd3a85da41f47c3f8eb0",
-   "company": "The Good Guys",
-   "role": "Christmas Casual - Burwood",
-   "location": "Sydney"
-  },
-  "6ff7e9a65c363d3a5103059faf33ecce": {
-   "id": "6ff7e9a65c363d3a5103059faf33ecce",
-   "company": "The Good Guys",
-   "role": "Christmas Casual - Homebush Home",
-   "location": "Sydney"
-  },
-  "bbed905029054a85e915b12253be472e": {
-   "id": "bbed905029054a85e915b12253be472e",
-   "company": "The Good Guys",
-   "role": "Christmas Casual - Hurstville",
-   "location": "Sydney"
-  },
-  "929b01a51f6c8979a1d004ce0a46c334": {
-   "id": "929b01a51f6c8979a1d004ce0a46c334",
-   "company": "The Good Guys",
-   "role": "Christmas Casual - World Square",
-   "location": "Sydney"
-  },
   "841ddb79878fa02b8dcb81c27bcad455": {
    "id": "841ddb79878fa02b8dcb81c27bcad455",
    "company": "smp.uq.edu.au",
@@ -3410,11 +3410,53 @@
    "role": "Coordinator",
    "location": "Melbourne"
   },
+  "c28a9f42fccabf0ed1e8f890ee7dfcd7": {
+   "id": "c28a9f42fccabf0ed1e8f890ee7dfcd7",
+   "company": "MACSEYE (Melbourne Archdiocese Catholic Schools Early Years Education)",
+   "role": "Oshc Coordinator / Brighton",
+   "location": "Melbourne"
+  },
+  "b8b4c07d81f8be2465a5074301bb0cce": {
+   "id": "b8b4c07d81f8be2465a5074301bb0cce",
+   "company": "AkzoNobel N.V.",
+   "role": "Facilities Coordinator",
+   "location": "Melbourne"
+  },
+  "f4c2c1ead3e58cbf1e41fdf1ec2b9d4e": {
+   "id": "f4c2c1ead3e58cbf1e41fdf1ec2b9d4e",
+   "company": "stage-students.flinders.edu.au",
+   "role": "Project Coordinator",
+   "location": "Bedford Park"
+  },
+  "1401feae89d0dda5b9595d471456dd4c": {
+   "id": "1401feae89d0dda5b9595d471456dd4c",
+   "company": "University of Melbourne",
+   "role": "Marketing And Events Coordinator",
+   "location": "Shepparton"
+  },
+  "1bd5787562bc2c8fb1917e2bab76f2d3": {
+   "id": "1bd5787562bc2c8fb1917e2bab76f2d3",
+   "company": "Peabody Energy",
+   "role": "Coal Quality Logistics Coordinator",
+   "location": "Coppabella"
+  },
   "a887c218f31b9a22ca2f87ff1cb28518": {
    "id": "a887c218f31b9a22ca2f87ff1cb28518",
    "company": "CSI Mining Services",
    "role": "Administrator",
    "location": "Rockingham"
+  },
+  "e95fb5c0d079892fd3e5c9c61236053c": {
+   "id": "e95fb5c0d079892fd3e5c9c61236053c",
+   "company": "codes-lab.sydney.edu.au",
+   "role": "Executive Assistant And Project Officer",
+   "location": "Darlington"
+  },
+  "9b282a1e7cd2c59263bcf9db516a4705": {
+   "id": "9b282a1e7cd2c59263bcf9db516a4705",
+   "company": "Transport for NSW",
+   "role": "Executive Assistant",
+   "location": "Sydney"
   },
   "56b04d5082bf8d98d6ee4ca15c07d0df": {
    "id": "56b04d5082bf8d98d6ee4ca15c07d0df",
@@ -3571,12 +3613,6 @@
    "company": "Qurmit",
    "role": "Executive Assistant",
    "location": "Melbourne"
-  },
-  "4f0c23dcb0dd9e5eebaa1d4d6cd20836": {
-   "id": "4f0c23dcb0dd9e5eebaa1d4d6cd20836",
-   "company": "Peabody Energy",
-   "role": "Coal Quality Logistics Coordinator",
-   "location": "Moranbah"
   },
   "b3f790907e7d3963e12cc3b7e3b37606": {
    "id": "b3f790907e7d3963e12cc3b7e3b37606",
@@ -3822,42 +3858,6 @@
    "id": "245dedccf94b3d096db9b6d3eb5a3d7c",
    "company": "Inspired Education Group",
    "role": "Executive Assistant & School Administrator - Secondary School",
-   "location": "Sydney"
-  },
-  "3fad12f2b388925bc6fc4362475311a7": {
-   "id": "3fad12f2b388925bc6fc4362475311a7",
-   "company": "Canva",
-   "role": "Executive Assistant To Founder (relocate To Australia)",
-   "location": "Sydney"
-  },
-  "f65e6f0639c516a238cf11fa9652dbc7": {
-   "id": "f65e6f0639c516a238cf11fa9652dbc7",
-   "company": "dcj",
-   "role": "Executive Assistant",
-   "location": "Sydney"
-  },
-  "9c47133702d5f000715ce285e47d64be": {
-   "id": "9c47133702d5f000715ce285e47d64be",
-   "company": "dcj",
-   "role": "Community Service Administration Assistant, Newcastle Community Corrections",
-   "location": "Newcastle"
-  },
-  "ee62f02b6066237b20104b1eff686386": {
-   "id": "ee62f02b6066237b20104b1eff686386",
-   "company": "dcj",
-   "role": "Executive Assistant And Project Officer",
-   "location": "Sydney"
-  },
-  "330f11fd2686d5b80ea56ad7decf2317": {
-   "id": "330f11fd2686d5b80ea56ad7decf2317",
-   "company": "St. Regis Hotels & Resorts",
-   "role": "Marketing Coordinator",
-   "location": "Port Douglas"
-  },
-  "0cf7ab71abe94d0f2f01ebd7c7506af1": {
-   "id": "0cf7ab71abe94d0f2f01ebd7c7506af1",
-   "company": "Rentokil Initial Australia",
-   "role": "Administrative Assistant - Entry Level",
    "location": "Sydney"
   }
  }

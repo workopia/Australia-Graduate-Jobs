@@ -4211,4 +4211,113 @@
 <tr><td>Qurmit</td><td>Project Coordinator</td><td>Melbourne</td><td>2026-08-25</td></tr>
 <tr><td>Inchcape</td><td>Network Development Coordinator</td><td>Norwest</td><td>2026-08-25</td></tr>
 <tr><td>Wellways</td><td>Community Collaboratives Coordinator</td><td>Wagga Wagga</td><td>2026-08-25</td></tr>
+<tr><td>AECOM UK</td><td>Economist Intern (nov 2026)</td><td>Melbourne</td><td>2026-08-26</td></tr>
+<tr><td>Aston Martin Lagonda Ltd</td><td>Nvh Powertrain Technical Specialist</td><td>Gaydon</td><td>2026-08-26</td></tr>
+<tr><td>C3 Presents</td><td>Venue Support Specialist</td><td>Sydney</td><td>2026-08-26</td></tr>
+<tr><td>Coles Supermarkets Australia Pty Ltd</td><td>Data Analyst - Fulfilment - Coles Hawthorn East</td><td>Melbourne</td><td>2026-08-26</td></tr>
+<tr><td>COMMONWEALTH BANK OF AUSTRALIA</td><td>Advanced Analytics Analyst</td><td>Sydney Cbd Area</td><td>2026-08-26</td></tr>
+<tr><td>CommSec</td><td>Advanced Analytics Analyst</td><td>Sydney</td><td>2026-08-26</td></tr>
+<tr><td>Evolution Mining</td><td>Business Analyst - Process Improvement</td><td>Sydney</td><td>2026-08-26</td></tr>
+<tr><td>Danaher Corp</td><td>Accountant (lane Cove West) - Medtech</td><td>Lane Cove West</td><td>2026-08-26</td></tr>
+<tr><td>Cushman & Wakefield</td><td>Lease Analyst</td><td>Sydney</td><td>2026-08-26</td></tr>
+<tr><td>ANZ Bank</td><td>Business Analyst - Digital Delivery</td><td>Melbourne</td><td>2026-08-26</td></tr>
+<tr><td>ANZ Bank</td><td>Analyst, Static Data, Markets (sb Migration)</td><td>Sydney</td><td>2026-08-26</td></tr>
+<tr><td>Ixom</td><td>Occupational Health Nurse</td><td>Melbourne</td><td>2026-08-26</td></tr>
+<tr><td>Gippsland Health Alliance</td><td>Registered And Enrolled Nurses - Nurse Bank</td><td>Bairnsdale</td><td>2026-08-26</td></tr>
+<tr><td>Gippsland Health Alliance</td><td>Registered Nurse Acute 0.84 Eft - Leave Replacement Position</td><td>Unknown</td><td>2026-08-26</td></tr>
+<tr><td>Latrobe Regional Health</td><td>Registered Nurse</td><td>Gippsland</td><td>2026-08-26</td></tr>
+<tr><td>Gippsland Health Alliance</td><td>Registered Midwife & Registered Nurse</td><td>Gippsland</td><td>2026-08-26</td></tr>
+<tr><td>Central Gippsland Health (CGH)</td><td>Emergency Registered Nurse</td><td>Sale</td><td>2026-08-26</td></tr>
+<tr><td>Gippsland Health Alliance</td><td>Registered Nurse - Clinical Resource Pool</td><td>Australia</td><td>2026-08-26</td></tr>
+<tr><td>Latrobe Regional Health</td><td>Registered Nurse - Tanjil</td><td>Tanjil</td><td>2026-08-26</td></tr>
+<tr><td>Central Gippsland Health</td><td>Perioperative (registered Nurse) 1</td><td>Sale</td><td>2026-08-26</td></tr>
+<tr><td>Gippsland Health Alliance</td><td>Registered Nurse - Subacute Ward</td><td>Bairnsdale</td><td>2026-08-26</td></tr>
+<tr><td>West Gippsland Healthcare Group</td><td>Registered Nurse - Special Care Nursery</td><td>Warragul</td><td>2026-08-26</td></tr>
+<tr><td>Gippsland Health Alliance</td><td>Registered Nurse- Acute</td><td>Unknown</td><td>2026-08-26</td></tr>
+<tr><td>Lifeblood</td><td>Registered Nurse - Goulburn</td><td>Goulburn</td><td>2026-08-26</td></tr>
+<tr><td>Lifeblood</td><td>Registered Nurse</td><td>Bunbury</td><td>2026-08-26</td></tr>
+<tr><td>Lifeblood</td><td>Registered Nurse Noarlunga</td><td>Noarlunga</td><td>2026-08-26</td></tr>
+<tr><td>Lifeblood</td><td>Registered Nurse - Port Macquarie</td><td>Port Macquarie</td><td>2026-08-26</td></tr>
+<tr><td>Lifeblood</td><td>Registered Nurse - Springwood</td><td>Brisbane</td><td>2026-08-26</td></tr>
+<tr><td>Lifeblood</td><td>Registered Nurse - Town Hall</td><td>Sydney</td><td>2026-08-26</td></tr>
+<tr><td>Peter MacCallum Cancer Centre</td><td>Research Assistant - Delconte Laboratory</td><td>Melbourne</td><td>2026-08-26</td></tr>
+<tr><td>St Vincent de Paul Society Australia</td><td>Registered Nurse</td><td>Waterloo</td><td>2026-08-26</td></tr>
+<tr><td>Estia Health</td><td>Registered Nurse - Maternity Leave</td><td>Brisbane</td><td>2026-08-26</td></tr>
+<tr><td>Mqhealth Org Au</td><td>Registered Nurse - Endoscopy</td><td>Macquarie University Hospital</td><td>2026-08-26</td></tr>
+<tr><td>UnitingCare Health</td><td>Registered Nurse</td><td>Dicky Beach</td><td>2026-08-26</td></tr>
+<tr><td>UnitingCare Qld</td><td>Registered Nurse</td><td>Cherbourg</td><td>2026-08-26</td></tr>
+<tr><td>Opal HealthCare</td><td>Registered Nurse - Gawler Hillside Care Community</td><td>Adelaide</td><td>2026-08-26</td></tr>
+<tr><td>Opal HealthCare</td><td>Registered Nurse - Stanmore Place Care Community</td><td>Sydney</td><td>2026-08-26</td></tr>
+<tr><td>HammondCare</td><td>Research Assistant</td><td>Melbourne</td><td>2026-08-26</td></tr>
+<tr><td>ST VINCENT'S PRIVATE HOSPITAL SYDNEY</td><td>Registered Nurses - Anaesthetics</td><td>Brisbane</td><td>2026-08-26</td></tr>
+<tr><td>ST VINCENT'S PRIVATE HOSPITAL SYDNEY</td><td>Svcs Registered Nurse (level 1)</td><td>Brisbane</td><td>2026-08-26</td></tr>
+<tr><td>ST VINCENT'S PRIVATE HOSPITAL SYDNEY</td><td>Registered Nurse (level 1)</td><td>Toowoomba</td><td>2026-08-26</td></tr>
+<tr><td>Mirchims</td><td>Casual Sessional: Physiotherapy</td><td>Melbourne</td><td>2026-08-26</td></tr>
+<tr><td>Mira Vista Care Center</td><td>Registered Nurse (level 1)</td><td>Toowoomba</td><td>2026-08-26</td></tr>
+<tr><td>Installator.dk Hospital</td><td>Registered Nurse (level 1)</td><td>Toowoomba</td><td>2026-08-26</td></tr>
+<tr><td>St Vincent’s Private Hospital Toowoomba</td><td>Registered Nurse (level 1)</td><td>Toowoomba</td><td>2026-08-26</td></tr>
+<tr><td>Mira Vista Care Center</td><td>Research Assistant</td><td>Melbourne</td><td>2026-08-26</td></tr>
+<tr><td>Installator.dk Hospital</td><td>Research Assistant</td><td>Melbourne</td><td>2026-08-26</td></tr>
+<tr><td>St. Vincent's Hospital Melbourne</td><td>Research Assistant</td><td>Melbourne</td><td>2026-08-26</td></tr>
+<tr><td>Austin Health</td><td>Critical Care Registered Nurse Ed</td><td>Melbourne</td><td>2026-08-26</td></tr>
+<tr><td>Austin Health</td><td>Post Graduate Nurse - Cardiac</td><td>Melbourne</td><td>2026-08-26</td></tr>
+<tr><td>Serco Asia Pacific</td><td>Mental Health Registered Nurse</td><td>Garbutt</td><td>2026-08-26</td></tr>
+<tr><td>Serco Asia Pacific</td><td>Registered Nurse</td><td>Townsville</td><td>2026-08-26</td></tr>
+<tr><td>Opal HealthCare</td><td>Registered Nurse Night Duty - Joslin Manor Care Community</td><td>Joslin</td><td>2026-08-26</td></tr>
+<tr><td>Opal HealthCare</td><td>Registered Nurse - Clyde North Terrace Care Community</td><td>Clyde North Terrace</td><td>2026-08-26</td></tr>
+<tr><td>Opal HealthCare</td><td>Personal Care Worker - Epping Meadows Care Community</td><td>Melbourne</td><td>2026-08-26</td></tr>
+<tr><td>Opal HealthCare</td><td>Registered Nurse - Denhams Beach Care Community</td><td>Denhams Beach +11</td><td>2026-08-26</td></tr>
+<tr><td>Opal HealthCare</td><td>Registered Nurse - Adelaide & Surrounding Suburbs</td><td>Glen Osmond +5</td><td>2026-08-26</td></tr>
+<tr><td>Opal HealthCare</td><td>Registered Nurse - Bayswater Gardens Care Community</td><td>Melbourne</td><td>2026-08-26</td></tr>
+<tr><td>IRT</td><td>Registered Nurse - Dalmeny</td><td>Dalmeny</td><td>2026-08-26</td></tr>
+<tr><td>Installator.dk Hospital</td><td>Svcs Registered Nurse (level 1)</td><td>Brisbane</td><td>2026-08-26</td></tr>
+<tr><td>Installator.dk Hospital</td><td>Registered Nurses - Anaesthetics</td><td>Brisbane</td><td>2026-08-26</td></tr>
+<tr><td>St Vincent’s Private Hospital Northside</td><td>Registered Nurses - Anaesthetics</td><td>Brisbane</td><td>2026-08-26</td></tr>
+<tr><td>Neurosurgeon role (org unclear)</td><td>Svcs Registered Nurse (level 1)</td><td>Brisbane</td><td>2026-08-26</td></tr>
+<tr><td>Mira Vista Care Center</td><td>Svcs Registered Nurse (level 1)</td><td>Brisbane</td><td>2026-08-26</td></tr>
+<tr><td>Opal HealthCare</td><td>Registered Nurse - Ashmore Gardens Care Community</td><td>Ashmore Gardens</td><td>2026-08-26</td></tr>
+<tr><td>Opal HealthCare</td><td>Registered Nurse Night Duty - Bunbury Gardens</td><td>Bunbury</td><td>2026-08-26</td></tr>
+<tr><td>Opal HealthCare</td><td>Registered Nurse - Hamlyn Terrace Care Community</td><td>Hamlyn +1</td><td>2026-08-26</td></tr>
+<tr><td>Opal HealthCare</td><td>Registered Nurse - Greenwich Horizons Care Community</td><td>Sydney</td><td>2026-08-26</td></tr>
+<tr><td>166</td><td>Registered Nurse - Ppt</td><td>Port Macquarie</td><td>2026-08-26</td></tr>
+<tr><td>166</td><td>Registered Nurse - Casual</td><td>Riverview</td><td>2026-08-26</td></tr>
+<tr><td>Epworth HealthCare</td><td>Registered Nurse - Cardiac Services</td><td>Melbourne</td><td>2026-08-26</td></tr>
+<tr><td>Mediix</td><td>Community Physiotherapist / Sydney Hills District</td><td>Sydney</td><td>2026-08-26</td></tr>
+<tr><td>Opal HealthCare</td><td>Registered Nurse Night Duty - Hamlyn Terrace Care Community</td><td>Hamlyn +2</td><td>2026-08-26</td></tr>
+<tr><td>Opal HealthCare</td><td>Registered Nurse Night Duty - Central Coast</td><td>Kanwal +3</td><td>2026-08-26</td></tr>
+<tr><td>Epworth HealthCare</td><td>Physiotherapist Grade 2 - Acute Oncology & Neurology / Neurosurgery</td><td>Melbourne</td><td>2026-08-26</td></tr>
+<tr><td>Epworth HealthCare</td><td>Casual Registered Nurses - Day Of Surgery Admissions (dosa)</td><td>Melbourne</td><td>2026-08-26</td></tr>
+<tr><td>Opal HealthCare</td><td>Registered Nurse (night Duty) - Meadowbank Grove Care Community</td><td>Meadowbank</td><td>2026-08-26</td></tr>
+<tr><td>Opal HealthCare</td><td>Night Duty Registered Nurse - Auburn Glen Care Community</td><td>Sydney</td><td>2026-08-26</td></tr>
+<tr><td>Opal HealthCare</td><td>Registered Nurse - Carseldine Greens Care Community</td><td>Carseldine Greens</td><td>2026-08-26</td></tr>
+<tr><td>Opal HealthCare</td><td>Registered Nurse - Northcote Mews Care Community</td><td>Melbourne</td><td>2026-08-26</td></tr>
+<tr><td>Emploisgevernovahydro</td><td>Site Technician</td><td>Brisbane</td><td>2026-08-26</td></tr>
+<tr><td>GE VERNOVA</td><td>Site Technician</td><td>Brisbane</td><td>2026-08-26</td></tr>
+<tr><td>Cummins</td><td>Technician - Mechanical</td><td>Carole Park</td><td>2026-08-26</td></tr>
+<tr><td>Cummins</td><td>Technician – Electrical Field Service</td><td>Perth Airport</td><td>2026-08-26</td></tr>
+<tr><td>GrainCorp Ltd</td><td>Maintenance Fitter - Portland</td><td>Portland</td><td>2026-08-26</td></tr>
+<tr><td>GrainCorp Ltd</td><td>Maintenance Fitter - Horsham/warracknabeal</td><td>Horsham</td><td>2026-08-26</td></tr>
+<tr><td>GrainCorp Ltd</td><td>Maintenance Fitter - Port Of Brisbane</td><td>Pinkenba</td><td>2026-08-26</td></tr>
+<tr><td>Agfa</td><td>Field Service Engineer (x-ray/ Medical Imaging)</td><td>Melbourne</td><td>2026-08-26</td></tr>
+<tr><td>KION</td><td>Field Service Technician - Qld</td><td>Larapinta</td><td>2026-08-26</td></tr>
+<tr><td>Willenbrock Fordertechnik GmbH & Co. KG</td><td>Field Service Technician - Qld</td><td>Larapinta</td><td>2026-08-26</td></tr>
+<tr><td>KION GROUP AG</td><td>Field Service Technician - Qld</td><td>Larapinta</td><td>2026-08-26</td></tr>
+<tr><td>Cummins</td><td>Technician - Field Service</td><td>Bunbury</td><td>2026-08-26</td></tr>
+<tr><td>St Vincent de Paul Society Australia</td><td>Shop Assistant</td><td>St Ives</td><td>2026-08-26</td></tr>
+<tr><td>Repco Australia - A Division of GPC Asia Pacific</td><td>Customer Sales & Service - Repco Treendale - Casual</td><td>Australind</td><td>2026-08-26</td></tr>
+<tr><td>Repco</td><td>Customer Sales & Service - Repco Treendale - Casual</td><td>Australind</td><td>2026-08-26</td></tr>
+<tr><td>Repco Australia - A Division of GPC Asia Pacific</td><td>Warehouse Assistant - Stedi Truganina</td><td>Melbourne</td><td>2026-08-26</td></tr>
+<tr><td>GPC Tools & Equipment Sydney</td><td>Warehouse Assistant - Stedi Truganina</td><td>Melbourne</td><td>2026-08-26</td></tr>
+<tr><td>Genpt</td><td>Warehouse Assistant - Stedi Truganina</td><td>Melbourne</td><td>2026-08-26</td></tr>
+<tr><td>The Good Guys</td><td>Christmas Casual - Burwood</td><td>Sydney</td><td>2026-08-26</td></tr>
+<tr><td>The Good Guys</td><td>Christmas Casual - Homebush Home</td><td>Sydney</td><td>2026-08-26</td></tr>
+<tr><td>The Good Guys</td><td>Christmas Casual - Hurstville</td><td>Sydney</td><td>2026-08-26</td></tr>
+<tr><td>The Good Guys</td><td>Christmas Casual - World Square</td><td>Sydney</td><td>2026-08-26</td></tr>
+<tr><td>Peabody Energy</td><td>Coal Quality Logistics Coordinator</td><td>Moranbah</td><td>2026-08-26</td></tr>
+<tr><td>Canva</td><td>Executive Assistant To Founder (relocate To Australia)</td><td>Sydney</td><td>2026-08-26</td></tr>
+<tr><td>dcj</td><td>Executive Assistant</td><td>Sydney</td><td>2026-08-26</td></tr>
+<tr><td>dcj</td><td>Community Service Administration Assistant, Newcastle Community Corrections</td><td>Newcastle</td><td>2026-08-26</td></tr>
+<tr><td>dcj</td><td>Executive Assistant And Project Officer</td><td>Sydney</td><td>2026-08-26</td></tr>
+<tr><td>St. Regis Hotels & Resorts</td><td>Marketing Coordinator</td><td>Port Douglas</td><td>2026-08-26</td></tr>
+<tr><td>Rentokil Initial Australia</td><td>Administrative Assistant - Entry Level</td><td>Sydney</td><td>2026-08-26</td></tr>
 </table>
