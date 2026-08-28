@@ -32,6 +32,12 @@
    "role": "Hr Stagiair(e)",
    "location": "Brisbane"
   },
+  "6de41c6f65f8645ef20695818454742e": {
+   "id": "6de41c6f65f8645ef20695818454742e",
+   "company": "Prysmian Australia",
+   "role": "Intern",
+   "location": "Milcov"
+  },
   "b3dcaa989c0189a93a55cd7c76a9db57": {
    "id": "b3dcaa989c0189a93a55cd7c76a9db57",
    "company": "Chevrolethelena",
@@ -493,12 +499,6 @@
    "company": "BCG",
    "role": "Bcg First Nations Internship And Scholarship 2026 / Australia And New Zealand",
    "location": "Melbourne"
-  },
-  "3980693f5c9cc0903098b16de36bf7d6": {
-   "id": "3980693f5c9cc0903098b16de36bf7d6",
-   "company": "HEIDI HEALTH",
-   "role": "Enterprise Ops & Bid Support Intern (au)",
-   "location": "Sydney"
   },
   "e4a9e4dc908b8f2530a1c086d80c230e": {
    "id": "e4a9e4dc908b8f2530a1c086d80c230e",
@@ -1478,6 +1478,18 @@
    "role": "Compliance Officer",
    "location": "Sydney"
   },
+  "4f2caf294a5474599045a588f089a96e": {
+   "id": "4f2caf294a5474599045a588f089a96e",
+   "company": "UnitingCare Qld",
+   "role": "Business Performance Analyst",
+   "location": "Brisbane"
+  },
+  "ce0fe26bf8f5871bf2f47f36586d78f9": {
+   "id": "ce0fe26bf8f5871bf2f47f36586d78f9",
+   "company": "Bdo Com Au",
+   "role": "Accountant",
+   "location": "Perth"
+  },
   "0be9e0d934ae1e9e76562503e7e0f704": {
    "id": "0be9e0d934ae1e9e76562503e7e0f704",
    "company": "Equifax",
@@ -1940,23 +1952,41 @@
    "role": "Analyst, Real Estate Debt",
    "location": "Sydney"
   },
-  "575e870adf57e903f519a9ce660852df": {
-   "id": "575e870adf57e903f519a9ce660852df",
-   "company": "Nuveen",
-   "role": "Analyst, Real Estate Debt",
-   "location": "Sydney"
-  },
-  "b4752efb397270fd0cdff942135f0ce7": {
-   "id": "b4752efb397270fd0cdff942135f0ce7",
-   "company": "AustralianSuper",
-   "role": "Business Analyst",
-   "location": "Melbourne"
-  },
   "d7dce21e895db6e91c10b40dfb298928": {
    "id": "d7dce21e895db6e91c10b40dfb298928",
    "company": "UnitingCare",
    "role": "Registered Nurse",
    "location": "Goonellabah"
+  },
+  "b36f69e4f3cc0e415846ea3f7627ddf2": {
+   "id": "b36f69e4f3cc0e415846ea3f7627ddf2",
+   "company": "MQ Health",
+   "role": "Graduate Registered Nurse Program 2027 - Grad@muhealth",
+   "location": "Macquarie University Hospital"
+  },
+  "aefe03a34ec6974be4083540d9772279": {
+   "id": "aefe03a34ec6974be4083540d9772279",
+   "company": "UnitingCare Qld",
+   "role": "Registered Nurse",
+   "location": "Sunrise Beach"
+  },
+  "b83d8a46938dc130bf7e5b6d1eab0c7b": {
+   "id": "b83d8a46938dc130bf7e5b6d1eab0c7b",
+   "company": "Opal HealthCare",
+   "role": "Registered Nurse- Aldinga Beach Care Community",
+   "location": "Adelaide"
+  },
+  "72814bc24d066453532c7b6a9e1a7f98": {
+   "id": "72814bc24d066453532c7b6a9e1a7f98",
+   "company": "Opal HealthCare",
+   "role": "Registered Nurse - Lansdowne Gardens On Wycombe",
+   "location": "Sydney"
+  },
+  "8e8e75be8eeefc1f554ab4b65f61dfed": {
+   "id": "8e8e75be8eeefc1f554ab4b65f61dfed",
+   "company": "Dementia Support Australia",
+   "role": "Specialised Carer - Home Care",
+   "location": "Melbourne"
   },
   "8c9e5085d3eacc616e0537494febf949": {
    "id": "8c9e5085d3eacc616e0537494febf949",
@@ -2101,12 +2131,6 @@
    "company": "Cerebral Palsy Alliance",
    "role": "Disability Support Practitioner Lifestyles",
    "location": "Sydney"
-  },
-  "4d5ba17afa450e182623dc26267e442d": {
-   "id": "4d5ba17afa450e182623dc26267e442d",
-   "company": "UnitingCare Qld",
-   "role": "Registered Nurse",
-   "location": "Rockhampton"
   },
   "24a0d88ae1af5d75c3658d306e29866d": {
    "id": "24a0d88ae1af5d75c3658d306e29866d",
@@ -2408,28 +2432,22 @@
    "role": "Personal Care Worker - Mooroolbark Manor Care Community",
    "location": "Melbourne"
   },
-  "d824cc1e9c7e45aab6ec4b770ed040c5": {
-   "id": "d824cc1e9c7e45aab6ec4b770ed040c5",
-   "company": "Opal HealthCare",
-   "role": "Pathway Carer - Southeast Melbourne",
-   "location": "Melbourne"
+  "9800eb9e8728be82fb6df0e577a92da5": {
+   "id": "9800eb9e8728be82fb6df0e577a92da5",
+   "company": "Voith",
+   "role": "Sh 2.0 Field Service Engineer (m/f/d)",
+   "location": "Snowy"
   },
-  "f559a6e33141e47c04f58bef74d7f1ef": {
-   "id": "f559a6e33141e47c04f58bef74d7f1ef",
-   "company": "University of Melbourne",
-   "role": "Research Assistant, Centre For Youth Mental Health (cymh)",
-   "location": "Melbourne"
+  "c7ed6e68322f744ad015b8b9bfb3092b": {
+   "id": "c7ed6e68322f744ad015b8b9bfb3092b",
+   "company": "Voith",
+   "role": "Field Service Engineer (m/f/d) Balance Of Plant Mechanical - Australia",
+   "location": "Snowy"
   },
-  "056680d1ddd82ceffdbe865a0c94761a": {
-   "id": "056680d1ddd82ceffdbe865a0c94761a",
-   "company": "The University of Melbourne",
-   "role": "Research Assistant, Centre For Youth Mental Health (cymh)",
-   "location": "Melbourne"
-  },
-  "b4a794bc79fa670a3ba2bf6bcf652eee": {
-   "id": "b4a794bc79fa670a3ba2bf6bcf652eee",
-   "company": "jobs.unimelb.edu.au",
-   "role": "Research Assistant, Centre For Youth Mental Health (cymh)",
+  "e97470944a887dd02f70afb9d7ffd374": {
+   "id": "e97470944a887dd02f70afb9d7ffd374",
+   "company": "Agfa",
+   "role": "Field Service Engineer (x-ray/ Medical Imaging)",
    "location": "Melbourne"
   },
   "e0af5b9bf5b65f9911ca04f943eed0fb": {
@@ -2894,24 +2912,6 @@
    "role": "Customer Field Technician I Port Macquarie",
    "location": "Port Macquarie"
   },
-  "f7dde2216df61e711dfe11faba4c3fa6": {
-   "id": "f7dde2216df61e711dfe11faba4c3fa6",
-   "company": "Clickedu",
-   "role": "Customer Field Technician I Taree I Forster",
-   "location": "Coffs Harbour"
-  },
-  "f1fa73bc68538443dd837fac801dc2b7": {
-   "id": "f1fa73bc68538443dd837fac801dc2b7",
-   "company": "BAXTER HEALTHCARE PTY AUS",
-   "role": "Mechanical Tradesperson, Afternoon Shift",
-   "location": "Old Toongabbie"
-  },
-  "9bfd9987aeeabba5c9c847a550dc3b12": {
-   "id": "9bfd9987aeeabba5c9c847a550dc3b12",
-   "company": "Baxter Healthcare",
-   "role": "Mechanical Tradesperson, Afternoon Shift",
-   "location": "Old Toongabbie"
-  },
   "216ee5737ae64ecd7138802f43b6bc8d": {
    "id": "216ee5737ae64ecd7138802f43b6bc8d",
    "company": "Aidapply",
@@ -2922,6 +2922,18 @@
    "id": "d014001201646937bb42730440aa47a0",
    "company": "461",
    "role": "Seasonal Casual (artarmon)",
+   "location": "Sydney"
+  },
+  "cd304f3820e767a95aedf85cf96ed873": {
+   "id": "cd304f3820e767a95aedf85cf96ed873",
+   "company": "TREK BICYCLE CORP",
+   "role": "Sales Associate",
+   "location": "Perth"
+  },
+  "41a7ea17d80fcab251364a308fbd41b5": {
+   "id": "41a7ea17d80fcab251364a308fbd41b5",
+   "company": "Cosentino",
+   "role": "Showroom Specialist Sydney",
    "location": "Sydney"
   },
   "e639c15624e3758ac25091a3573f366d": {
@@ -3374,17 +3386,17 @@
    "role": "Kmart Ballina - Holiday Casual",
    "location": "Ballina"
   },
-  "6fb6d16fb6957a043117828a0c7f756f": {
-   "id": "6fb6d16fb6957a043117828a0c7f756f",
-   "company": "Anko Global",
-   "role": "Kmart Green Hills - Holiday Casual",
-   "location": "Green Hils"
+  "fbedb551966ccae3637182c43d778b5a": {
+   "id": "fbedb551966ccae3637182c43d778b5a",
+   "company": "ACCIONA",
+   "role": "Administrator, Health & Safety",
+   "location": "Brisbane"
   },
-  "43f7bbfa7af40c82e0c5f8ce6cb8ab16": {
-   "id": "43f7bbfa7af40c82e0c5f8ce6cb8ab16",
-   "company": "Kmart",
-   "role": "Kmart Picton - Holiday Casual",
-   "location": "Picton"
+  "1893d54ac7624b3f79a81a3b794593fa": {
+   "id": "1893d54ac7624b3f79a81a3b794593fa",
+   "company": "Voith",
+   "role": "Sh 2.0 Warehouse Administrator",
+   "location": "Snowy"
   },
   "2f33abdc9d34a9af35af014be1849432": {
    "id": "2f33abdc9d34a9af35af014be1849432",
@@ -3853,18 +3865,6 @@
    "company": "St Vincent de Paul Society Australia",
    "role": "Commercial Enterprise Business Development Coordinator",
    "location": "Lewisham"
-  },
-  "0f96e1bf57ae3f116b3ea56eea7f69ed": {
-   "id": "0f96e1bf57ae3f116b3ea56eea7f69ed",
-   "company": "St Vincent de Paul Society Australia",
-   "role": "Ecommerce Shop Assistant",
-   "location": "Sydney"
-  },
-  "18833bac3628d9465a4315ac9a748372": {
-   "id": "18833bac3628d9465a4315ac9a748372",
-   "company": "St Vincent de Paul Society Australia",
-   "role": "Vinnies Support Centre Coordinator Auburn",
-   "location": "Sydney"
   }
  }
 }

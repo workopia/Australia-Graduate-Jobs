@@ -4531,4 +4531,19 @@
 <tr><td>WesTrac Pty Ltd</td><td>Project Coordinator</td><td>Tomago</td><td>2026-08-28</td></tr>
 <tr><td>Komatsu Marketing Support Australia Pty Ltd</td><td>Project Coordinator</td><td>Mt Thorley</td><td>2026-08-28</td></tr>
 <tr><td>heidelbergmaterials.co.uk</td><td>Logistics Planner (allocator)</td><td>Pinkenba</td><td>2026-08-28</td></tr>
+<tr><td>HEIDI HEALTH</td><td>Enterprise Ops & Bid Support Intern (au)</td><td>Sydney</td><td>2026-08-28</td></tr>
+<tr><td>Nuveen</td><td>Analyst, Real Estate Debt</td><td>Sydney</td><td>2026-08-28</td></tr>
+<tr><td>AustralianSuper</td><td>Business Analyst</td><td>Melbourne</td><td>2026-08-28</td></tr>
+<tr><td>UnitingCare Qld</td><td>Registered Nurse</td><td>Rockhampton</td><td>2026-08-28</td></tr>
+<tr><td>Opal HealthCare</td><td>Pathway Carer - Southeast Melbourne</td><td>Melbourne</td><td>2026-08-28</td></tr>
+<tr><td>University of Melbourne</td><td>Research Assistant, Centre For Youth Mental Health (cymh)</td><td>Melbourne</td><td>2026-08-28</td></tr>
+<tr><td>The University of Melbourne</td><td>Research Assistant, Centre For Youth Mental Health (cymh)</td><td>Melbourne</td><td>2026-08-28</td></tr>
+<tr><td>jobs.unimelb.edu.au</td><td>Research Assistant, Centre For Youth Mental Health (cymh)</td><td>Melbourne</td><td>2026-08-28</td></tr>
+<tr><td>Clickedu</td><td>Customer Field Technician I Taree I Forster</td><td>Coffs Harbour</td><td>2026-08-28</td></tr>
+<tr><td>BAXTER HEALTHCARE PTY AUS</td><td>Mechanical Tradesperson, Afternoon Shift</td><td>Old Toongabbie</td><td>2026-08-28</td></tr>
+<tr><td>Baxter Healthcare</td><td>Mechanical Tradesperson, Afternoon Shift</td><td>Old Toongabbie</td><td>2026-08-28</td></tr>
+<tr><td>Anko Global</td><td>Kmart Green Hills - Holiday Casual</td><td>Green Hils</td><td>2026-08-28</td></tr>
+<tr><td>Kmart</td><td>Kmart Picton - Holiday Casual</td><td>Picton</td><td>2026-08-28</td></tr>
+<tr><td>St Vincent de Paul Society Australia</td><td>Ecommerce Shop Assistant</td><td>Sydney</td><td>2026-08-28</td></tr>
+<tr><td>St Vincent de Paul Society Australia</td><td>Vinnies Support Centre Coordinator Auburn</td><td>Sydney</td><td>2026-08-28</td></tr>
 </table>
