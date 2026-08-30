@@ -4730,4 +4730,114 @@
 <tr><td>Sephora USA Inc</td><td>Stockroom Assistant - Chadstone</td><td>Melbourne</td><td>2026-08-29</td></tr>
 <tr><td>Coates</td><td>Customer Service Coordinator</td><td>Griffith</td><td>2026-08-29</td></tr>
 <tr><td>SRG Global</td><td>Project Administrator</td><td>Riverview</td><td>2026-08-29</td></tr>
+<tr><td>LSKD</td><td>Chadstone Seasonal Casual - Retail Educator</td><td>Melbourne</td><td>2026-08-30</td></tr>
+<tr><td>Estée Lauder</td><td>Retail Artist</td><td>Sydney</td><td>2026-08-30</td></tr>
+<tr><td>AIA Australia Limited</td><td>Agency, Intern</td><td>Australia</td><td>2026-08-30</td></tr>
+<tr><td>SVHA</td><td>Coding Support Officer</td><td>Sydney</td><td>2026-08-30</td></tr>
+<tr><td>Bonneville Bank</td><td>Staff Software Engineer</td><td>Sydney CBD Area</td><td>2026-08-30</td></tr>
+<tr><td>Cbari1</td><td>Staff Software Engineer</td><td>Sydney Cbd Area</td><td>2026-08-30</td></tr>
+<tr><td>CommBank</td><td>Staff Software Engineer</td><td>Sydney</td><td>2026-08-30</td></tr>
+<tr><td>Zurich Insurance UK</td><td>Data Analyst</td><td>Australia</td><td>2026-08-30</td></tr>
+<tr><td>Deloitte Australia</td><td>Data, Ai, And Machine Learning / Multiple Opportunities Available</td><td>Sydney</td><td>2026-08-30</td></tr>
+<tr><td>Jobgether</td><td>Applied Ai Engineer - Anz</td><td>Australia</td><td>2026-08-30</td></tr>
+<tr><td>RACV</td><td>Digital Engagement And Conversation Analyst</td><td>Melbourne</td><td>2026-08-30</td></tr>
+<tr><td>Indigcareers Com Au</td><td>Campaign Data Analyst</td><td>Sydney</td><td>2026-08-30</td></tr>
+<tr><td>Bega Cheese</td><td>Automation Engineer</td><td>Morwell</td><td>2026-08-30</td></tr>
+<tr><td>The NSW Department of Education</td><td>Review Officer</td><td>Sydney</td><td>2026-08-30</td></tr>
+<tr><td>Lendlease</td><td>Fund Analyst</td><td>Sydney</td><td>2026-08-30</td></tr>
+<tr><td>ElectraNet</td><td>Technology Asset Management Analyst</td><td>Australia</td><td>2026-08-30</td></tr>
+<tr><td>Evolution Mining</td><td>Mine Accountant</td><td>West Wyalong</td><td>2026-08-30</td></tr>
+<tr><td>Porters Liquor</td><td>Finance Analyst - Commercial</td><td>Sydney</td><td>2026-08-30</td></tr>
+<tr><td>AustralianSuper</td><td>Analyst, Aml/ctf & Fraud</td><td>Melbourne</td><td>2026-08-30</td></tr>
+<tr><td>Shift</td><td>Business Analyst</td><td>Sydney</td><td>2026-08-30</td></tr>
+<tr><td>Caterpillar of Australia</td><td>Regulatory Compliance Coordinator</td><td>Burnie</td><td>2026-08-30</td></tr>
+<tr><td>mussola.cat</td><td>Regulatory Compliance Coordinator</td><td>Burnie</td><td>2026-08-30</td></tr>
+<tr><td>Caterpillar UK</td><td>Regulatory Compliance Coordinator</td><td>Burnie</td><td>2026-08-30</td></tr>
+<tr><td>Leidos Holdings Inc.</td><td>Business Analyst - 8 Month Secondment</td><td>Melbourne</td><td>2026-08-30</td></tr>
+<tr><td>Leidos UK</td><td>Business Analyst - 8 Month Secondment</td><td>Melbourne</td><td>2026-08-30</td></tr>
+<tr><td>CBA New Digital Businesses Pty Ltd</td><td>Analyst, Commercial Banking - Adelaide, Cbd</td><td>Adelaide</td><td>2026-08-30</td></tr>
+<tr><td>Bonneville Bank</td><td>Analyst, Commercial Banking - Adelaide, Cbd</td><td>Adelaide</td><td>2026-08-30</td></tr>
+<tr><td>CommSec</td><td>Analyst, Commercial Banking - Adelaide, Cbd</td><td>Adelaide</td><td>2026-08-30</td></tr>
+<tr><td>Eagers Automotive Ltd</td><td>Accountant</td><td>Melbourne</td><td>2026-08-30</td></tr>
+<tr><td>Home</td><td>Responsible Sourcing Auditor Subcontractor</td><td>Sydney</td><td>2026-08-30</td></tr>
+<tr><td>Retirement World</td><td>Analyst, Global Investment Banking Industrials & Financial Sponsors</td><td>Sydney</td><td>2026-08-30</td></tr>
+<tr><td>Barclays</td><td>Investment Banking Coverage - Analyst</td><td>Sydney</td><td>2026-08-30</td></tr>
+<tr><td>dcj</td><td>Compliance Officer Facilities Maintenance, Clerk Grade 7/8 - Francis Greenway Complex</td><td>Berkshire Park</td><td>2026-08-30</td></tr>
+<tr><td>Macquarie University Health</td><td>Registered Nurse (acute Care)</td><td>Macquarie University Hospital</td><td>2026-08-30</td></tr>
+<tr><td>MQ Health</td><td>Registered Nurse – Anaesthetics & Pacu</td><td>Sydney</td><td>2026-08-30</td></tr>
+<tr><td>MQ Health</td><td>Registered Nurse - Day Surgery Unit (dsu)</td><td>Sydney</td><td>2026-08-30</td></tr>
+<tr><td>Mqhealth Org Au</td><td>Registered Nurse – Anaesthetics & Pacu</td><td>Sydney</td><td>2026-08-30</td></tr>
+<tr><td>Mqhealth Org Au</td><td>Registered Nurse - Day Surgery Unit (dsu)</td><td>Sydney</td><td>2026-08-30</td></tr>
+<tr><td>Cerebralpalsy Org Au</td><td>Disability Support Practitioner Lifestyles</td><td>Sydney</td><td>2026-08-30</td></tr>
+<tr><td>Cerebral Palsy Alliance</td><td>Disability Support Practitioner Lifestyles</td><td>Sydney</td><td>2026-08-30</td></tr>
+<tr><td>UnitingCare Qld</td><td>Personal Carer</td><td>Melbourne</td><td>2026-08-30</td></tr>
+<tr><td>UnitingCare Health</td><td>Personal Carer</td><td>Melbourne</td><td>2026-08-30</td></tr>
+<tr><td>The University</td><td>Casual Nutrition Assessment Assistant – Bone Health Study</td><td>Melbourne</td><td>2026-08-30</td></tr>
+<tr><td>The University</td><td>Research Assistant, Centre For Youth Mental Health (cymh)</td><td>Melbourne</td><td>2026-08-30</td></tr>
+<tr><td>staff.unimelb.edu.au</td><td>Casual Nutrition Assessment Assistant – Bone Health Study</td><td>Melbourne</td><td>2026-08-30</td></tr>
+<tr><td>staff.unimelb.edu.au</td><td>Research Assistant, Centre For Youth Mental Health (cymh)</td><td>Melbourne</td><td>2026-08-30</td></tr>
+<tr><td>St Vincent de Paul Society NSW</td><td>Registered Nurse</td><td>Waterloo</td><td>2026-08-30</td></tr>
+<tr><td>131</td><td>Registered Nurse</td><td>Melbourne</td><td>2026-08-30</td></tr>
+<tr><td>Mymhcommunity</td><td>Registered Nurse</td><td>Melbourne</td><td>2026-08-30</td></tr>
+<tr><td>Alstom</td><td>Maintenance Technician</td><td>Nowergup</td><td>2026-08-30</td></tr>
+<tr><td>Alstom</td><td>Mechanical Fitter</td><td>South Dynon</td><td>2026-08-30</td></tr>
+<tr><td>Yancoal Australia Ltd</td><td>Maintenance Technician - Mechanical</td><td>Mudgee</td><td>2026-08-30</td></tr>
+<tr><td>Yancoal Australia Ltd</td><td>Chpp - Technician Mechanical (dayshift)</td><td>Mudgee</td><td>2026-08-30</td></tr>
+<tr><td>North Reading Transportation</td><td>Customer Field Technician</td><td>Brisbane</td><td>2026-08-30</td></tr>
+<tr><td>NBN Co Limited</td><td>Customer Field Technician</td><td>Maroochydore</td><td>2026-08-30</td></tr>
+<tr><td>nbn</td><td>Customer Field Technician</td><td>Maroochydore</td><td>2026-08-30</td></tr>
+<tr><td>Carrier Global</td><td>Service Technician</td><td>Australia</td><td>2026-08-30</td></tr>
+<tr><td>Carrier Corporation</td><td>Service Technician</td><td>Australia</td><td>2026-08-30</td></tr>
+<tr><td>Carrier Global</td><td>Transport Refrigeration Technician</td><td>Australia</td><td>2026-08-30</td></tr>
+<tr><td>Carrier Corporation</td><td>Transport Refrigeration Technician</td><td>Australia</td><td>2026-08-30</td></tr>
+<tr><td>JBS Australia Pty Ltd</td><td>Maintenance Fitter</td><td>Sydney</td><td>2026-08-30</td></tr>
+<tr><td>JBS Australia Pty Ltd</td><td>Maintenance Boiler Attendant</td><td>Bordertown</td><td>2026-08-30</td></tr>
+<tr><td>Orica Australia Pty Ltd</td><td>Field Maintenance Technician</td><td>Mount Isa</td><td>2026-08-30</td></tr>
+<tr><td>Orica Australia Pty Ltd</td><td>Field Support Technician</td><td>South Townsville</td><td>2026-08-30</td></tr>
+<tr><td>Luxottica Retail Australia Pty Ltd</td><td>Retail Associate</td><td>Melbourne</td><td>2026-08-30</td></tr>
+<tr><td>Luxottica Retail Australia Pty Ltd</td><td>Christmas Casual / Sunglass Hut Myer Shellharbour, Nsw</td><td>Shellharbour</td><td>2026-08-30</td></tr>
+<tr><td>Sunglass Hut</td><td>Christmas Casual / Sunglass Hut Narellan, Nsw</td><td>Narellan</td><td>2026-08-30</td></tr>
+<tr><td>Luxottica Retail Australia Pty Ltd</td><td>Christmas Casual / Sunglass Hut Wagga Wagga, Nsw</td><td>Wagga Wagga</td><td>2026-08-30</td></tr>
+<tr><td>Sunglass Hut</td><td>Christmas Casual / Sunglass Hut Tamworth, Nsw</td><td>Tamworth</td><td>2026-08-30</td></tr>
+<tr><td>Aldi Australia</td><td>Retail Assistant - Salamander Bay</td><td>Salamander Bay</td><td>2026-08-30</td></tr>
+<tr><td>Sheet Society</td><td>Casual Retail Sales Assistant - Highpoint, Fitzroy, Doncaster & Armadale</td><td>Melbourne</td><td>2026-08-30</td></tr>
+<tr><td>Oakley</td><td>Retail Associate / Oakley / Pt / Vic / Chadstone</td><td>Melbourne</td><td>2026-08-30</td></tr>
+<tr><td>Kmart</td><td>Kmart Frankston - Overnight Holiday Casual</td><td>Melbourne</td><td>2026-08-30</td></tr>
+<tr><td>OPSM</td><td>Associate Dispenser I Opsm I Part Time I Booragoon, Wa</td><td>Perth</td><td>2026-08-30</td></tr>
+<tr><td>Sunglass Hut</td><td>Retail Associate I Sunglass Hut I Casual I T4 Perth Airport, Wa</td><td>Perth</td><td>2026-08-30</td></tr>
+<tr><td>Sunglass Hut</td><td>Christmas Casual / Sunglass Hut / Burnside, Sa</td><td>Melbourne</td><td>2026-08-30</td></tr>
+<tr><td>Sunglass Hut</td><td>Retail Associate / Sunglass Hut / C / Vic / Myer Melbourne</td><td>Melbourne</td><td>2026-08-30</td></tr>
+<tr><td>Priceline Pty Ltd</td><td>Glow Assistant - Casual</td><td>Melbourne</td><td>2026-08-30</td></tr>
+<tr><td>Priceline Pty Ltd</td><td>Glow Advisor - Part Time</td><td>Perth</td><td>2026-08-30</td></tr>
+<tr><td>Nespresso</td><td>Casual Boutique Coffee Specialist - Pitt Street Flagship</td><td>Sydney</td><td>2026-08-30</td></tr>
+<tr><td>Aldi Australia</td><td>Retail Assistant - Meridan Plains</td><td>Meridan Plains</td><td>2026-08-30</td></tr>
+<tr><td>ALDI Australia</td><td>Retail Assistant - Grafton</td><td>Grafton</td><td>2026-08-30</td></tr>
+<tr><td>The Good Guys</td><td>Christmas Casual - Orion Springfield Home</td><td>Springfield Central</td><td>2026-08-30</td></tr>
+<tr><td>Trek Bikes</td><td>Sales Associate</td><td>Perth</td><td>2026-08-30</td></tr>
+<tr><td>230</td><td>Sales Associate</td><td>Perth</td><td>2026-08-30</td></tr>
+<tr><td>Aldi Australia</td><td>Retail Assistant - Broadway</td><td>Sydney</td><td>2026-08-30</td></tr>
+<tr><td>DHL Group</td><td>Ravenhall / Apparel And Accessory Handler Level 1a</td><td>Ravenhall</td><td>2026-08-30</td></tr>
+<tr><td>Dan Murphy’s</td><td>Customer Assistant - Dan Murphy’s Brighton</td><td>Melbourne</td><td>2026-08-30</td></tr>
+<tr><td>Dan Murphy’s</td><td>Customer Assistant - Dan Murphy’s Ascot Vale</td><td>Melbourne</td><td>2026-08-30</td></tr>
+<tr><td>ASICS OCEANIA PTY LTD</td><td>Seasonal Casual Retail Assistant - Uni Hill</td><td>Melbourne</td><td>2026-08-30</td></tr>
+<tr><td>Sunglass Hut</td><td>Christmas Casual / Sunglass Hut / Whitford City, Wa</td><td>Whitford City</td><td>2026-08-30</td></tr>
+<tr><td>Metcash</td><td>Trade And Retail Assistant</td><td>Pambula</td><td>2026-08-30</td></tr>
+<tr><td>ALO / Australia</td><td>Seasonal Operations Associate (part-time) - Southgate Centre</td><td>Southgate Centre</td><td>2026-08-30</td></tr>
+<tr><td>Nestle Ltd</td><td>Casual Boutique Coffee Specialist - Pitt Street Flagship</td><td>Sydney</td><td>2026-08-30</td></tr>
+<tr><td>The NSW Department of Education</td><td>Executive Assistant</td><td>Sydney</td><td>2026-08-30</td></tr>
+<tr><td>The NSW Department of Education</td><td>Executive Support Officer</td><td>Sydney</td><td>2026-08-30</td></tr>
+<tr><td>MACSEYE (Melbourne Archdiocese Catholic Schools Early Years Education)</td><td>Oshc Coordinator / Brighton</td><td>Melbourne</td><td>2026-08-30</td></tr>
+<tr><td>AkzoNobel N.V.</td><td>Facilities Coordinator</td><td>Melbourne</td><td>2026-08-30</td></tr>
+<tr><td>stage-students.flinders.edu.au</td><td>Project Coordinator</td><td>Bedford Park</td><td>2026-08-30</td></tr>
+<tr><td>Flinders University</td><td>Project Coordinator</td><td>Bedford Park</td><td>2026-08-30</td></tr>
+<tr><td>students.flinders.edu.au</td><td>Project Coordinator</td><td>Bedford Park</td><td>2026-08-30</td></tr>
+<tr><td>University of Melbourne</td><td>Marketing And Events Coordinator</td><td>Shepparton</td><td>2026-08-30</td></tr>
+<tr><td>The University of Melbourne</td><td>Marketing And Events Coordinator</td><td>Shepparton</td><td>2026-08-30</td></tr>
+<tr><td>Peabody Energy</td><td>Coal Quality Logistics Coordinator</td><td>Coppabella</td><td>2026-08-30</td></tr>
+<tr><td>CSI Mining Services</td><td>Administrator</td><td>Rockingham</td><td>2026-08-30</td></tr>
+<tr><td>codes-lab.sydney.edu.au</td><td>Executive Assistant And Project Officer</td><td>Darlington</td><td>2026-08-30</td></tr>
+<tr><td>University of Sydney</td><td>Executive Assistant And Project Officer</td><td>Darlington</td><td>2026-08-30</td></tr>
+<tr><td>sydney.edu.au</td><td>Executive Assistant And Project Officer</td><td>Darlington</td><td>2026-08-30</td></tr>
+<tr><td>Transport for NSW</td><td>Executive Assistant</td><td>Sydney</td><td>2026-08-30</td></tr>
+<tr><td>Orora Group</td><td>People Systems Project & Testing Co-ordinator</td><td>Melbourne</td><td>2026-08-30</td></tr>
 </table>
