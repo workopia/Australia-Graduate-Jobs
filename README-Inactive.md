@@ -4840,4 +4840,33 @@
 <tr><td>sydney.edu.au</td><td>Executive Assistant And Project Officer</td><td>Darlington</td><td>2026-08-30</td></tr>
 <tr><td>Transport for NSW</td><td>Executive Assistant</td><td>Sydney</td><td>2026-08-30</td></tr>
 <tr><td>Orora Group</td><td>People Systems Project & Testing Co-ordinator</td><td>Melbourne</td><td>2026-08-30</td></tr>
+<tr><td>Datacom</td><td>Tech Support - First Nations Ict Trainee Programme - Melbourne</td><td>Melbourne</td><td>2026-08-31</td></tr>
+<tr><td>AUSSIE BROADBAND LIMITED</td><td>Software Engineer</td><td>Melbourne</td><td>2026-08-31</td></tr>
+<tr><td>Komatsu Marketing Support Australia Pty Ltd</td><td>Hd Fitter - Product Support Advisor</td><td>Pilbara +1</td><td>2026-08-31</td></tr>
+<tr><td>MECCA</td><td>Inventory & Reporting Analyst</td><td>Melbourne</td><td>2026-08-31</td></tr>
+<tr><td>dcj</td><td>Analyst</td><td>Sydney</td><td>2026-08-31</td></tr>
+<tr><td>Zurich Insurance Company Ltd</td><td>Intelligent Automation Engineer</td><td>Sydney</td><td>2026-08-31</td></tr>
+<tr><td>Pact Group Holdings Ltd</td><td>Finance Accountant</td><td>Melbourne</td><td>2026-08-31</td></tr>
+<tr><td>Northern Star Resources Ltd</td><td>Business Analyst</td><td>Perth</td><td>2026-08-31</td></tr>
+<tr><td>Lendlease Corporation</td><td>Fund Analyst</td><td>Sydney</td><td>2026-08-31</td></tr>
+<tr><td>UnitingCare Qld</td><td>Registered Nurse</td><td>Sunrise Beach</td><td>2026-08-31</td></tr>
+<tr><td>Estia Health</td><td>Registered Nurse</td><td>Kensington Gardens</td><td>2026-08-31</td></tr>
+<tr><td>MQ Health</td><td>Registered Nurse (acute Care)</td><td>Macquarie University Hospital</td><td>2026-08-31</td></tr>
+<tr><td>Rentokil Initial Australia</td><td>Cleaner Driver -medical Hygiene Service Technician - Medical / Western/northern</td><td>Campbellfield</td><td>2026-08-31</td></tr>
+<tr><td>Downer</td><td>Refrigeration/hvac Tech</td><td>Williamtown</td><td>2026-08-31</td></tr>
+<tr><td>Downer EDI</td><td>Refrigeration/hvac Tech</td><td>Williamtown</td><td>2026-08-31</td></tr>
+<tr><td>Visy</td><td>Service Technician</td><td>Brisbane QLD</td><td>2026-08-31</td></tr>
+<tr><td>DECJUBA</td><td>Casual Retail Assistant - Harbourtown</td><td>Harbourtown</td><td>2026-08-31</td></tr>
+<tr><td>Sunglass Hut</td><td>Retail Associate / Sunglass Hut / C / Vic / Dfo Southwharf</td><td>South Wharf</td><td>2026-08-31</td></tr>
+<tr><td>Sunglass Hut</td><td>Christmas Casual / Sunglass Hut Macquarie Centre, Nsw</td><td>Sydney</td><td>2026-08-31</td></tr>
+<tr><td>Luxottica Retail Australia Pty Ltd</td><td>Christmas Casual / Sunglass Hut Canberra Outlet, Act</td><td>Fyshwick</td><td>2026-08-31</td></tr>
+<tr><td>Luxottica Retail Australia Pty Ltd</td><td>Christmas Casual / Sunglass Hut Myer Albury, Nsw</td><td>Albury</td><td>2026-08-31</td></tr>
+<tr><td>Luxottica Retail Australia Pty Ltd</td><td>Christmas Casual / Sunglass Hut Erina, Nsw</td><td>Erina</td><td>2026-08-31</td></tr>
+<tr><td>Luxottica Retail Australia Pty Ltd</td><td>Christmas Casual / Sunglass Hut Kotara, Nsw</td><td>Kotara</td><td>2026-08-31</td></tr>
+<tr><td>Luxottica Retail Australia Pty Ltd</td><td>Christmas Casual / Sunglass Hut Warringah Mall, Nsw</td><td>Brookvale</td><td>2026-08-31</td></tr>
+<tr><td>Luxottica Retail Australia Pty Ltd</td><td>Christmas Casual / Sunglass Hut Port Macquarie Central, Nsw</td><td>Port Macquarie</td><td>2026-08-31</td></tr>
+<tr><td>Luxottica Retail Australia Pty Ltd</td><td>Christmas Casual / Sunglass Hut Orange, Nsw</td><td>Orange</td><td>2026-08-31</td></tr>
+<tr><td>Sunglass Hut</td><td>Christmas Casual / Sunglass Hut Myer Warringah Mall, Nsw</td><td>Brookvale</td><td>2026-08-31</td></tr>
+<tr><td>DECJUBA</td><td>Casual Retail Assistant-rundle Mall</td><td>Adelaide</td><td>2026-08-31</td></tr>
+<tr><td>Ecolab</td><td>Coordinator</td><td>Melbourne</td><td>2026-08-31</td></tr>
 </table>
