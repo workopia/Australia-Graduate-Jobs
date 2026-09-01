@@ -4869,4 +4869,41 @@
 <tr><td>Sunglass Hut</td><td>Christmas Casual / Sunglass Hut Myer Warringah Mall, Nsw</td><td>Brookvale</td><td>2026-08-31</td></tr>
 <tr><td>DECJUBA</td><td>Casual Retail Assistant-rundle Mall</td><td>Adelaide</td><td>2026-08-31</td></tr>
 <tr><td>Ecolab</td><td>Coordinator</td><td>Melbourne</td><td>2026-08-31</td></tr>
+<tr><td>WSP</td><td>Qld Summer Internship</td><td>Brisbane</td><td>2026-09-01</td></tr>
+<tr><td>Wesfarmers Health</td><td>Software Engineer</td><td>Melbourne</td><td>2026-09-01</td></tr>
+<tr><td>Jobgether</td><td>Iam Engineer</td><td>Australia</td><td>2026-09-01</td></tr>
+<tr><td>students.flinders.edu.au</td><td>Accreditation And Quality Compliance Officer</td><td>Bedford Park</td><td>2026-09-01</td></tr>
+<tr><td>Flinders University International Centre for Point-of-Care Testing</td><td>Accreditation And Quality Compliance Officer</td><td>Bedford Park</td><td>2026-09-01</td></tr>
+<tr><td>Marsh & McLennan Companies Inc</td><td>Business Analyst</td><td>Melbourne</td><td>2026-09-01</td></tr>
+<tr><td>Mercer</td><td>Business Analyst</td><td>Melbourne</td><td>2026-09-01</td></tr>
+<tr><td>WesTrac Pty Ltd</td><td>Accountant</td><td>Guildford</td><td>2026-09-01</td></tr>
+<tr><td>Jobgether</td><td>Business And Management Specialist – Freelance Ai Trainer Project</td><td>Australia</td><td>2026-09-01</td></tr>
+<tr><td>166</td><td>Registered Nurse - Casual</td><td>Mossman</td><td>2026-09-01</td></tr>
+<tr><td>Opal HealthCare</td><td>Registered Nurse - Narraweena Grove Care Community</td><td>Sydney</td><td>2026-09-01</td></tr>
+<tr><td>Opal HealthCare</td><td>Registered Nurse Night Duty - Murdoch Gardens Care Community</td><td>Murdoch</td><td>2026-09-01</td></tr>
+<tr><td>Opal HealthCare</td><td>Registered Nurse - Bankstown Terrace Care Community</td><td>Sydney</td><td>2026-09-01</td></tr>
+<tr><td>Opal HealthCare</td><td>Registered Nurse Night Duty - Gawler Hillside Care Community</td><td>Adelaide</td><td>2026-09-01</td></tr>
+<tr><td>Opal HealthCare</td><td>Registered Nurse Night Duty - Bunbury Gardens</td><td>Bunbury</td><td>2026-09-01</td></tr>
+<tr><td>Opal HealthCare</td><td>Registered Nurse - Denhams Beach Care Community</td><td>Denhams Beach +11</td><td>2026-09-01</td></tr>
+<tr><td>Opal HealthCare</td><td>Registered Nurse - Greenwich Horizons Care Community</td><td>Sydney</td><td>2026-09-01</td></tr>
+<tr><td>Austin Health</td><td>Research Officer</td><td>Melbourne</td><td>2026-09-01</td></tr>
+<tr><td>Serco Asia Pacific</td><td>Mental Health Registered Nurse</td><td>Garbutt</td><td>2026-09-01</td></tr>
+<tr><td>UnitingCare</td><td>Mental Health Support Worker (housing And Accommodation Support Initiative)</td><td>Sydney</td><td>2026-09-01</td></tr>
+<tr><td>People Services</td><td>Hvac Technician - Keswick</td><td>Keswick</td><td>2026-09-01</td></tr>
+<tr><td>People Services</td><td>Tindal - Hvac Technician</td><td>RAAF Tindal</td><td>2026-09-01</td></tr>
+<tr><td>Two River Home Inspections</td><td>Hvac Technician - Keswick</td><td>Keswick</td><td>2026-09-01</td></tr>
+<tr><td>Two River Home Inspections</td><td>Tindal - Hvac Technician</td><td>RAAF Tindal</td><td>2026-09-01</td></tr>
+<tr><td>Two River Home Inspections</td><td>Hvac Technician - Woomera</td><td>Woomera</td><td>2026-09-01</td></tr>
+<tr><td>Downer</td><td>Fire Systems Technician</td><td>Williamtown</td><td>2026-09-01</td></tr>
+<tr><td>Downer EDI</td><td>Fire Systems Technician</td><td>Williamtown</td><td>2026-09-01</td></tr>
+<tr><td>Cosentino</td><td>Showroom Specialist Sydney</td><td>Sydney</td><td>2026-09-01</td></tr>
+<tr><td>Sunglass Hut</td><td>Christmas Casual / Sunglass Hut Miranda 2, Nsw</td><td>Sydney</td><td>2026-09-01</td></tr>
+<tr><td>Sunglass Hut</td><td>Christmas Casual / Sunglass Hut Miranda, Nsw</td><td>Sydney</td><td>2026-09-01</td></tr>
+<tr><td>Oakley</td><td>Retail Associate / Oakley Manly, Nsw</td><td>Sydney</td><td>2026-09-01</td></tr>
+<tr><td>Sunglass Hut</td><td>Retail Associate / Sunglass Hut, Port Macquarie Central, Nsw</td><td>Port Macquarie</td><td>2026-09-01</td></tr>
+<tr><td>The University of Queensland (UQ)</td><td>Executive Assistant</td><td>St Lucia</td><td>2026-09-01</td></tr>
+<tr><td>Gold Fields</td><td>Coordinator : Projects (mechanical)</td><td>Melbourne</td><td>2026-09-01</td></tr>
+<tr><td>Mars Australia</td><td>Stockroom Coordinator</td><td>Victoria</td><td>2026-09-01</td></tr>
+<tr><td>Mars</td><td>Stockroom Coordinator</td><td>Victoria</td><td>2026-09-01</td></tr>
+<tr><td>South32 Ltd</td><td>Administration Assistant - Training</td><td>Collie</td><td>2026-09-01</td></tr>
 </table>
