@@ -5346,4 +5346,64 @@
 <tr><td>Inchcape plc</td><td>Network Development Coordinator</td><td>Norwest</td><td>2026-09-04</td></tr>
 <tr><td>Inchcape plc</td><td>Administration Assistant</td><td>Melbourne</td><td>2026-09-04</td></tr>
 <tr><td>Megaport (Australia) Pty Limited</td><td>Executive Assistant, Ceo & Leadership Team</td><td>Brisbane</td><td>2026-09-04</td></tr>
+<tr><td>Markham Bank</td><td>Staff Software Engineer</td><td>Vic Cbd</td><td>2026-09-05</td></tr>
+<tr><td>756</td><td>Ecommerce Product Support Specialist</td><td>Vic Cbd Melbourne Area</td><td>2026-09-05</td></tr>
+<tr><td>CBA New Digital Businesses Pty Ltd</td><td>Ecommerce Product Support Specialist</td><td>Melbourne</td><td>2026-09-05</td></tr>
+<tr><td>Canva</td><td>Software Engineer - Ai Developer Tooling Workflows</td><td>Sydney</td><td>2026-09-05</td></tr>
+<tr><td>Westpac Group</td><td>Ai Engineer</td><td>Sydney</td><td>2026-09-05</td></tr>
+<tr><td>transport.nsw.gov.au</td><td>Data Risk Specialist</td><td>Unknown</td><td>2026-09-05</td></tr>
+<tr><td>Transport for NSW</td><td>Performance Analyst</td><td>Eveleigh +2</td><td>2026-09-05</td></tr>
+<tr><td>Austin Health</td><td>Business Analyst/informatics - Pathology</td><td>Melbourne</td><td>2026-09-05</td></tr>
+<tr><td>ING</td><td>Data Protection Steward</td><td>Sydney</td><td>2026-09-05</td></tr>
+<tr><td>Installator.dk Hospital</td><td>Registered Nurse - Casual</td><td>Brisbane</td><td>2026-09-05</td></tr>
+<tr><td>131</td><td>Registered Nurse Div1 / Multiple Locations</td><td>Albury +14</td><td>2026-09-05</td></tr>
+<tr><td>Mymhcommunity</td><td>Maternal Child Health Nurse</td><td>Melbourne</td><td>2026-09-05</td></tr>
+<tr><td>131</td><td>Maternal Child Health Nurse</td><td>Melbourne</td><td>2026-09-05</td></tr>
+<tr><td>St Andrews War Memorial Hospital</td><td>Registered Nurse - Scrub Scout</td><td>Brisbane</td><td>2026-09-05</td></tr>
+<tr><td>Wsre</td><td>Registered Nurse</td><td>Maroochydore</td><td>2026-09-05</td></tr>
+<tr><td>UnitingCare Qld</td><td>Registered Nurse</td><td>Maroochydore</td><td>2026-09-05</td></tr>
+<tr><td>St Vincent de Paul Society Australia</td><td>Registered Nurse</td><td>Waterloo</td><td>2026-09-05</td></tr>
+<tr><td>RoboFit</td><td>Physiotherapist</td><td>Brisbane</td><td>2026-09-05</td></tr>
+<tr><td>RoboFit</td><td>Physiotherapist – Full Time</td><td>Melbourne</td><td>2026-09-05</td></tr>
+<tr><td>Opal HealthCare</td><td>Relocation Registered Nurse - Aldinga Beach Care Community</td><td>Adelaide</td><td>2026-09-05</td></tr>
+<tr><td>Opal HealthCare</td><td>Registered Nurse Night Duty - Hamlyn Terrace Care Community</td><td>Hamlyn +2</td><td>2026-09-05</td></tr>
+<tr><td>Opal HealthCare</td><td>Registered Nurse- Wallarah Point Care Community</td><td>Toukley +1</td><td>2026-09-05</td></tr>
+<tr><td>Opal HealthCare</td><td>Registered Nurse - Narrabeen Glades Care Community</td><td>Sydney</td><td>2026-09-05</td></tr>
+<tr><td>UnitingCare</td><td>Registered Nurse</td><td>Weston</td><td>2026-09-05</td></tr>
+<tr><td>WEHI (Walter and Eliza Hall Institute of Medical Research)</td><td>Research Assistant</td><td>Melbourne</td><td>2026-09-05</td></tr>
+<tr><td>WEHI (Walter and Eliza Hall Institute of Medical Research)</td><td>Research Assistant - Stem Cell Biology</td><td>Melbourne</td><td>2026-09-05</td></tr>
+<tr><td>wehi.edu.au</td><td>Research Assistant - Stem Cell Biology</td><td>Melbourne</td><td>2026-09-05</td></tr>
+<tr><td>wehi.edu.au</td><td>Research Assistant</td><td>Melbourne</td><td>2026-09-05</td></tr>
+<tr><td>WEHI (Walter and Eliza Hall Institute)</td><td>Research Assistant - Stem Cell Biology</td><td>Melbourne</td><td>2026-09-05</td></tr>
+<tr><td>WEHI (Walter and Eliza Hall Institute)</td><td>Research Assistant</td><td>Melbourne</td><td>2026-09-05</td></tr>
+<tr><td>Cerebral Palsy Alliance</td><td>Disability Support Practitioner</td><td>Sydney</td><td>2026-09-05</td></tr>
+<tr><td>UnitingCare Qld</td><td>Physiotherapist</td><td>Brisbane</td><td>2026-09-05</td></tr>
+<tr><td>Voith</td><td>Field Service Engineer (m/f/d) Balance Of Plant Mechanical - Australia</td><td>Snowy</td><td>2026-09-05</td></tr>
+<tr><td>Agfa</td><td>Field Service Engineer (x-ray/ Medical Imaging)</td><td>Melbourne</td><td>2026-09-05</td></tr>
+<tr><td>Komatsu Marketing Support Australia Pty Ltd</td><td>Technician - Field Service</td><td>Bunbury</td><td>2026-09-05</td></tr>
+<tr><td>BHP INNOVATION Pty Ltd</td><td>Mechanical Technician (fixed Plant) / Wa Iron Ore / Newman Residential</td><td>Newman</td><td>2026-09-05</td></tr>
+<tr><td>315</td><td>Field Delivery Telecommunications Trainee - Adelaide</td><td>Adelaide</td><td>2026-09-05</td></tr>
+<tr><td>DECJUBA</td><td>Seasonal Casual Retail Assistant - Craigieburn</td><td>Melbourne</td><td>2026-09-05</td></tr>
+<tr><td>DECJUBA</td><td>Seasonal Casual Retail Assistant - Fountain Gate</td><td>Melbourne</td><td>2026-09-05</td></tr>
+<tr><td>DECJUBA</td><td>Seasonal Casual Retail Assistant - Frankston</td><td>Melbourne</td><td>2026-09-05</td></tr>
+<tr><td>DECJUBA</td><td>Seasonal Casual Retail Assistant - Rhodes</td><td>Sydney</td><td>2026-09-05</td></tr>
+<tr><td>DECJUBA</td><td>Seasonal Casual Retail Assistant - Roselands</td><td>Sydney</td><td>2026-09-05</td></tr>
+<tr><td>DECJUBA</td><td>Seasonal Casual Retail Assistant - Southgate</td><td>Sydney</td><td>2026-09-05</td></tr>
+<tr><td>Pets at Home</td><td>Peak Casual Warehouse Assistant / Am & Pm Shifts Available</td><td>Avalon</td><td>2026-09-05</td></tr>
+<tr><td>Aldi Australia</td><td>Retail Assistant - Bondi Junction</td><td>Sydney</td><td>2026-09-05</td></tr>
+<tr><td>The Good Guys</td><td>Customer Support Team Member- Sales And Service Hub</td><td>Melbourne</td><td>2026-09-05</td></tr>
+<tr><td>DigiCert Inc</td><td>Associate Authentication Analyst (chinese Speaker)</td><td>Melbourne</td><td>2026-09-05</td></tr>
+<tr><td>Sunglass Hut</td><td>Christmas Casual / Sunglass Hut Myer Miranda, Nsw</td><td>Sydney</td><td>2026-09-05</td></tr>
+<tr><td>Nestle Ltd</td><td>Transport Coordinator</td><td>Blayney</td><td>2026-09-05</td></tr>
+<tr><td>JLL</td><td>Property Operations Coordinator - 12 Month Ftc</td><td>Melbourne</td><td>2026-09-05</td></tr>
+<tr><td>Jones Lang Lasalle Ip Inc</td><td>Property Operations Coordinator - 12 Month Ftc</td><td>Melbourne</td><td>2026-09-05</td></tr>
+<tr><td>JLL</td><td>Administrative Assistant</td><td>Adelaide</td><td>2026-09-05</td></tr>
+<tr><td>42</td><td>Administrative Assistant</td><td>Adelaide</td><td>2026-09-05</td></tr>
+<tr><td>Santos</td><td>Corporate Assistant</td><td>Brisbane</td><td>2026-09-05</td></tr>
+<tr><td>RMIT University</td><td>Project Administrator</td><td>Melbourne</td><td>2026-09-05</td></tr>
+<tr><td>RMIT</td><td>Project Administrator</td><td>Melbourne</td><td>2026-09-05</td></tr>
+<tr><td>WesTrac Pty Ltd</td><td>Customer Coordinator</td><td>Kalgoorlie</td><td>2026-09-05</td></tr>
+<tr><td>The NSW Department of Education</td><td>Executive Assistant</td><td>Eveleigh +1</td><td>2026-09-05</td></tr>
+<tr><td>The NSW Department of Education</td><td>Executive Support Officer</td><td>Sydney</td><td>2026-09-05</td></tr>
+<tr><td>University of Sydney</td><td>Student Placement Officer</td><td>Sydney</td><td>2026-09-05</td></tr>
 </table>
