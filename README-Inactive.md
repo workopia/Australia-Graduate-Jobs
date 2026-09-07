@@ -5601,4 +5601,14 @@
 <tr><td>HERBERT SMITH FREEHILLS</td><td>Administrative Assistant, Employment</td><td>Brisbane</td><td>2026-09-06</td></tr>
 <tr><td>CHILDFUND AUSTRALIA</td><td>Executive Assistant</td><td>Sydney</td><td>2026-09-06</td></tr>
 <tr><td>Serco Asia Pacific</td><td>Operations Coordinator</td><td>Melbourne</td><td>2026-09-06</td></tr>
+<tr><td>Neurosurgeon role (org unclear)</td><td>Registered Nurse</td><td>Sydney</td><td>2026-09-07</td></tr>
+<tr><td>St Vincent's Care Toowoomba</td><td>Registered Nurse - Casual</td><td>Toowoomba</td><td>2026-09-07</td></tr>
+<tr><td>Installator.dk Hospital</td><td>Registered Nurse (cardiac Ward)</td><td>Toowoomba</td><td>2026-09-07</td></tr>
+<tr><td>St Vincent’s Private Hospital Toowoomba</td><td>Registered Nurse (cardiac Ward)</td><td>Toowoomba</td><td>2026-09-07</td></tr>
+<tr><td>219</td><td>Registered Nurse (cardiac Ward)</td><td>Toowoomba</td><td>2026-09-07</td></tr>
+<tr><td>Repco</td><td>Customer Sales & Service - Repco North Rockhampton - Full Time</td><td>North Rockhampton</td><td>2026-09-07</td></tr>
+<tr><td>Sunglass Hut</td><td>Christmas Casual / Sunglass Hut / Eaton Fair, Wa</td><td>Eaton</td><td>2026-09-07</td></tr>
+<tr><td>OPSM</td><td>Associate Dispenser</td><td>Yarrawonga</td><td>2026-09-07</td></tr>
+<tr><td>Sunglass Hut</td><td>Christmas Casual / Sunglass Hut / Burnside, Sa</td><td>Melbourne</td><td>2026-09-07</td></tr>
+<tr><td>Sunglass Hut</td><td>Retail Associate / Sunglass Hut Miranda, Nsw</td><td>Sydney</td><td>2026-09-07</td></tr>
 </table>
