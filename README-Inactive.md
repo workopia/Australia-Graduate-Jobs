@@ -5977,4 +5977,113 @@
 <tr><td>Anglicare Sydney</td><td>Administration Assistant</td><td>Sydney</td><td>2026-09-10</td></tr>
 <tr><td>ANZ Bank</td><td>Executive Assistant, Transaction Banking</td><td>Sydney</td><td>2026-09-10</td></tr>
 <tr><td>Pets at Home</td><td>Transport Compliance & Operations Coordinator</td><td>Melbourne</td><td>2026-09-10</td></tr>
+<tr><td>Downer EDI</td><td>Supply Chain Intern</td><td>Milton</td><td>2026-09-11</td></tr>
+<tr><td>Downer</td><td>Supply Chain Intern</td><td>Milton</td><td>2026-09-11</td></tr>
+<tr><td>Boeing Aerostructures Australia Pty Ltd</td><td>Finance Intern</td><td>Melbourne</td><td>2026-09-11</td></tr>
+<tr><td>Bank of Queensland</td><td>Summer Business Banking Internship</td><td>Sydney Office</td><td>2026-09-11</td></tr>
+<tr><td>Buyapahome</td><td>Intern – Engineering</td><td>Mount Isa</td><td>2026-09-11</td></tr>
+<tr><td>Pier One Sydney Harbour</td><td>Job 26094809</td><td>Sydney</td><td>2026-09-11</td></tr>
+<tr><td>Abbott Diabetes Care</td><td>Field Technical Specialist</td><td>Melbourne</td><td>2026-09-11</td></tr>
+<tr><td>Caterpillar Inc.</td><td>Technical Support Representative</td><td>Redcliff</td><td>2026-09-11</td></tr>
+<tr><td>Cbari1</td><td>Staff Software Engineer - Mobile</td><td>Melbourne Area</td><td>2026-09-11</td></tr>
+<tr><td>Xn Karrirbanken Kcb</td><td>Staff Software Engineer - Mobile</td><td>Vic Cbd</td><td>2026-09-11</td></tr>
+<tr><td>CBA New Digital Businesses Pty</td><td>Staff Software Engineer - Mobile</td><td>Melbourne</td><td>2026-09-11</td></tr>
+<tr><td>aig.de</td><td>Data Quality Imr Analyst – Apac Region</td><td>Park Street</td><td>2026-09-11</td></tr>
+<tr><td>Evolution Mining</td><td>Business Analyst - Process Improvement</td><td>Sydney</td><td>2026-09-11</td></tr>
+<tr><td>Nestle Ltd</td><td>Business Analyst - Manufacturing</td><td>Sydney</td><td>2026-09-11</td></tr>
+<tr><td>Deloitte Australia</td><td>External Audit / Multiple Opportunities Available</td><td>Sydney</td><td>2026-09-11</td></tr>
+<tr><td>Westpac Group</td><td>Compliance Analyst - Payroll Governance</td><td>Sydney</td><td>2026-09-11</td></tr>
+<tr><td>Westpac</td><td>Compliance Analyst - Payroll Governance</td><td>Sydney</td><td>2026-09-11</td></tr>
+<tr><td>Kit</td><td>Risk And Controls Analyst Line 1 - Sydney, Cbd</td><td>Sydney Cbd Area</td><td>2026-09-11</td></tr>
+<tr><td>Mdoc</td><td>Bioinformatics Analyst</td><td>Perth</td><td>2026-09-11</td></tr>
+<tr><td>dcj.nsw.gov.au</td><td>Investigation And Conciliation Officer - Clerk 7/8 - Anti-discrimination Nsw</td><td>Sydney</td><td>2026-09-11</td></tr>
+<tr><td>dcj</td><td>Investigation And Conciliation Officer - Clerk 7/8 - Anti-discrimination Nsw</td><td>Sydney</td><td>2026-09-11</td></tr>
+<tr><td>Medibank Private Ltd</td><td>Ancillary Claims Auditor</td><td>Melbourne</td><td>2026-09-11</td></tr>
+<tr><td>Estia Health</td><td>Registered Nurse / Permanent</td><td>Tea Gardens</td><td>2026-09-11</td></tr>
+<tr><td>Estia Health</td><td>Registered Nurse / Mount Coolum (part Time)</td><td>Mount Coolum</td><td>2026-09-11</td></tr>
+<tr><td>Austin Health</td><td>Physiotherapist Grade 2</td><td>Melbourne</td><td>2026-09-11</td></tr>
+<tr><td>GENESISCARE</td><td>Registered Nurse</td><td>Albany</td><td>2026-09-11</td></tr>
+<tr><td>miele.kz</td><td>Service Technician - Nsw</td><td>Eastern Creek</td><td>2026-09-11</td></tr>
+<tr><td>Miele</td><td>Service Technician - Qld</td><td>Export Park</td><td>2026-09-11</td></tr>
+<tr><td>miele.kz</td><td>Service Technician Domestic</td><td>Melbourne</td><td>2026-09-11</td></tr>
+<tr><td>Freo Group Pty Ltd</td><td>Crane Technician, Wind Farm Project</td><td>Uungula</td><td>2026-09-11</td></tr>
+<tr><td>833</td><td>Customer Field Technician I Albury</td><td>Albury</td><td>2026-09-11</td></tr>
+<tr><td>833</td><td>Customer Field Technician I Wagga Wagga</td><td>Wagga Wagga</td><td>2026-09-11</td></tr>
+<tr><td>833</td><td>Customer Field Technician / Sydney Metro / Electrical Professionals</td><td>Eastern Creek</td><td>2026-09-11</td></tr>
+<tr><td>APA</td><td>Apprentice Mechanical Technician</td><td>Newman</td><td>2026-09-11</td></tr>
+<tr><td>APA GROUP</td><td>Technical Officer - Mechanical</td><td>Katherine</td><td>2026-09-11</td></tr>
+<tr><td>833</td><td>Customer Field Technician I Adelaide Metro</td><td>Adelaide</td><td>2026-09-11</td></tr>
+<tr><td>833</td><td>Customer Field Technician / Adelaide Metro</td><td>Adelaide</td><td>2026-09-11</td></tr>
+<tr><td>833</td><td>Customer Field Technician</td><td>Ipswich</td><td>2026-09-11</td></tr>
+<tr><td>833</td><td>Customer Field Technician I Rockhampton</td><td>Rockhampton</td><td>2026-09-11</td></tr>
+<tr><td>833</td><td>Customer Field Technician I Mount Gambier</td><td>Mount Gambier</td><td>2026-09-11</td></tr>
+<tr><td>833</td><td>Customer Field Technician I Warburton</td><td>Warburton</td><td>2026-09-11</td></tr>
+<tr><td>833</td><td>Customer Field Technician I Bendigo</td><td>Bendigo</td><td>2026-09-11</td></tr>
+<tr><td>833</td><td>Customer Field Technician I Orange</td><td>Orange</td><td>2026-09-11</td></tr>
+<tr><td>833</td><td>Customer Field Technician I Tamworth</td><td>Tamworth</td><td>2026-09-11</td></tr>
+<tr><td>833</td><td>Customer Field Technician I Bathurst</td><td>Bathurst</td><td>2026-09-11</td></tr>
+<tr><td>833</td><td>Customer Field Technician I Taree I Forster</td><td>Taree</td><td>2026-09-11</td></tr>
+<tr><td>833</td><td>Customer Field Technician I Townsville</td><td>Townsville</td><td>2026-09-11</td></tr>
+<tr><td>833</td><td>Customer Field Technician I Port Macquarie</td><td>Port Macquarie</td><td>2026-09-11</td></tr>
+<tr><td>833</td><td>Customer Field Technician I Coffs Harbour</td><td>Coffs Harbour</td><td>2026-09-11</td></tr>
+<tr><td>833</td><td>Customer Field Technician I Mildura</td><td>Mildura</td><td>2026-09-11</td></tr>
+<tr><td>833</td><td>Customer Field Technician / Brisbane Metro</td><td>Brisbane</td><td>2026-09-11</td></tr>
+<tr><td>833</td><td>Customer Field Technician / Brisbane</td><td>Brisbane</td><td>2026-09-11</td></tr>
+<tr><td>833</td><td>Customer Field Technician I Cairns</td><td>Cairns</td><td>2026-09-11</td></tr>
+<tr><td>833</td><td>Customer Field Technician I Gold Coast</td><td>Gold Coast</td><td>2026-09-11</td></tr>
+<tr><td>833</td><td>Customer Field Technician / Melbourne Metro</td><td>Melbourne</td><td>2026-09-11</td></tr>
+<tr><td>AMX</td><td>Sales Assistant - Amx Pakenham - Full Time</td><td>Melbourne</td><td>2026-09-11</td></tr>
+<tr><td>AMX</td><td>Sales Assistant - Amx Pakenham - Casual</td><td>Melbourne</td><td>2026-09-11</td></tr>
+<tr><td>Repco</td><td>Customer Sales & Service - Repco Grafton - Casual</td><td>Grafton</td><td>2026-09-11</td></tr>
+<tr><td>Repco</td><td>Customer Sales & Service - Repco Wagga Wagga - Full Time</td><td>East Wagga Wagga</td><td>2026-09-11</td></tr>
+<tr><td>Repco</td><td>Customer Sales & Service - Repco Warrnambool - Casual</td><td>Warrnambool</td><td>2026-09-11</td></tr>
+<tr><td>Repco</td><td>Customer Sales & Service - Repco Muswellbrook - Casual</td><td>Muswellbrook</td><td>2026-09-11</td></tr>
+<tr><td>Repco</td><td>Customer Sales & Service - Repco Taren Point - Casual</td><td>Taren Point</td><td>2026-09-11</td></tr>
+<tr><td>Repco</td><td>Customer Sales & Service - Repco Mount Barker - Casual</td><td>Totness</td><td>2026-09-11</td></tr>
+<tr><td>Repco</td><td>Customer Sales & Service - Repco Osborne Park - Casual</td><td>Osborne Park</td><td>2026-09-11</td></tr>
+<tr><td>Repco</td><td>Customer Sales & Service - Repco Camperdown - Full Time</td><td>Sydney</td><td>2026-09-11</td></tr>
+<tr><td>Repco</td><td>Customer Sales & Service - Repco Karratha - Full Time</td><td>Karratha</td><td>2026-09-11</td></tr>
+<tr><td>Repco</td><td>Customer Sales & Service - Repco Karratha - Casual</td><td>Karratha</td><td>2026-09-11</td></tr>
+<tr><td>Repco</td><td>Customer Sales & Service - Repco Broome - Casual</td><td>Broome</td><td>2026-09-11</td></tr>
+<tr><td>Repco</td><td>Customer Sales & Service - Repco Marleston - Casual</td><td>Marleston</td><td>2026-09-11</td></tr>
+<tr><td>Repco</td><td>Customer Sales & Service - Repco Ulladulla - Part Time</td><td>Ulladulla</td><td>2026-09-11</td></tr>
+<tr><td>Repco</td><td>Customer Sales & Service - Repco North Rockhampton - Casual</td><td>North Rockhampton</td><td>2026-09-11</td></tr>
+<tr><td>Genpt</td><td>Sales Assistant - Amx Hoppers Crossing - Casual</td><td>Melbourne</td><td>2026-09-11</td></tr>
+<tr><td>AMX</td><td>Sales Assistant -amx Lynbrook - Casual</td><td>Melbourne</td><td>2026-09-11</td></tr>
+<tr><td>Repco</td><td>Customer Sale & Service - Repco Castle Hill - Casual</td><td>Sydney</td><td>2026-09-11</td></tr>
+<tr><td>Repco</td><td>Customer Sales & Service - Repco Mt Gambier - Casual</td><td>Mt Gambier</td><td>2026-09-11</td></tr>
+<tr><td>Repco</td><td>Customer Sales & Service - Repco Berri - Casual</td><td>Berri</td><td>2026-09-11</td></tr>
+<tr><td>Repco</td><td>Customer Sales & Service - Repco Narrabri - Full Time</td><td>Narrabri</td><td>2026-09-11</td></tr>
+<tr><td>AMX</td><td>Sales Assistant - Amx Epping - Full Time</td><td>Melbourne</td><td>2026-09-11</td></tr>
+<tr><td>Repco</td><td>Customer Sales & Service - Repco Smithfield - Casual</td><td>Sydney</td><td>2026-09-11</td></tr>
+<tr><td>Repco</td><td>Customer Sales & Service - Repco Charters Towers - Full Time</td><td>Charters Towers</td><td>2026-09-11</td></tr>
+<tr><td>Repco</td><td>Customer Sales & Service - Repco Busselton - Casual</td><td>Busselton</td><td>2026-09-11</td></tr>
+<tr><td>Repco</td><td>Customer Sales & Service - Repco Whyalla - Casual</td><td>Whyalla</td><td>2026-09-11</td></tr>
+<tr><td>Pets at Home</td><td>Retail Sales Assistant / South Melbourne - Moray Street</td><td>Melbourne</td><td>2026-09-11</td></tr>
+<tr><td>Pets at Home</td><td>Retail Sales Assistant / Toorak</td><td>Melbourne</td><td>2026-09-11</td></tr>
+<tr><td>Pets at Home</td><td>Retail Sales Assistant / Fitzroy</td><td>Melbourne</td><td>2026-09-11</td></tr>
+<tr><td>Pets at Home</td><td>Avalon Ndc Warehouse Assistant - Full Time / Monday To Friday (am & Pm)</td><td>Avalon</td><td>2026-09-11</td></tr>
+<tr><td>Pets at Home</td><td>Retail Sales Assistant / Carrum Downs</td><td>Melbourne</td><td>2026-09-11</td></tr>
+<tr><td>Repco</td><td>Customer Sales & Service - Repco Box Hill - Full Time</td><td>Melbourne</td><td>2026-09-11</td></tr>
+<tr><td>Peabody Energy</td><td>Coal Quality Logistics Coordinator</td><td>Coppabella</td><td>2026-09-11</td></tr>
+<tr><td>transport.nsw.gov.au</td><td>Rap Programs Specialist</td><td>Sydney</td><td>2026-09-11</td></tr>
+<tr><td>Uniting</td><td>Marketing Coordinator</td><td>Sydney</td><td>2026-09-11</td></tr>
+<tr><td>jobs.unimelb.edu.au</td><td>Executive Support Officer</td><td>Melbourne</td><td>2026-09-11</td></tr>
+<tr><td>The University Of Melbourne</td><td>Executive Support Officer</td><td>Melbourne</td><td>2026-09-11</td></tr>
+<tr><td>The Salvation Army</td><td>Department Administration Assistant</td><td>Melbourne</td><td>2026-09-11</td></tr>
+<tr><td>RSL LifeCare</td><td>Retirement Living Lifestyle & Activities Coordinator</td><td>Sydney</td><td>2026-09-11</td></tr>
+<tr><td>cbcity</td><td>Team Leader Sports & Recreation</td><td>Sydney</td><td>2026-09-11</td></tr>
+<tr><td>ALSTOM TRANSPORT SA</td><td>Engineering Planner / Design Coordinator</td><td>Milton</td><td>2026-09-11</td></tr>
+<tr><td>Vinpac</td><td>Logistics Operator - Vinpac Angaston</td><td>Angaston</td><td>2026-09-11</td></tr>
+<tr><td>MyIntegra</td><td>Regional Support Coordinator</td><td>Brisbane</td><td>2026-09-11</td></tr>
+<tr><td>DHL Group</td><td>Brisbane Airport /coordinator</td><td>Queensland</td><td>2026-09-11</td></tr>
+<tr><td>Deloitte Australia</td><td>Professional Assistant (12 Month Fixed Term)</td><td>Perth</td><td>2026-09-11</td></tr>
+<tr><td>TSYS</td><td>Administrative Assistant</td><td>New South Wales</td><td>2026-09-11</td></tr>
+<tr><td>Global Payments Inc.</td><td>Administrative Assistant</td><td>New South Wales</td><td>2026-09-11</td></tr>
+<tr><td>JBS Australia Pty Ltd</td><td>Domestic Logistics Coordinator</td><td>Riverview</td><td>2026-09-11</td></tr>
+<tr><td>Colgate-Palmolive</td><td>Executive Assistant</td><td>Sydney</td><td>2026-09-11</td></tr>
+<tr><td>Harris Farm Markets</td><td>Shop Assistant - Lindfield</td><td>Sydney</td><td>2026-09-11</td></tr>
+<tr><td>dormakaba International Holding AG</td><td>Project Coordinator</td><td>Regency Park</td><td>2026-09-11</td></tr>
+<tr><td>DXC Technology Australia & New Zealand</td><td>Administration Assistant – Workers Compensation</td><td>Melbourne</td><td>2026-09-11</td></tr>
+<tr><td>DXC Technology</td><td>Administration Assistant – Workers Compensation</td><td>Melbourne</td><td>2026-09-11</td></tr>
 </table>
