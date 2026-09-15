@@ -50,6 +50,12 @@
    "role": "Supply Chain Intern",
    "location": "Melbourne"
   },
+  "e1454082864dd687a70aa87a4a9a05cd": {
+   "id": "e1454082864dd687a70aa87a4a9a05cd",
+   "company": "Downer Energy & Utilities",
+   "role": "Supply Chain Intern",
+   "location": "Melbourne"
+  },
   "584433bd9d81aaaeb4a7d7efb5bf9bac": {
    "id": "584433bd9d81aaaeb4a7d7efb5bf9bac",
    "company": "gmoshawa.ca",
@@ -91,12 +97,6 @@
    "company": "Reece Group",
    "role": "Plumbing Fairfield",
    "location": "Sydney"
-  },
-  "3fa8f233bcd4e9b29347778e2d4ff837": {
-   "id": "3fa8f233bcd4e9b29347778e2d4ff837",
-   "company": "Downer Energy & Utilities",
-   "role": "Supply Chain Intern",
-   "location": "Milton"
   },
   "8329459ea9cbf1ee254610fc2613e020": {
    "id": "8329459ea9cbf1ee254610fc2613e020",
@@ -662,10 +662,28 @@
    "role": "It Operations And Support Officer",
    "location": "Melbourne"
   },
+  "62350e15606b17bfcd81d53da7d658c9": {
+   "id": "62350e15606b17bfcd81d53da7d658c9",
+   "company": "Estia Health",
+   "role": "People And Culture Support Specialist",
+   "location": "Melbourne"
+  },
   "38b2630ed29b4c5ef61bb59eef32857f": {
    "id": "38b2630ed29b4c5ef61bb59eef32857f",
    "company": "RMIT University",
    "role": "It Operations And Support Officer",
+   "location": "Melbourne"
+  },
+  "64271c871c18ad731e4613b116e516e3": {
+   "id": "64271c871c18ad731e4613b116e516e3",
+   "company": "RMIT University Pathways (RMIT UP)",
+   "role": "It Operations And Support Officer",
+   "location": "Melbourne"
+  },
+  "2d524d87d0aa28bf569291acc379e427": {
+   "id": "2d524d87d0aa28bf569291acc379e427",
+   "company": "jobs.abbott",
+   "role": "Field Technical Specialist",
    "location": "Melbourne"
   },
   "e230eb4e10f4f4c576a7099e91603d8d": {
@@ -974,24 +992,6 @@
    "role": "Backend Engineer, Core Apis",
    "location": "Australia"
   },
-  "b392982f4e146ce9d1f02b26ef4a1070": {
-   "id": "b392982f4e146ce9d1f02b26ef4a1070",
-   "company": "MSS Security",
-   "role": "It Support Analyst",
-   "location": "New South Wales"
-  },
-  "b663180e394d172de359500dbaccdb16": {
-   "id": "b663180e394d172de359500dbaccdb16",
-   "company": "EssilorLuxottica",
-   "role": "Vision Services Specialist",
-   "location": "Sydney"
-  },
-  "ae13648fe543a75d348159a7bed5d15a": {
-   "id": "ae13648fe543a75d348159a7bed5d15a",
-   "company": "Singtel",
-   "role": "Technical Specialist - Managed Networks",
-   "location": "Sydney"
-  },
   "b597a62a29fa85fd28816a5c9337a9a6": {
    "id": "b597a62a29fa85fd28816a5c9337a9a6",
    "company": "Leidos UK",
@@ -1061,6 +1061,12 @@
   "a383e9683fd09a4b4b9f956320fac67e": {
    "id": "a383e9683fd09a4b4b9f956320fac67e",
    "company": "Garvan",
+   "role": "Forward Deployed Ai Engineer",
+   "location": "Sydney"
+  },
+  "5e3124fb0d993eb9a949a68ee4fa49ab": {
+   "id": "5e3124fb0d993eb9a949a68ee4fa49ab",
+   "company": "Australian Bioresources Pty Ltd",
    "role": "Forward Deployed Ai Engineer",
    "location": "Sydney"
   },
@@ -1490,12 +1496,6 @@
    "role": "Automation Engineer",
    "location": "Burnie"
   },
-  "d7384ffb0a2e0f44f7655de7e24eadbc": {
-   "id": "d7384ffb0a2e0f44f7655de7e24eadbc",
-   "company": "Saputo",
-   "role": "Automation Engineer",
-   "location": "Burnie"
-  },
   "7957273de3761a80686b0ac15e6f1740": {
    "id": "7957273de3761a80686b0ac15e6f1740",
    "company": "Central Gippsland Health",
@@ -1760,6 +1760,12 @@
    "role": "Accountant",
    "location": "Sydney"
   },
+  "65cbbeec725321f048dd554970b800b6": {
+   "id": "65cbbeec725321f048dd554970b800b6",
+   "company": "Newell Brands",
+   "role": "Financial Analyst - Supply Chain",
+   "location": "Melbourne"
+  },
   "7fcd303b06753f5e8cfe312e890e6152": {
    "id": "7fcd303b06753f5e8cfe312e890e6152",
    "company": "ING",
@@ -1789,6 +1795,12 @@
    "company": "Team Global Express",
    "role": "Compliance Specialist",
    "location": "Melbourne Airport"
+  },
+  "698491ec53581d902a8253704355e73d": {
+   "id": "698491ec53581d902a8253704355e73d",
+   "company": "Amentum Pr",
+   "role": "Asset Management Analyst",
+   "location": "Alice Springs"
   },
   "09f6845d9626723a9500054983dc7e18": {
    "id": "09f6845d9626723a9500054983dc7e18",
@@ -1970,23 +1982,11 @@
    "role": "Campaign & Regulatory Communications Analyst",
    "location": "Sydney"
   },
-  "65cbbeec725321f048dd554970b800b6": {
-   "id": "65cbbeec725321f048dd554970b800b6",
-   "company": "Newell Brands",
-   "role": "Financial Analyst - Supply Chain",
-   "location": "Melbourne"
-  },
   "6bf77922365568eccc259e0af2a38635": {
    "id": "6bf77922365568eccc259e0af2a38635",
    "company": "transport.nsw.gov.au",
    "role": "Data Risk Specialist",
    "location": "Unknown"
-  },
-  "fa7eda557519f82eaee0cbf2f4cdef59": {
-   "id": "fa7eda557519f82eaee0cbf2f4cdef59",
-   "company": "transport.nsw.gov.au",
-   "role": "Requirements, Assurance & Traceability Analyst",
-   "location": "Sydney"
   },
   "746d25fa42069e5449a441e4e2e09a55": {
    "id": "746d25fa42069e5449a441e4e2e09a55",
@@ -2930,6 +2930,12 @@
    "role": "Field Service Technician",
    "location": "Sydney"
   },
+  "2d1ae4a08f2e0a9b14623a75f820a902": {
+   "id": "2d1ae4a08f2e0a9b14623a75f820a902",
+   "company": "Solar Turbines",
+   "role": "Field Service Representative (gas Turbines)",
+   "location": "Perth"
+  },
   "be31fb7a8b92b03fda724fa9238d251e": {
    "id": "be31fb7a8b92b03fda724fa9238d251e",
    "company": "AGGREKO",
@@ -2941,12 +2947,6 @@
    "company": "Chubb Fire & Security",
    "role": "Pefs Technician",
    "location": "Moranbah"
-  },
-  "8279c5f2c25309ddf76ab5de9927eb40": {
-   "id": "8279c5f2c25309ddf76ab5de9927eb40",
-   "company": "UA Power Group",
-   "role": "Solar Field Services Technician",
-   "location": "Sydney"
   },
   "a4f29ff507b37134fb34a8cf81b7dd4e": {
    "id": "a4f29ff507b37134fb34a8cf81b7dd4e",
@@ -3836,6 +3836,24 @@
    "role": "Executive Assistant - Enterprise Testing & Technology Bcm",
    "location": "Sydney"
   },
+  "945cc70937783122f8a3914d924f0071": {
+   "id": "945cc70937783122f8a3914d924f0071",
+   "company": "VICTORIAN R&L SERVICES TRUST",
+   "role": "Property Projects Coordinator",
+   "location": "Melbourne"
+  },
+  "7b13ce6b44a036f31ecca744dce94fc2": {
+   "id": "7b13ce6b44a036f31ecca744dce94fc2",
+   "company": "Goldcar Spain S.L",
+   "role": "Fleet Support Coordinator",
+   "location": "Melbourne"
+  },
+  "e09bba44928ed29576173167f345e5b0": {
+   "id": "e09bba44928ed29576173167f345e5b0",
+   "company": "Iluka Resources Limited",
+   "role": "Project Coordinator",
+   "location": "Balranald"
+  },
   "85c8f088f7d5d03ea2181731b30747c2": {
    "id": "85c8f088f7d5d03ea2181731b30747c2",
    "company": "PRICEWATERHOUSECOOPERS",
@@ -3866,41 +3884,23 @@
    "role": "Executive Support Assistant - Targeted",
    "location": "Darlington Campus"
   },
+  "a99c42d98f25c51cab7f1176045fc2b4": {
+   "id": "a99c42d98f25c51cab7f1176045fc2b4",
+   "company": "eduboardresults.in",
+   "role": "Executive Support Assistant - Targeted",
+   "location": "Darlington Campus"
+  },
+  "e583e79dcb1ef3917340bb57954f82bb": {
+   "id": "e583e79dcb1ef3917340bb57954f82bb",
+   "company": "Amentum Pr",
+   "role": "Project Support",
+   "location": "RAAF Williamtown"
+  },
   "e7ff9b69d93f0e9fc01394cbbd0855a2": {
    "id": "e7ff9b69d93f0e9fc01394cbbd0855a2",
    "company": "PAE/Amentum",
    "role": "Project Support",
    "location": "Oc"
-  },
-  "788228238b6370ad7e10444bdb758889": {
-   "id": "788228238b6370ad7e10444bdb758889",
-   "company": "RSL LIFECARE LIMITED",
-   "role": "Administration Assistant",
-   "location": "Sydney"
-  },
-  "0e74a0e0b806635a60339ba1250043ba": {
-   "id": "0e74a0e0b806635a60339ba1250043ba",
-   "company": "Medilaw Group",
-   "role": "Administration Assistant",
-   "location": "Brisbane"
-  },
-  "bea5834e876eb75384d14e0cfbff9a5a": {
-   "id": "bea5834e876eb75384d14e0cfbff9a5a",
-   "company": "Herbert Smith Freehills",
-   "role": "Administrative Assistant, Employment",
-   "location": "Brisbane"
-  },
-  "02b9a9b7f2016821329fff8116d3a513": {
-   "id": "02b9a9b7f2016821329fff8116d3a513",
-   "company": "HERBERT SMITH FREEHILLS",
-   "role": "Administrative Assistant, Real Estate",
-   "location": "Melbourne"
-  },
-  "71c821c3d277113f9df8089c4e28dff9": {
-   "id": "71c821c3d277113f9df8089c4e28dff9",
-   "company": "Herbert Smith Freehills",
-   "role": "Administrative Assistant",
-   "location": "Sydney"
   }
  }
 }

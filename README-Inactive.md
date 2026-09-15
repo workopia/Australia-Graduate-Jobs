@@ -6502,4 +6502,16 @@
 <tr><td>Timbertruss</td><td>Administration Assistant/reception</td><td>Geelong</td><td>2026-09-15</td></tr>
 <tr><td>LAW IN ORDER</td><td>Client Services & Administration Assistant - Transcription</td><td>Brisbane</td><td>2026-09-15</td></tr>
 <tr><td>miele.kz</td><td>Project Coordinator (part Time, 3 Days Per Week)</td><td>Export Park</td><td>2026-09-15</td></tr>
+<tr><td>Downer Energy & Utilities</td><td>Supply Chain Intern</td><td>Milton</td><td>2026-09-15</td></tr>
+<tr><td>MSS Security</td><td>It Support Analyst</td><td>New South Wales</td><td>2026-09-15</td></tr>
+<tr><td>EssilorLuxottica</td><td>Vision Services Specialist</td><td>Sydney</td><td>2026-09-15</td></tr>
+<tr><td>Singtel</td><td>Technical Specialist - Managed Networks</td><td>Sydney</td><td>2026-09-15</td></tr>
+<tr><td>Saputo</td><td>Automation Engineer</td><td>Burnie</td><td>2026-09-15</td></tr>
+<tr><td>transport.nsw.gov.au</td><td>Requirements, Assurance & Traceability Analyst</td><td>Sydney</td><td>2026-09-15</td></tr>
+<tr><td>UA Power Group</td><td>Solar Field Services Technician</td><td>Sydney</td><td>2026-09-15</td></tr>
+<tr><td>RSL LIFECARE LIMITED</td><td>Administration Assistant</td><td>Sydney</td><td>2026-09-15</td></tr>
+<tr><td>Medilaw Group</td><td>Administration Assistant</td><td>Brisbane</td><td>2026-09-15</td></tr>
+<tr><td>Herbert Smith Freehills</td><td>Administrative Assistant, Employment</td><td>Brisbane</td><td>2026-09-15</td></tr>
+<tr><td>HERBERT SMITH FREEHILLS</td><td>Administrative Assistant, Real Estate</td><td>Melbourne</td><td>2026-09-15</td></tr>
+<tr><td>Herbert Smith Freehills</td><td>Administrative Assistant</td><td>Sydney</td><td>2026-09-15</td></tr>
 </table>
