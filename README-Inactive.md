@@ -6647,4 +6647,38 @@
 <tr><td>eduboardresults.in</td><td>Executive Support Assistant - Targeted</td><td>Darlington Campus</td><td>2026-09-16</td></tr>
 <tr><td>Amentum Pr</td><td>Project Support</td><td>RAAF Williamtown</td><td>2026-09-16</td></tr>
 <tr><td>PAE/Amentum</td><td>Project Support</td><td>Oc</td><td>2026-09-16</td></tr>
+<tr><td>Authentics Australia</td><td>Full Time Sales Assistant</td><td>Melbourne</td><td>2026-09-17</td></tr>
+<tr><td>Wearetheuniversity</td><td>Veterinary Internship - Anaesthesia</td><td>Camden</td><td>2026-09-17</td></tr>
+<tr><td>SAP Concur</td><td>Diploma Student / Intern - Bid Management Intern - Melbourne</td><td>Melbourne</td><td>2026-09-17</td></tr>
+<tr><td>transport.nsw.gov.au</td><td>Associate Software Engineer (fixed Term Full Time Opportunity Until 31 Dec 2027)</td><td>South Eveleigh</td><td>2026-09-17</td></tr>
+<tr><td>Endeavour Group</td><td>Euc Technical Specialist</td><td>Melbourne</td><td>2026-09-17</td></tr>
+<tr><td>NTT AUSTRALIA PTY</td><td>Service Delivery Service Desk Analyst</td><td>Sydney</td><td>2026-09-17</td></tr>
+<tr><td>Anaplan</td><td>Associate Support Analyst - Level 3 Support</td><td>Sydney</td><td>2026-09-17</td></tr>
+<tr><td>Veeamsoftware</td><td>Virtualization Backup Engineer (chinese Speaker)</td><td>Sydney</td><td>2026-09-17</td></tr>
+<tr><td>CommBank</td><td>Staff Software Engineer</td><td>Sydney</td><td>2026-09-17</td></tr>
+<tr><td>Markham Bank</td><td>Staff Software Engineer</td><td>Sydney</td><td>2026-09-17</td></tr>
+<tr><td>MoneyMe Pty Ltd</td><td>Technical Support Officer - L1</td><td>Sydney</td><td>2026-09-17</td></tr>
+<tr><td>Aston Martin Lagonda Ltd</td><td>Nvh Powertrain Technical Specialist</td><td>Gaydon</td><td>2026-09-17</td></tr>
+<tr><td>ShipBob</td><td>Onsite Merchant Support Specialist</td><td>Melbourne</td><td>2026-09-17</td></tr>
+<tr><td>Secure Code Warrior</td><td>Software Engineer</td><td>Sydney</td><td>2026-09-17</td></tr>
+<tr><td>GPC Tools & Equipment Sydney</td><td>T&e Technical Sales Specialist</td><td>Sydney</td><td>2026-09-17</td></tr>
+<tr><td>Transport for NSW</td><td>Data & Performance Specialist</td><td>Eveleigh +2</td><td>2026-09-17</td></tr>
+<tr><td>Transport for NSW</td><td>Data Operations Analyst</td><td>Australia</td><td>2026-09-17</td></tr>
+<tr><td>ANZ Bank</td><td>Data Analyst</td><td>Melbourne</td><td>2026-09-17</td></tr>
+<tr><td>The NSW Department of Education</td><td>Data Analyst</td><td>Sydney</td><td>2026-09-17</td></tr>
+<tr><td>transport</td><td>Road Safety Analyst</td><td>Sydney</td><td>2026-09-17</td></tr>
+<tr><td>Transport for NSW</td><td>Application Developer (bi Specialist)</td><td>Australia</td><td>2026-09-17</td></tr>
+<tr><td>Barings</td><td>Analyst, Asset Based Finance</td><td>Au</td><td>2026-09-17</td></tr>
+<tr><td>Spotless</td><td>Ot Business Analyst</td><td>Melbourne</td><td>2026-09-17</td></tr>
+<tr><td>The Salvation Army</td><td>Crisis Accommodation Support Worker</td><td>Melbourne</td><td>2026-09-17</td></tr>
+<tr><td>The Salvation Army</td><td>Support Worker (casual)</td><td>Sydney</td><td>2026-09-17</td></tr>
+<tr><td>166</td><td>Crisis Accommodation Support Worker</td><td>Melbourne</td><td>2026-09-17</td></tr>
+<tr><td>Rotork Australia</td><td>Field Service Technician (electrician - A Grade)</td><td>Perth</td><td>2026-09-17</td></tr>
+<tr><td>Bosch Group</td><td>Field Service Technician - Hydraulics</td><td>Seventeen Mile Rocks</td><td>2026-09-17</td></tr>
+<tr><td>Bosch Rexroth</td><td>Field Service Technician - Hydraulics</td><td>Seventeen Mile Rocks</td><td>2026-09-17</td></tr>
+<tr><td>Pact Group Holdings Ltd</td><td>Maintenance Fitter</td><td>Sydney</td><td>2026-09-17</td></tr>
+<tr><td>Firmus Metal International Pte. Ltd</td><td>Data Center Field Service Technician</td><td>Launceston</td><td>2026-09-17</td></tr>
+<tr><td>Sephora USA Inc</td><td>Seasonal Retail Assistant - Northland</td><td>Melbourne</td><td>2026-09-17</td></tr>
+<tr><td>dcj.nsw.gov.au</td><td>Administration Assistant - Riverina Youth Justice Centre, Youth Justice</td><td>Wagga Wagga</td><td>2026-09-17</td></tr>
+<tr><td>Westpac Group</td><td>Executive Assistant - Technology Transformation</td><td>Sydney</td><td>2026-09-17</td></tr>
 </table>
