@@ -6851,4 +6851,60 @@
 <tr><td>Jll Com Au</td><td>Executive Team Assistant, Logistics & Industrial</td><td>Brisbane</td><td>2026-09-18</td></tr>
 <tr><td>Jll Com Au</td><td>Facilities Assistant [foh]</td><td>Brisbane</td><td>2026-09-18</td></tr>
 <tr><td>Downer</td><td>Administrator</td><td>Melbourne</td><td>2026-09-18</td></tr>
+<tr><td>Mirvac</td><td>Internship</td><td>Sydney</td><td>2026-09-19</td></tr>
+<tr><td>L'Oreal Australia</td><td>Australia</td><td>Unknown</td><td>2026-09-19</td></tr>
+<tr><td>Cummins Inc.</td><td>Expression Of Interest - Undergraduate Internships 2027</td><td>Australia</td><td>2026-09-19</td></tr>
+<tr><td>SAP SE</td><td>Diploma Student / Intern - Bid Management Intern - Melbourne</td><td>Melbourne</td><td>2026-09-19</td></tr>
+<tr><td>Volvo Group Australia</td><td>Intern - Business Development And Strategy</td><td>Wacol</td><td>2026-09-19</td></tr>
+<tr><td>GHD</td><td>Ghd Summer Internship Program 2026/27 – Immersive Visualisation - Melbourne</td><td>Melbourne</td><td>2026-09-19</td></tr>
+<tr><td>Burbankbank</td><td>Staff Software Engineer - Mobile</td><td>Melbourne</td><td>2026-09-19</td></tr>
+<tr><td>smp.uq.edu.au</td><td>It Customer Support Officer</td><td>St Lucia</td><td>2026-09-19</td></tr>
+<tr><td>Integral Diagnostics (IDX)</td><td>Technology Support Specialist</td><td>Melbourne</td><td>2026-09-19</td></tr>
+<tr><td>The University Of Melbourne</td><td>Research Software Engineer</td><td>Melbourne</td><td>2026-09-19</td></tr>
+<tr><td>TAL Australia</td><td>Claims Technical Specialist</td><td>Melbourne</td><td>2026-09-19</td></tr>
+<tr><td>REALESTATE COM AU PTY</td><td>Customer Solutions Support Specialist (iguide)</td><td>Melbourne</td><td>2026-09-19</td></tr>
+<tr><td>transport.nsw.gov.au</td><td>Control Systems Technical Specialist</td><td>Sydney</td><td>2026-09-19</td></tr>
+<tr><td>Flinders University</td><td>Artificial Intelligence Specialist</td><td>Bedford Park</td><td>2026-09-19</td></tr>
+<tr><td>Reece</td><td>People Data Analyst</td><td>Sydney</td><td>2026-09-19</td></tr>
+<tr><td>Cleanaway Waste Management Ltd</td><td>Customer Master Data Analyst</td><td>Milton</td><td>2026-09-19</td></tr>
+<tr><td>Transport for NSW</td><td>Business Intelligence Developer</td><td>Unknown</td><td>2026-09-19</td></tr>
+<tr><td>Coles Supermarkets Australia Pty Ltd</td><td>Data Analyst - Fulfilment - Coles Hawthorn East</td><td>Melbourne</td><td>2026-09-19</td></tr>
+<tr><td>Newell Brands</td><td>Financial Analyst - Supply Chain</td><td>Melbourne</td><td>2026-09-19</td></tr>
+<tr><td>ING</td><td>Financial Crime Compliance Officer – Transaction Monitoring Analyst</td><td>Sydney</td><td>2026-09-19</td></tr>
+<tr><td>PRICEWATERHOUSECOOPERS</td><td>Deals Accountant</td><td>Sydney</td><td>2026-09-19</td></tr>
+<tr><td>PRICEWATERHOUSECOOPERS</td><td>Accountant</td><td>Sydney</td><td>2026-09-19</td></tr>
+<tr><td>PRICEWATERHOUSECOOPERS</td><td>External Auditor</td><td>Sydney</td><td>2026-09-19</td></tr>
+<tr><td>Team Global Express</td><td>Compliance Specialist</td><td>Melbourne Airport</td><td>2026-09-19</td></tr>
+<tr><td>Amentum Pr</td><td>Asset Management Analyst</td><td>Alice Springs</td><td>2026-09-19</td></tr>
+<tr><td>MYER</td><td>Planning And Reporting Analyst (supply Chain)</td><td>Melbourne</td><td>2026-09-19</td></tr>
+<tr><td>JBS Australia Pty Ltd</td><td>Plant Accountant</td><td>Melbourne</td><td>2026-09-19</td></tr>
+<tr><td>Griffith University</td><td>Research Accountant</td><td>Nathan</td><td>2026-09-19</td></tr>
+<tr><td>125</td><td>Registered Nurse</td><td>Brisbane</td><td>2026-09-19</td></tr>
+<tr><td>St Vincent’s Hospital Melbourne</td><td>Physiotherapist - Hearts At Home</td><td>Sydney</td><td>2026-09-19</td></tr>
+<tr><td>St Vincent’s Hospital Melbourne</td><td>Registered Nurse - Casual</td><td>Brisbane</td><td>2026-09-19</td></tr>
+<tr><td>St Vincent’s Hospital Melbourne</td><td>Physiotherapist Grade 1</td><td>Melbourne</td><td>2026-09-19</td></tr>
+<tr><td>St Vincent’s Hospital Melbourne</td><td>Physiotherapist - Grade 3 Residential Aged Care</td><td>Melbourne</td><td>2026-09-19</td></tr>
+<tr><td>St Vincent’s Hospital Melbourne</td><td>Physiotherapist Grade 2</td><td>Melbourne</td><td>2026-09-19</td></tr>
+<tr><td>St Vincent’s Hospital Melbourne</td><td>Physiotherapist - New Graduate Grade 1</td><td>Melbourne</td><td>2026-09-19</td></tr>
+<tr><td>McDonald's Australia</td><td>Maintenance</td><td>Ballan</td><td>2026-09-19</td></tr>
+<tr><td>TABCORP ASSETS Pty Ltd</td><td>Field Technician</td><td>Sydney</td><td>2026-09-19</td></tr>
+<tr><td>JCI</td><td>Bms Service Technician</td><td>Melrose Park</td><td>2026-09-19</td></tr>
+<tr><td>DECJUBA</td><td>Seasonal Casual Retail Assistant - Southgate</td><td>Sydney</td><td>2026-09-19</td></tr>
+<tr><td>DECJUBA</td><td>Seasonal Casual Retail Assistant - Royal Randwick</td><td>Sydney</td><td>2026-09-19</td></tr>
+<tr><td>Bonds</td><td>Casual Sales Assistant / Bonds / Knox City</td><td>Melbourne</td><td>2026-09-19</td></tr>
+<tr><td>MYER</td><td>Sales Assistant - Casual - Just Jeans - Spencer St</td><td>Melbourne</td><td>2026-09-19</td></tr>
+<tr><td>MYER</td><td>Sales Assistant - Part Time - Dotti - Essendon Dfo</td><td>Melbourne</td><td>2026-09-19</td></tr>
+<tr><td>MYER</td><td>Sales Assistant - Casual - Just Jeans - Greensborough</td><td>Melbourne</td><td>2026-09-19</td></tr>
+<tr><td>OPSM</td><td>Associate Dispenser</td><td>Kirwan</td><td>2026-09-19</td></tr>
+<tr><td>OPSM (EssilorLuxottica Group)</td><td>Christmas Casual / Sunglass Hut Myer Albury, Nsw</td><td>Albury</td><td>2026-09-19</td></tr>
+<tr><td>Sunglass Hut</td><td>Christmas Casual / Sunglass Hut / Southland, Vic</td><td>Southland</td><td>2026-09-19</td></tr>
+<tr><td>Sunglass Hut</td><td>Christmas Casual / Sunglass Hut / Northland, Vic</td><td>Northland</td><td>2026-09-19</td></tr>
+<tr><td>Sunglass Hut</td><td>Christmas Casual / Sunglass Hut / Emporium, Vic</td><td>Emporium</td><td>2026-09-19</td></tr>
+<tr><td>Sunglass Hut</td><td>Christmas Casual / Sunglass Hut Tuggerah, Nsw</td><td>Tuggerah</td><td>2026-09-19</td></tr>
+<tr><td>Sunglass Hut</td><td>Christmas Casual / Sunglass Hut Tamworth, Nsw</td><td>Tamworth</td><td>2026-09-19</td></tr>
+<tr><td>OPSM</td><td>Christmas Casual / Sunglass Hut Warringah Mall, Nsw</td><td>Brookvale</td><td>2026-09-19</td></tr>
+<tr><td>Mars</td><td>Stockroom Coordinator</td><td>Victoria</td><td>2026-09-19</td></tr>
+<tr><td>Nestle SA</td><td>Transport Coordinator</td><td>Blayney</td><td>2026-09-19</td></tr>
+<tr><td>Mineral resources</td><td>Live Run Coordinator</td><td>Osborne Park</td><td>2026-09-19</td></tr>
+<tr><td>Advitech Group</td><td>Finance And Administration Assistant</td><td>Newcastle</td><td>2026-09-19</td></tr>
 </table>
