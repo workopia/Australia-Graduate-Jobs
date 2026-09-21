@@ -7061,4 +7061,5 @@
 <tr><td>Deloitte Australia</td><td>Events & Marketing Coordinator (parental Leave Cover)</td><td>Sydney</td><td>2026-09-21</td></tr>
 <tr><td>BHP INNOVATION Pty Ltd</td><td>Water Systems Coordinator / Prominent Hill / 6 Months Fixed Term Contract</td><td>Prominent Hill</td><td>2026-09-21</td></tr>
 <tr><td>Fulton Hogan</td><td>Administrator</td><td>Townsville</td><td>2026-09-21</td></tr>
+<tr><td>W Brisbane</td><td>Maintenance</td><td>Adelaide</td><td>2026-09-21</td></tr>
 </table>
