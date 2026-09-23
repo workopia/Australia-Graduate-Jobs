@@ -7208,4 +7208,42 @@
 <tr><td>jobs.unimelb.edu.au</td><td>Academic Programs Coordinator (wellbeing)</td><td>Melbourne</td><td>2026-09-22</td></tr>
 <tr><td>REALESTATE COM AU PTY</td><td>Software Engineer - Machine Learning</td><td>Sydney</td><td>2026-09-22</td></tr>
 <tr><td>Vinarchy</td><td>Compliance Coordinator</td><td>Rowland Flat</td><td>2026-09-22</td></tr>
+<tr><td>Deloitte Australia</td><td>Vacationer / First Nations Internship Program</td><td>Melbourne</td><td>2026-09-23</td></tr>
+<tr><td>Serco Asia Pacific</td><td>It Support Officer (it)</td><td>Wooroloo</td><td>2026-09-23</td></tr>
+<tr><td>LGT Crestone Wealth Management Limited</td><td>Software Engineer (full-stack)</td><td>Sydney</td><td>2026-09-23</td></tr>
+<tr><td>MSS SECURITY PTY</td><td>It Support Analyst</td><td>New South Wales</td><td>2026-09-23</td></tr>
+<tr><td>REALESTATE COM AU PTY</td><td>Associate Software Engineer</td><td>Melbourne</td><td>2026-09-23</td></tr>
+<tr><td>Zurich Insurance UK</td><td>Data Analyst</td><td>Sydney</td><td>2026-09-23</td></tr>
+<tr><td>Westpac Group</td><td>Associate Data Scientist</td><td>Sydney</td><td>2026-09-23</td></tr>
+<tr><td>Queensland Rail Ltd</td><td>Operations Reporting & Insights Analyst</td><td>Mayne</td><td>2026-09-23</td></tr>
+<tr><td>Queensland Rail Ltd</td><td>Project Risk Adviser</td><td>Queensland</td><td>2026-09-23</td></tr>
+<tr><td>Zurich Insurance Company Ltd</td><td>Reinsurance Claims Recoveries Analyst</td><td>Australia</td><td>2026-09-23</td></tr>
+<tr><td>dormakaba International Holding AG</td><td>Service Technician</td><td>Regency Park</td><td>2026-09-23</td></tr>
+<tr><td>Coates</td><td>Field Service Mechanic</td><td>Gold Coast</td><td>2026-09-23</td></tr>
+<tr><td>Agfa</td><td>Field Service Engineer (x-ray/ Medical Imaging)</td><td>Melbourne</td><td>2026-09-23</td></tr>
+<tr><td>Voith</td><td>Sh 2.0 Field Service Engineer (m/f/d)</td><td>Snowy</td><td>2026-09-23</td></tr>
+<tr><td>Voith</td><td>Field Service Engineer (m/f/d) Balance Of Plant Mechanical - Australia</td><td>Snowy</td><td>2026-09-23</td></tr>
+<tr><td>Sunglass Hut</td><td>Christmas Casual / Sunglass Hut / Myer Marion, Sa</td><td>Oaklands Park</td><td>2026-09-23</td></tr>
+<tr><td>OPSM (EssilorLuxottica Group)</td><td>Christmas Casual / Sunglass Hut Bondi Junction Kiosk, Nsw</td><td>Sydney</td><td>2026-09-23</td></tr>
+<tr><td>Sunglass Hut</td><td>Retail Associate / Sunglass Hut / Pt / Vic / Myer Werribee</td><td>Melbourne</td><td>2026-09-23</td></tr>
+<tr><td>OPSM (EssilorLuxottica Group)</td><td>Retail Associate / Sunglass Hut / Pt / Vic / Frankston</td><td>Melbourne</td><td>2026-09-23</td></tr>
+<tr><td>OPSM (EssilorLuxottica Group)</td><td>Christmas Casual / Sunglass Hut / Myer Melbourne, Vic</td><td>Melbourne</td><td>2026-09-23</td></tr>
+<tr><td>Sunglass Hut</td><td>Christmas Casual / Sunglass Hut / On Bourke, Vic</td><td>Melbourne</td><td>2026-09-23</td></tr>
+<tr><td>Sunglass Hut</td><td>Christmas Casual / Sunglass Hut / Myer Southland, Vic</td><td>Melbourne</td><td>2026-09-23</td></tr>
+<tr><td>Sunglass Hut</td><td>Christmas Casual / Sunglass Hut / Broadmeadows, Vic</td><td>Melbourne</td><td>2026-09-23</td></tr>
+<tr><td>Oakley</td><td>Christmas Casual / Oakley / Chadstone, Vic</td><td>Melbourne</td><td>2026-09-23</td></tr>
+<tr><td>Sunglass Hut</td><td>Christmas Casual / Sunglass Hut / Myer Eastland, Vic</td><td>Melbourne</td><td>2026-09-23</td></tr>
+<tr><td>Sunglass Hut</td><td>Christmas Casual / Sunglass Hut / Melton, Vic</td><td>Melbourne</td><td>2026-09-23</td></tr>
+<tr><td>Sunglass Hut</td><td>Christmas Casual / Sunglass Hut / Werribee, Vic</td><td>Melbourne</td><td>2026-09-23</td></tr>
+<tr><td>Sunglass Hut</td><td>Christmas Casual / Sunglass Hut / Greensborough, Vic</td><td>Melbourne</td><td>2026-09-23</td></tr>
+<tr><td>Sunglass Hut</td><td>Christmas Casual / Sunglass Hut / Myer Chadstone, Vic</td><td>Melbourne</td><td>2026-09-23</td></tr>
+<tr><td>Sunglass Hut</td><td>Christmas Casual / Sunglass Hut / Chadstone, Vic</td><td>Melbourne</td><td>2026-09-23</td></tr>
+<tr><td>Sunglass Hut</td><td>Christmas Casual / Sunglass Hut / Myer Werribee, Vic</td><td>Melbourne</td><td>2026-09-23</td></tr>
+<tr><td>Sunglass Hut</td><td>Retail Associate / Sunglass Hut Burwood, Nsw</td><td>Sydney</td><td>2026-09-23</td></tr>
+<tr><td>Fulton Hogan Ltd</td><td>Administrative Assistant</td><td>Melbourne</td><td>2026-09-23</td></tr>
+<tr><td>Fulton Hogan Ltd</td><td>Travel And Accommodation Coordinator</td><td>Cocos Islands</td><td>2026-09-23</td></tr>
+<tr><td>Linfox</td><td>Transport Coordinator</td><td>Hazelmere</td><td>2026-09-23</td></tr>
+<tr><td>CSL</td><td>Commercial Operations Coordinator X 2</td><td>Melbourne</td><td>2026-09-23</td></tr>
+<tr><td>transport.nsw.gov.au</td><td>Executive Assistant</td><td>Sydney</td><td>2026-09-23</td></tr>
+<tr><td>Transport for NSW</td><td>Tfrm Delivery Snr Project Officer</td><td>Unknown</td><td>2026-09-23</td></tr>
 </table>
