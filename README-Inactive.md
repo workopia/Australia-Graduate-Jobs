@@ -7296,4 +7296,23 @@
 <tr><td>PRICEWATERHOUSECOOPERS</td><td>Client Team Assistant (admin) / Private Business Tax</td><td>Melbourne</td><td>2026-09-23</td></tr>
 <tr><td>EssilorLuxottica SA</td><td>Quality Assurance Coordinator- Manufacturing</td><td>Silverwater</td><td>2026-09-23</td></tr>
 <tr><td>Cushman & Wakefield</td><td>Planned Maintenance - Coordinator</td><td>Melbourne</td><td>2026-09-23</td></tr>
+<tr><td>Bayer</td><td>Hr Stagiair(e)</td><td>Brisbane</td><td>2026-09-23</td></tr>
+<tr><td>solaebelgiumcareers.be</td><td>Intern</td><td>Melbourne</td><td>2026-09-23</td></tr>
+<tr><td>SAP Ariba</td><td>Sap Creative Design & Multimedia Internship</td><td>Sydney</td><td>2026-09-23</td></tr>
+<tr><td>Evolution Mining</td><td>Vacation Student - Exploration / Res Def</td><td>West Wyalong</td><td>2026-09-23</td></tr>
+<tr><td>Evolution Mining</td><td>Vacation Student Metallurgy</td><td>Northparkes +2</td><td>2026-09-23</td></tr>
+<tr><td>GE Vernova</td><td>Gridos Solution Integration Intern</td><td>Melbourne</td><td>2026-09-23</td></tr>
+<tr><td>Kit</td><td>2026/27 Commbank Summer Intern Program</td><td>Sydney Cbd Area</td><td>2026-09-23</td></tr>
+<tr><td>Bankofhwfs</td><td>2026/27 Commbank Summer Intern Program</td><td>Sydney Cbd Area</td><td>2026-09-23</td></tr>
+<tr><td>Bankwest</td><td>2026/27 Commbank Summer Intern Program</td><td>Sydney</td><td>2026-09-23</td></tr>
+<tr><td>Realestateandlivingmedia</td><td>Software Engineer</td><td>Melbourne</td><td>2026-09-23</td></tr>
+<tr><td>Melbourne Water Corporation</td><td>Authorised Water Officer Water Supply</td><td>Tarago Reservoir</td><td>2026-09-23</td></tr>
+<tr><td>Dentaply Sirona Contact US</td><td>Service Technician</td><td>Murarrie</td><td>2026-09-23</td></tr>
+<tr><td>Orora IT</td><td>Maintenance Fitter Day</td><td>Adelaide</td><td>2026-09-23</td></tr>
+<tr><td>Wartsila Oyj Abp</td><td>Service Technician - 4 Stroke Services</td><td>Huntingwood</td><td>2026-09-23</td></tr>
+<tr><td>OPSM</td><td>Retail Associate / Opsm Oran Park, Nsw</td><td>Oran Park</td><td>2026-09-23</td></tr>
+<tr><td>OPSM</td><td>Retail Associate / Sunglass Hut / C / Vic / Dfo Southwharf</td><td>South Wharf</td><td>2026-09-23</td></tr>
+<tr><td>Lightsource bp</td><td>Program Coordinator</td><td>Sydney</td><td>2026-09-23</td></tr>
+<tr><td>Downer Group</td><td>Team Assistant - Projects</td><td>Sydney</td><td>2026-09-23</td></tr>
+<tr><td>Downer Group</td><td>Weighbridge & Transport Allocations Officer</td><td>Rosehill</td><td>2026-09-23</td></tr>
 </table>

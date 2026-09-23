@@ -8,12 +8,6 @@
    "role": "Management Accountant, Mindil Beach Casino Resort",
    "location": "Darwin"
   },
-  "880054": {
-   "id": "880054",
-   "company": "Bayer",
-   "role": "Hr Stagiair(e)",
-   "location": "Brisbane"
-  },
   "d66ef20a35c563bde87588154f128641": {
    "id": "d66ef20a35c563bde87588154f128641",
    "company": "Deloitte Australia",
@@ -26,10 +20,64 @@
    "role": "Supply Chain Intern",
    "location": "Melbourne"
   },
+  "c50e159113d66f8e5683aa18b7384fa3": {
+   "id": "c50e159113d66f8e5683aa18b7384fa3",
+   "company": "NBC UNIVERSAL",
+   "role": "Legal Intern - Universal Networks",
+   "location": "Sydney"
+  },
   "74061369f485980fbb472e118e49c21a": {
    "id": "74061369f485980fbb472e118e49c21a",
    "company": "Allens",
    "role": "First Nations Corporate Services Internship 2027",
+   "location": "Sydney"
+  },
+  "46c39db4218196f23df8067a85559113": {
+   "id": "46c39db4218196f23df8067a85559113",
+   "company": "NBC UNIVERSAL",
+   "role": "Partnerships Intern - Universal Pictures",
+   "location": "Sydney"
+  },
+  "a06ae08b53a1810601fda7ec08f2e672": {
+   "id": "a06ae08b53a1810601fda7ec08f2e672",
+   "company": "NBC UNIVERSAL",
+   "role": "Public Relations And Communications Intern - Universal Networks",
+   "location": "Sydney"
+  },
+  "d3248ad79ba38e57469774e9ff8f3843": {
+   "id": "d3248ad79ba38e57469774e9ff8f3843",
+   "company": "NBC UNIVERSAL",
+   "role": "Publicity Intern, Victoria - Universal Pictures",
+   "location": "Melbourne"
+  },
+  "88e3b11cc220bf60827846e79b6d3e24": {
+   "id": "88e3b11cc220bf60827846e79b6d3e24",
+   "company": "NBC UNIVERSAL",
+   "role": "National Publicity Intern - Universal Pictures",
+   "location": "Brisbane"
+  },
+  "061c1d2463942cbf1016ecdc89c36e52": {
+   "id": "061c1d2463942cbf1016ecdc89c36e52",
+   "company": "NBC UNIVERSAL",
+   "role": "Human Resources Intern",
+   "location": "Sydney"
+  },
+  "58bf33a9b98afce602a2ae07151ae054": {
+   "id": "58bf33a9b98afce602a2ae07151ae054",
+   "company": "NBC UNIVERSAL",
+   "role": "Film Finance Intern - Universal Pictures",
+   "location": "Sydney"
+  },
+  "59522aaf1f99c1a3172cbfd4d8e4f67e": {
+   "id": "59522aaf1f99c1a3172cbfd4d8e4f67e",
+   "company": "NBC UNIVERSAL",
+   "role": "Facilities Intern - Universal Operations And Technology",
+   "location": "Sydney"
+  },
+  "ffe0dc1e0e6c616a30d2af0feab266ea": {
+   "id": "ffe0dc1e0e6c616a30d2af0feab266ea",
+   "company": "NBC UNIVERSAL",
+   "role": "Research And Audience Analysis Intern - Universal Global Distribution",
    "location": "Sydney"
   },
   "679b04f29918a71818e3fd82f4cd4983": {
@@ -440,54 +488,6 @@
    "role": "Intern",
    "location": "Melbourne"
   },
-  "65d22c6739d6537f7c6c625b63d15d90": {
-   "id": "65d22c6739d6537f7c6c625b63d15d90",
-   "company": "solaebelgiumcareers.be",
-   "role": "Intern",
-   "location": "Melbourne"
-  },
-  "c194326edc63966205bdc48624c29a80": {
-   "id": "c194326edc63966205bdc48624c29a80",
-   "company": "SAP Ariba",
-   "role": "Sap Creative Design & Multimedia Internship",
-   "location": "Sydney"
-  },
-  "72191bcecbe0de262de702afd0c80e9e": {
-   "id": "72191bcecbe0de262de702afd0c80e9e",
-   "company": "Evolution Mining",
-   "role": "Vacation Student - Exploration / Res Def",
-   "location": "West Wyalong"
-  },
-  "06ca74bad314ebb51ca555e9418f2d2e": {
-   "id": "06ca74bad314ebb51ca555e9418f2d2e",
-   "company": "Evolution Mining",
-   "role": "Vacation Student Metallurgy",
-   "location": "Northparkes +2"
-  },
-  "b4c0ce8ea59f6fa40672f3a5760bab78": {
-   "id": "b4c0ce8ea59f6fa40672f3a5760bab78",
-   "company": "GE Vernova",
-   "role": "Gridos Solution Integration Intern",
-   "location": "Melbourne"
-  },
-  "1163bea12c7dc0d7334248d7b602df91": {
-   "id": "1163bea12c7dc0d7334248d7b602df91",
-   "company": "Kit",
-   "role": "2026/27 Commbank Summer Intern Program",
-   "location": "Sydney Cbd Area"
-  },
-  "1833cfdd12ea66352e3461b26c27ac94": {
-   "id": "1833cfdd12ea66352e3461b26c27ac94",
-   "company": "Bankofhwfs",
-   "role": "2026/27 Commbank Summer Intern Program",
-   "location": "Sydney Cbd Area"
-  },
-  "1b30127cad249aa08553570a69112420": {
-   "id": "1b30127cad249aa08553570a69112420",
-   "company": "Bankwest",
-   "role": "2026/27 Commbank Summer Intern Program",
-   "location": "Sydney"
-  },
   "1f46089dceb51333eb25746443fed4c3": {
    "id": "1f46089dceb51333eb25746443fed4c3",
    "company": "codes-lab.sydney.edu.au",
@@ -523,6 +523,12 @@
    "company": "Cbecustomersolutions",
    "role": "Staff Software Engineer",
    "location": "Vic Cbd Melbourne Area"
+  },
+  "946e9c666eefe94cbca128d0b5e725cf": {
+   "id": "946e9c666eefe94cbca128d0b5e725cf",
+   "company": "Insignia Financial Ltd",
+   "role": "It Support Analyst",
+   "location": "Sydney"
   },
   "ead43177f6307341ac4bbf414036cb11": {
    "id": "ead43177f6307341ac4bbf414036cb11",
@@ -985,12 +991,6 @@
    "company": "Canva",
    "role": "Staff Frontend Engineer - Performance Monitoring",
    "location": "Sydney"
-  },
-  "aec999ae19ff8991a3baf1011cb7aac7": {
-   "id": "aec999ae19ff8991a3baf1011cb7aac7",
-   "company": "Realestateandlivingmedia",
-   "role": "Software Engineer",
-   "location": "Melbourne"
   },
   "b597a62a29fa85fd28816a5c9337a9a6": {
    "id": "b597a62a29fa85fd28816a5c9337a9a6",
@@ -1568,6 +1568,12 @@
    "role": "Business Analyst, Payments (12-month Contract)",
    "location": "Sydney"
   },
+  "3ef86a9e88f4f6fa3976b88f33ecebd8": {
+   "id": "3ef86a9e88f4f6fa3976b88f33ecebd8",
+   "company": "ORIGIN ENERGY Ltd",
+   "role": "Analyst - Product Delivery",
+   "location": "Brisbane"
+  },
   "b3f5c6537c41dca704dcd0ecbebf3eef": {
    "id": "b3f5c6537c41dca704dcd0ecbebf3eef",
    "company": "Bank of Queensland",
@@ -1975,12 +1981,6 @@
    "company": "Yancoal Australia Ltd",
    "role": "Accountant",
    "location": "Mudgee"
-  },
-  "0124c6055d62f186d5530638c2534e18": {
-   "id": "0124c6055d62f186d5530638c2534e18",
-   "company": "Melbourne Water Corporation",
-   "role": "Authorised Water Officer Water Supply",
-   "location": "Tarago Reservoir"
   },
   "3131da8772ae642eb847f4f4615b08f8": {
    "id": "3131da8772ae642eb847f4f4615b08f8",
@@ -2528,6 +2528,18 @@
    "role": "Service Technician Automation - Yatala",
    "location": "Yatala"
   },
+  "3dbdf7d82410bbc2845ba3bf2750fcc8": {
+   "id": "3dbdf7d82410bbc2845ba3bf2750fcc8",
+   "company": "CSIRO",
+   "role": "Field Technician - Ska-low Telescope (multiple Positions)",
+   "location": "Geraldton"
+  },
+  "50929837d9bd2bf1ac482c474912f89b": {
+   "id": "50929837d9bd2bf1ac482c474912f89b",
+   "company": "CSIRO",
+   "role": "Hvac Technician - Ska-low Telescope",
+   "location": "Geraldton"
+  },
   "e748fdedf380c6c74e617c067eaf2511": {
    "id": "e748fdedf380c6c74e617c067eaf2511",
    "company": "Thales Group",
@@ -2557,6 +2569,12 @@
    "company": "Crown Resorts",
    "role": "Maintenance Person",
    "location": "Perth"
+  },
+  "97b96dd6ae474f0ddc4bd6d425778610": {
+   "id": "97b96dd6ae474f0ddc4bd6d425778610",
+   "company": "Unity of Roseburg",
+   "role": "Airport Support Technician - Adelaide Sa",
+   "location": "Adelaide"
   },
   "7dea564a7031b4a0a740cb88bcf4322d": {
    "id": "7dea564a7031b4a0a740cb88bcf4322d",
@@ -2924,24 +2942,6 @@
    "role": "Service Technician - 4 Stroke Services",
    "location": "Huntingwood"
   },
-  "aa30631f78fa30b96f3d07b3148a707b": {
-   "id": "aa30631f78fa30b96f3d07b3148a707b",
-   "company": "Dentaply Sirona Contact US",
-   "role": "Service Technician",
-   "location": "Murarrie"
-  },
-  "240f80e4624286849ee534f39cd47f02": {
-   "id": "240f80e4624286849ee534f39cd47f02",
-   "company": "Orora IT",
-   "role": "Maintenance Fitter Day",
-   "location": "Adelaide"
-  },
-  "59a07ae9fce9a3656396535bc53a48c3": {
-   "id": "59a07ae9fce9a3656396535bc53a48c3",
-   "company": "Wartsila Oyj Abp",
-   "role": "Service Technician - 4 Stroke Services",
-   "location": "Huntingwood"
-  },
   "e423b43f23ec8baafab4ab6451bc17a8": {
    "id": "e423b43f23ec8baafab4ab6451bc17a8",
    "company": "EssilorLuxottica SA",
@@ -3116,11 +3116,23 @@
    "role": "Cadbury Casual Retail Support - Bathurst",
    "location": "Bathurst"
   },
+  "0d4aa8c63dcd026c6c42a7026f29f1e8": {
+   "id": "0d4aa8c63dcd026c6c42a7026f29f1e8",
+   "company": "Nouryon",
+   "role": "Trade Centre Assistant",
+   "location": "Mackay"
+  },
   "8b732d9acd2f7adc9a0ba48b93a70d92": {
    "id": "8b732d9acd2f7adc9a0ba48b93a70d92",
    "company": "Sussan",
    "role": "Group Casual Sales Team Member Kotara, Nsw",
    "location": "Kotara"
+  },
+  "392e4cdafe8e7095328fb74fc9ecff85": {
+   "id": "392e4cdafe8e7095328fb74fc9ecff85",
+   "company": "Aldi Australia",
+   "role": "Retail Assistant - Goonellabah",
+   "location": "Goonellabah"
   },
   "a19aef2aabaa1d77131623e036859109": {
    "id": "a19aef2aabaa1d77131623e036859109",
@@ -3410,18 +3422,6 @@
    "role": "Christmas Casual / Sunglass Hut / Chapel Street, Vic",
    "location": "Melbourne"
   },
-  "16ce6e98482addc91b71babeaf130379": {
-   "id": "16ce6e98482addc91b71babeaf130379",
-   "company": "OPSM",
-   "role": "Retail Associate / Opsm Oran Park, Nsw",
-   "location": "Oran Park"
-  },
-  "029629943cfe5c4886ea6c3db9a99c5c": {
-   "id": "029629943cfe5c4886ea6c3db9a99c5c",
-   "company": "OPSM",
-   "role": "Retail Associate / Sunglass Hut / C / Vic / Dfo Southwharf",
-   "location": "South Wharf"
-  },
   "f9322f71fd43b335bd71b82a75f074a5": {
    "id": "f9322f71fd43b335bd71b82a75f074a5",
    "company": "Kit",
@@ -3494,10 +3494,28 @@
    "role": "Oshc Coordinator / Smalls Road - Ryde",
    "location": "Sydney"
   },
+  "fd10b9485d60645d5e75ae360c84065a": {
+   "id": "fd10b9485d60645d5e75ae360c84065a",
+   "company": "Nouryon",
+   "role": "Facilities Coordinator",
+   "location": "Melbourne"
+  },
   "7abb676be05682f079395f7f494cac69": {
    "id": "7abb676be05682f079395f7f494cac69",
    "company": "Bosch Rexroth Pty. Ltd.",
    "role": "Traineeship - Service Administration",
+   "location": "Melbourne"
+  },
+  "00b5f660d85a30fe260a05b89e8f8398": {
+   "id": "00b5f660d85a30fe260a05b89e8f8398",
+   "company": "Lightsource bp",
+   "role": "Program Coordinator",
+   "location": "Sydney"
+  },
+  "c575edf1bbc3b87e1cf5588e306ee69b": {
+   "id": "c575edf1bbc3b87e1cf5588e306ee69b",
+   "company": "KELLOGG BROWN & ROOT PTY",
+   "role": "Digital Engineering Coordinator",
    "location": "Melbourne"
   },
   "3be3b293c417254114dad115c647a637": {
@@ -3758,12 +3776,6 @@
    "role": "Administration & Support Coordinator",
    "location": "Melbourne"
   },
-  "7141e320d280c76e33fbfdbf7b216f72": {
-   "id": "7141e320d280c76e33fbfdbf7b216f72",
-   "company": "Lightsource bp",
-   "role": "Program Coordinator",
-   "location": "Sydney"
-  },
   "5bb50d810ba324c6b2367d4e21f977b7": {
    "id": "5bb50d810ba324c6b2367d4e21f977b7",
    "company": "Toll Group",
@@ -3889,18 +3901,6 @@
    "company": "Downer EDI",
    "role": "Team Assistant - Projects",
    "location": "Sydney"
-  },
-  "cedd878c81de2d2b1e3561caa5d0e0c0": {
-   "id": "cedd878c81de2d2b1e3561caa5d0e0c0",
-   "company": "Downer Group",
-   "role": "Team Assistant - Projects",
-   "location": "Sydney"
-  },
-  "150a68e048f7bdb02f7b02a9742ec92c": {
-   "id": "150a68e048f7bdb02f7b02a9742ec92c",
-   "company": "Downer Group",
-   "role": "Weighbridge & Transport Allocations Officer",
-   "location": "Rosehill"
   }
  }
 }
