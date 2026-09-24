@@ -7442,4 +7442,37 @@
 <tr><td>DECJUBA</td><td>Seasonal Casual Retail Assistant-brighton</td><td>Melbourne</td><td>2026-09-24</td></tr>
 <tr><td>Downer</td><td>Team Assistant - Projects</td><td>Sydney</td><td>2026-09-24</td></tr>
 <tr><td>Downer EDI</td><td>Team Assistant - Projects</td><td>Sydney</td><td>2026-09-24</td></tr>
+<tr><td>Downer EDI</td><td>Supply Chain Intern</td><td>Melbourne</td><td>2026-09-24</td></tr>
+<tr><td>Downer</td><td>Supply Chain Intern</td><td>Melbourne</td><td>2026-09-24</td></tr>
+<tr><td>Commonwealth Scientific And Industrial Research Organisation</td><td>Csiro Mineral Resources 2026/27 Discovery Postgraduate Student Internship Program</td><td>Perth +1</td><td>2026-09-24</td></tr>
+<tr><td>Spotless</td><td>Inclusion & Belonging Trainee</td><td>Milton</td><td>2026-09-24</td></tr>
+<tr><td>Downer EDI</td><td>Inclusion & Belonging Trainee</td><td>Milton</td><td>2026-09-24</td></tr>
+<tr><td>Downer</td><td>Inclusion & Belonging Trainee</td><td>Milton</td><td>2026-09-24</td></tr>
+<tr><td>Downer Group</td><td>Inclusion & Belonging Trainee</td><td>Milton</td><td>2026-09-24</td></tr>
+<tr><td>SEDGWICK</td><td>Graduate Cybersecurity Analyst</td><td>Sydney</td><td>2026-09-24</td></tr>
+<tr><td>Saluda Medical</td><td>Graduate Application Software Engineer</td><td>Sydney</td><td>2026-09-24</td></tr>
+<tr><td>Northrop Grumman Australia</td><td>Software Engineer</td><td>Symonston</td><td>2026-09-24</td></tr>
+<tr><td>St Vincent’s Hospital Melbourne</td><td>Service Desk Analyst (qld)</td><td>Bown Hills</td><td>2026-09-24</td></tr>
+<tr><td>ASX OPERATIONS PTY</td><td>End User Support</td><td>Sydney</td><td>2026-09-24</td></tr>
+<tr><td>Westpac</td><td>Software Engineering Specialist .net</td><td>Sydney</td><td>2026-09-24</td></tr>
+<tr><td>Westpac Group</td><td>Software Engineering Specialist .net</td><td>Sydney</td><td>2026-09-24</td></tr>
+<tr><td>Jcd Careers</td><td>End User Support</td><td>Sydney</td><td>2026-09-24</td></tr>
+<tr><td>NORTHROP GRUMMAN</td><td>Software Engineer</td><td>Symonston</td><td>2026-09-24</td></tr>
+<tr><td>Westpac</td><td>Associate Data Scientist</td><td>Sydney</td><td>2026-09-24</td></tr>
+<tr><td>Southsidecb</td><td>Advanced Analytics Analyst</td><td>Sydney</td><td>2026-09-24</td></tr>
+<tr><td>Wearetheuniversity</td><td>Artificial Intelligence Engineer</td><td>Darlington Campus</td><td>2026-09-24</td></tr>
+<tr><td>Reece Group</td><td>People Data Analyst</td><td>Sydney</td><td>2026-09-24</td></tr>
+<tr><td>Getinge AB</td><td>Compliance Specialist - Service And Projects (12-month Ftc)</td><td>Sydney</td><td>2026-09-24</td></tr>
+<tr><td>dcj</td><td>Uat Test Support Analyst</td><td>Sydney</td><td>2026-09-24</td></tr>
+<tr><td>AGCO</td><td>Business Analyst, Distribution Management (esea)</td><td>Melbourne</td><td>2026-09-24</td></tr>
+<tr><td>Epworth HealthCare</td><td>Business Analyst</td><td>Melbourne</td><td>2026-09-24</td></tr>
+<tr><td>Serco Asia Pacific</td><td>Registered Nurse</td><td>Keswick</td><td>2026-09-24</td></tr>
+<tr><td>Opal HealthCare</td><td>Personal Care Worker - Mount Waverley Glades Care Community</td><td>Melbourne</td><td>2026-09-24</td></tr>
+<tr><td>Estia Health</td><td>Registered Nurse / Relocate To South Australia</td><td>South Australia</td><td>2026-09-24</td></tr>
+<tr><td>MACA</td><td>Field Service Specialist - Hd Fitter</td><td>Western Australia</td><td>2026-09-24</td></tr>
+<tr><td>HOERBIGER</td><td>Field Service Supervisor, Perth Branch</td><td>Perth</td><td>2026-09-24</td></tr>
+<tr><td>J. R. Simplot Company</td><td>Maintenance Fitter (casual) - Ulverstone</td><td>Ulverstone</td><td>2026-09-24</td></tr>
+<tr><td>Vocus</td><td>Executive Assistant</td><td>Australia</td><td>2026-09-24</td></tr>
+<tr><td>Vocus</td><td>Ceo Executive Assistant</td><td>Australia</td><td>2026-09-24</td></tr>
+<tr><td>Goodstart Early Learning Ltd</td><td>Administration Assistant</td><td>Cairns</td><td>2026-09-24</td></tr>
 </table>
