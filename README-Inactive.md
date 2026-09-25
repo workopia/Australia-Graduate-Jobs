@@ -7633,4 +7633,5 @@
 <tr><td>DUAL</td><td>Executive Assistant</td><td>Sydney</td><td>2026-09-25</td></tr>
 <tr><td>Service Stream Limited</td><td>Assurance & Improvement Coordinator</td><td>Melbourne</td><td>2026-09-25</td></tr>
 <tr><td>Service Stream Limited</td><td>Its Works Monitoring Officer</td><td>Melbourne</td><td>2026-09-25</td></tr>
+<tr><td>Westpac</td><td>Associate Data Scientist</td><td>Sydney</td><td>2026-09-25</td></tr>
 </table>

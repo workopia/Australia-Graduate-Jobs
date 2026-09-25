@@ -12,8 +12,8 @@
   "as_of": "2026-09-25",
   "window_days": 60,
   "total_site_jobs_str": "8.0M+",
-  "country_live_total": 18910,
-  "generated_at": "2026-09-25T10:26:08.690Z"
+  "country_live_total": 18888,
+  "generated_at": "2026-09-25T13:27:29.700Z"
  },
  "categories": [
   {
@@ -4224,6 +4224,23 @@
   },
   {
    "salary_display": "A$68k–92k*",
+   "id": "cc310454e76cf8fdbdb2fb1a6772769e",
+   "source": "Workopia",
+   "company_name": "Babcock International",
+   "company_hi_slug": "babcock-international",
+   "title": "Data Analyst",
+   "location": "Sydney",
+   "skills": "Power BI reporting, SQL and querying",
+   "sponsorship": false,
+   "hot": false,
+   "date_posted": "2026-08-30T19:38:52.645Z",
+   "active": true,
+   "url": "https://workopia.io/jobs/cc310454e76cf8fdbdb2fb1a6772769e",
+   "category": "data",
+   "tier": "Entry-level"
+  },
+  {
+   "salary_display": "A$68k–92k*",
    "id": "45feb2c20a18ebfc6c8ae7fc655e9922",
    "source": "Workopia",
    "company_name": "Medibank Private Ltd",
@@ -4236,23 +4253,6 @@
    "date_posted": "2026-08-29T00:02:39.442Z",
    "active": true,
    "url": "https://workopia.io/jobs/45feb2c20a18ebfc6c8ae7fc655e9922",
-   "category": "data",
-   "tier": "Entry-level"
-  },
-  {
-   "salary_display": "A$68k–92k*",
-   "id": "3e21e7954aeb385e0c061c392965e898",
-   "source": "Workopia",
-   "company_name": "Westpac",
-   "company_hi_slug": "westpac",
-   "title": "Associate Data Scientist",
-   "location": "Sydney",
-   "skills": "Python and SQL for dat, Core statistics and ma",
-   "sponsorship": false,
-   "hot": false,
-   "date_posted": "2026-08-28T00:00:00.000Z",
-   "active": true,
-   "url": "https://workopia.io/jobs/3e21e7954aeb385e0c061c392965e898",
    "category": "data",
    "tier": "Entry-level"
   },
