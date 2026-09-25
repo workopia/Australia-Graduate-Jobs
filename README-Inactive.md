@@ -7475,4 +7475,104 @@
 <tr><td>Vocus</td><td>Executive Assistant</td><td>Australia</td><td>2026-09-24</td></tr>
 <tr><td>Vocus</td><td>Ceo Executive Assistant</td><td>Australia</td><td>2026-09-24</td></tr>
 <tr><td>Goodstart Early Learning Ltd</td><td>Administration Assistant</td><td>Cairns</td><td>2026-09-24</td></tr>
+<tr><td>Evolution Mining</td><td>Vacation Student Metallurgy</td><td>Northparkes +2</td><td>2026-09-25</td></tr>
+<tr><td>Canva</td><td>Staff Frontend Engineer - Performance Monitoring</td><td>Sydney</td><td>2026-09-25</td></tr>
+<tr><td>Realestateandlivingmedia</td><td>Software Engineer</td><td>Melbourne</td><td>2026-09-25</td></tr>
+<tr><td>reco</td><td>Software Engineer</td><td>Melbourne</td><td>2026-09-25</td></tr>
+<tr><td>LGT Crestone Wealth Management Limited</td><td>Software Engineer (full-stack)</td><td>Sydney</td><td>2026-09-25</td></tr>
+<tr><td>MSS SECURITY PTY</td><td>It Support Analyst</td><td>New South Wales</td><td>2026-09-25</td></tr>
+<tr><td>synste.no</td><td>Java Ai Engineer</td><td>Sydney</td><td>2026-09-25</td></tr>
+<tr><td>Synechron</td><td>Java Ai Engineer</td><td>Sydney</td><td>2026-09-25</td></tr>
+<tr><td>ASX</td><td>Operational Resilience Analyst – Market Operations</td><td>Sydney</td><td>2026-09-25</td></tr>
+<tr><td>TELSTRA CORPORATION LIMITED</td><td>Finance Analyst</td><td>Australia</td><td>2026-09-25</td></tr>
+<tr><td>Queensland Rail Ltd</td><td>Operations Reliability Analyst</td><td>Mayne</td><td>2026-09-25</td></tr>
+<tr><td>TAL Australia</td><td>Claims Change Analyst</td><td>Melbourne</td><td>2026-09-25</td></tr>
+<tr><td>Transport for NSW</td><td>Associate Business Analyst (temporary Opportunity Until 31 Dec 2027)</td><td>Australia</td><td>2026-09-25</td></tr>
+<tr><td>Transport for NSW</td><td>Reporting Analytics Officer</td><td>Unknown</td><td>2026-09-25</td></tr>
+<tr><td>transport.nsw.gov.au</td><td>Customer & Operations Analyst</td><td>Sydney</td><td>2026-09-25</td></tr>
+<tr><td>transport.nsw.gov.au</td><td>Finance Analyst - Legal And Governance (temporary Opportunity For Up To 15 Months)</td><td>Australia</td><td>2026-09-25</td></tr>
+<tr><td>RSL LIFECARE LIMITED</td><td>Registered Nurse</td><td>Narrandera</td><td>2026-09-25</td></tr>
+<tr><td>Estia Health</td><td>Registered Nurse / Permanent</td><td>Tuncurry</td><td>2026-09-25</td></tr>
+<tr><td>Fresenius Medical Care</td><td>Registered Nurse</td><td>Sydney</td><td>2026-09-25</td></tr>
+<tr><td>Mercy Health</td><td>Registered Nurse</td><td>Young</td><td>2026-09-25</td></tr>
+<tr><td>Werribee Mercy Hospital</td><td>Post-graduate Perioperative Registered Nurse Div1 Gr2</td><td>Melbourne</td><td>2026-09-25</td></tr>
+<tr><td>Summerset</td><td>Personal Care Worker - Casual</td><td>Melbourne</td><td>2026-09-25</td></tr>
+<tr><td>Peter MacCallum Cancer Centre</td><td>Registered Nurse Grade 2 - Specialist Clinics</td><td>Melbourne</td><td>2026-09-25</td></tr>
+<tr><td>Peter MacCallum Cancer Centre</td><td>Practice Development Nurse - Peter Mac @ Home</td><td>Melbourne</td><td>2026-09-25</td></tr>
+<tr><td>Peter MacCallum Cancer Centre</td><td>Physiotherapist Grade 1</td><td>Melbourne</td><td>2026-09-25</td></tr>
+<tr><td>UnitingCare</td><td>Casual Registered Nurse</td><td>Sydney</td><td>2026-09-25</td></tr>
+<tr><td>Technogym SPA</td><td>Field Service Technician Qld</td><td>Gold Coast</td><td>2026-09-25</td></tr>
+<tr><td>Metso</td><td>Field Service Technician</td><td>Paget</td><td>2026-09-25</td></tr>
+<tr><td>Metso</td><td>Field Service Support - Boilermaker & Fitters</td><td>Henderson</td><td>2026-09-25</td></tr>
+<tr><td>Greystar</td><td>Facilities Technician</td><td>Adelaide</td><td>2026-09-25</td></tr>
+<tr><td>Mars Australia</td><td>Mechanical Fitter</td><td>Asquith</td><td>2026-09-25</td></tr>
+<tr><td>978</td><td>Customer Field Technician I Shepparton</td><td>Shepparton</td><td>2026-09-25</td></tr>
+<tr><td>978</td><td>Customer Field Technician I Cairns</td><td>Cairns</td><td>2026-09-25</td></tr>
+<tr><td>CONSTRUCCIONES Y AUXILIAR DE FERROCARRILES S.A</td><td>Electrical Maintenance Technician</td><td>Sydney</td><td>2026-09-25</td></tr>
+<tr><td>DECJUBA</td><td>Seasonal Casual Retail Assistant - Bondi Junction</td><td>Sydney</td><td>2026-09-25</td></tr>
+<tr><td>DECJUBA</td><td>Seasonal Casual Retail Assistant - Victoria Gardens</td><td>Victoria Gardens</td><td>2026-09-25</td></tr>
+<tr><td>DECJUBA</td><td>Seasonal Casual Retail Assistant - Canberra Outlet</td><td>Fyshwick</td><td>2026-09-25</td></tr>
+<tr><td>DECJUBA</td><td>Seasonal Casual Retail Assistant - Narellan</td><td>Narellan</td><td>2026-09-25</td></tr>
+<tr><td>DECJUBA</td><td>Seasonal Casual Retail Assistant - Whitfords</td><td>Whitfords</td><td>2026-09-25</td></tr>
+<tr><td>DECJUBA</td><td>Seasonal Casual Retail Assistant - Dfo Brisbane</td><td>Brisbane Airport</td><td>2026-09-25</td></tr>
+<tr><td>DECJUBA</td><td>Seasonal Casual Retail Assistant-garden City</td><td>Garden City</td><td>2026-09-25</td></tr>
+<tr><td>DECJUBA</td><td>Seasonal Casual Retail Assistant - Eastgardens</td><td>Eastgardens</td><td>2026-09-25</td></tr>
+<tr><td>DECJUBA</td><td>Seasonal Casual Retail Assistant-the Glen</td><td>Melbourne</td><td>2026-09-25</td></tr>
+<tr><td>DECJUBA</td><td>Seasonal Casual Retail Assistant-malvern Central</td><td>Melbourne</td><td>2026-09-25</td></tr>
+<tr><td>DECJUBA</td><td>Seasonal Casual Retail Assistant - Cranbourne Park</td><td>Melbourne</td><td>2026-09-25</td></tr>
+<tr><td>DECJUBA</td><td>Seasonal Casual Retail Assistant-southland</td><td>Melbourne</td><td>2026-09-25</td></tr>
+<tr><td>DECJUBA</td><td>Seasonal Casual Retail Assistant - Melbourne Central</td><td>Melbourne</td><td>2026-09-25</td></tr>
+<tr><td>DECJUBA</td><td>Seasonal Casual Retail Assistant - Mornington</td><td>Melbourne</td><td>2026-09-25</td></tr>
+<tr><td>DECJUBA</td><td>Seasonal Casual Retail Assistant - Airport West</td><td>Melbourne</td><td>2026-09-25</td></tr>
+<tr><td>DECJUBA</td><td>Seasonal Casual Retail Assistant - Craigieburn</td><td>Melbourne</td><td>2026-09-25</td></tr>
+<tr><td>DECJUBA</td><td>Seasonal Casual Retail Assistant - Fountain Gate</td><td>Melbourne</td><td>2026-09-25</td></tr>
+<tr><td>DECJUBA</td><td>Seasonal Casual Retail Assistant - Merrylands</td><td>Sydney</td><td>2026-09-25</td></tr>
+<tr><td>DECJUBA</td><td>Seasonal Casual Retail Assistant - Miranda</td><td>Sydney</td><td>2026-09-25</td></tr>
+<tr><td>DECJUBA</td><td>Seasonal Casual Retail Assistant - Sydney Myer</td><td>Sydney</td><td>2026-09-25</td></tr>
+<tr><td>DECJUBA</td><td>Seasonal Casual Retail Assistant - Royal Randwick</td><td>Sydney</td><td>2026-09-25</td></tr>
+<tr><td>DECJUBA</td><td>Seasonal Casual Retail Assistant - Southgate</td><td>Sydney</td><td>2026-09-25</td></tr>
+<tr><td>DECJUBA</td><td>Casual Retail Assistant - Marion</td><td>Oaklands Park</td><td>2026-09-25</td></tr>
+<tr><td>DECJUBA</td><td>Seasonal Casual Retail Assistant-colonnades</td><td>Noarlunga Centre</td><td>2026-09-25</td></tr>
+<tr><td>DECJUBA</td><td>Seasonal Casual Retail Assistant-burnside</td><td>Glenside</td><td>2026-09-25</td></tr>
+<tr><td>DECJUBA</td><td>Casual Retail Assistant - Morley Galleria</td><td>Morely</td><td>2026-09-25</td></tr>
+<tr><td>DECJUBA</td><td>Retail Assistant - Wagga Wagga</td><td>Wagga Wagga</td><td>2026-09-25</td></tr>
+<tr><td>DECJUBA</td><td>Seasonal Casual Retail Assistant-harbourtown</td><td>Adelaide Airport</td><td>2026-09-25</td></tr>
+<tr><td>DECJUBA</td><td>Casual Retail Assistant - Melbourne Central</td><td>Melbourne</td><td>2026-09-25</td></tr>
+<tr><td>DECJUBA</td><td>Seasonal Casual Retail Assistant - Frankston</td><td>Melbourne</td><td>2026-09-25</td></tr>
+<tr><td>DECJUBA</td><td>Seasonal Casual Retail Assistant-eastland</td><td>Melbourne</td><td>2026-09-25</td></tr>
+<tr><td>DECJUBA</td><td>Seasonal Casual Retail Assistant - Rhodes</td><td>Sydney</td><td>2026-09-25</td></tr>
+<tr><td>Oakhills8th</td><td>Warehouse Assistant</td><td>New South Wales</td><td>2026-09-25</td></tr>
+<tr><td>The Salvation Army</td><td>Doorways Warehouse Assistant - Mr Driver</td><td>Melbourne</td><td>2026-09-25</td></tr>
+<tr><td>Thepetspotco</td><td>Retail Sales Assistant / Sunbury</td><td>Melbourne</td><td>2026-09-25</td></tr>
+<tr><td>Thepetspotco</td><td>Retail Sales Assistant / Altona North</td><td>Melbourne</td><td>2026-09-25</td></tr>
+<tr><td>The Salvation Army Australia</td><td>Doorways Warehouse Assistant - Mr Driver</td><td>Melbourne</td><td>2026-09-25</td></tr>
+<tr><td>Nestle Ltd</td><td>X2 Casual Boutique Coffee Specialists - Emporium</td><td>Melbourne</td><td>2026-09-25</td></tr>
+<tr><td>Dan Murphy's</td><td>Customer Assistant - Dan Murphy's Broadmeadows</td><td>Melbourne</td><td>2026-09-25</td></tr>
+<tr><td>EssilorLuxottica SA</td><td>Associate Dispenser</td><td>Bundaberg</td><td>2026-09-25</td></tr>
+<tr><td>OPSM</td><td>Retail Associate / Opsm Chatswood, Nsw</td><td>Sydney</td><td>2026-09-25</td></tr>
+<tr><td>Sunglass Hut</td><td>Retail Associate I Sunglass Hut I Casual I T4 Perth Airport, Wa</td><td>Perth</td><td>2026-09-25</td></tr>
+<tr><td>Sunglass Hut</td><td>Christmas Casual / Sunglass Hut / Rundle Mall, Sa</td><td>Rundle Mall</td><td>2026-09-25</td></tr>
+<tr><td>Sunglass Hut</td><td>Christmas Casual / Sunglass Hut / Piccadilly Arcade, Wa</td><td>Wa</td><td>2026-09-25</td></tr>
+<tr><td>Sunglass Hut</td><td>Christmas Casual / Sunglass Hut / Myer Marion, Sa</td><td>Oaklands Park</td><td>2026-09-25</td></tr>
+<tr><td>Sunglass Hut</td><td>Christmas Casual / Sunglass Hut / Burnside, Sa</td><td>Melbourne</td><td>2026-09-25</td></tr>
+<tr><td>Sunglass Hut</td><td>Christmas Casual / Sunglass Hut / Harbourtown, Sa</td><td>West Beach</td><td>2026-09-25</td></tr>
+<tr><td>Sunglass Hut</td><td>Christmas Casual / Sunglass Hut / Whitford City, Wa</td><td>Whitford City</td><td>2026-09-25</td></tr>
+<tr><td>Sunglass Hut</td><td>Christmas Casual / Sunglass Hut / Elizabeth City, Sa</td><td>Elizabeth</td><td>2026-09-25</td></tr>
+<tr><td>Sunglass Hut</td><td>Christmas Casual / Sunglass Hut / Jetty Road, Sa</td><td>Glenelg</td><td>2026-09-25</td></tr>
+<tr><td>Sunglass Hut</td><td>Christmas Casual / Sunglass Hut / Marion, Sa</td><td>Oaklands Park</td><td>2026-09-25</td></tr>
+<tr><td>Oakley</td><td>Christmas Casual / Oakley / West Beach Vault, Sa</td><td>West Beach</td><td>2026-09-25</td></tr>
+<tr><td>Novo Nordisk AS</td><td>Leadership Team Assistant</td><td>Sydney</td><td>2026-09-25</td></tr>
+<tr><td>Downer Group</td><td>Administration Assistant</td><td>Australia</td><td>2026-09-25</td></tr>
+<tr><td>Downer EDI</td><td>Administration Assistant</td><td>Australia</td><td>2026-09-25</td></tr>
+<tr><td>Downer</td><td>Administration Assistant</td><td>Australia</td><td>2026-09-25</td></tr>
+<tr><td>Coates</td><td>Customer Service Coordinator</td><td>Brisbane</td><td>2026-09-25</td></tr>
+<tr><td>di aoEURO-NETa</td><td>Executive Assistant - Supply (12 Months)</td><td>Sydney</td><td>2026-09-25</td></tr>
+<tr><td>Coles</td><td>Executive Assistant - Supply Chain & Transport</td><td>Victoria</td><td>2026-09-25</td></tr>
+<tr><td>Macquarie University</td><td>Study Tours Administration Assistant</td><td>Sydney</td><td>2026-09-25</td></tr>
+<tr><td>Reece</td><td>Sales Support (project Coordinator) - Onsite Commercial Nsw</td><td>Pemulway</td><td>2026-09-25</td></tr>
+<tr><td>Junior Adventures Group</td><td>Oshc Coordinator - Wantirna South</td><td>Melbourne</td><td>2026-09-25</td></tr>
+<tr><td>Healthcare Australia</td><td>Administration & Support Coordinator</td><td>Melbourne</td><td>2026-09-25</td></tr>
+<tr><td>Toll Group</td><td>Customer Service Coordinator</td><td>Laverton North</td><td>2026-09-25</td></tr>
+<tr><td>Mindbody</td><td>Implementation Project coordinator – 12-month Ftc</td><td>Australia</td><td>2026-09-25</td></tr>
+<tr><td>dcj.nsw.gov.au</td><td>Administration Assistant - Riverina Youth Justice Centre, Youth Justice</td><td>Wagga Wagga</td><td>2026-09-25</td></tr>
 </table>
