@@ -7575,4 +7575,30 @@
 <tr><td>Toll Group</td><td>Customer Service Coordinator</td><td>Laverton North</td><td>2026-09-25</td></tr>
 <tr><td>Mindbody</td><td>Implementation Project coordinator – 12-month Ftc</td><td>Australia</td><td>2026-09-25</td></tr>
 <tr><td>dcj.nsw.gov.au</td><td>Administration Assistant - Riverina Youth Justice Centre, Youth Justice</td><td>Wagga Wagga</td><td>2026-09-25</td></tr>
+<tr><td>THALES</td><td>Cyber Security Analyst</td><td>Sydney</td><td>2026-09-25</td></tr>
+<tr><td>Coles Supermarkets Australia Pty Ltd</td><td>Business Analyst - Coles So Nsw</td><td>Sydney</td><td>2026-09-25</td></tr>
+<tr><td>Kit</td><td>Industry And Disruption Operations Analyst</td><td>Sydney</td><td>2026-09-25</td></tr>
+<tr><td>Serco Asia Pacific</td><td>Mental Health Rn</td><td>Amberley</td><td>2026-09-25</td></tr>
+<tr><td>Austin Health</td><td>Pharmacy Technician Grade 1, 2 And 3</td><td>Melbourne</td><td>2026-09-25</td></tr>
+<tr><td>Austin Health</td><td>Physiotherapist Grade 3 - Oahks</td><td>Melbourne</td><td>2026-09-25</td></tr>
+<tr><td>GENESISCARE</td><td>Registered Nurse</td><td>Rockhampton</td><td>2026-09-25</td></tr>
+<tr><td>ST VINCENT'S PRIVATE HOSPITAL SYDNEY</td><td>Graduate Registered Nurse Program - February 2027</td><td>Northside</td><td>2026-09-25</td></tr>
+<tr><td>Mirchims</td><td>Som Research Assistant</td><td>Melbourne</td><td>2026-09-25</td></tr>
+<tr><td>Estia Health</td><td>Registered Nurse / Short Term Contract</td><td>Forster</td><td>2026-09-25</td></tr>
+<tr><td>Estia Health</td><td>Registered Nurse / Casual Role / Plenty</td><td>Plenty</td><td>2026-09-25</td></tr>
+<tr><td>St Vincent’s Private Hospital Northside</td><td>Graduate Registered Nurse Program - February 2027</td><td>Northside</td><td>2026-09-25</td></tr>
+<tr><td>St Vincent’s Private Hospital Brisbane</td><td>Graduate Registered Nurse Program - February 2027</td><td>Brisbane</td><td>2026-09-25</td></tr>
+<tr><td>UnitingCare</td><td>Registered Nurse</td><td>Nambucca Heads</td><td>2026-09-25</td></tr>
+<tr><td>Opal HealthCare</td><td>Registered Nurse - Stanmore Place Care Community</td><td>Sydney</td><td>2026-09-25</td></tr>
+<tr><td>Opal HealthCare</td><td>Registered Nurse - Wahroonga Place Care Community</td><td>Sydney</td><td>2026-09-25</td></tr>
+<tr><td>Anglicare Sydney</td><td>Registered Nurse - Wednesday To Saturday (am Shift)</td><td>Sydney</td><td>2026-09-25</td></tr>
+<tr><td>125</td><td>Registered Nurse</td><td>Brisbane</td><td>2026-09-25</td></tr>
+<tr><td>Valmet</td><td>Maintenance Fitter</td><td>Sydney</td><td>2026-09-25</td></tr>
+<tr><td>Johnson Controls International PLC</td><td>Hvac Service Technician</td><td>Port Macquaire</td><td>2026-09-25</td></tr>
+<tr><td>Visy</td><td>Maintenance Fitter</td><td>Adelaide</td><td>2026-09-25</td></tr>
+<tr><td>DECJUBA</td><td>Seasonal Casual Retail Assistant - Marrickville</td><td>Sydney</td><td>2026-09-25</td></tr>
+<tr><td>DECJUBA</td><td>Retail Assistant - Hurstville</td><td>Sydney</td><td>2026-09-25</td></tr>
+<tr><td>DECJUBA</td><td>Seasonal Casual Retail Assistant - Castle Towers</td><td>Sydney</td><td>2026-09-25</td></tr>
+<tr><td>MYER</td><td>Supply Coordinator - Portmans</td><td>Support Office</td><td>2026-09-25</td></tr>
+<tr><td>Australian Financial Complaints Authority</td><td>Equity Of Access, Program Coordinator</td><td>Sydney</td><td>2026-09-25</td></tr>
 </table>
