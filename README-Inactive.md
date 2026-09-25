@@ -7601,4 +7601,36 @@
 <tr><td>DECJUBA</td><td>Seasonal Casual Retail Assistant - Castle Towers</td><td>Sydney</td><td>2026-09-25</td></tr>
 <tr><td>MYER</td><td>Supply Coordinator - Portmans</td><td>Support Office</td><td>2026-09-25</td></tr>
 <tr><td>Australian Financial Complaints Authority</td><td>Equity Of Access, Program Coordinator</td><td>Sydney</td><td>2026-09-25</td></tr>
+<tr><td>Evolution Mining</td><td>Vacation Student - Exploration / Res Def</td><td>West Wyalong</td><td>2026-09-25</td></tr>
+<tr><td>RoboFit</td><td>Physiotherapist – Full Time</td><td>Melbourne</td><td>2026-09-25</td></tr>
+<tr><td>RoboFit</td><td>Neuro Physiotherapist / Part Time Or Full Time – Expression Of Interest</td><td>Sydney</td><td>2026-09-25</td></tr>
+<tr><td>Serco Asia Pacific</td><td>Registered Nurse-adf Health Services Contract</td><td>Larrakeyah</td><td>2026-09-25</td></tr>
+<tr><td>Leidos Holdings</td><td>Electronics Technician</td><td>Sydney</td><td>2026-09-25</td></tr>
+<tr><td>Sunglass Hut</td><td>Christmas Casual / Sunglass Hut Sydney Int'l Airport, Nsw</td><td>Sydney</td><td>2026-09-25</td></tr>
+<tr><td>Sunglass Hut</td><td>Christmas Casual / Sunglass Hut Centrepoint, Nsw</td><td>Centrepoint</td><td>2026-09-25</td></tr>
+<tr><td>Sunglass Hut</td><td>Christmas Casual / Sunglass Hut Burwood, Nsw</td><td>Sydney</td><td>2026-09-25</td></tr>
+<tr><td>Sunglass Hut</td><td>Christmas Casual / Sunglass Hut Sydney Qantas Domestic Airport, Nsw</td><td>Sydney</td><td>2026-09-25</td></tr>
+<tr><td>Sunglass Hut</td><td>Christmas Casual / Sunglass Hut Myer Castle Hill, Nsw</td><td>Sydney</td><td>2026-09-25</td></tr>
+<tr><td>Sunglass Hut</td><td>Christmas Casual / Sunglass Hut Parramatta, Nsw</td><td>Sydney</td><td>2026-09-25</td></tr>
+<tr><td>Sunglass Hut</td><td>Christmas Casual / Sunglass Hut Myer Miranda, Nsw</td><td>Sydney</td><td>2026-09-25</td></tr>
+<tr><td>Sunglass Hut</td><td>Christmas Casual / Sunglass Hut Miranda, Nsw</td><td>Sydney</td><td>2026-09-25</td></tr>
+<tr><td>OAKLEY</td><td>Christmas Casual / Oakley Sydney George Street, Nsw</td><td>Sydney</td><td>2026-09-25</td></tr>
+<tr><td>Sunglass Hut</td><td>Christmas Casual / Sunglass Hut Sydney Flagship, Nsw</td><td>Sydney</td><td>2026-09-25</td></tr>
+<tr><td>Sunglass Hut</td><td>Christmas Casual / Sunglass Hut Blacktown, Nsw</td><td>Sydney</td><td>2026-09-25</td></tr>
+<tr><td>Sunglass Hut</td><td>Christmas Casual / Sunglass Hut Bankstown, Nsw</td><td>Sydney</td><td>2026-09-25</td></tr>
+<tr><td>Sunglass Hut</td><td>Christmas Casual / Sunglass Hut Homebush Dfo, Nsw</td><td>Sydney</td><td>2026-09-25</td></tr>
+<tr><td>Sunglass Hut</td><td>Christmas Casual / Sunglass Hut George Street Sydney, Nsw</td><td>Sydney</td><td>2026-09-25</td></tr>
+<tr><td>Sunglass Hut</td><td>Christmas Casual / Sunglass Hut Myer Bankstown, Nsw</td><td>Sydney</td><td>2026-09-25</td></tr>
+<tr><td>Sunglass Hut Broadway</td><td>Christmas Casual / Sunglass Hut Broadway, Nsw</td><td>Sydney</td><td>2026-09-25</td></tr>
+<tr><td>Sunglass Hut</td><td>Christmas Casual / Sunglass Hut Macquarie Centre, Nsw</td><td>Macquarie Centre</td><td>2026-09-25</td></tr>
+<tr><td>Sunglass Hut</td><td>Christmas Casual / Sunglass Hut Kotara, Nsw</td><td>Kotara</td><td>2026-09-25</td></tr>
+<tr><td>DECJUBA</td><td>Seasonal Casual Retail Assistant - Highpoint Kids</td><td>Melbourne</td><td>2026-09-25</td></tr>
+<tr><td>DECJUBA</td><td>Seasonal Casual Retail Assistant - Epping</td><td>Melbourne</td><td>2026-09-25</td></tr>
+<tr><td>DECJUBA</td><td>Seasonal Casual Retail Assistant - Burwood</td><td>Sydney</td><td>2026-09-25</td></tr>
+<tr><td>DECJUBA</td><td>Seasonal Casual Retail Assistant - Balmain</td><td>Sydney</td><td>2026-09-25</td></tr>
+<tr><td>DECJUBA</td><td>Seasonal Casual Retail Assistant - Macquarie</td><td>Sydney</td><td>2026-09-25</td></tr>
+<tr><td>DECJUBA</td><td>Seasonal Casual Retail Assistant - Chatswood</td><td>Sydney</td><td>2026-09-25</td></tr>
+<tr><td>DUAL</td><td>Executive Assistant</td><td>Sydney</td><td>2026-09-25</td></tr>
+<tr><td>Service Stream Limited</td><td>Assurance & Improvement Coordinator</td><td>Melbourne</td><td>2026-09-25</td></tr>
+<tr><td>Service Stream Limited</td><td>Its Works Monitoring Officer</td><td>Melbourne</td><td>2026-09-25</td></tr>
 </table>

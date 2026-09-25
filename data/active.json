@@ -14,6 +14,12 @@
    "role": "Mechanical Fitter",
    "location": "Sydney"
   },
+  "575118b0c2b15ea15f8ea81613766bf9": {
+   "id": "575118b0c2b15ea15f8ea81613766bf9",
+   "company": "Zipline",
+   "role": "Australia Community Engagement Internship",
+   "location": "Lake Macquarie"
+  },
   "3a7ad6b48807859083a7deff9b55efbc": {
    "id": "3a7ad6b48807859083a7deff9b55efbc",
    "company": "W Brisbane",
@@ -487,12 +493,6 @@
    "company": "SAP Ariba",
    "role": "Sap Creative Design & Multimedia Internship",
    "location": "Sydney"
-  },
-  "72191bcecbe0de262de702afd0c80e9e": {
-   "id": "72191bcecbe0de262de702afd0c80e9e",
-   "company": "Evolution Mining",
-   "role": "Vacation Student - Exploration / Res Def",
-   "location": "West Wyalong"
   },
   "1f46089dceb51333eb25746443fed4c3": {
    "id": "1f46089dceb51333eb25746443fed4c3",
@@ -2012,6 +2012,18 @@
    "role": "Registered Nurse Grade 2",
    "location": "Melbourne"
   },
+  "119cf03476613ac1462768c06e147ee3": {
+   "id": "119cf03476613ac1462768c06e147ee3",
+   "company": "UnitingCare",
+   "role": "Registered Nurse",
+   "location": "Orange"
+  },
+  "900dda8f721d5f1a28452f6f85983d22": {
+   "id": "900dda8f721d5f1a28452f6f85983d22",
+   "company": "Opal HealthCare",
+   "role": "Relocation Registered Nurse - Role Based In Western Australia",
+   "location": "Bunbury"
+  },
   "ab00cfba4ab95e700442bb268f328924": {
    "id": "ab00cfba4ab95e700442bb268f328924",
    "company": "The Salvation Army Australia",
@@ -2348,6 +2360,12 @@
    "role": "Registered Nurse Night Duty - Aldinga Beach Care Community",
    "location": "Adelaide"
   },
+  "72814bc24d066453532c7b6a9e1a7f98": {
+   "id": "72814bc24d066453532c7b6a9e1a7f98",
+   "company": "Opal HealthCare",
+   "role": "Registered Nurse - Lansdowne Gardens On Wycombe",
+   "location": "Sydney"
+  },
   "d2a2f0eb402de9b46354166c2e400535": {
    "id": "d2a2f0eb402de9b46354166c2e400535",
    "company": "Opal HealthCare",
@@ -2437,24 +2455,6 @@
    "company": "RoboFit",
    "role": "Physiotherapist",
    "location": "Brisbane"
-  },
-  "a4ad2eebb022b786c21b6958e161d54a": {
-   "id": "a4ad2eebb022b786c21b6958e161d54a",
-   "company": "RoboFit",
-   "role": "Physiotherapist – Full Time",
-   "location": "Melbourne"
-  },
-  "fa8d3f3315237d761df6b5524e492ef3": {
-   "id": "fa8d3f3315237d761df6b5524e492ef3",
-   "company": "RoboFit",
-   "role": "Neuro Physiotherapist / Part Time Or Full Time – Expression Of Interest",
-   "location": "Sydney"
-  },
-  "3ef2fc2153d856ec4405ff969b03ae48": {
-   "id": "3ef2fc2153d856ec4405ff969b03ae48",
-   "company": "Serco Asia Pacific",
-   "role": "Registered Nurse-adf Health Services Contract",
-   "location": "Larrakeyah"
   },
   "0325ae6b7487ef0138cc6319d7c0105a": {
    "id": "0325ae6b7487ef0138cc6319d7c0105a",
@@ -2575,6 +2575,12 @@
    "company": "AusNet Services",
    "role": "Field Metering Technician",
    "location": "Victoria"
+  },
+  "5f13b9568230e9c93999625753e2f5cd": {
+   "id": "5f13b9568230e9c93999625753e2f5cd",
+   "company": "Cummins",
+   "role": "Technician - Electrical Field Service",
+   "location": "Wodonga"
   },
   "c95c7f556f18189b4aa73bd0522a41c2": {
    "id": "c95c7f556f18189b4aa73bd0522a41c2",
@@ -2924,10 +2930,142 @@
    "role": "Electrical Technician",
    "location": "Sydney"
   },
-  "30e96f8b402d17a4ad732dcbc1425a31": {
-   "id": "30e96f8b402d17a4ad732dcbc1425a31",
-   "company": "Leidos Holdings",
-   "role": "Electronics Technician",
+  "b29d115d30052ca4195fddf5aac6cfc4": {
+   "id": "b29d115d30052ca4195fddf5aac6cfc4",
+   "company": "Hanes Australasia",
+   "role": "Christmas Casual / Sheridan Concession / Myer Highpoint",
+   "location": "Highpoint"
+  },
+  "48449b9cf4aa9321ba9b39dfc8bbba95": {
+   "id": "48449b9cf4aa9321ba9b39dfc8bbba95",
+   "company": "Hanes Australasia",
+   "role": "Christmas Casual / Sheridan Concession / David Jones Chadstone",
+   "location": "Melbourne"
+  },
+  "22c60b28d1d6c26bf9d97ddd54d4764f": {
+   "id": "22c60b28d1d6c26bf9d97ddd54d4764f",
+   "company": "DHL Group",
+   "role": "Perth /storeperson",
+   "location": "Hazelmere +1"
+  },
+  "e7070f3d5b52fb8eb595985f59bd276c": {
+   "id": "e7070f3d5b52fb8eb595985f59bd276c",
+   "company": "Sunglass Hut",
+   "role": "Christmas Casual / Sunglass Hut Centrepoint, Nsw",
+   "location": "Centrepoint"
+  },
+  "20844ca2f62d639abdac9d1bae4590a4": {
+   "id": "20844ca2f62d639abdac9d1bae4590a4",
+   "company": "Luxottica Retail Australia Pty Ltd",
+   "role": "Christmas Casual / Sunglass Hut Canberra Outlet, Act",
+   "location": "Fyshwick"
+  },
+  "ca5f449681032d0b4e14c99ca6358ae4": {
+   "id": "ca5f449681032d0b4e14c99ca6358ae4",
+   "company": "Luxottica Retail Australia Pty Ltd",
+   "role": "Christmas Casual / Sunglass Hut Myer Albury, Nsw",
+   "location": "Albury"
+  },
+  "25d6d3919141d2046a28e614f465f18b": {
+   "id": "25d6d3919141d2046a28e614f465f18b",
+   "company": "Luxottica Retail Australia Pty Ltd",
+   "role": "Christmas Casual / Sunglass Hut Erina, Nsw",
+   "location": "Erina"
+  },
+  "2e9597d07d139cf23bc47c041d04f177": {
+   "id": "2e9597d07d139cf23bc47c041d04f177",
+   "company": "Luxottica Retail Australia Pty Ltd",
+   "role": "Christmas Casual / Sunglass Hut Kotara, Nsw",
+   "location": "Kotara"
+  },
+  "2669eb4b7e1de43010c9b62052aa51cf": {
+   "id": "2669eb4b7e1de43010c9b62052aa51cf",
+   "company": "Sunglass Hut",
+   "role": "Christmas Casual / Sunglass Hut Macquarie Centre, Nsw",
+   "location": "Sydney"
+  },
+  "0874770bb6b3357bea5613c396678441": {
+   "id": "0874770bb6b3357bea5613c396678441",
+   "company": "Sunglass Hut",
+   "role": "Christmas Casual / Sunglass Hut George Street Sydney, Nsw",
+   "location": "Sydney"
+  },
+  "77528247527fde52d6d60755362eec49": {
+   "id": "77528247527fde52d6d60755362eec49",
+   "company": "Luxottica Retail Australia Pty Ltd",
+   "role": "Christmas Casual / Sunglass Hut Hurstville, Nsw",
+   "location": "Sydney"
+  },
+  "6544e67301de33e4453cc02f173b63c3": {
+   "id": "6544e67301de33e4453cc02f173b63c3",
+   "company": "Luxottica Retail Australia Pty Ltd",
+   "role": "Christmas Casual / Sunglass Hut Bondi Junction Kiosk, Nsw",
+   "location": "Sydney"
+  },
+  "4d8bbc69e7c5f3c79ab67e3733ad2313": {
+   "id": "4d8bbc69e7c5f3c79ab67e3733ad2313",
+   "company": "Luxottica Retail Australia Pty Ltd",
+   "role": "Christmas Casual / Sunglass Hut Bankstown, Nsw",
+   "location": "Sydney"
+  },
+  "415379d9c317bc8efc991dd6efe7700e": {
+   "id": "415379d9c317bc8efc991dd6efe7700e",
+   "company": "Luxottica Retail Australia Pty Ltd",
+   "role": "Christmas Casual / Sunglass Hut Miranda 2, Nsw",
+   "location": "Sydney"
+  },
+  "803ff698850f12de98bb28f74c9210f0": {
+   "id": "803ff698850f12de98bb28f74c9210f0",
+   "company": "Luxottica Retail Australia Pty Ltd",
+   "role": "Christmas Casual / Sunglass Hut Bondi Junction, Nsw",
+   "location": "Sydney"
+  },
+  "a776cd32060da191989cb88c9450fa6f": {
+   "id": "a776cd32060da191989cb88c9450fa6f",
+   "company": "Sunglass Hut",
+   "role": "Christmas Casual / Sunglass Hut Homebush Dfo, Nsw",
+   "location": "Sydney"
+  },
+  "bff0caea9f95da1ee02ccabf1f08f5f3": {
+   "id": "bff0caea9f95da1ee02ccabf1f08f5f3",
+   "company": "Sunglass Hut",
+   "role": "Christmas Casual / Sunglass Hut Hornsby, Nsw",
+   "location": "Sydney"
+  },
+  "1e1a9fbd614b5db8aea707379fa1834a": {
+   "id": "1e1a9fbd614b5db8aea707379fa1834a",
+   "company": "Luxottica Retail Australia Pty Ltd",
+   "role": "Christmas Casual / Sunglass Hut Burwood, Nsw",
+   "location": "Sydney"
+  },
+  "ec034b722b2b42db98cb3653630b21a9": {
+   "id": "ec034b722b2b42db98cb3653630b21a9",
+   "company": "Sunglass Hut",
+   "role": "Christmas Casual / Sunglass Hut Chatswood, Nsw",
+   "location": "Sydney"
+  },
+  "c7c5714e5427999a709ac2bce253c030": {
+   "id": "c7c5714e5427999a709ac2bce253c030",
+   "company": "Luxottica Retail Australia Pty Ltd",
+   "role": "Christmas Casual / Sunglass Hut Blacktown, Nsw",
+   "location": "Sydney"
+  },
+  "07c99b4df3cc9e4d4517d4cc66e0270a": {
+   "id": "07c99b4df3cc9e4d4517d4cc66e0270a",
+   "company": "Luxottica Retail Australia Pty Ltd",
+   "role": "Christmas Casual / Sunglass Hut Broadway, Nsw",
+   "location": "Sydney"
+  },
+  "39c7d6c176fe52939fe6b6b28338a81d": {
+   "id": "39c7d6c176fe52939fe6b6b28338a81d",
+   "company": "Luxottica Retail Australia Pty Ltd",
+   "role": "Christmas Casual / Sunglass Hut Myer Bankstown, Nsw",
+   "location": "Sydney"
+  },
+  "f27595d44371f98c79bc0e5a25f82aa4": {
+   "id": "f27595d44371f98c79bc0e5a25f82aa4",
+   "company": "Luxottica Retail Australia Pty Ltd",
+   "role": "Christmas Casual / Sunglass Hut Miranda, Nsw",
    "location": "Sydney"
   },
   "7ca4f41007936e304adf32e6f5937aab": {
@@ -3098,18 +3236,6 @@
    "role": "Christmas Casual / Oakley Homebush Dfo, Nsw",
    "location": "Sydney"
   },
-  "cbd0f2cc527f6537c431c623b74c55ea": {
-   "id": "cbd0f2cc527f6537c431c623b74c55ea",
-   "company": "Sunglass Hut",
-   "role": "Christmas Casual / Sunglass Hut Sydney Int'l Airport, Nsw",
-   "location": "Sydney"
-  },
-  "bb618b17fab8f2ce65ba69daab829184": {
-   "id": "bb618b17fab8f2ce65ba69daab829184",
-   "company": "Sunglass Hut",
-   "role": "Christmas Casual / Sunglass Hut Centrepoint, Nsw",
-   "location": "Centrepoint"
-  },
   "cb3f1ad5573296f67e5820d7af389e8b": {
    "id": "cb3f1ad5573296f67e5820d7af389e8b",
    "company": "Sunglass Hut",
@@ -3134,54 +3260,6 @@
    "role": "Christmas Casual / Sunglass Hut Warringah Mall, Nsw",
    "location": "Brookvale"
   },
-  "4eb511208e398569fdc3d52f2eeda218": {
-   "id": "4eb511208e398569fdc3d52f2eeda218",
-   "company": "Sunglass Hut",
-   "role": "Christmas Casual / Sunglass Hut Burwood, Nsw",
-   "location": "Sydney"
-  },
-  "1700aef3c71e638339e2a8df92884636": {
-   "id": "1700aef3c71e638339e2a8df92884636",
-   "company": "Sunglass Hut",
-   "role": "Christmas Casual / Sunglass Hut Sydney Qantas Domestic Airport, Nsw",
-   "location": "Sydney"
-  },
-  "d8314119241b8c820bc68e134bdcb234": {
-   "id": "d8314119241b8c820bc68e134bdcb234",
-   "company": "Sunglass Hut",
-   "role": "Christmas Casual / Sunglass Hut Myer Castle Hill, Nsw",
-   "location": "Sydney"
-  },
-  "4a39bcb65ad7bc4c67fe79250345d97f": {
-   "id": "4a39bcb65ad7bc4c67fe79250345d97f",
-   "company": "Sunglass Hut",
-   "role": "Christmas Casual / Sunglass Hut Parramatta, Nsw",
-   "location": "Sydney"
-  },
-  "6e7b985662d5a33da81c045fece9798a": {
-   "id": "6e7b985662d5a33da81c045fece9798a",
-   "company": "Sunglass Hut",
-   "role": "Christmas Casual / Sunglass Hut Myer Miranda, Nsw",
-   "location": "Sydney"
-  },
-  "a1e1d3937eb79acb0a2544edd76c9be1": {
-   "id": "a1e1d3937eb79acb0a2544edd76c9be1",
-   "company": "Sunglass Hut",
-   "role": "Christmas Casual / Sunglass Hut Miranda, Nsw",
-   "location": "Sydney"
-  },
-  "c7effeb8969bf6da84421f2031ea3363": {
-   "id": "c7effeb8969bf6da84421f2031ea3363",
-   "company": "OAKLEY",
-   "role": "Christmas Casual / Oakley Sydney George Street, Nsw",
-   "location": "Sydney"
-  },
-  "271cb5cecdce9210b66127bcf6a2f5a2": {
-   "id": "271cb5cecdce9210b66127bcf6a2f5a2",
-   "company": "Sunglass Hut",
-   "role": "Christmas Casual / Sunglass Hut Sydney Flagship, Nsw",
-   "location": "Sydney"
-  },
   "5d023ff1a1ed91c655765222ee5b23b0": {
    "id": "5d023ff1a1ed91c655765222ee5b23b0",
    "company": "Sunglass Hut",
@@ -3194,53 +3272,11 @@
    "role": "Christmas Casual / Sunglass Hut Myer Albury, Nsw",
    "location": "Albury"
   },
-  "57f2a47bafbbba6eef1f5db069a2c591": {
-   "id": "57f2a47bafbbba6eef1f5db069a2c591",
-   "company": "Sunglass Hut",
-   "role": "Christmas Casual / Sunglass Hut Blacktown, Nsw",
-   "location": "Sydney"
-  },
-  "48f2595c09b37696dcca635ec6ec53f3": {
-   "id": "48f2595c09b37696dcca635ec6ec53f3",
-   "company": "Sunglass Hut",
-   "role": "Christmas Casual / Sunglass Hut Bankstown, Nsw",
-   "location": "Sydney"
-  },
-  "5f38b4b207789300a6542471932adf21": {
-   "id": "5f38b4b207789300a6542471932adf21",
-   "company": "Sunglass Hut",
-   "role": "Christmas Casual / Sunglass Hut Homebush Dfo, Nsw",
-   "location": "Sydney"
-  },
-  "058008483d4a396371a421533b292823": {
-   "id": "058008483d4a396371a421533b292823",
-   "company": "Sunglass Hut",
-   "role": "Christmas Casual / Sunglass Hut George Street Sydney, Nsw",
-   "location": "Sydney"
-  },
-  "86114fd5c0accaebc79b4c12080d82a3": {
-   "id": "86114fd5c0accaebc79b4c12080d82a3",
-   "company": "Sunglass Hut",
-   "role": "Christmas Casual / Sunglass Hut Myer Bankstown, Nsw",
-   "location": "Sydney"
-  },
-  "6b1478bcec4c183a0620aa7da7187180": {
-   "id": "6b1478bcec4c183a0620aa7da7187180",
-   "company": "Sunglass Hut Broadway",
-   "role": "Christmas Casual / Sunglass Hut Broadway, Nsw",
-   "location": "Sydney"
-  },
-  "bde821b0fce8a841e0560cf64a47ff68": {
-   "id": "bde821b0fce8a841e0560cf64a47ff68",
-   "company": "Sunglass Hut",
-   "role": "Christmas Casual / Sunglass Hut Macquarie Centre, Nsw",
-   "location": "Macquarie Centre"
-  },
-  "cf9d7c4907ad547cfa7d2de6a720e263": {
-   "id": "cf9d7c4907ad547cfa7d2de6a720e263",
-   "company": "Sunglass Hut",
-   "role": "Christmas Casual / Sunglass Hut Kotara, Nsw",
-   "location": "Kotara"
+  "991ee83be6e0fa535d65658cd62a2215": {
+   "id": "991ee83be6e0fa535d65658cd62a2215",
+   "company": "Aldi Australia",
+   "role": "Retail Assistant - Keilor Downs",
+   "location": "Melbourne"
   },
   "022e79e1c1ed804e8ed4d318afa07824": {
    "id": "022e79e1c1ed804e8ed4d318afa07824",
@@ -3374,41 +3410,23 @@
    "role": "Seasonal Casual Retail Assistant - Plenty Valley",
    "location": "Melbourne"
   },
-  "d74a8602f38721a47e736ac0ecbbfacc": {
-   "id": "d74a8602f38721a47e736ac0ecbbfacc",
-   "company": "DECJUBA",
-   "role": "Seasonal Casual Retail Assistant - Highpoint Kids",
-   "location": "Melbourne"
-  },
-  "3290f9bcf8cdb0649e902ff68fc7a3a1": {
-   "id": "3290f9bcf8cdb0649e902ff68fc7a3a1",
-   "company": "DECJUBA",
-   "role": "Seasonal Casual Retail Assistant - Epping",
-   "location": "Melbourne"
-  },
-  "c68da8b15ec487c7f3b0489d68958156": {
-   "id": "c68da8b15ec487c7f3b0489d68958156",
-   "company": "DECJUBA",
-   "role": "Seasonal Casual Retail Assistant - Burwood",
+  "ace75d32c6a520fa4589d56695454f90": {
+   "id": "ace75d32c6a520fa4589d56695454f90",
+   "company": "Opal HealthCare",
+   "role": "Social Activities Coordinator - Carlingford Greens Care Community",
    "location": "Sydney"
   },
-  "ae0d22e98e3db2b3e84b7c13e4352d20": {
-   "id": "ae0d22e98e3db2b3e84b7c13e4352d20",
-   "company": "DECJUBA",
-   "role": "Seasonal Casual Retail Assistant - Balmain",
-   "location": "Sydney"
+  "fd3182342799d0763539d9bce87c88fa": {
+   "id": "fd3182342799d0763539d9bce87c88fa",
+   "company": "The Wine Group",
+   "role": "Logistics Analyst 1-cellar Admin",
+   "location": "Loxton"
   },
-  "69dd26c6ba82706208dff8a5a8d0205d": {
-   "id": "69dd26c6ba82706208dff8a5a8d0205d",
-   "company": "DECJUBA",
-   "role": "Seasonal Casual Retail Assistant - Macquarie",
-   "location": "Sydney"
-  },
-  "6b5658ef56d6c9e3ffbe45ed93b4042f": {
-   "id": "6b5658ef56d6c9e3ffbe45ed93b4042f",
-   "company": "DECJUBA",
-   "role": "Seasonal Casual Retail Assistant - Chatswood",
-   "location": "Sydney"
+  "8eb5afa20ac975bb90c2d4329a488560": {
+   "id": "8eb5afa20ac975bb90c2d4329a488560",
+   "company": "dormakaba International Holding AG",
+   "role": "Despatch Coordinator",
+   "location": "Pinkenba"
   },
   "85de2a9189b6bafe8e8494d414e7a63c": {
    "id": "85de2a9189b6bafe8e8494d414e7a63c",
@@ -3871,24 +3889,6 @@
    "company": "Last Slice Group PTY LTD",
    "role": "Marketing And Events Coordinator",
    "location": "Bunbury"
-  },
-  "ef437051b44276dd2523cf0b91ec86fb": {
-   "id": "ef437051b44276dd2523cf0b91ec86fb",
-   "company": "DUAL",
-   "role": "Executive Assistant",
-   "location": "Sydney"
-  },
-  "747d7eba7106099e14f4927a61fb857e": {
-   "id": "747d7eba7106099e14f4927a61fb857e",
-   "company": "Service Stream Limited",
-   "role": "Assurance & Improvement Coordinator",
-   "location": "Melbourne"
-  },
-  "f9fa228122d7b0e61621feb8f4bc2877": {
-   "id": "f9fa228122d7b0e61621feb8f4bc2877",
-   "company": "Service Stream Limited",
-   "role": "Its Works Monitoring Officer",
-   "location": "Melbourne"
   }
  }
 }
