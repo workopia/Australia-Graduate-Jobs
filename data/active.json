@@ -2006,6 +2006,60 @@
    "role": "Physiotherapist Grade 2 - Rehabilitation",
    "location": "Melbourne"
   },
+  "c1296c2e36b80bfc5a9aadc8c6b2b696": {
+   "id": "c1296c2e36b80bfc5a9aadc8c6b2b696",
+   "company": "Estia Health",
+   "role": "Registered Nurse - Hamilton",
+   "location": "Brisbane"
+  },
+  "027da14dcac018bfb39f495d2f4dd4b4": {
+   "id": "027da14dcac018bfb39f495d2f4dd4b4",
+   "company": "Estia Health",
+   "role": "Personal Care Worker - Nutrition / Casual",
+   "location": "Melbourne"
+  },
+  "72d1124b8cd9aea3c43231af64b19e17": {
+   "id": "72d1124b8cd9aea3c43231af64b19e17",
+   "company": "Estia Health",
+   "role": "Personal Care Worker - Wellbeing (lifestyle Assistant) / Oakleigh East",
+   "location": "Melbourne"
+  },
+  "372880af93c2d28c533178eaf194e6e2": {
+   "id": "372880af93c2d28c533178eaf194e6e2",
+   "company": "St Vincent's Health Australia",
+   "role": "Registered Nurse - Casual",
+   "location": "Toowoomba"
+  },
+  "9a283830baf31315d6613cf8a82cc527": {
+   "id": "9a283830baf31315d6613cf8a82cc527",
+   "company": "Macquarie University",
+   "role": "Research Associate In Machine Learning",
+   "location": "Sydney"
+  },
+  "e88094f0f4e6de9f308c33af44d31766": {
+   "id": "e88094f0f4e6de9f308c33af44d31766",
+   "company": "UnitingCare Health",
+   "role": "Registered Nurse Anaesthetics",
+   "location": "Maroochydore"
+  },
+  "93c9f66fd3249fb43a889bf22b45d7ef": {
+   "id": "93c9f66fd3249fb43a889bf22b45d7ef",
+   "company": "Jin Hai Net university",
+   "role": "Postdoctoral Research Associate In Polymer Chemistry And Hydrogel Materials",
+   "location": "Sydney"
+  },
+  "0ee99fdfd0af5e763bbe3946c1425ec3": {
+   "id": "0ee99fdfd0af5e763bbe3946c1425ec3",
+   "company": "Anglicare Sydney",
+   "role": "Registered Nurse",
+   "location": "Sydney"
+  },
+  "e00ededf4fa37a9e18ef85e72c3e5de8": {
+   "id": "e00ededf4fa37a9e18ef85e72c3e5de8",
+   "company": "Macquarie University",
+   "role": "Research Associate - Artificial Intelligence And Uav Navigation",
+   "location": "Sydney"
+  },
   "61fc2666d89a86fd018b135eee683acd": {
    "id": "61fc2666d89a86fd018b135eee683acd",
    "company": "sydney.edu.au",
@@ -2402,60 +2456,6 @@
    "role": "Registered Nurse - Critical Care Services (icu)",
    "location": "Maroochydore"
   },
-  "125387be3f0d4c0b30886006522e8e5d": {
-   "id": "125387be3f0d4c0b30886006522e8e5d",
-   "company": "Anglicare Sydney",
-   "role": "Registered Nurse - Casual Pool",
-   "location": "Sydney"
-  },
-  "0c64d95f5ee1f6930ca4ce4f1fb16b70": {
-   "id": "0c64d95f5ee1f6930ca4ce4f1fb16b70",
-   "company": "The Salvation Army Australia",
-   "role": "Support Worker - Aod",
-   "location": "Sydney"
-  },
-  "39ce5b1f7d71819a9d72447f9950b41c": {
-   "id": "39ce5b1f7d71819a9d72447f9950b41c",
-   "company": "The Salvation Army Australia",
-   "role": "Aod Support Worker",
-   "location": "Sydney"
-  },
-  "46e8693826f706468eb2850c0e73bc65": {
-   "id": "46e8693826f706468eb2850c0e73bc65",
-   "company": "Peter MacCallum Cancer Centre",
-   "role": "Research Assistant - Eckersley Maslin",
-   "location": "Melbourne"
-  },
-  "30f8ed3ae8a09124c695f8a965ee21f1": {
-   "id": "30f8ed3ae8a09124c695f8a965ee21f1",
-   "company": "Serco Asia Pacific",
-   "role": "Registered Nurse",
-   "location": "Cabarlah"
-  },
-  "0e27651b27ef5d4b8d3ff7e0b3be8e66": {
-   "id": "0e27651b27ef5d4b8d3ff7e0b3be8e66",
-   "company": "Opal HealthCare",
-   "role": "Registered Nurse Night Duty - Aldinga Beach Care Community",
-   "location": "Adelaide"
-  },
-  "72814bc24d066453532c7b6a9e1a7f98": {
-   "id": "72814bc24d066453532c7b6a9e1a7f98",
-   "company": "Opal HealthCare",
-   "role": "Registered Nurse - Lansdowne Gardens On Wycombe",
-   "location": "Sydney"
-  },
-  "d2a2f0eb402de9b46354166c2e400535": {
-   "id": "d2a2f0eb402de9b46354166c2e400535",
-   "company": "Opal HealthCare",
-   "role": "Registered Nurse - Killara Glades Care Community",
-   "location": "Sydney"
-  },
-  "dd8f73b5e195c79fd50526984546bd10": {
-   "id": "dd8f73b5e195c79fd50526984546bd10",
-   "company": "Opal HealthCare",
-   "role": "Registered Nurse - Lansdowne Gardens On Manns Care Community",
-   "location": "Sydney"
-  },
   "211ebe27179cf9a69bcdfc2b02b2edc3": {
    "id": "211ebe27179cf9a69bcdfc2b02b2edc3",
    "company": "Ricoh Australia",
@@ -2485,6 +2485,24 @@
    "company": "McDonald's Australia",
    "role": "Maintenance",
    "location": "East Wagga Wagga"
+  },
+  "44bdfd69ef23b4939a62858cf5319568": {
+   "id": "44bdfd69ef23b4939a62858cf5319568",
+   "company": "ALS",
+   "role": "Field Technician",
+   "location": "Brisbane"
+  },
+  "83ec6bec87e858caa94a646856bd035e": {
+   "id": "83ec6bec87e858caa94a646856bd035e",
+   "company": "Unisys",
+   "role": "Airport Support Technician - Adelaide Sa",
+   "location": "Adelaide"
+  },
+  "5070a145b8b411a7e15e095a2a967379": {
+   "id": "5070a145b8b411a7e15e095a2a967379",
+   "company": "APA",
+   "role": "Technical Officer - Mechanical",
+   "location": "Winnellie"
   },
   "0325ae6b7487ef0138cc6319d7c0105a": {
    "id": "0325ae6b7487ef0138cc6319d7c0105a",
@@ -2912,24 +2930,6 @@
    "role": "Field Service Technician [wa]",
    "location": "Western Australia"
   },
-  "59aae18ef25294cd63845f3ef79a55de": {
-   "id": "59aae18ef25294cd63845f3ef79a55de",
-   "company": "Alstom",
-   "role": "Mechanical Fitter",
-   "location": "South Dynon"
-  },
-  "a6441d9a0d7bec48ef81f9f4852adf8d": {
-   "id": "a6441d9a0d7bec48ef81f9f4852adf8d",
-   "company": "AGL Energy Ltd",
-   "role": "Mine Technical Officer",
-   "location": "Loy Yang"
-  },
-  "f54026efe6efe5336b037bc50b75c027": {
-   "id": "f54026efe6efe5336b037bc50b75c027",
-   "company": "Stryker",
-   "role": "Casual Field Service Engineer",
-   "location": "Brisbane"
-  },
   "16bcdb6e3f101786f4d9b1a0a6110fd8": {
    "id": "16bcdb6e3f101786f4d9b1a0a6110fd8",
    "company": "Bonds Outlet",
@@ -2984,6 +2984,12 @@
    "role": "Boutique Stock And Coffee Specialist - Chatswood",
    "location": "Sydney"
   },
+  "bcc57ebdf0b9fb971cdd0faba4ef5ce1": {
+   "id": "bcc57ebdf0b9fb971cdd0faba4ef5ce1",
+   "company": "POP MART Global",
+   "role": "Full-time Sales Associate (sydney Airport)",
+   "location": "Sydney"
+  },
   "c589953540fa9eb4603c34931f4766ea": {
    "id": "c589953540fa9eb4603c34931f4766ea",
    "company": "Aldi Australia",
@@ -2995,6 +3001,18 @@
    "company": "Aldi Australia",
    "role": "Retail Assistant - Wagga Wagga",
    "location": "Wagga Wagga"
+  },
+  "42443d1d50517eed01ab53e2c522c9b1": {
+   "id": "42443d1d50517eed01ab53e2c522c9b1",
+   "company": "GENUINE PARTS COMPANY",
+   "role": "Customer Sales & Service - Repco Bankstown - Part Time",
+   "location": "Sydney"
+  },
+  "9edc62702dcff68f397e19f5235d5215": {
+   "id": "9edc62702dcff68f397e19f5235d5215",
+   "company": "ASICS OCEANIA PTY LTD",
+   "role": "Seasonal Casual Retail Assistant - Essendon",
+   "location": "Melbourne"
   },
   "fa8782d24ed07bf22a8e295b532b20f1": {
    "id": "fa8782d24ed07bf22a8e295b532b20f1",
@@ -3392,24 +3410,6 @@
    "role": "Seasonal Casual Retail Assistant - South Wharf",
    "location": "South Wharf"
   },
-  "a3a2dabfd8ea92903f1f74743422fe5f": {
-   "id": "a3a2dabfd8ea92903f1f74743422fe5f",
-   "company": "DECJUBA",
-   "role": "Seasonal Casual Retail Assistant - Watertown",
-   "location": "Watertown"
-  },
-  "89070cf363de7448ac74cc1720a94fb1": {
-   "id": "89070cf363de7448ac74cc1720a94fb1",
-   "company": "DECJUBA",
-   "role": "Seasonal Casual Retail Assistant - Bendigo",
-   "location": "Bendigo"
-  },
-  "199a211049da50a8b43081bcc41fecaf": {
-   "id": "199a211049da50a8b43081bcc41fecaf",
-   "company": "DECJUBA",
-   "role": "Seasonal Casual Retail Assistant - Kotara",
-   "location": "Kotara"
-  },
   "9ddd7a04dbb7c14c67474f0befaa85f3": {
    "id": "9ddd7a04dbb7c14c67474f0befaa85f3",
    "company": "dcj",
@@ -3421,6 +3421,24 @@
    "company": "Diageo",
    "role": "Executive Assistant - Supply (12 Months)",
    "location": "Huntingwood"
+  },
+  "2df0235f66a5b0ecc7ec7345589169a1": {
+   "id": "2df0235f66a5b0ecc7ec7345589169a1",
+   "company": "Coates",
+   "role": "Project Coordinator",
+   "location": "Welshpool"
+  },
+  "89e2ef904cb5dd8c7e4eea44d1c4d431": {
+   "id": "89e2ef904cb5dd8c7e4eea44d1c4d431",
+   "company": "Peter MacCallum Cancer Centre",
+   "role": "Project Officer Survivorship",
+   "location": "Melbourne"
+  },
+  "c2caabef03d9c217be851c36c6e024ff": {
+   "id": "c2caabef03d9c217be851c36c6e024ff",
+   "company": "THALES",
+   "role": "Administrative Assistant",
+   "location": "Mulwala"
   },
   "ace75d32c6a520fa4589d56695454f90": {
    "id": "ace75d32c6a520fa4589d56695454f90",
@@ -3871,24 +3889,6 @@
    "company": "St Vincent de Paul Society Australia",
    "role": "Community Development Coordinator",
    "location": "Wagga Wagga"
-  },
-  "0f96e1bf57ae3f116b3ea56eea7f69ed": {
-   "id": "0f96e1bf57ae3f116b3ea56eea7f69ed",
-   "company": "St Vincent de Paul Society Australia",
-   "role": "Ecommerce Shop Assistant",
-   "location": "Sydney"
-  },
-  "63bf0503c3cc2eba40267c35573a72a4": {
-   "id": "63bf0503c3cc2eba40267c35573a72a4",
-   "company": "Inchcape plc",
-   "role": "Network Development Coordinator",
-   "location": "Norwest"
-  },
-  "1a2e79d2ddc161a9a1eabb3e912e3c56": {
-   "id": "1a2e79d2ddc161a9a1eabb3e912e3c56",
-   "company": "Svhs Org Au",
-   "role": "Administrative Assistant",
-   "location": "Melbourne"
   }
  }
 }

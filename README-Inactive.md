@@ -7669,4 +7669,22 @@
 <tr><td>DECJUBA</td><td>Seasonal Casual Retail Assistant - Plenty Valley</td><td>Melbourne</td><td>2026-09-26</td></tr>
 <tr><td>Koch Fertilizer</td><td>Operations Coordinator</td><td>Melbourne</td><td>2026-09-26</td></tr>
 <tr><td>Last Slice Group PTY LTD</td><td>Marketing And Events Coordinator</td><td>Bunbury</td><td>2026-09-26</td></tr>
+<tr><td>Anglicare Sydney</td><td>Registered Nurse - Casual Pool</td><td>Sydney</td><td>2026-09-26</td></tr>
+<tr><td>The Salvation Army Australia</td><td>Support Worker - Aod</td><td>Sydney</td><td>2026-09-26</td></tr>
+<tr><td>The Salvation Army Australia</td><td>Aod Support Worker</td><td>Sydney</td><td>2026-09-26</td></tr>
+<tr><td>Peter MacCallum Cancer Centre</td><td>Research Assistant - Eckersley Maslin</td><td>Melbourne</td><td>2026-09-26</td></tr>
+<tr><td>Serco Asia Pacific</td><td>Registered Nurse</td><td>Cabarlah</td><td>2026-09-26</td></tr>
+<tr><td>Opal HealthCare</td><td>Registered Nurse Night Duty - Aldinga Beach Care Community</td><td>Adelaide</td><td>2026-09-26</td></tr>
+<tr><td>Opal HealthCare</td><td>Registered Nurse - Lansdowne Gardens On Wycombe</td><td>Sydney</td><td>2026-09-26</td></tr>
+<tr><td>Opal HealthCare</td><td>Registered Nurse - Killara Glades Care Community</td><td>Sydney</td><td>2026-09-26</td></tr>
+<tr><td>Opal HealthCare</td><td>Registered Nurse - Lansdowne Gardens On Manns Care Community</td><td>Sydney</td><td>2026-09-26</td></tr>
+<tr><td>Alstom</td><td>Mechanical Fitter</td><td>South Dynon</td><td>2026-09-26</td></tr>
+<tr><td>AGL Energy Ltd</td><td>Mine Technical Officer</td><td>Loy Yang</td><td>2026-09-26</td></tr>
+<tr><td>Stryker</td><td>Casual Field Service Engineer</td><td>Brisbane</td><td>2026-09-26</td></tr>
+<tr><td>DECJUBA</td><td>Seasonal Casual Retail Assistant - Watertown</td><td>Watertown</td><td>2026-09-26</td></tr>
+<tr><td>DECJUBA</td><td>Seasonal Casual Retail Assistant - Bendigo</td><td>Bendigo</td><td>2026-09-26</td></tr>
+<tr><td>DECJUBA</td><td>Seasonal Casual Retail Assistant - Kotara</td><td>Kotara</td><td>2026-09-26</td></tr>
+<tr><td>St Vincent de Paul Society Australia</td><td>Ecommerce Shop Assistant</td><td>Sydney</td><td>2026-09-26</td></tr>
+<tr><td>Inchcape plc</td><td>Network Development Coordinator</td><td>Norwest</td><td>2026-09-26</td></tr>
+<tr><td>Svhs Org Au</td><td>Administrative Assistant</td><td>Melbourne</td><td>2026-09-26</td></tr>
 </table>
