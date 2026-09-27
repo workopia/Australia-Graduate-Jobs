@@ -7764,4 +7764,11 @@
 <tr><td>Central Queensland University</td><td>Project Coordinator</td><td>Rockhampton</td><td>2026-09-27</td></tr>
 <tr><td>St Vincent de Paul Society Australia</td><td>Business Development Specialist</td><td>Lewisham</td><td>2026-09-27</td></tr>
 <tr><td>St Vincent de Paul Society Australia</td><td>Community Development Coordinator</td><td>Wagga Wagga</td><td>2026-09-27</td></tr>
+<tr><td>Peter MacCallum Cancer Centre</td><td>Lis Support Officer</td><td>Melbourne</td><td>2026-09-27</td></tr>
+<tr><td>Cisco</td><td>Apple Technical Advisor - Mandarin Speaking</td><td>Sydney</td><td>2026-09-27</td></tr>
+<tr><td>transport.nsw.gov.au</td><td>Business Intelligence Data Modeller & Analyst (temporary Opportunity - Up To 12 Months)</td><td>Sydney</td><td>2026-09-27</td></tr>
+<tr><td>Cotton On</td><td>Commercial Finance Analyst - Dc Australia</td><td>Australia</td><td>2026-09-27</td></tr>
+<tr><td>Downer</td><td>Financial Analyst - Cash And Working Capital</td><td>Sydney</td><td>2026-09-27</td></tr>
+<tr><td>Downer EDI</td><td>Financial Analyst - Cash And Working Capital</td><td>Sydney</td><td>2026-09-27</td></tr>
+<tr><td>Luxottica Retail Australia Pty Ltd</td><td>Field Service Technician</td><td>Sumner Park</td><td>2026-09-27</td></tr>
 </table>
