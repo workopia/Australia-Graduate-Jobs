@@ -7687,4 +7687,81 @@
 <tr><td>St Vincent de Paul Society Australia</td><td>Ecommerce Shop Assistant</td><td>Sydney</td><td>2026-09-26</td></tr>
 <tr><td>Inchcape plc</td><td>Network Development Coordinator</td><td>Norwest</td><td>2026-09-26</td></tr>
 <tr><td>Svhs Org Au</td><td>Administrative Assistant</td><td>Melbourne</td><td>2026-09-26</td></tr>
+<tr><td>solaebelgiumcareers.be</td><td>Intern</td><td>Melbourne</td><td>2026-09-27</td></tr>
+<tr><td>Solventum</td><td>Clinical Support Specialist</td><td>Au</td><td>2026-09-27</td></tr>
+<tr><td>Solventum Corporation</td><td>Clinical Support Specialist</td><td>Australia</td><td>2026-09-27</td></tr>
+<tr><td>BioAgilytix</td><td>Data Validation And Support Specialist</td><td>Melbourne</td><td>2026-09-27</td></tr>
+<tr><td>NTT Communications</td><td>Service Delivery Service Desk Analyst</td><td>Sydney</td><td>2026-09-27</td></tr>
+<tr><td>NTT DATA</td><td>Service Delivery Service Desk Analyst</td><td>Sydney</td><td>2026-09-27</td></tr>
+<tr><td>transport.nsw.gov.au</td><td>Business Intelligence Developer</td><td>New South Wales</td><td>2026-09-27</td></tr>
+<tr><td>Babcock International</td><td>Data Analyst</td><td>Sydney</td><td>2026-09-27</td></tr>
+<tr><td>Spotless</td><td>Financial Analyst - Cash And Working Capital</td><td>Sydney</td><td>2026-09-27</td></tr>
+<tr><td>Coles Supermarkets Australia Pty Ltd</td><td>Business Analyst, Srm</td><td>Australia</td><td>2026-09-27</td></tr>
+<tr><td>Komatsu Marketing Support Australia Pty Ltd</td><td>Technician - Field Service</td><td>Geraldton</td><td>2026-09-27</td></tr>
+<tr><td>BHP INNOVATION Pty Ltd</td><td>Conveyor Belt Technician (mhs) (underground) - Carrapateena - Fifo</td><td>Carrapateena</td><td>2026-09-27</td></tr>
+<tr><td>Iluka Resources Limited</td><td>Mechanical Technician</td><td>Eneabba</td><td>2026-09-27</td></tr>
+<tr><td>Ingersoll Rand PLC</td><td>Service Technician</td><td>Kalgoorlie</td><td>2026-09-27</td></tr>
+<tr><td>APA</td><td>Mechanical Technician</td><td>Diamantina</td><td>2026-09-27</td></tr>
+<tr><td>252</td><td>Service Technician</td><td>Murarrie</td><td>2026-09-27</td></tr>
+<tr><td>Carrier Corporation</td><td>Bms Service Technician</td><td>Lease 4g</td><td>2026-09-27</td></tr>
+<tr><td>Carrier Corporation</td><td>Transport Refrigeration Service Technician</td><td>Australia</td><td>2026-09-27</td></tr>
+<tr><td>GLEN DIMPLEX AU</td><td>Field Service Technician [wa]</td><td>Western Australia</td><td>2026-09-27</td></tr>
+<tr><td>Luxottica Retail Australia Pty Ltd</td><td>Christmas Casual / Sunglass Hut Bankstown, Nsw</td><td>Sydney</td><td>2026-09-27</td></tr>
+<tr><td>Luxottica Retail Australia Pty Ltd</td><td>Christmas Casual / Sunglass Hut Miranda 2, Nsw</td><td>Sydney</td><td>2026-09-27</td></tr>
+<tr><td>Luxottica Retail Australia Pty Ltd</td><td>Christmas Casual / Sunglass Hut Bondi Junction, Nsw</td><td>Sydney</td><td>2026-09-27</td></tr>
+<tr><td>Sunglass Hut</td><td>Christmas Casual / Sunglass Hut Homebush Dfo, Nsw</td><td>Sydney</td><td>2026-09-27</td></tr>
+<tr><td>Sunglass Hut</td><td>Christmas Casual / Sunglass Hut Hornsby, Nsw</td><td>Sydney</td><td>2026-09-27</td></tr>
+<tr><td>Luxottica Retail Australia Pty Ltd</td><td>Christmas Casual / Sunglass Hut Burwood, Nsw</td><td>Sydney</td><td>2026-09-27</td></tr>
+<tr><td>Sunglass Hut</td><td>Christmas Casual / Sunglass Hut Chatswood, Nsw</td><td>Sydney</td><td>2026-09-27</td></tr>
+<tr><td>Luxottica Retail Australia Pty Ltd</td><td>Christmas Casual / Sunglass Hut Blacktown, Nsw</td><td>Sydney</td><td>2026-09-27</td></tr>
+<tr><td>Luxottica Retail Australia Pty Ltd</td><td>Christmas Casual / Sunglass Hut Broadway, Nsw</td><td>Sydney</td><td>2026-09-27</td></tr>
+<tr><td>Luxottica Retail Australia Pty Ltd</td><td>Christmas Casual / Sunglass Hut Myer Bankstown, Nsw</td><td>Sydney</td><td>2026-09-27</td></tr>
+<tr><td>Luxottica Retail Australia Pty Ltd</td><td>Christmas Casual / Sunglass Hut Miranda, Nsw</td><td>Sydney</td><td>2026-09-27</td></tr>
+<tr><td>adidas AG</td><td>Casual Retail Professional - Melbourne Central Halo Store, Vic</td><td>Melbourne</td><td>2026-09-27</td></tr>
+<tr><td>Nike Inc</td><td>Casual Athlete/ Retail Associate Nike, Company Store</td><td>Melbourne</td><td>2026-09-27</td></tr>
+<tr><td>MACA</td><td>Storeperson Off Site Receipting</td><td>Welshpool</td><td>2026-09-27</td></tr>
+<tr><td>MACA</td><td>Stores Person Exchange Inventory</td><td>Welshpool</td><td>2026-09-27</td></tr>
+<tr><td>The Salvation Army</td><td>Part-time Sales Assistant - Ringwood</td><td>Melbourne</td><td>2026-09-27</td></tr>
+<tr><td>The Salvation Army</td><td>Part-time Sales Assistant - Kilsyth</td><td>Melbourne</td><td>2026-09-27</td></tr>
+<tr><td>SVHA</td><td>Support Services Associate - Operating Suite (casual)</td><td>Melbourne</td><td>2026-09-27</td></tr>
+<tr><td>H&M</td><td>Part Time Sales Advisor (strand, Melbourne) - 1 November 2026 To 31 January 2027</td><td>Melbourne</td><td>2026-09-27</td></tr>
+<tr><td>EssilorLuxottica</td><td>Christmas Casual</td><td>Mt Gravatt</td><td>2026-09-27</td></tr>
+<tr><td>Oakley</td><td>Retail Associate / Oakley Manly, Nsw</td><td>Sydney</td><td>2026-09-27</td></tr>
+<tr><td>Sunglass Hut</td><td>Christmas Casual / Sunglass Hut Wagga Wagga, Nsw</td><td>Wagga Wagga</td><td>2026-09-27</td></tr>
+<tr><td>Sunglass Hut</td><td>Christmas Casual / Sunglass Hut Qvb, Nsw</td><td>Sydney</td><td>2026-09-27</td></tr>
+<tr><td>Sunglass Hut</td><td>Christmas Casual / Sunglass Hut Tamworth, Nsw</td><td>Tamworth</td><td>2026-09-27</td></tr>
+<tr><td>OAKLEY</td><td>Christmas Casual / Oakley Manly, Nsw</td><td>Sydney</td><td>2026-09-27</td></tr>
+<tr><td>Sunglass Hut</td><td>Christmas Casual / Sunglass Hut Myer Chatswood, Nsw</td><td>Sydney</td><td>2026-09-27</td></tr>
+<tr><td>Oakley</td><td>Christmas Casual / Oakley Sydney Domestic Airport, Nsw</td><td>Sydney</td><td>2026-09-27</td></tr>
+<tr><td>EssilorLuxottica</td><td>Christmas Casual / Sunglass Hut Myer Warringah Mall, Nsw</td><td>Brookvale</td><td>2026-09-27</td></tr>
+<tr><td>Sunglass Hut</td><td>Christmas Casual / Sunglass Hut Myer Macquarie, Nsw</td><td>Macquarie</td><td>2026-09-27</td></tr>
+<tr><td>Sunglass Hut</td><td>Christmas Casual / Sunglass Hut Narellan, Nsw</td><td>Narellan</td><td>2026-09-27</td></tr>
+<tr><td>Sunglass Hut</td><td>Christmas Casual / Sunglass Hut Orange, Nsw</td><td>Orange</td><td>2026-09-27</td></tr>
+<tr><td>Sunglass Hut</td><td>Christmas Casual / Sunglass Hut Shellharbour, Nsw</td><td>Shellharbour</td><td>2026-09-27</td></tr>
+<tr><td>Sunglass Hut</td><td>Christmas Casual / Sunglass Hut Tuggerah, Nsw</td><td>Tuggerah</td><td>2026-09-27</td></tr>
+<tr><td>Sunglass Hut</td><td>Christmas Casual / Sunglass Hut Port Macquarie Central, Nsw</td><td>Port Macquarie</td><td>2026-09-27</td></tr>
+<tr><td>Sunglass Hut</td><td>Christmas Casual / Sunglass Hut Sydney Virgin Domestic Airport, Nsw</td><td>Sydney</td><td>2026-09-27</td></tr>
+<tr><td>Sunglass Hut</td><td>Christmas Casual / Sunglass Hut Myer Parramatta, Nsw</td><td>Sydney</td><td>2026-09-27</td></tr>
+<tr><td>Sunglass Hut</td><td>Christmas Casual / Sunglass Hut Myer Bondi Junction, Nsw</td><td>Sydney</td><td>2026-09-27</td></tr>
+<tr><td>Sunglass Hut</td><td>Christmas Casual / Sunglass Hut Rouse Hill, Nsw</td><td>Sydney</td><td>2026-09-27</td></tr>
+<tr><td>Oakley</td><td>Christmas Casual / Oakley Homebush Dfo, Nsw</td><td>Sydney</td><td>2026-09-27</td></tr>
+<tr><td>Sunglass Hut</td><td>Christmas Casual / Sunglass Hut Myer Eastgarden, Nsw</td><td>Eastgardens</td><td>2026-09-27</td></tr>
+<tr><td>Sunglass Hut</td><td>Christmas Casual / Sunglass Hut Myer Shellharbour, Nsw</td><td>Shellharbour</td><td>2026-09-27</td></tr>
+<tr><td>Sunglass Hut</td><td>Christmas Casual / Sunglass Hut Canberra Outlet, Act</td><td>Fyshwick</td><td>2026-09-27</td></tr>
+<tr><td>Sunglass Hut</td><td>Christmas Casual / Sunglass Hut Warringah Mall, Nsw</td><td>Brookvale</td><td>2026-09-27</td></tr>
+<tr><td>Sunglass Hut</td><td>Christmas Casual / Sunglass Hut Erina, Nsw</td><td>Erina</td><td>2026-09-27</td></tr>
+<tr><td>Sunglass Hut</td><td>Christmas Casual / Sunglass Hut Myer Albury, Nsw</td><td>Albury</td><td>2026-09-27</td></tr>
+<tr><td>Aldi Australia</td><td>Retail Assistant - Keilor Downs</td><td>Melbourne</td><td>2026-09-27</td></tr>
+<tr><td>Nespresso</td><td>Festive Casual Boutique Coffee Specialist - Chadstone</td><td>Melbourne</td><td>2026-09-27</td></tr>
+<tr><td>Aldi Australia</td><td>Retail Assistant - Springvale</td><td>Melbourne</td><td>2026-09-27</td></tr>
+<tr><td>DECJUBA</td><td>Casual Retail Assistant - Harbourtown</td><td>Harbourtown</td><td>2026-09-27</td></tr>
+<tr><td>DECJUBA</td><td>Seasonal Casual Retail Assistant - Coffs Harbour</td><td>Coffs Harbour</td><td>2026-09-27</td></tr>
+<tr><td>DECJUBA</td><td>Seasonal Casual Retail Assistant - South Wharf</td><td>South Wharf</td><td>2026-09-27</td></tr>
+<tr><td>Opal HealthCare</td><td>Customer Support Assistant - Toongabbie Terrace Care Community</td><td>Sydney</td><td>2026-09-27</td></tr>
+<tr><td>RoboFit</td><td>Administrative Assistant – Mascot</td><td>Sydney</td><td>2026-09-27</td></tr>
+<tr><td>dormakaba International Holding AG</td><td>Project Coordinator</td><td>Regency Park</td><td>2026-09-27</td></tr>
+<tr><td>Voith Group</td><td>Sh 2.0 Warehouse Administrator</td><td>Snowy</td><td>2026-09-27</td></tr>
+<tr><td>Central Queensland University</td><td>Project Coordinator</td><td>Rockhampton</td><td>2026-09-27</td></tr>
+<tr><td>St Vincent de Paul Society Australia</td><td>Business Development Specialist</td><td>Lewisham</td><td>2026-09-27</td></tr>
+<tr><td>St Vincent de Paul Society Australia</td><td>Community Development Coordinator</td><td>Wagga Wagga</td><td>2026-09-27</td></tr>
 </table>

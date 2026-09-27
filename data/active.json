@@ -1,5 +1,5 @@
 {
- "asOf": "2026-09-26",
+ "asOf": "2026-09-27",
  "count": 648,
  "jobs": {
   "54753": {
@@ -121,6 +121,12 @@
    "company": "Cummins",
    "role": "2027 Undergraduate Financial Control Internship",
    "location": "Melbourne"
+  },
+  "63df5779c946bb3cf2235932070d2eb0": {
+   "id": "63df5779c946bb3cf2235932070d2eb0",
+   "company": "Sling & Stone",
+   "role": "Slingternship",
+   "location": "Sydney"
   },
   "41ec93432bc68627fa46a53b76952ff6": {
    "id": "41ec93432bc68627fa46a53b76952ff6",
@@ -488,12 +494,6 @@
    "role": "Intern",
    "location": "Melbourne"
   },
-  "65d22c6739d6537f7c6c625b63d15d90": {
-   "id": "65d22c6739d6537f7c6c625b63d15d90",
-   "company": "solaebelgiumcareers.be",
-   "role": "Intern",
-   "location": "Melbourne"
-  },
   "1f46089dceb51333eb25746443fed4c3": {
    "id": "1f46089dceb51333eb25746443fed4c3",
    "company": "codes-lab.sydney.edu.au",
@@ -505,6 +505,36 @@
    "company": "chas.uni.edu",
    "role": "Digital Experience And Campus Support Liaison (targeted)",
    "location": "Darlington Campus"
+  },
+  "056aec004b01381ec3e152e4796eb4cc": {
+   "id": "056aec004b01381ec3e152e4796eb4cc",
+   "company": "Luxottica Retail Australia Pty Ltd",
+   "role": "Customer Support Specialist 1",
+   "location": "Sydney"
+  },
+  "fa6d0a2bff036973138945808678f1c3": {
+   "id": "fa6d0a2bff036973138945808678f1c3",
+   "company": "EssilorLuxottica SA",
+   "role": "Customer Support Specialist 1",
+   "location": "Sydney"
+  },
+  "4181ecd91f67ce906e868108dafa1e43": {
+   "id": "4181ecd91f67ce906e868108dafa1e43",
+   "company": "Medtronic PLC",
+   "role": "Associate Technical Services Specialist",
+   "location": "Sydney"
+  },
+  "8e74101dd0163042e28d4d018b5ea09d": {
+   "id": "8e74101dd0163042e28d4d018b5ea09d",
+   "company": "COMMONWEALTH BANK",
+   "role": "Staff Software Engineer, Inlife - Unloan (typescript, Next.js, Graphql, Node.js)",
+   "location": "Sydney Cbd Area"
+  },
+  "6972511afadb0215775823b54bb5945e": {
+   "id": "6972511afadb0215775823b54bb5945e",
+   "company": "COMMONWEALTH BANK",
+   "role": "Staff Software Engineer - React, Typescript",
+   "location": "Sydney Cbd Area"
   },
   "4723b5f1faf1bcb4b6c4f95f9f35d336": {
    "id": "4723b5f1faf1bcb4b6c4f95f9f35d336",
@@ -956,36 +986,6 @@
    "role": "Apple Technical Advisor - Mandarin Speaking",
    "location": "Sydney"
   },
-  "6d73fb6b890cb573c497583992da19c6": {
-   "id": "6d73fb6b890cb573c497583992da19c6",
-   "company": "Solventum",
-   "role": "Clinical Support Specialist",
-   "location": "Au"
-  },
-  "264cb2123e4e282d0219b52524bea55b": {
-   "id": "264cb2123e4e282d0219b52524bea55b",
-   "company": "Solventum Corporation",
-   "role": "Clinical Support Specialist",
-   "location": "Australia"
-  },
-  "86c504dc036cfd72659f53c3f5f29723": {
-   "id": "86c504dc036cfd72659f53c3f5f29723",
-   "company": "BioAgilytix",
-   "role": "Data Validation And Support Specialist",
-   "location": "Melbourne"
-  },
-  "14136cb957ad1cb5d77b71e698a0997b": {
-   "id": "14136cb957ad1cb5d77b71e698a0997b",
-   "company": "NTT Communications",
-   "role": "Service Delivery Service Desk Analyst",
-   "location": "Sydney"
-  },
-  "0420b9b2957068573326c96695785f7b": {
-   "id": "0420b9b2957068573326c96695785f7b",
-   "company": "NTT DATA",
-   "role": "Service Delivery Service Desk Analyst",
-   "location": "Sydney"
-  },
   "b597a62a29fa85fd28816a5c9337a9a6": {
    "id": "b597a62a29fa85fd28816a5c9337a9a6",
    "company": "Leidos UK",
@@ -1015,6 +1015,18 @@
    "company": "CommBank",
    "role": "Expression Of Interest: Data Scientist – Institutional Banking",
    "location": "Sydney Cbd Area"
+  },
+  "3e39a1931b70575dda0c8621cbdf20dd": {
+   "id": "3e39a1931b70575dda0c8621cbdf20dd",
+   "company": "Westpac Group",
+   "role": "Ai Engineer - Intelligence & Protection",
+   "location": "Sydney"
+  },
+  "19ec9cf0bc650ea004459ddaf90157b6": {
+   "id": "19ec9cf0bc650ea004459ddaf90157b6",
+   "company": "Westpac Group",
+   "role": "Ai Engineer - Ai Services",
+   "location": "Sydney"
   },
   "b1f0950682b42e0bd417bde28657f076": {
    "id": "b1f0950682b42e0bd417bde28657f076",
@@ -1478,18 +1490,6 @@
    "role": "Business Intelligence Data Modeller & Analyst (temporary Opportunity - Up To 12 Months)",
    "location": "Sydney"
   },
-  "ab7d0d874bba0b8e490d90556f349a21": {
-   "id": "ab7d0d874bba0b8e490d90556f349a21",
-   "company": "transport.nsw.gov.au",
-   "role": "Business Intelligence Developer",
-   "location": "New South Wales"
-  },
-  "cc310454e76cf8fdbdb2fb1a6772769e": {
-   "id": "cc310454e76cf8fdbdb2fb1a6772769e",
-   "company": "Babcock International",
-   "role": "Data Analyst",
-   "location": "Sydney"
-  },
   "af15f07adf6e8400bcfe1b054921d425": {
    "id": "af15f07adf6e8400bcfe1b054921d425",
    "company": "Cummins",
@@ -1501,6 +1501,18 @@
    "company": "Central Gippsland Health",
    "role": "Graduate Accountant",
    "location": "Sale"
+  },
+  "fe36844da19da0f7a0a20576768c565b": {
+   "id": "fe36844da19da0f7a0a20576768c565b",
+   "company": "Heidelberg Materials",
+   "role": "Group Reporting Accountant",
+   "location": "Sydney"
+  },
+  "1ecc2c68eef474386ff34c032a909553": {
+   "id": "1ecc2c68eef474386ff34c032a909553",
+   "company": "DXC Technology Australia",
+   "role": "Audit And Compliance Officer",
+   "location": "Any City"
   },
   "b487c18510982d0ff965ff7bedb72e69": {
    "id": "b487c18510982d0ff965ff7bedb72e69",
@@ -1963,18 +1975,6 @@
    "company": "Downer EDI",
    "role": "Financial Analyst - Cash And Working Capital",
    "location": "Sydney"
-  },
-  "102dbcc41c7547c45409a0b2ed4e74b2": {
-   "id": "102dbcc41c7547c45409a0b2ed4e74b2",
-   "company": "Spotless",
-   "role": "Financial Analyst - Cash And Working Capital",
-   "location": "Sydney"
-  },
-  "05f9c2ddee90814e18c52b13c035e030": {
-   "id": "05f9c2ddee90814e18c52b13c035e030",
-   "company": "Coles Supermarkets Australia Pty Ltd",
-   "role": "Business Analyst, Srm",
-   "location": "Australia"
   },
   "1e8411889f1cb516908138defbe9159b": {
    "id": "1e8411889f1cb516908138defbe9159b",
@@ -2456,6 +2456,60 @@
    "role": "Registered Nurse - Critical Care Services (icu)",
    "location": "Maroochydore"
   },
+  "6fead9ad34c7a10cafc1deddd9fbce40": {
+   "id": "6fead9ad34c7a10cafc1deddd9fbce40",
+   "company": "Stryker Corp",
+   "role": "Associate Field Service Engineer",
+   "location": "Maroochydore"
+  },
+  "3cd201e036ed1823eb0e9f8309416f27": {
+   "id": "3cd201e036ed1823eb0e9f8309416f27",
+   "company": "Stryker Corp",
+   "role": "Field Service Engineer",
+   "location": "Melbourne"
+  },
+  "8f4370e9d52cab021a05c0ebb3c0947c": {
+   "id": "8f4370e9d52cab021a05c0ebb3c0947c",
+   "company": "Stryker Corp",
+   "role": "Field Service Engineer - Nsw",
+   "location": "Sydney"
+  },
+  "e693ee526639afebf814d8126c19e803": {
+   "id": "e693ee526639afebf814d8126c19e803",
+   "company": "Stryker Corp",
+   "role": "Casual Field Service Engineer",
+   "location": "Brisbane"
+  },
+  "d16e71927031a49a16dfd3cfb9f3a138": {
+   "id": "d16e71927031a49a16dfd3cfb9f3a138",
+   "company": "Komatsu Marketing Support Australia Pty Ltd",
+   "role": "Technician - Field Service",
+   "location": "Darwin"
+  },
+  "1cd9ac51ccae440cf5257f450470d9a1": {
+   "id": "1cd9ac51ccae440cf5257f450470d9a1",
+   "company": "Komatsu Marketing Support Australia Pty Ltd",
+   "role": "Autonomous Haulage System (ahs) - Site Specialist",
+   "location": "Pilbara"
+  },
+  "86a19ebe6fa5be1bc0832693dedac1d8": {
+   "id": "86a19ebe6fa5be1bc0832693dedac1d8",
+   "company": "Heidelberg Materials",
+   "role": "Concrete Field Technician / Warabrook",
+   "location": "Warabrook"
+  },
+  "c51f2220439f732709b6b5c875d1e08e": {
+   "id": "c51f2220439f732709b6b5c875d1e08e",
+   "company": "Xylem Inc.",
+   "role": "Service Center Technician",
+   "location": "Darwin"
+  },
+  "aa30631f78fa30b96f3d07b3148a707b": {
+   "id": "aa30631f78fa30b96f3d07b3148a707b",
+   "company": "Dentaply Sirona Contact US",
+   "role": "Service Technician",
+   "location": "Murarrie"
+  },
   "211ebe27179cf9a69bcdfc2b02b2edc3": {
    "id": "211ebe27179cf9a69bcdfc2b02b2edc3",
    "company": "Ricoh Australia",
@@ -2798,12 +2852,6 @@
    "role": "Technician - Field Service / Site Support",
    "location": "Townsville"
   },
-  "96f06f16dd3a8746dac0f803f2da2503": {
-   "id": "96f06f16dd3a8746dac0f803f2da2503",
-   "company": "Komatsu Marketing Support Australia Pty Ltd",
-   "role": "Technician - Field Service",
-   "location": "Geraldton"
-  },
   "3a120a191b2f1ee1f327ad5c0e06b16a": {
    "id": "3a120a191b2f1ee1f327ad5c0e06b16a",
    "company": "Komatsu Marketing Support Australia Pty Ltd",
@@ -2882,53 +2930,311 @@
    "role": "Field Service Technician",
    "location": "Sumner Park"
   },
-  "b54e2f5bc8c706ef0f0431f5d70f9a06": {
-   "id": "b54e2f5bc8c706ef0f0431f5d70f9a06",
-   "company": "BHP INNOVATION Pty Ltd",
-   "role": "Conveyor Belt Technician (mhs) (underground) - Carrapateena - Fifo",
-   "location": "Carrapateena"
+  "a6e7b8a6da3427fa8723fcc8a291ba9d": {
+   "id": "a6e7b8a6da3427fa8723fcc8a291ba9d",
+   "company": "Luxottica Retail Australia Pty Ltd",
+   "role": "Christmas Casual / Sunglass Hut Warringah Mall, Nsw",
+   "location": "Brookvale"
   },
-  "66e1cb6d2b5ec368ce0137d9b2aff0d5": {
-   "id": "66e1cb6d2b5ec368ce0137d9b2aff0d5",
-   "company": "Iluka Resources Limited",
-   "role": "Mechanical Technician",
-   "location": "Eneabba"
+  "9ab8d9b1143e18925cba10dacb67bba5": {
+   "id": "9ab8d9b1143e18925cba10dacb67bba5",
+   "company": "Luxottica Retail Australia Pty Ltd",
+   "role": "Christmas Casual / Sunglass Hut Port Macquarie Central, Nsw",
+   "location": "Port Macquarie"
   },
-  "b79d064f95841aaf3f922491bf4d0867": {
-   "id": "b79d064f95841aaf3f922491bf4d0867",
-   "company": "Ingersoll Rand PLC",
-   "role": "Service Technician",
-   "location": "Kalgoorlie"
+  "7cb0a55fac58642c74bf4b0f3a546228": {
+   "id": "7cb0a55fac58642c74bf4b0f3a546228",
+   "company": "Luxottica Retail Australia Pty Ltd",
+   "role": "Christmas Casual / Sunglass Hut Orange, Nsw",
+   "location": "Orange"
   },
-  "574e619e652743cfd412f72068020a23": {
-   "id": "574e619e652743cfd412f72068020a23",
-   "company": "APA",
-   "role": "Mechanical Technician",
-   "location": "Diamantina"
+  "0e3a7b55ef710087ef0e8399e68de385": {
+   "id": "0e3a7b55ef710087ef0e8399e68de385",
+   "company": "Luxottica Retail Australia Pty Ltd",
+   "role": "Christmas Casual / Sunglass Hut Myer Shellharbour, Nsw",
+   "location": "Shellharbour"
   },
-  "72332f0909729a88105a63edaa6b9d59": {
-   "id": "72332f0909729a88105a63edaa6b9d59",
-   "company": "252",
-   "role": "Service Technician",
-   "location": "Murarrie"
+  "274721cafdbd249a338faa0216fbd02f": {
+   "id": "274721cafdbd249a338faa0216fbd02f",
+   "company": "Sunglass Hut",
+   "role": "Christmas Casual / Sunglass Hut Narellan, Nsw",
+   "location": "Narellan"
   },
-  "ba48ef09ac18db8c38bc4579cdb612da": {
-   "id": "ba48ef09ac18db8c38bc4579cdb612da",
-   "company": "Carrier Corporation",
-   "role": "Bms Service Technician",
-   "location": "Lease 4g"
+  "2a5e83df963b7b4d9cff96683bcc0bbe": {
+   "id": "2a5e83df963b7b4d9cff96683bcc0bbe",
+   "company": "Sunglass Hut",
+   "role": "Christmas Casual / Sunglass Hut Myer Warringah Mall, Nsw",
+   "location": "Brookvale"
   },
-  "4b097e10b8fc54466e21d2b42be19193": {
-   "id": "4b097e10b8fc54466e21d2b42be19193",
-   "company": "Carrier Corporation",
-   "role": "Transport Refrigeration Service Technician",
-   "location": "Australia"
+  "03162ea02420ca95e8ff7e96084e33b2": {
+   "id": "03162ea02420ca95e8ff7e96084e33b2",
+   "company": "Luxottica Retail Australia Pty Ltd",
+   "role": "Christmas Casual / Sunglass Hut Wagga Wagga, Nsw",
+   "location": "Wagga Wagga"
   },
-  "be4df3b1b888918139a937c629a2bc17": {
-   "id": "be4df3b1b888918139a937c629a2bc17",
-   "company": "GLEN DIMPLEX AU",
-   "role": "Field Service Technician [wa]",
-   "location": "Western Australia"
+  "2eff590e5b91254eb1b8f5b4e3e1c23d": {
+   "id": "2eff590e5b91254eb1b8f5b4e3e1c23d",
+   "company": "Sunglass Hut",
+   "role": "Christmas Casual / Sunglass Hut Tamworth, Nsw",
+   "location": "Tamworth"
+  },
+  "5ad9c22f697ba26467cbd700339ce245": {
+   "id": "5ad9c22f697ba26467cbd700339ce245",
+   "company": "Luxottica Retail Australia Pty Ltd",
+   "role": "Christmas Casual / Sunglass Hut Myer Eastgarden, Nsw",
+   "location": "Eastgardens"
+  },
+  "da18606db4d00a207ababba108383ff1": {
+   "id": "da18606db4d00a207ababba108383ff1",
+   "company": "Sunglass Hut",
+   "role": "Christmas Casual / Sunglass Hut Myer Macquarie, Nsw",
+   "location": "Macquarie"
+  },
+  "965f5e7ca9655ad223ba4f2af34082fc": {
+   "id": "965f5e7ca9655ad223ba4f2af34082fc",
+   "company": "Luxottica Retail Australia Pty Ltd",
+   "role": "Christmas Casual / Sunglass Hut Tuggerah, Nsw",
+   "location": "Tuggerah"
+  },
+  "449aa24b7fbac767f21294fffdf4bdf2": {
+   "id": "449aa24b7fbac767f21294fffdf4bdf2",
+   "company": "Luxottica Retail Australia Pty Ltd",
+   "role": "Christmas Casual / Sunglass Hut Shellharbour, Nsw",
+   "location": "Shellharbour"
+  },
+  "2ffc1079bbcfa1ce450dce0c21086249": {
+   "id": "2ffc1079bbcfa1ce450dce0c21086249",
+   "company": "Luxottica Retail Australia Pty Ltd",
+   "role": "Christmas Casual / Sunglass Hut Sydney Qantas Domestic Airport, Nsw",
+   "location": "Sydney"
+  },
+  "de35a11d8b988a67e3fb61af0a711a82": {
+   "id": "de35a11d8b988a67e3fb61af0a711a82",
+   "company": "Luxottica Retail Australia Pty Ltd",
+   "role": "Christmas Casual / Sunglass Hut Sydney Flagship, Nsw",
+   "location": "Sydney"
+  },
+  "1ef64e70eb8ac68d6b6d87f60cb4449e": {
+   "id": "1ef64e70eb8ac68d6b6d87f60cb4449e",
+   "company": "Luxottica Retail Australia Pty Ltd",
+   "role": "Christmas Casual / Oakley Homebush Dfo, Nsw",
+   "location": "Sydney"
+  },
+  "e7b667c12f48738c68ab73f6d5b74d05": {
+   "id": "e7b667c12f48738c68ab73f6d5b74d05",
+   "company": "Luxottica Retail Australia Pty Ltd",
+   "role": "Christmas Casual / Sunglass Hut Parramatta, Nsw",
+   "location": "Sydney"
+  },
+  "7e4b212bd4707b4545e9ea2b3890b16e": {
+   "id": "7e4b212bd4707b4545e9ea2b3890b16e",
+   "company": "Sunglass Hut",
+   "role": "Christmas Casual / Sunglass Hut Myer Bondi Junction, Nsw",
+   "location": "Sydney"
+  },
+  "ee27a8b3335e38232ab9bd1064066046": {
+   "id": "ee27a8b3335e38232ab9bd1064066046",
+   "company": "Luxottica Retail Australia Pty Ltd",
+   "role": "Christmas Casual / Sunglass Hut Rouse Hill, Nsw",
+   "location": "Sydney"
+  },
+  "3f9b97c617d20bd23003dca7ed94d305": {
+   "id": "3f9b97c617d20bd23003dca7ed94d305",
+   "company": "Sunglass Hut",
+   "role": "Christmas Casual / Sunglass Hut Sydney Int'l Airport, Nsw",
+   "location": "Sydney"
+  },
+  "cdbf48dcf7a0cc0518a0e95370293d32": {
+   "id": "cdbf48dcf7a0cc0518a0e95370293d32",
+   "company": "Sunglass Hut",
+   "role": "Christmas Casual / Sunglass Hut Sydney Virgin Domestic Airport, Nsw",
+   "location": "Sydney"
+  },
+  "91f18ba547e8f287caf74c3708688739": {
+   "id": "91f18ba547e8f287caf74c3708688739",
+   "company": "Luxottica Retail Australia Pty Ltd",
+   "role": "Christmas Casual / Oakley Manly, Nsw",
+   "location": "Sydney"
+  },
+  "ad3a6fbf51a649c7d842ac137a3bad0d": {
+   "id": "ad3a6fbf51a649c7d842ac137a3bad0d",
+   "company": "Sunglass Hut",
+   "role": "Christmas Casual / Sunglass Hut Myer Castle Hill, Nsw",
+   "location": "Sydney"
+  },
+  "58a1fc2bd9ee065c9d65575566ab5be2": {
+   "id": "58a1fc2bd9ee065c9d65575566ab5be2",
+   "company": "Sunglass Hut",
+   "role": "Christmas Casual / Sunglass Hut Myer Chatswood, Nsw",
+   "location": "Sydney"
+  },
+  "0a57166a8f8a12173ccba599b5323f8f": {
+   "id": "0a57166a8f8a12173ccba599b5323f8f",
+   "company": "Luxottica Retail Australia Pty Ltd",
+   "role": "Christmas Casual / Sunglass Hut Myer Parramatta, Nsw",
+   "location": "Sydney"
+  },
+  "b866f616a2aec0de7b55857e7476c55a": {
+   "id": "b866f616a2aec0de7b55857e7476c55a",
+   "company": "Luxottica Retail Australia Pty Ltd",
+   "role": "Christmas Casual / Oakley Sydney George Street, Nsw",
+   "location": "Sydney"
+  },
+  "9e6aa253f0005b5997bd886edb45196f": {
+   "id": "9e6aa253f0005b5997bd886edb45196f",
+   "company": "Luxottica Retail Australia Pty Ltd",
+   "role": "Christmas Casual / Oakley Sydney Domestic Airport, Nsw",
+   "location": "Sydney"
+  },
+  "8005e1c215bfd3123c9d32e01661a938": {
+   "id": "8005e1c215bfd3123c9d32e01661a938",
+   "company": "Luxottica Retail Australia Pty Ltd",
+   "role": "Christmas Casual / Sunglass Hut Qvb, Nsw",
+   "location": "Sydney"
+  },
+  "4196931c0e860cded3e738cd7eb4b7fb": {
+   "id": "4196931c0e860cded3e738cd7eb4b7fb",
+   "company": "Sunglass Hut",
+   "role": "Christmas Casual / Sunglass Hut Myer Miranda, Nsw",
+   "location": "Sydney"
+  },
+  "2714b7a9c5c6f9ee5ad359fbef2391b4": {
+   "id": "2714b7a9c5c6f9ee5ad359fbef2391b4",
+   "company": "OPSM",
+   "role": "Associate Dispenser I Opsm I Casual I Port Lincoln, Sa",
+   "location": "Port Lincoln"
+  },
+  "b288a616ece36ce656fc1a7d9fde82f8": {
+   "id": "b288a616ece36ce656fc1a7d9fde82f8",
+   "company": "EssilorLuxottica SA",
+   "role": "Christmas Casual",
+   "location": "Mt Gravatt"
+  },
+  "d5f8191498b48a35a5076912c2c5026a": {
+   "id": "d5f8191498b48a35a5076912c2c5026a",
+   "company": "Sunglass Hut",
+   "role": "Retail Associate / Sunglass Hut / C / Vic / Dfo Southwharf",
+   "location": "South Wharf"
+  },
+  "fcf05663a2ac1f76fe1b1859d6eca3eb": {
+   "id": "fcf05663a2ac1f76fe1b1859d6eca3eb",
+   "company": "Oakley",
+   "role": "Retail Associate / Oakley Manly, Nsw",
+   "location": "Sydney"
+  },
+  "4bf7aff1ae4356ecbb7cf44ca768a37a": {
+   "id": "4bf7aff1ae4356ecbb7cf44ca768a37a",
+   "company": "Sunglass Hut",
+   "role": "Christmas Casual / Sunglass Hut Warringah Mall, Nsw",
+   "location": "Brookvale"
+  },
+  "175fc7c5c5a6405f9fc1009a36246846": {
+   "id": "175fc7c5c5a6405f9fc1009a36246846",
+   "company": "Sunglass Hut",
+   "role": "Christmas Casual / Sunglass Hut Port Macquarie Central, Nsw",
+   "location": "Port Macquarie"
+  },
+  "f9b56949be08e2d4632e787d3883caae": {
+   "id": "f9b56949be08e2d4632e787d3883caae",
+   "company": "Sunglass Hut",
+   "role": "Christmas Casual / Sunglass Hut Shellharbour, Nsw",
+   "location": "Shellharbour"
+  },
+  "9a0cfbccca665299143e4be1e0976a20": {
+   "id": "9a0cfbccca665299143e4be1e0976a20",
+   "company": "Sunglass Hut",
+   "role": "Christmas Casual / Sunglass Hut Tuggerah, Nsw",
+   "location": "Tuggerah"
+  },
+  "f2d87a1b55ae19518516c033d1431f3a": {
+   "id": "f2d87a1b55ae19518516c033d1431f3a",
+   "company": "Sunglass Hut",
+   "role": "Christmas Casual / Sunglass Hut Wagga Wagga, Nsw",
+   "location": "Wagga Wagga"
+  },
+  "b0ba28e57520d2f3facffb100b9decdd": {
+   "id": "b0ba28e57520d2f3facffb100b9decdd",
+   "company": "Sunglass Hut",
+   "role": "Christmas Casual / Sunglass Hut Myer Eastgarden, Nsw",
+   "location": "Eastgardens"
+  },
+  "9707f92766b5352bc0f17eba44651d32": {
+   "id": "9707f92766b5352bc0f17eba44651d32",
+   "company": "Sunglass Hut",
+   "role": "Christmas Casual / Sunglass Hut Sydney Qantas Domestic Airport, Nsw",
+   "location": "Sydney"
+  },
+  "f739faa61d1f9ef8d89a6124bb60d07f": {
+   "id": "f739faa61d1f9ef8d89a6124bb60d07f",
+   "company": "Oakley",
+   "role": "Christmas Casual / Oakley Manly, Nsw",
+   "location": "Sydney"
+  },
+  "454c78eca3d7b08039824606aa323a28": {
+   "id": "454c78eca3d7b08039824606aa323a28",
+   "company": "Oakley",
+   "role": "Christmas Casual / Oakley Homebush Dfo, Nsw",
+   "location": "Sydney"
+  },
+  "0c04a5c9e7fb559815a9e110fccd0749": {
+   "id": "0c04a5c9e7fb559815a9e110fccd0749",
+   "company": "Oakley",
+   "role": "Christmas Casual / Oakley Sydney George Street, Nsw",
+   "location": "Sydney"
+  },
+  "17b79e618b39238d1855b95a05f6288e": {
+   "id": "17b79e618b39238d1855b95a05f6288e",
+   "company": "Sunglass Hut",
+   "role": "Christmas Casual / Sunglass Hut Qvb, Nsw",
+   "location": "Sydney"
+  },
+  "d492c55fafe53fa1b1337c6a20342e52": {
+   "id": "d492c55fafe53fa1b1337c6a20342e52",
+   "company": "Oakley",
+   "role": "Christmas Casual / Oakley Sydney Domestic Airport, Nsw",
+   "location": "Sydney"
+  },
+  "68ea538a6e858d668ad4ab7569dd1d14": {
+   "id": "68ea538a6e858d668ad4ab7569dd1d14",
+   "company": "Nike Inc.",
+   "role": "Part Time Athlete/retail Associate , Nike Melbourne",
+   "location": "Melbourne"
+  },
+  "7431da89857ef362abae3747e908b4dd": {
+   "id": "7431da89857ef362abae3747e908b4dd",
+   "company": "Nike Inc.",
+   "role": "Fulltime Athlete/retail Associate, Nike Melbourne",
+   "location": "Melbourne"
+  },
+  "565f52bb7f3ce9a8d0c72914c8d077e8": {
+   "id": "565f52bb7f3ce9a8d0c72914c8d077e8",
+   "company": "Nike Inc.",
+   "role": "Full Time Athlete/retail Associate, Nike Uni Hill",
+   "location": "Melbourne"
+  },
+  "90a1be4d57c442ace384b41745ba01c4": {
+   "id": "90a1be4d57c442ace384b41745ba01c4",
+   "company": "Brooks Automation Inc",
+   "role": "Warehouse Assistant (casual)",
+   "location": "Brisbane"
+  },
+  "7b7803adaa1095b333b0f67af1e5e048": {
+   "id": "7b7803adaa1095b333b0f67af1e5e048",
+   "company": "COMMONWEALTH BANK",
+   "role": "Customer Banking Specialist - Melbourne South East - Part Time & Full Time",
+   "location": "Melbourne"
+  },
+  "086fc71b7674addf2ce59e6684081aaf": {
+   "id": "086fc71b7674addf2ce59e6684081aaf",
+   "company": "adidas AG",
+   "role": "Full Time Retail Professional - Essendon Dfo Factory Outlet, Vic",
+   "location": "Melbourne"
+  },
+  "263d573a8b2c3a7665aebc5840dd59ff": {
+   "id": "263d573a8b2c3a7665aebc5840dd59ff",
+   "company": "adidas AG",
+   "role": "Full-time Retail Professional - South Wharf Dfo, Vic",
+   "location": "Melbourne"
   },
   "16bcdb6e3f101786f4d9b1a0a6110fd8": {
    "id": "16bcdb6e3f101786f4d9b1a0a6110fd8",
@@ -3104,311 +3410,47 @@
    "role": "Christmas Casual / Sunglass Hut Bondi Junction Kiosk, Nsw",
    "location": "Sydney"
   },
-  "4d8bbc69e7c5f3c79ab67e3733ad2313": {
-   "id": "4d8bbc69e7c5f3c79ab67e3733ad2313",
-   "company": "Luxottica Retail Australia Pty Ltd",
-   "role": "Christmas Casual / Sunglass Hut Bankstown, Nsw",
-   "location": "Sydney"
-  },
-  "415379d9c317bc8efc991dd6efe7700e": {
-   "id": "415379d9c317bc8efc991dd6efe7700e",
-   "company": "Luxottica Retail Australia Pty Ltd",
-   "role": "Christmas Casual / Sunglass Hut Miranda 2, Nsw",
-   "location": "Sydney"
-  },
-  "803ff698850f12de98bb28f74c9210f0": {
-   "id": "803ff698850f12de98bb28f74c9210f0",
-   "company": "Luxottica Retail Australia Pty Ltd",
-   "role": "Christmas Casual / Sunglass Hut Bondi Junction, Nsw",
-   "location": "Sydney"
-  },
-  "a776cd32060da191989cb88c9450fa6f": {
-   "id": "a776cd32060da191989cb88c9450fa6f",
-   "company": "Sunglass Hut",
-   "role": "Christmas Casual / Sunglass Hut Homebush Dfo, Nsw",
-   "location": "Sydney"
-  },
-  "bff0caea9f95da1ee02ccabf1f08f5f3": {
-   "id": "bff0caea9f95da1ee02ccabf1f08f5f3",
-   "company": "Sunglass Hut",
-   "role": "Christmas Casual / Sunglass Hut Hornsby, Nsw",
-   "location": "Sydney"
-  },
-  "1e1a9fbd614b5db8aea707379fa1834a": {
-   "id": "1e1a9fbd614b5db8aea707379fa1834a",
-   "company": "Luxottica Retail Australia Pty Ltd",
-   "role": "Christmas Casual / Sunglass Hut Burwood, Nsw",
-   "location": "Sydney"
-  },
-  "ec034b722b2b42db98cb3653630b21a9": {
-   "id": "ec034b722b2b42db98cb3653630b21a9",
-   "company": "Sunglass Hut",
-   "role": "Christmas Casual / Sunglass Hut Chatswood, Nsw",
-   "location": "Sydney"
-  },
-  "c7c5714e5427999a709ac2bce253c030": {
-   "id": "c7c5714e5427999a709ac2bce253c030",
-   "company": "Luxottica Retail Australia Pty Ltd",
-   "role": "Christmas Casual / Sunglass Hut Blacktown, Nsw",
-   "location": "Sydney"
-  },
-  "07c99b4df3cc9e4d4517d4cc66e0270a": {
-   "id": "07c99b4df3cc9e4d4517d4cc66e0270a",
-   "company": "Luxottica Retail Australia Pty Ltd",
-   "role": "Christmas Casual / Sunglass Hut Broadway, Nsw",
-   "location": "Sydney"
-  },
-  "39c7d6c176fe52939fe6b6b28338a81d": {
-   "id": "39c7d6c176fe52939fe6b6b28338a81d",
-   "company": "Luxottica Retail Australia Pty Ltd",
-   "role": "Christmas Casual / Sunglass Hut Myer Bankstown, Nsw",
-   "location": "Sydney"
-  },
-  "f27595d44371f98c79bc0e5a25f82aa4": {
-   "id": "f27595d44371f98c79bc0e5a25f82aa4",
-   "company": "Luxottica Retail Australia Pty Ltd",
-   "role": "Christmas Casual / Sunglass Hut Miranda, Nsw",
-   "location": "Sydney"
-  },
-  "7ca4f41007936e304adf32e6f5937aab": {
-   "id": "7ca4f41007936e304adf32e6f5937aab",
-   "company": "adidas AG",
-   "role": "Casual Retail Professional - Melbourne Central Halo Store, Vic",
-   "location": "Melbourne"
-  },
-  "2df0d027ead779ad774c96c1ff944174": {
-   "id": "2df0d027ead779ad774c96c1ff944174",
-   "company": "Nike Inc",
-   "role": "Casual Athlete/ Retail Associate Nike, Company Store",
-   "location": "Melbourne"
-  },
-  "20bac428b4a0edcebf2ef343d7133b76": {
-   "id": "20bac428b4a0edcebf2ef343d7133b76",
-   "company": "MACA",
-   "role": "Storeperson Off Site Receipting",
-   "location": "Welshpool"
-  },
-  "4f6dbfe415811da791e4fc2a3ccb9999": {
-   "id": "4f6dbfe415811da791e4fc2a3ccb9999",
-   "company": "MACA",
-   "role": "Stores Person Exchange Inventory",
-   "location": "Welshpool"
-  },
-  "2065eebee0f09573f8a4abd0ffd623d3": {
-   "id": "2065eebee0f09573f8a4abd0ffd623d3",
-   "company": "The Salvation Army",
-   "role": "Part-time Sales Assistant - Ringwood",
-   "location": "Melbourne"
-  },
-  "9f26823c1df244a3279cec493aec1e1d": {
-   "id": "9f26823c1df244a3279cec493aec1e1d",
-   "company": "The Salvation Army",
-   "role": "Part-time Sales Assistant - Kilsyth",
-   "location": "Melbourne"
-  },
-  "09f6e416be2446806e094832829d5ced": {
-   "id": "09f6e416be2446806e094832829d5ced",
-   "company": "SVHA",
-   "role": "Support Services Associate - Operating Suite (casual)",
-   "location": "Melbourne"
-  },
-  "fc6516bce359d5302c5b2cfee601aaa3": {
-   "id": "fc6516bce359d5302c5b2cfee601aaa3",
-   "company": "H&M",
-   "role": "Part Time Sales Advisor (strand, Melbourne) - 1 November 2026 To 31 January 2027",
-   "location": "Melbourne"
-  },
-  "19ceca8479f68fa65a6086a7a57df850": {
-   "id": "19ceca8479f68fa65a6086a7a57df850",
-   "company": "EssilorLuxottica",
-   "role": "Christmas Casual",
-   "location": "Mt Gravatt"
-  },
-  "1590072122633e86d58a9de71308b9fd": {
-   "id": "1590072122633e86d58a9de71308b9fd",
-   "company": "Oakley",
-   "role": "Retail Associate / Oakley Manly, Nsw",
-   "location": "Sydney"
-  },
-  "d4076a67c5ca9d8c1e3baae53882ec12": {
-   "id": "d4076a67c5ca9d8c1e3baae53882ec12",
-   "company": "Sunglass Hut",
-   "role": "Christmas Casual / Sunglass Hut Wagga Wagga, Nsw",
+  "7d9ae31d4eea44cb4841b3a38a6c2a74": {
+   "id": "7d9ae31d4eea44cb4841b3a38a6c2a74",
+   "company": "dcj.nsw.gov.au",
+   "role": "Administration Assistant - Riverina Youth Justice Centre, Youth Justice",
    "location": "Wagga Wagga"
   },
-  "98c14ae08a3385fb6ca131ed0daa55b3": {
-   "id": "98c14ae08a3385fb6ca131ed0daa55b3",
-   "company": "Sunglass Hut",
-   "role": "Christmas Casual / Sunglass Hut Qvb, Nsw",
+  "21fef65f90a4f299d7ed0969366a57ee": {
+   "id": "21fef65f90a4f299d7ed0969366a57ee",
+   "company": "Heidelberg Materials",
+   "role": "Administration Assistant",
+   "location": "Perth"
+  },
+  "527696fc7c5e20915709543845e990c0": {
+   "id": "527696fc7c5e20915709543845e990c0",
+   "company": "Heidelberg Materials",
+   "role": "Weighbridge & Logistics Coordinator / Sancrox",
+   "location": "Sancrox"
+  },
+  "6eb089913e39e13c5d2a266d7751927e": {
+   "id": "6eb089913e39e13c5d2a266d7751927e",
+   "company": "Blackstone Inc.",
+   "role": "Institutional Client Solutions - Executive Assistant - Sydney",
    "location": "Sydney"
   },
-  "64c896ef05b7d5b028c0bdfbde209d67": {
-   "id": "64c896ef05b7d5b028c0bdfbde209d67",
-   "company": "Sunglass Hut",
-   "role": "Christmas Casual / Sunglass Hut Tamworth, Nsw",
-   "location": "Tamworth"
+  "476d72b2823cf7f40a67ae570f8b8536": {
+   "id": "476d72b2823cf7f40a67ae570f8b8536",
+   "company": "Beefy's Pies",
+   "role": "Administration Assistant",
+   "location": "Kunda Park"
   },
-  "24d3b7560fb5eeaafe8a736485c406ce": {
-   "id": "24d3b7560fb5eeaafe8a736485c406ce",
-   "company": "OAKLEY",
-   "role": "Christmas Casual / Oakley Manly, Nsw",
-   "location": "Sydney"
-  },
-  "52e954be7f1c18950b74ae24dac5a5a1": {
-   "id": "52e954be7f1c18950b74ae24dac5a5a1",
-   "company": "Sunglass Hut",
-   "role": "Christmas Casual / Sunglass Hut Myer Chatswood, Nsw",
-   "location": "Sydney"
-  },
-  "be79fae38b5c147bf681c608da15edfd": {
-   "id": "be79fae38b5c147bf681c608da15edfd",
-   "company": "Oakley",
-   "role": "Christmas Casual / Oakley Sydney Domestic Airport, Nsw",
-   "location": "Sydney"
-  },
-  "707a1bad708a4bbd65642be13036ed40": {
-   "id": "707a1bad708a4bbd65642be13036ed40",
-   "company": "EssilorLuxottica",
-   "role": "Christmas Casual / Sunglass Hut Myer Warringah Mall, Nsw",
-   "location": "Brookvale"
-  },
-  "2584cc0e24a4c83853518c9a324c5912": {
-   "id": "2584cc0e24a4c83853518c9a324c5912",
-   "company": "Sunglass Hut",
-   "role": "Christmas Casual / Sunglass Hut Myer Macquarie, Nsw",
-   "location": "Macquarie"
-  },
-  "d0ad732a6d18b4a5ab5713dfd9307243": {
-   "id": "d0ad732a6d18b4a5ab5713dfd9307243",
-   "company": "Sunglass Hut",
-   "role": "Christmas Casual / Sunglass Hut Narellan, Nsw",
-   "location": "Narellan"
-  },
-  "424b3a1a1673d61f74844b58186bb49e": {
-   "id": "424b3a1a1673d61f74844b58186bb49e",
-   "company": "Sunglass Hut",
-   "role": "Christmas Casual / Sunglass Hut Orange, Nsw",
-   "location": "Orange"
-  },
-  "f93c6e29e1c9dccbab508ce549f7b0f8": {
-   "id": "f93c6e29e1c9dccbab508ce549f7b0f8",
-   "company": "Sunglass Hut",
-   "role": "Christmas Casual / Sunglass Hut Shellharbour, Nsw",
-   "location": "Shellharbour"
-  },
-  "0160a8828aea5ea2e81c12dd73d51240": {
-   "id": "0160a8828aea5ea2e81c12dd73d51240",
-   "company": "Sunglass Hut",
-   "role": "Christmas Casual / Sunglass Hut Tuggerah, Nsw",
-   "location": "Tuggerah"
-  },
-  "44f7a4692cb7adf3c37c5505479d5373": {
-   "id": "44f7a4692cb7adf3c37c5505479d5373",
-   "company": "Sunglass Hut",
-   "role": "Christmas Casual / Sunglass Hut Port Macquarie Central, Nsw",
-   "location": "Port Macquarie"
-  },
-  "b804bbb085387b7461265aa11a64ae7e": {
-   "id": "b804bbb085387b7461265aa11a64ae7e",
-   "company": "Sunglass Hut",
-   "role": "Christmas Casual / Sunglass Hut Sydney Virgin Domestic Airport, Nsw",
-   "location": "Sydney"
-  },
-  "ec561f99391ca41caed0e44737747381": {
-   "id": "ec561f99391ca41caed0e44737747381",
-   "company": "Sunglass Hut",
-   "role": "Christmas Casual / Sunglass Hut Myer Parramatta, Nsw",
-   "location": "Sydney"
-  },
-  "1d1e89130f11b4c6a4ff1753ccffd7aa": {
-   "id": "1d1e89130f11b4c6a4ff1753ccffd7aa",
-   "company": "Sunglass Hut",
-   "role": "Christmas Casual / Sunglass Hut Myer Bondi Junction, Nsw",
-   "location": "Sydney"
-  },
-  "321991d97df25e08b267ead619832869": {
-   "id": "321991d97df25e08b267ead619832869",
-   "company": "Sunglass Hut",
-   "role": "Christmas Casual / Sunglass Hut Rouse Hill, Nsw",
-   "location": "Sydney"
-  },
-  "410b251f8ec9e28339a836cf75e8f7e6": {
-   "id": "410b251f8ec9e28339a836cf75e8f7e6",
-   "company": "Oakley",
-   "role": "Christmas Casual / Oakley Homebush Dfo, Nsw",
-   "location": "Sydney"
-  },
-  "cb3f1ad5573296f67e5820d7af389e8b": {
-   "id": "cb3f1ad5573296f67e5820d7af389e8b",
-   "company": "Sunglass Hut",
-   "role": "Christmas Casual / Sunglass Hut Myer Eastgarden, Nsw",
-   "location": "Eastgardens"
-  },
-  "7967d47dcd64a25e5cf1e060809fc2ee": {
-   "id": "7967d47dcd64a25e5cf1e060809fc2ee",
-   "company": "Sunglass Hut",
-   "role": "Christmas Casual / Sunglass Hut Myer Shellharbour, Nsw",
-   "location": "Shellharbour"
-  },
-  "330739ad6b4e455ea0172b44bd789d00": {
-   "id": "330739ad6b4e455ea0172b44bd789d00",
-   "company": "Sunglass Hut",
-   "role": "Christmas Casual / Sunglass Hut Canberra Outlet, Act",
-   "location": "Fyshwick"
-  },
-  "58588fc93128a48b1f17a70fe7e03bd7": {
-   "id": "58588fc93128a48b1f17a70fe7e03bd7",
-   "company": "Sunglass Hut",
-   "role": "Christmas Casual / Sunglass Hut Warringah Mall, Nsw",
-   "location": "Brookvale"
-  },
-  "5d023ff1a1ed91c655765222ee5b23b0": {
-   "id": "5d023ff1a1ed91c655765222ee5b23b0",
-   "company": "Sunglass Hut",
-   "role": "Christmas Casual / Sunglass Hut Erina, Nsw",
-   "location": "Erina"
-  },
-  "f82929d2665816cf71f1c9d170faebce": {
-   "id": "f82929d2665816cf71f1c9d170faebce",
-   "company": "Sunglass Hut",
-   "role": "Christmas Casual / Sunglass Hut Myer Albury, Nsw",
-   "location": "Albury"
-  },
-  "991ee83be6e0fa535d65658cd62a2215": {
-   "id": "991ee83be6e0fa535d65658cd62a2215",
-   "company": "Aldi Australia",
-   "role": "Retail Assistant - Keilor Downs",
+  "44dcccdeaead002c53261ecd62287ab7": {
+   "id": "44dcccdeaead002c53261ecd62287ab7",
+   "company": "DXC Technology Australia",
+   "role": "Administration Assistant – Workers Compensation",
    "location": "Melbourne"
   },
-  "597d08efebbcaa86743a7aa0a751ab20": {
-   "id": "597d08efebbcaa86743a7aa0a751ab20",
-   "company": "Nespresso",
-   "role": "Festive Casual Boutique Coffee Specialist - Chadstone",
-   "location": "Melbourne"
-  },
-  "c986161b485a1996e3d6912745169ffd": {
-   "id": "c986161b485a1996e3d6912745169ffd",
-   "company": "Aldi Australia",
-   "role": "Retail Assistant - Springvale",
-   "location": "Melbourne"
-  },
-  "8bbc81da863b7a6ed4b9fea0025da426": {
-   "id": "8bbc81da863b7a6ed4b9fea0025da426",
-   "company": "DECJUBA",
-   "role": "Casual Retail Assistant - Harbourtown",
-   "location": "Harbourtown"
-  },
-  "747d4a94cd70fbd3b60adaf72c7f89ab": {
-   "id": "747d4a94cd70fbd3b60adaf72c7f89ab",
-   "company": "DECJUBA",
-   "role": "Seasonal Casual Retail Assistant - Coffs Harbour",
-   "location": "Coffs Harbour"
-  },
-  "0e718b6e25d8ab9b16e3c2e95dc3638e": {
-   "id": "0e718b6e25d8ab9b16e3c2e95dc3638e",
-   "company": "DECJUBA",
-   "role": "Seasonal Casual Retail Assistant - South Wharf",
-   "location": "South Wharf"
+  "1837106e12d448ba0cb3e513dc103ef0": {
+   "id": "1837106e12d448ba0cb3e513dc103ef0",
+   "company": "KING & WOOD MALLESONS",
+   "role": "Practice Assistant - Real Estate Sydney",
+   "location": "Sydney"
   },
   "9ddd7a04dbb7c14c67474f0befaa85f3": {
    "id": "9ddd7a04dbb7c14c67474f0befaa85f3",
@@ -3847,48 +3889,6 @@
    "company": "Deloitte Australia",
    "role": "Events & Marketing Coordinator (parental Leave Cover)",
    "location": "Sydney"
-  },
-  "99a6fcce414187573a59cae2aedc2714": {
-   "id": "99a6fcce414187573a59cae2aedc2714",
-   "company": "Opal HealthCare",
-   "role": "Customer Support Assistant - Toongabbie Terrace Care Community",
-   "location": "Sydney"
-  },
-  "7b4a8d30c436cae119b8149496ffe073": {
-   "id": "7b4a8d30c436cae119b8149496ffe073",
-   "company": "RoboFit",
-   "role": "Administrative Assistant – Mascot",
-   "location": "Sydney"
-  },
-  "e3ad5ceb06d96fd38e7c14ca01203399": {
-   "id": "e3ad5ceb06d96fd38e7c14ca01203399",
-   "company": "dormakaba International Holding AG",
-   "role": "Project Coordinator",
-   "location": "Regency Park"
-  },
-  "b65ca35848a8bf612e621d86ef3c7c64": {
-   "id": "b65ca35848a8bf612e621d86ef3c7c64",
-   "company": "Voith Group",
-   "role": "Sh 2.0 Warehouse Administrator",
-   "location": "Snowy"
-  },
-  "89b5fbfdba043be62773b7783cdd30ac": {
-   "id": "89b5fbfdba043be62773b7783cdd30ac",
-   "company": "Central Queensland University",
-   "role": "Project Coordinator",
-   "location": "Rockhampton"
-  },
-  "6f6ddd7cd1a75e78e8b070b1b0976471": {
-   "id": "6f6ddd7cd1a75e78e8b070b1b0976471",
-   "company": "St Vincent de Paul Society Australia",
-   "role": "Business Development Specialist",
-   "location": "Lewisham"
-  },
-  "c594faa2b727e8443afd44e40bc3fe31": {
-   "id": "c594faa2b727e8443afd44e40bc3fe31",
-   "company": "St Vincent de Paul Society Australia",
-   "role": "Community Development Coordinator",
-   "location": "Wagga Wagga"
   }
  }
 }
