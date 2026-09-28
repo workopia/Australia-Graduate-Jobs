@@ -7771,4 +7771,71 @@
 <tr><td>Downer</td><td>Financial Analyst - Cash And Working Capital</td><td>Sydney</td><td>2026-09-27</td></tr>
 <tr><td>Downer EDI</td><td>Financial Analyst - Cash And Working Capital</td><td>Sydney</td><td>2026-09-27</td></tr>
 <tr><td>Luxottica Retail Australia Pty Ltd</td><td>Field Service Technician</td><td>Sumner Park</td><td>2026-09-27</td></tr>
+<tr><td>Canva</td><td>Staff Frontend Engineer - Video</td><td>Sydney</td><td>2026-09-28</td></tr>
+<tr><td>Shield AI</td><td>Software Engineer C++ (r5716)</td><td>Melbourne</td><td>2026-09-28</td></tr>
+<tr><td>SVHA</td><td>Practice Development Nurse - Clinical Competency Programs</td><td>Melbourne</td><td>2026-09-28</td></tr>
+<tr><td>Konekt</td><td>Youth Support Worker</td><td>Sydney</td><td>2026-09-28</td></tr>
+<tr><td>UnitingCare Health</td><td>Registered Nurse</td><td>Brisbane</td><td>2026-09-28</td></tr>
+<tr><td>jobs.unimelb.edu.au</td><td>Research Officer</td><td>Melbourne</td><td>2026-09-28</td></tr>
+<tr><td>St Vincent's Hospital Melbourne</td><td>Grade 2 Registered Nurses - Casual Nurse Bank</td><td>Melbourne</td><td>2026-09-28</td></tr>
+<tr><td>SVHA</td><td>Registered Nurse</td><td>Sydney</td><td>2026-09-28</td></tr>
+<tr><td>St Vincent's Hospital Melbourne</td><td>Endorsed Enrolled Nurses - Casual Nurse Bank</td><td>Melbourne</td><td>2026-09-28</td></tr>
+<tr><td>St Vincent’s Private Hospital Melbourne</td><td>Registered Nurse - Cardiovascular Centre</td><td>Melbourne</td><td>2026-09-28</td></tr>
+<tr><td>MQ Health</td><td>Registered Nurse (scrub/scout - The Orthopaedic Institute)</td><td>Sydney</td><td>2026-09-28</td></tr>
+<tr><td>The Salvation Army</td><td>Support Worker - Aod</td><td>Sydney</td><td>2026-09-28</td></tr>
+<tr><td>The Salvation Army</td><td>Aod Support Worker</td><td>Sydney</td><td>2026-09-28</td></tr>
+<tr><td>St Andrews War Memorial Hospital</td><td>Registered Nurse - Scrub Scout</td><td>Brisbane</td><td>2026-09-28</td></tr>
+<tr><td>UnitingCare Health</td><td>Registered Nurse - Critical Care Services (icu)</td><td>Maroochydore</td><td>2026-09-28</td></tr>
+<tr><td>Perenti Global Ltd</td><td>Btp - Field Service Technicians I plant Mechanic Heavy Diesel - Mt Thorley Based</td><td>Mt Thorley</td><td>2026-09-28</td></tr>
+<tr><td>Civmec Ltd</td><td>Mechanical Fitter</td><td>Eneabba</td><td>2026-09-28</td></tr>
+<tr><td>Civmec Ltd</td><td>Pre Delivery Maintenance Technician</td><td>Australia</td><td>2026-09-28</td></tr>
+<tr><td>Voith Group</td><td>Sh 2.0 Field Service Engineer (m/f/d)</td><td>Snowy</td><td>2026-09-28</td></tr>
+<tr><td>Voith Group</td><td>Field Service Engineer (m/f/d) Balance Of Plant Mechanical - Australia</td><td>Snowy</td><td>2026-09-28</td></tr>
+<tr><td>Sunglass Hut</td><td>Christmas Casual / Sunglass Hut Myer Warringah Mall, Nsw</td><td>Brookvale</td><td>2026-09-28</td></tr>
+<tr><td>Sunglass Hut</td><td>Christmas Casual / Sunglass Hut Tamworth, Nsw</td><td>Tamworth</td><td>2026-09-28</td></tr>
+<tr><td>Sunglass Hut</td><td>Christmas Casual / Sunglass Hut Sydney Virgin Domestic Airport, Nsw</td><td>Sydney</td><td>2026-09-28</td></tr>
+<tr><td>Sunglass Hut</td><td>Christmas Casual / Sunglass Hut Myer Chatswood, Nsw</td><td>Sydney</td><td>2026-09-28</td></tr>
+<tr><td>Sunglass Hut</td><td>Christmas Casual / Sunglass Hut Warringah Mall, Nsw</td><td>Brookvale</td><td>2026-09-28</td></tr>
+<tr><td>Sunglass Hut</td><td>Christmas Casual / Sunglass Hut Sydney Qantas Domestic Airport, Nsw</td><td>Sydney</td><td>2026-09-28</td></tr>
+<tr><td>Nike Inc.</td><td>Fulltime Athlete/retail Associate, Nike Melbourne</td><td>Melbourne</td><td>2026-09-28</td></tr>
+<tr><td>Nike Inc.</td><td>Full Time Athlete/retail Associate, Nike Uni Hill</td><td>Melbourne</td><td>2026-09-28</td></tr>
+<tr><td>Brooks Automation Inc</td><td>Warehouse Assistant (casual)</td><td>Brisbane</td><td>2026-09-28</td></tr>
+<tr><td>COMMONWEALTH BANK</td><td>Customer Banking Specialist - Melbourne South East - Part Time & Full Time</td><td>Melbourne</td><td>2026-09-28</td></tr>
+<tr><td>adidas AG</td><td>Full Time Retail Professional - Essendon Dfo Factory Outlet, Vic</td><td>Melbourne</td><td>2026-09-28</td></tr>
+<tr><td>adidas AG</td><td>Full-time Retail Professional - South Wharf Dfo, Vic</td><td>Melbourne</td><td>2026-09-28</td></tr>
+<tr><td>Bonds Outlet</td><td>Christmas Casual / Bonds Outlet / South Wharf</td><td>South Wharf</td><td>2026-09-28</td></tr>
+<tr><td>Bonds</td><td>Casual Sales Assistant / Bonds / Knox City</td><td>Melbourne</td><td>2026-09-28</td></tr>
+<tr><td>BALENCIAGA AUSTRALIA PTY LTD</td><td>Balenciaga Sales & Client Advisor (westfield Sydney)</td><td>Sydney</td><td>2026-09-28</td></tr>
+<tr><td>BALENCIAGA AUSTRALIA PTY LTD</td><td>Balenciaga Sales & Client Advisor (sydney Westfield)</td><td>Sydney</td><td>2026-09-28</td></tr>
+<tr><td>DECJUBA</td><td>Casual Retail Assistant - Garden City</td><td>Garden City</td><td>2026-09-28</td></tr>
+<tr><td>Nespresso</td><td>2x Casual Boutique Coffee Specialist - Doncaster</td><td>Melbourne</td><td>2026-09-28</td></tr>
+<tr><td>Nespresso</td><td>Festive Casual Boutique Coffee Specialist - Miranda</td><td>Sydney</td><td>2026-09-28</td></tr>
+<tr><td>Nespresso</td><td>Casual Boutique Coffee Specialist - Pitt Street Flagship</td><td>Sydney</td><td>2026-09-28</td></tr>
+<tr><td>Nestle Ltd</td><td>Boutique Stock And Coffee Specialist - Chatswood</td><td>Sydney</td><td>2026-09-28</td></tr>
+<tr><td>POP MART Global</td><td>Full-time Sales Associate (sydney Airport)</td><td>Sydney</td><td>2026-09-28</td></tr>
+<tr><td>Aldi Australia</td><td>Retail Assistant - Horsham</td><td>Horsham</td><td>2026-09-28</td></tr>
+<tr><td>Aldi Australia</td><td>Retail Assistant - Wagga Wagga</td><td>Wagga Wagga</td><td>2026-09-28</td></tr>
+<tr><td>GENUINE PARTS COMPANY</td><td>Customer Sales & Service - Repco Bankstown - Part Time</td><td>Sydney</td><td>2026-09-28</td></tr>
+<tr><td>ASICS OCEANIA PTY LTD</td><td>Seasonal Casual Retail Assistant - Essendon</td><td>Melbourne</td><td>2026-09-28</td></tr>
+<tr><td>The Good Guys</td><td>Christmas Casual - Aura</td><td>Baringa</td><td>2026-09-28</td></tr>
+<tr><td>H&M</td><td>Part Time Sales Advisor (chadstone, Melbourne) - 1 November 2026 To 31 January 2027</td><td>Melbourne</td><td>2026-09-28</td></tr>
+<tr><td>Aldi Australia</td><td>Retail Assistant - Traralgon</td><td>Traralgon</td><td>2026-09-28</td></tr>
+<tr><td>Hanes Australasia</td><td>Christmas Casual / Sheridan Concession / Myer Highpoint</td><td>Highpoint</td><td>2026-09-28</td></tr>
+<tr><td>Hanes Australasia</td><td>Christmas Casual / Sheridan Concession / David Jones Chadstone</td><td>Melbourne</td><td>2026-09-28</td></tr>
+<tr><td>DHL Group</td><td>Perth /storeperson</td><td>Hazelmere +1</td><td>2026-09-28</td></tr>
+<tr><td>Sunglass Hut</td><td>Christmas Casual / Sunglass Hut Centrepoint, Nsw</td><td>Centrepoint</td><td>2026-09-28</td></tr>
+<tr><td>Luxottica Retail Australia Pty Ltd</td><td>Christmas Casual / Sunglass Hut Canberra Outlet, Act</td><td>Fyshwick</td><td>2026-09-28</td></tr>
+<tr><td>Luxottica Retail Australia Pty Ltd</td><td>Christmas Casual / Sunglass Hut Myer Albury, Nsw</td><td>Albury</td><td>2026-09-28</td></tr>
+<tr><td>Luxottica Retail Australia Pty Ltd</td><td>Christmas Casual / Sunglass Hut Erina, Nsw</td><td>Erina</td><td>2026-09-28</td></tr>
+<tr><td>Luxottica Retail Australia Pty Ltd</td><td>Christmas Casual / Sunglass Hut Kotara, Nsw</td><td>Kotara</td><td>2026-09-28</td></tr>
+<tr><td>Sunglass Hut</td><td>Christmas Casual / Sunglass Hut Macquarie Centre, Nsw</td><td>Sydney</td><td>2026-09-28</td></tr>
+<tr><td>Sunglass Hut</td><td>Christmas Casual / Sunglass Hut George Street Sydney, Nsw</td><td>Sydney</td><td>2026-09-28</td></tr>
+<tr><td>Luxottica Retail Australia Pty Ltd</td><td>Christmas Casual / Sunglass Hut Hurstville, Nsw</td><td>Sydney</td><td>2026-09-28</td></tr>
+<tr><td>Luxottica Retail Australia Pty Ltd</td><td>Christmas Casual / Sunglass Hut Bondi Junction Kiosk, Nsw</td><td>Sydney</td><td>2026-09-28</td></tr>
+<tr><td>The NSW Department of Education</td><td>Office Support Officer</td><td>Sydney</td><td>2026-09-28</td></tr>
+<tr><td>Lightsource bp</td><td>Program Coordinator</td><td>Sydney</td><td>2026-09-28</td></tr>
+<tr><td>OPSM (EssilorLuxottica Group)</td><td>Quality Assurance Coordinator- Manufacturing</td><td>Silverwater</td><td>2026-09-28</td></tr>
+<tr><td>Cleanaway Waste Management Ltd</td><td>Administration & Customer Service Officer</td><td>Mildura</td><td>2026-09-28</td></tr>
+<tr><td>Deloitte Australia</td><td>Professional Assistant (12 Month Fixed Term)</td><td>Perth</td><td>2026-09-28</td></tr>
+<tr><td>Deloitte Australia</td><td>Events & Marketing Coordinator (parental Leave Cover)</td><td>Sydney</td><td>2026-09-28</td></tr>
 </table>
