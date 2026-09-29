@@ -7838,4 +7838,78 @@
 <tr><td>Cleanaway Waste Management Ltd</td><td>Administration & Customer Service Officer</td><td>Mildura</td><td>2026-09-28</td></tr>
 <tr><td>Deloitte Australia</td><td>Professional Assistant (12 Month Fixed Term)</td><td>Perth</td><td>2026-09-28</td></tr>
 <tr><td>Deloitte Australia</td><td>Events & Marketing Coordinator (parental Leave Cover)</td><td>Sydney</td><td>2026-09-28</td></tr>
+<tr><td>Southsidecb</td><td>Card Fraud Analytics Analyst</td><td>Sydney</td><td>2026-09-29</td></tr>
+<tr><td>transport.nsw.gov.au</td><td>Data Operations Analyst</td><td>Australia</td><td>2026-09-29</td></tr>
+<tr><td>Msssecurity Com Au</td><td>Compliance Coordinator</td><td>Queensland</td><td>2026-09-29</td></tr>
+<tr><td>John Holland</td><td>Pre-contracts Analyst</td><td>Sydney</td><td>2026-09-29</td></tr>
+<tr><td>Ampol</td><td>Systems Analyst, Enterprise Store Execution</td><td>Sydney</td><td>2026-09-29</td></tr>
+<tr><td>Barwon Health</td><td>Registered Nurse (grade 2), Acute Permanent Pool</td><td>Unknown</td><td>2026-09-29</td></tr>
+<tr><td>Barwon Health</td><td>Critical Care Registered Nurse (grade 2), Emergency Department</td><td>Unknown</td><td>2026-09-29</td></tr>
+<tr><td>Hesse Rural Health</td><td>Registered Nurse</td><td>Winchelsea</td><td>2026-09-29</td></tr>
+<tr><td>Barwon Health</td><td>Registered Nurse (grade 2), Mesh</td><td>Unknown</td><td>2026-09-29</td></tr>
+<tr><td>Estia Health</td><td>Registered Nurse (regional And Metro Sa)</td><td>Adelaide</td><td>2026-09-29</td></tr>
+<tr><td>Estia Health</td><td>Visa Sponsored Registered Nurses / Sa / Nsw / Qld</td><td>Adelaide</td><td>2026-09-29</td></tr>
+<tr><td>Estia Health</td><td>Registered Nurse (regional And Metro Nsw)</td><td>Dalmeny</td><td>2026-09-29</td></tr>
+<tr><td>Estia Health</td><td>Registered Nurse (regional And Metro Vic)</td><td>Benalla</td><td>2026-09-29</td></tr>
+<tr><td>Estia Health</td><td>Registered Nurse (regional And Metro Qld)</td><td>Maroochydore</td><td>2026-09-29</td></tr>
+<tr><td>SVHA</td><td>Registered Nurse - Grade 3b Residential In Reach</td><td>Melbourne</td><td>2026-09-29</td></tr>
+<tr><td>Komatsu Marketing Support Australia Pty Ltd</td><td>Field Service Technician - Perth (atr-f237)</td><td>Welshpool</td><td>2026-09-29</td></tr>
+<tr><td>Komatsu Marketing Support Australia Pty Ltd</td><td>Technician - Field Service / Site Support</td><td>Townsville</td><td>2026-09-29</td></tr>
+<tr><td>Komatsu Marketing Support Australia Pty Ltd</td><td>Field Service Technician - Wollongong (atr-f235)</td><td>Wollongong</td><td>2026-09-29</td></tr>
+<tr><td>Orica Australia Pty Ltd</td><td>Mechanical Technician</td><td>South Townsville</td><td>2026-09-29</td></tr>
+<tr><td>MACA</td><td>Lube Technician/serviceperson / Field Service Team</td><td>Australia</td><td>2026-09-29</td></tr>
+<tr><td>Oakley</td><td>Retail Associate / Oakley / Pt / Vic / Chadstone</td><td>Melbourne</td><td>2026-09-29</td></tr>
+<tr><td>OPSM</td><td>Christmas Casual / Sunglass Hut Sydney Int'l Airport, Nsw</td><td>Sydney</td><td>2026-09-29</td></tr>
+<tr><td>Gucci</td><td>Gucci Store Operations Associate</td><td>Sydney</td><td>2026-09-29</td></tr>
+<tr><td>Luxottica Retail Australia Pty Ltd</td><td>Christmas Casual / Sunglass Hut Warringah Mall, Nsw</td><td>Brookvale</td><td>2026-09-29</td></tr>
+<tr><td>Luxottica Retail Australia Pty Ltd</td><td>Christmas Casual / Sunglass Hut Port Macquarie Central, Nsw</td><td>Port Macquarie</td><td>2026-09-29</td></tr>
+<tr><td>Luxottica Retail Australia Pty Ltd</td><td>Christmas Casual / Sunglass Hut Orange, Nsw</td><td>Orange</td><td>2026-09-29</td></tr>
+<tr><td>Luxottica Retail Australia Pty Ltd</td><td>Christmas Casual / Sunglass Hut Myer Shellharbour, Nsw</td><td>Shellharbour</td><td>2026-09-29</td></tr>
+<tr><td>Sunglass Hut</td><td>Christmas Casual / Sunglass Hut Narellan, Nsw</td><td>Narellan</td><td>2026-09-29</td></tr>
+<tr><td>Luxottica Retail Australia Pty Ltd</td><td>Christmas Casual / Sunglass Hut Wagga Wagga, Nsw</td><td>Wagga Wagga</td><td>2026-09-29</td></tr>
+<tr><td>Luxottica Retail Australia Pty Ltd</td><td>Christmas Casual / Sunglass Hut Myer Eastgarden, Nsw</td><td>Eastgardens</td><td>2026-09-29</td></tr>
+<tr><td>Sunglass Hut</td><td>Christmas Casual / Sunglass Hut Myer Macquarie, Nsw</td><td>Macquarie</td><td>2026-09-29</td></tr>
+<tr><td>Luxottica Retail Australia Pty Ltd</td><td>Christmas Casual / Sunglass Hut Tuggerah, Nsw</td><td>Tuggerah</td><td>2026-09-29</td></tr>
+<tr><td>Luxottica Retail Australia Pty Ltd</td><td>Christmas Casual / Sunglass Hut Shellharbour, Nsw</td><td>Shellharbour</td><td>2026-09-29</td></tr>
+<tr><td>Luxottica Retail Australia Pty Ltd</td><td>Christmas Casual / Sunglass Hut Sydney Qantas Domestic Airport, Nsw</td><td>Sydney</td><td>2026-09-29</td></tr>
+<tr><td>Luxottica Retail Australia Pty Ltd</td><td>Christmas Casual / Sunglass Hut Sydney Flagship, Nsw</td><td>Sydney</td><td>2026-09-29</td></tr>
+<tr><td>Luxottica Retail Australia Pty Ltd</td><td>Christmas Casual / Oakley Homebush Dfo, Nsw</td><td>Sydney</td><td>2026-09-29</td></tr>
+<tr><td>Luxottica Retail Australia Pty Ltd</td><td>Christmas Casual / Sunglass Hut Parramatta, Nsw</td><td>Sydney</td><td>2026-09-29</td></tr>
+<tr><td>Sunglass Hut</td><td>Christmas Casual / Sunglass Hut Myer Bondi Junction, Nsw</td><td>Sydney</td><td>2026-09-29</td></tr>
+<tr><td>Luxottica Retail Australia Pty Ltd</td><td>Christmas Casual / Sunglass Hut Rouse Hill, Nsw</td><td>Sydney</td><td>2026-09-29</td></tr>
+<tr><td>Sunglass Hut</td><td>Christmas Casual / Sunglass Hut Sydney Int'l Airport, Nsw</td><td>Sydney</td><td>2026-09-29</td></tr>
+<tr><td>Luxottica Retail Australia Pty Ltd</td><td>Christmas Casual / Oakley Manly, Nsw</td><td>Sydney</td><td>2026-09-29</td></tr>
+<tr><td>Sunglass Hut</td><td>Christmas Casual / Sunglass Hut Myer Castle Hill, Nsw</td><td>Sydney</td><td>2026-09-29</td></tr>
+<tr><td>Luxottica Retail Australia Pty Ltd</td><td>Christmas Casual / Sunglass Hut Myer Parramatta, Nsw</td><td>Sydney</td><td>2026-09-29</td></tr>
+<tr><td>Luxottica Retail Australia Pty Ltd</td><td>Christmas Casual / Oakley Sydney George Street, Nsw</td><td>Sydney</td><td>2026-09-29</td></tr>
+<tr><td>Luxottica Retail Australia Pty Ltd</td><td>Christmas Casual / Oakley Sydney Domestic Airport, Nsw</td><td>Sydney</td><td>2026-09-29</td></tr>
+<tr><td>Luxottica Retail Australia Pty Ltd</td><td>Christmas Casual / Sunglass Hut Qvb, Nsw</td><td>Sydney</td><td>2026-09-29</td></tr>
+<tr><td>Sunglass Hut</td><td>Christmas Casual / Sunglass Hut Myer Miranda, Nsw</td><td>Sydney</td><td>2026-09-29</td></tr>
+<tr><td>OPSM</td><td>Associate Dispenser I Opsm I Casual I Port Lincoln, Sa</td><td>Port Lincoln</td><td>2026-09-29</td></tr>
+<tr><td>EssilorLuxottica SA</td><td>Christmas Casual</td><td>Mt Gravatt</td><td>2026-09-29</td></tr>
+<tr><td>Sunglass Hut</td><td>Retail Associate / Sunglass Hut / C / Vic / Dfo Southwharf</td><td>South Wharf</td><td>2026-09-29</td></tr>
+<tr><td>Oakley</td><td>Retail Associate / Oakley Manly, Nsw</td><td>Sydney</td><td>2026-09-29</td></tr>
+<tr><td>Sunglass Hut</td><td>Christmas Casual / Sunglass Hut Port Macquarie Central, Nsw</td><td>Port Macquarie</td><td>2026-09-29</td></tr>
+<tr><td>Sunglass Hut</td><td>Christmas Casual / Sunglass Hut Shellharbour, Nsw</td><td>Shellharbour</td><td>2026-09-29</td></tr>
+<tr><td>Sunglass Hut</td><td>Christmas Casual / Sunglass Hut Tuggerah, Nsw</td><td>Tuggerah</td><td>2026-09-29</td></tr>
+<tr><td>Sunglass Hut</td><td>Christmas Casual / Sunglass Hut Wagga Wagga, Nsw</td><td>Wagga Wagga</td><td>2026-09-29</td></tr>
+<tr><td>Sunglass Hut</td><td>Christmas Casual / Sunglass Hut Myer Eastgarden, Nsw</td><td>Eastgardens</td><td>2026-09-29</td></tr>
+<tr><td>Oakley</td><td>Christmas Casual / Oakley Manly, Nsw</td><td>Sydney</td><td>2026-09-29</td></tr>
+<tr><td>Oakley</td><td>Christmas Casual / Oakley Homebush Dfo, Nsw</td><td>Sydney</td><td>2026-09-29</td></tr>
+<tr><td>Oakley</td><td>Christmas Casual / Oakley Sydney George Street, Nsw</td><td>Sydney</td><td>2026-09-29</td></tr>
+<tr><td>Sunglass Hut</td><td>Christmas Casual / Sunglass Hut Qvb, Nsw</td><td>Sydney</td><td>2026-09-29</td></tr>
+<tr><td>Oakley</td><td>Christmas Casual / Oakley Sydney Domestic Airport, Nsw</td><td>Sydney</td><td>2026-09-29</td></tr>
+<tr><td>Nike Inc.</td><td>Part Time Athlete/retail Associate , Nike Melbourne</td><td>Melbourne</td><td>2026-09-29</td></tr>
+<tr><td>Danone</td><td>Product Specialist - Adult Portfolio (memory &amp; Aged Care)</td><td>Perth</td><td>2026-09-29</td></tr>
+<tr><td>Torrens University Australia</td><td>Executive Assistant</td><td>Sydney</td><td>2026-09-29</td></tr>
+<tr><td>Metcash</td><td>Site Pallet Coordinator</td><td>Huntingwood</td><td>2026-09-29</td></tr>
+<tr><td>Columbia Records</td><td>Digital Marketing Coordinator</td><td>Sydney</td><td>2026-09-29</td></tr>
+<tr><td>Webuild SpA</td><td>Expression Of Interest - Project Risk Coordinator</td><td>Cooma</td><td>2026-09-29</td></tr>
+<tr><td>Cushman & Wakefield</td><td>Executive Assistant - Logistics & Industrial</td><td>Sydney</td><td>2026-09-29</td></tr>
+<tr><td>ANZ Bank</td><td>Design Operations Coordinator</td><td>Melbourne</td><td>2026-09-29</td></tr>
+<tr><td>RMIT</td><td>Project Officer - Alessandra Maria Wenban</td><td>Melbourne</td><td>2026-09-29</td></tr>
+<tr><td>University of Queensland</td><td>Executive Assistant (student Support & Wellbeing Services).</td><td>St Lucia</td><td>2026-09-29</td></tr>
+<tr><td>Austin Health</td><td>Administration Assistant</td><td>Melbourne</td><td>2026-09-29</td></tr>
+<tr><td>Mineral resources</td><td>Executive Assistant</td><td>Osborne Park</td><td>2026-09-29</td></tr>
+<tr><td>JBS Australia Pty Ltd</td><td>Domestic Logistics Coordinator</td><td>Riverview</td><td>2026-09-29</td></tr>
 </table>
