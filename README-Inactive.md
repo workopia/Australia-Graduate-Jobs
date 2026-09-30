@@ -7912,4 +7912,92 @@
 <tr><td>Austin Health</td><td>Administration Assistant</td><td>Melbourne</td><td>2026-09-29</td></tr>
 <tr><td>Mineral resources</td><td>Executive Assistant</td><td>Osborne Park</td><td>2026-09-29</td></tr>
 <tr><td>JBS Australia Pty Ltd</td><td>Domestic Logistics Coordinator</td><td>Riverview</td><td>2026-09-29</td></tr>
+<tr><td>Converse</td><td>Part-time Sales Assistant</td><td>Melbourne</td><td>2026-09-30</td></tr>
+<tr><td>Johnson Controls Inc</td><td>Technical Services Engineer Anz (fire Suppression)</td><td>Sydney</td><td>2026-09-30</td></tr>
+<tr><td>JCI</td><td>Technical Services Engineer Anz (fire Suppression)</td><td>Sydney</td><td>2026-09-30</td></tr>
+<tr><td>Thejolietbank</td><td>Advanced Analytics Analyst, Card Fraud</td><td>Sydney</td><td>2026-09-30</td></tr>
+<tr><td>CBA New Digital Businesses Pty</td><td>Card Fraud Analytics Analyst</td><td>Sydney</td><td>2026-09-30</td></tr>
+<tr><td>Downer</td><td>Transformation Analyst (h&e)</td><td>Underdale</td><td>2026-09-30</td></tr>
+<tr><td>Downer EDI</td><td>Transformation Analyst (h&e)</td><td>Underdale</td><td>2026-09-30</td></tr>
+<tr><td>Downer Group</td><td>Transformation Analyst (h&e)</td><td>Underdale</td><td>2026-09-30</td></tr>
+<tr><td>Westpac</td><td>Change Reporting And Visualisation Analyst</td><td>Sydney</td><td>2026-09-30</td></tr>
+<tr><td>Westpac Group</td><td>Change Reporting And Visualisation Analyst</td><td>Sydney</td><td>2026-09-30</td></tr>
+<tr><td>Richemont Australia Pty Ltd</td><td>Workforce Management (wfm) Specialist - Fixed Term Contract</td><td>Sydney</td><td>2026-09-30</td></tr>
+<tr><td>UnitingCare</td><td>Clinical - Registered Nurse</td><td>Western Sydney</td><td>2026-09-30</td></tr>
+<tr><td>Opal HealthCare</td><td>Registered Nurse - Carlingford Greens Care Community</td><td>Sydney</td><td>2026-09-30</td></tr>
+<tr><td>Opal HealthCare</td><td>Registered Nurse - Sydney Metro Care Communities</td><td>Sydney</td><td>2026-09-30</td></tr>
+<tr><td>Opal HealthCare</td><td>Personal Care Worker - Mooroolbark Manor Care Community</td><td>Melbourne</td><td>2026-09-30</td></tr>
+<tr><td>Peter MacCallum Cancer Centre</td><td>Registered Nurse Grade 2 - Day Therapy</td><td>Melbourne</td><td>2026-09-30</td></tr>
+<tr><td>SVHA</td><td>Registered Nurse Mixed Surgical Ward - Orthopaedics, Plastics & Vascular</td><td>Melbourne</td><td>2026-09-30</td></tr>
+<tr><td>SVHA</td><td>Registered Nurse - Mixed Surgical Ward</td><td>Melbourne</td><td>2026-09-30</td></tr>
+<tr><td>SVHA</td><td>Grade 2 Rehabilitation Physiotherapist</td><td>Melbourne</td><td>2026-09-30</td></tr>
+<tr><td>GENESISCARE</td><td>Registered Nurse - Radiation Oncology</td><td>Murdoch</td><td>2026-09-30</td></tr>
+<tr><td>Barwon Health</td><td>Discovery Program, Emergency Nursing</td><td>Victoria</td><td>2026-09-30</td></tr>
+<tr><td>Barwon Health</td><td>Post Graduate Certificate, Emergency Nursing</td><td>Victoria</td><td>2026-09-30</td></tr>
+<tr><td>Barwon Health</td><td>Registered Nurse (grade 2) And/or Registered Midwife (grade 2), Casual Bank</td><td>Australia</td><td>2026-09-30</td></tr>
+<tr><td>Coates</td><td>Field Service Mechanic</td><td>Gold Coast</td><td>2026-09-30</td></tr>
+<tr><td>Unity of Roseburg</td><td>Airport Support Technician - Adelaide Sa</td><td>Adelaide</td><td>2026-09-30</td></tr>
+<tr><td>henryschein.es</td><td>Service Technician (preventative Maintenance)</td><td>Milton</td><td>2026-09-30</td></tr>
+<tr><td>IDEXX Laboratories Inc</td><td>Field Support Representative</td><td>Melbourne</td><td>2026-09-30</td></tr>
+<tr><td>OPSM (EssilorLuxottica Group)</td><td>Field Service Technician</td><td>Sumner Park</td><td>2026-09-30</td></tr>
+<tr><td>Komatsu Marketing Support Australia Pty Ltd</td><td>Technician - Newcastle (atr-f220)</td><td>Newcastle</td><td>2026-09-30</td></tr>
+<tr><td>Komatsu Marketing Support Australia Pty Ltd</td><td>Leading Hand - Field Service</td><td>Port Hedland</td><td>2026-09-30</td></tr>
+<tr><td>Komatsu Marketing Support Australia Pty Ltd</td><td>Technician - Resident Field Service</td><td>Campbellfield</td><td>2026-09-30</td></tr>
+<tr><td>TABCORP ASSETS Pty Ltd</td><td>Field Technician (wollongong)</td><td>Regional NSW</td><td>2026-09-30</td></tr>
+<tr><td>The Lottery Corporation</td><td>Field Technician (wollongong)</td><td>Tweed Region</td><td>2026-09-30</td></tr>
+<tr><td>TABCORP ASSETS Pty Ltd</td><td>Field Technician</td><td>Sydney</td><td>2026-09-30</td></tr>
+<tr><td>MYER</td><td>Sales Assistant - Part Time - Jacqui E - The Glen</td><td>Melbourne</td><td>2026-09-30</td></tr>
+<tr><td>Sheridan Factory Outlet</td><td>Christmas Casual / Sheridan Factory Outlet / Vic Gardens</td><td>Vic Gardens</td><td>2026-09-30</td></tr>
+<tr><td>Bonds Outlet</td><td>Christmas Casual / Bonds Outlet / Deepdene</td><td>Deepdene</td><td>2026-09-30</td></tr>
+<tr><td>Hanes Australasia</td><td>Christmas Casual / Sheridan Outlet / Victoria Gardens</td><td>Melbourne</td><td>2026-09-30</td></tr>
+<tr><td>Hanes Australasia</td><td>Christmas Casual / Bonds Outlet / Richmond</td><td>Melbourne</td><td>2026-09-30</td></tr>
+<tr><td>Bonds Outlet</td><td>Christmas Casual / Bonds Outlet / Camberwell</td><td>Melbourne</td><td>2026-09-30</td></tr>
+<tr><td>Sheridan Btq</td><td>Christmas Casual / Sheridan Btq / Camberwell</td><td>Melbourne</td><td>2026-09-30</td></tr>
+<tr><td>OPSM</td><td>Christmas Casual</td><td>Mt Gravatt</td><td>2026-09-30</td></tr>
+<tr><td>OPSM (EssilorLuxottica Group)</td><td>Christmas Casual / Sunglass Hut Myer Albury, Nsw</td><td>Albury</td><td>2026-09-30</td></tr>
+<tr><td>Sunglass Hut</td><td>Christmas Casual / Sunglass Hut / Emporium, Vic</td><td>Emporium</td><td>2026-09-30</td></tr>
+<tr><td>OPSM (EssilorLuxottica Group)</td><td>Christmas Casual / Sunglass Hut Tuggerah, Nsw</td><td>Tuggerah</td><td>2026-09-30</td></tr>
+<tr><td>Sunglass Hut</td><td>Christmas Casual / Sunglass Hut Tamworth, Nsw</td><td>Tamworth</td><td>2026-09-30</td></tr>
+<tr><td>Sunglass Hut</td><td>Christmas Casual / Sunglass Hut Warringah Mall, Nsw</td><td>Brookvale</td><td>2026-09-30</td></tr>
+<tr><td>OPSM</td><td>Christmas Casual / Sunglass Hut Centrepoint, Nsw</td><td>Centrepoint</td><td>2026-09-30</td></tr>
+<tr><td>OPSM (EssilorLuxottica Group)</td><td>Christmas Casual / Sunglass Hut Erina, Nsw</td><td>Erina</td><td>2026-09-30</td></tr>
+<tr><td>OPSM (EssilorLuxottica Group)</td><td>Christmas Casual / Sunglass Hut Narellan, Nsw</td><td>Narellan</td><td>2026-09-30</td></tr>
+<tr><td>Sunglass Hut</td><td>Christmas Casual / Sunglass Hut Kotara, Nsw</td><td>Kotara</td><td>2026-09-30</td></tr>
+<tr><td>OPSM (EssilorLuxottica Group)</td><td>Christmas Casual / Sunglass Hut Canberra Outlet, Act</td><td>Fyshwick</td><td>2026-09-30</td></tr>
+<tr><td>OPSM (EssilorLuxottica Group)</td><td>Christmas Casual / Sunglass Hut Shellharbour, Nsw</td><td>Shellharbour</td><td>2026-09-30</td></tr>
+<tr><td>Sunglass Hut</td><td>Christmas Casual / Sunglass Hut Myer Warringah Mall, Nsw</td><td>Brookvale</td><td>2026-09-30</td></tr>
+<tr><td>Sunglass Hut</td><td>Christmas Casual / Sunglass Hut Burwood, Nsw</td><td>Sydney</td><td>2026-09-30</td></tr>
+<tr><td>Sunglass Hut</td><td>Christmas Casual / Sunglass Hut Chatswood, Nsw</td><td>Sydney</td><td>2026-09-30</td></tr>
+<tr><td>OPSM</td><td>Christmas Casual / Oakley Sydney Domestic Airport, Nsw</td><td>Sydney</td><td>2026-09-30</td></tr>
+<tr><td>Sunglass Hut</td><td>Christmas Casual / Sunglass Hut Blacktown, Nsw</td><td>Sydney</td><td>2026-09-30</td></tr>
+<tr><td>OPSM (EssilorLuxottica Group)</td><td>Christmas Casual / Sunglass Hut Sydney Flagship, Nsw</td><td>Sydney</td><td>2026-09-30</td></tr>
+<tr><td>Sunglass Hut</td><td>Christmas Casual / Sunglass Hut Sydney Qantas Domestic Airport, Nsw</td><td>Sydney</td><td>2026-09-30</td></tr>
+<tr><td>Sunglass Hut</td><td>Christmas Casual / Sunglass Hut Sydney Virgin Domestic Airport, Nsw</td><td>Sydney</td><td>2026-09-30</td></tr>
+<tr><td>Sunglass Hut</td><td>Christmas Casual / Sunglass Hut George Street Sydney, Nsw</td><td>Sydney</td><td>2026-09-30</td></tr>
+<tr><td>OPSM</td><td>Christmas Casual / Sunglass Hut Parramatta, Nsw</td><td>Sydney</td><td>2026-09-30</td></tr>
+<tr><td>OPSM</td><td>Christmas Casual / Oakley Homebush Dfo, Nsw</td><td>Sydney</td><td>2026-09-30</td></tr>
+<tr><td>Sunglass Hut</td><td>Christmas Casual / Sunglass Hut Hornsby, Nsw</td><td>Sydney</td><td>2026-09-30</td></tr>
+<tr><td>Sunglass Hut</td><td>Christmas Casual / Sunglass Hut Miranda, Nsw</td><td>Sydney</td><td>2026-09-30</td></tr>
+<tr><td>OPSM (EssilorLuxottica Group)</td><td>Christmas Casual / Sunglass Hut Miranda 2, Nsw</td><td>Sydney</td><td>2026-09-30</td></tr>
+<tr><td>OPSM (EssilorLuxottica Group)</td><td>Christmas Casual / Sunglass Hut Myer Bankstown, Nsw</td><td>Sydney</td><td>2026-09-30</td></tr>
+<tr><td>OPSM (EssilorLuxottica Group)</td><td>Christmas Casual / Sunglass Hut Broadway, Nsw</td><td>Sydney</td><td>2026-09-30</td></tr>
+<tr><td>OPSM (EssilorLuxottica Group)</td><td>Christmas Casual / Oakley Sydney George Street, Nsw</td><td>Sydney</td><td>2026-09-30</td></tr>
+<tr><td>Sunglass Hut</td><td>Christmas Casual / Sunglass Hut Hurstville, Nsw</td><td>Sydney</td><td>2026-09-30</td></tr>
+<tr><td>Sunglass Hut</td><td>Christmas Casual / Sunglass Hut Myer Chatswood, Nsw</td><td>Sydney</td><td>2026-09-30</td></tr>
+<tr><td>OPSM</td><td>Christmas Casual / Oakley Manly, Nsw</td><td>Sydney</td><td>2026-09-30</td></tr>
+<tr><td>Coates</td><td>Project Coordinator</td><td>Welshpool</td><td>2026-09-30</td></tr>
+<tr><td>MyIntegra</td><td>Regional Support Coordinator</td><td>Sydney</td><td>2026-09-30</td></tr>
+<tr><td>RMIT</td><td>Project Officer - Justin Enrico Legaspi</td><td>Melbourne</td><td>2026-09-30</td></tr>
+<tr><td>UnitingCare Health</td><td>Executive Assistant</td><td>Brisbane</td><td>2026-09-30</td></tr>
+<tr><td>MACSEYE (Melbourne Archdiocese Catholic Schools Early Years Education)</td><td>Oshc Coordinator / Mentone</td><td>Melbourne</td><td>2026-09-30</td></tr>
+<tr><td>Junior Adventures Group</td><td>Oshc Coordinator - Donvale</td><td>Melbourne</td><td>2026-09-30</td></tr>
+<tr><td>Mission Australia</td><td>Community Development Officer</td><td>Sydney</td><td>2026-09-30</td></tr>
+<tr><td>SRG Global</td><td>Project Administrator</td><td>AU</td><td>2026-09-30</td></tr>
+<tr><td>MACSEYE (Melbourne Archdiocese Catholic Schools Early Years Education)</td><td>Oshc Coordinator / Glen Iris</td><td>Melbourne</td><td>2026-09-30</td></tr>
+<tr><td>The Ritz-Carlton</td><td>Marketing Coordinator</td><td>Sydney</td><td>2026-09-30</td></tr>
+<tr><td>Marriott International</td><td>Marketing Coordinator</td><td>Sydney</td><td>2026-09-30</td></tr>
+<tr><td>Junior Adventures Group</td><td>Oshc Coordinator / Smalls Road - Ryde</td><td>Sydney</td><td>2026-09-30</td></tr>
+<tr><td>Nouryon</td><td>Facilities Coordinator</td><td>Melbourne</td><td>2026-09-30</td></tr>
+<tr><td>Bosch Rexroth Pty. Ltd.</td><td>Traineeship - Service Administration</td><td>Melbourne</td><td>2026-09-30</td></tr>
+<tr><td>KELLOGG BROWN & ROOT PTY</td><td>Digital Engineering Coordinator</td><td>Melbourne</td><td>2026-09-30</td></tr>
 </table>
