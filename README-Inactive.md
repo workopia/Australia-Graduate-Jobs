@@ -8000,4 +8000,70 @@
 <tr><td>Nouryon</td><td>Facilities Coordinator</td><td>Melbourne</td><td>2026-09-30</td></tr>
 <tr><td>Bosch Rexroth Pty. Ltd.</td><td>Traineeship - Service Administration</td><td>Melbourne</td><td>2026-09-30</td></tr>
 <tr><td>KELLOGG BROWN & ROOT PTY</td><td>Digital Engineering Coordinator</td><td>Melbourne</td><td>2026-09-30</td></tr>
+<tr><td>International Flavors & Fragrances</td><td>Intern</td><td>Melbourne</td><td>2026-10-01</td></tr>
+<tr><td>Jetstar Airways</td><td>Data Product Analyst</td><td>Sydney</td><td>2026-10-01</td></tr>
+<tr><td>BlueScope</td><td>Ai Engineer</td><td>Melbourne</td><td>2026-10-01</td></tr>
+<tr><td>Cbari1</td><td>Advanced Analytics Analyst, Card Fraud</td><td>Sydney</td><td>2026-10-01</td></tr>
+<tr><td>Zurich Insurance Company Ltd</td><td>Actuarial Analyst</td><td>Australia</td><td>2026-10-01</td></tr>
+<tr><td>Zurich Insurance Company Ltd</td><td>Planning And Performance Analyst</td><td>Australia</td><td>2026-10-01</td></tr>
+<tr><td>UnitingCare Health</td><td>Registered Nurse</td><td>Gayndah</td><td>2026-10-01</td></tr>
+<tr><td>UnitingCare</td><td>Registered Nurse</td><td>Orange</td><td>2026-10-01</td></tr>
+<tr><td>science.unimelb.edu.au</td><td>Clinical Skills Support Nurse</td><td>Melbourne</td><td>2026-10-01</td></tr>
+<tr><td>Opal HealthCare</td><td>Registered Nurse Night Duty - Glen Osmond Grove Care Community</td><td>Glen Osmond</td><td>2026-10-01</td></tr>
+<tr><td>Opal HealthCare</td><td>Registered Nurse Reynella Hillside</td><td>Old Reynella</td><td>2026-10-01</td></tr>
+<tr><td>Opal HealthCare</td><td>Registered Nurse Night Duty - Bunbury Gardens</td><td>Bunbury</td><td>2026-10-01</td></tr>
+<tr><td>Opal HealthCare</td><td>Registered Nurse- Night Duty - Geraldton Shore Care Community</td><td>Geraldton</td><td>2026-10-01</td></tr>
+<tr><td>Opal HealthCare</td><td>Registered Nurse - Geraldton Shore Care Community</td><td>Geraldton</td><td>2026-10-01</td></tr>
+<tr><td>Opal HealthCare</td><td>Registered Nurse - Mooroolbark Manor Care Community</td><td>Melbourne</td><td>2026-10-01</td></tr>
+<tr><td>ALSTOM TRANSPORT SA</td><td>Maintenance Technician - Mechanical</td><td>Perth</td><td>2026-10-01</td></tr>
+<tr><td>Orora IT</td><td>Maintenance Fitter Day</td><td>Adelaide</td><td>2026-10-01</td></tr>
+<tr><td>Orora IT</td><td>Maintenance Fitter Shift</td><td>Adelaide</td><td>2026-10-01</td></tr>
+<tr><td>AusNet Services</td><td>Field Metering Technician</td><td>Victoria</td><td>2026-10-01</td></tr>
+<tr><td>Cummins</td><td>Technician - Electrical Field Service</td><td>Wodonga</td><td>2026-10-01</td></tr>
+<tr><td>TABCORP ASSETS Pty Ltd</td><td>Field Technician - Project</td><td>Brisbane</td><td>2026-10-01</td></tr>
+<tr><td>The Lottery Corporation</td><td>Field Technician - Project</td><td>Brisbane</td><td>2026-10-01</td></tr>
+<tr><td>dormakaba International Holding AG</td><td>Service Technician</td><td>Rockhampton</td><td>2026-10-01</td></tr>
+<tr><td>Aston Martin Lagonda Ltd</td><td>Modern Service Technician</td><td>Newport Pagnell</td><td>2026-10-01</td></tr>
+<tr><td>nbn (National Bank)</td><td>Trainee Customer Field Technician I Brisbane</td><td>Brisbane</td><td>2026-10-01</td></tr>
+<tr><td>nbn (National Bank)</td><td>Trainee Customer Field Technician I Melbourne</td><td>Melbourne</td><td>2026-10-01</td></tr>
+<tr><td>nbn (National Bank)</td><td>Trainee Customer Field Technician I Sydney</td><td>Sydney</td><td>2026-10-01</td></tr>
+<tr><td>Vena Energy</td><td>Technician</td><td>Tailem Bend</td><td>2026-10-01</td></tr>
+<tr><td>nbn</td><td>Trainee Customer Field Technician I Adelaide Metro</td><td>Adelaide</td><td>2026-10-01</td></tr>
+<tr><td>nbn (National Bank)</td><td>Trainee Customer Field Technician I Perth Metro</td><td>Perth</td><td>2026-10-01</td></tr>
+<tr><td>Service Stream Limited</td><td>Civil Maintenance Worker (nightshift)</td><td>Adelaide</td><td>2026-10-01</td></tr>
+<tr><td>E80 Group</td><td>Service Technician Automation - Yatala</td><td>Yatala</td><td>2026-10-01</td></tr>
+<tr><td>CSIRO</td><td>Field Technician - Ska-low Telescope (multiple Positions)</td><td>Geraldton</td><td>2026-10-01</td></tr>
+<tr><td>CSIRO</td><td>Hvac Technician - Ska-low Telescope</td><td>Geraldton</td><td>2026-10-01</td></tr>
+<tr><td>Thales Group</td><td>Mechanical Maintenance Fitter</td><td>Lithgow</td><td>2026-10-01</td></tr>
+<tr><td>The Lottery Corporation</td><td>Field Technician</td><td>Melbourne</td><td>2026-10-01</td></tr>
+<tr><td>Vestas</td><td>Entry Level Service Technician</td><td>Taralga</td><td>2026-10-01</td></tr>
+<tr><td>Webuild SpA</td><td>Mechanical Fitter</td><td>Karratha</td><td>2026-10-01</td></tr>
+<tr><td>Crown Resorts</td><td>Maintenance Person</td><td>Perth</td><td>2026-10-01</td></tr>
+<tr><td>adidas AG</td><td>Casual Retail Professional - New Concept Store Opening In Rouse Hill, Nsw</td><td>Sydney</td><td>2026-10-01</td></tr>
+<tr><td>Bonds Outlet</td><td>Christmas Casual / Bonds Outlet / Spencer Street</td><td>Spencer Street</td><td>2026-10-01</td></tr>
+<tr><td>Bonds</td><td>Christmas Casual / Bonds / Shellharbour</td><td>Shellharbour</td><td>2026-10-01</td></tr>
+<tr><td>Hanes Australasia</td><td>Christmas Casual / Bonds Outlet / Coffs Park Beach</td><td>Coffs Park Beach</td><td>2026-10-01</td></tr>
+<tr><td>Bras N Things</td><td>Christmas Casual / Bras N Things / Melbourne Central</td><td>Melbourne</td><td>2026-10-01</td></tr>
+<tr><td>Hanes Australasia</td><td>Christmas Casual / Sheridan Concession / Myer Melbourne</td><td>Melbourne</td><td>2026-10-01</td></tr>
+<tr><td>Sheridan / Myer Melbourne</td><td>Casual Sales Assistant / Sheridan / Myer Melbourne</td><td>Melbourne</td><td>2026-10-01</td></tr>
+<tr><td>ALDI STORES LIMITED</td><td>Retail Assistant - Wolli Creek</td><td>Sydney</td><td>2026-10-01</td></tr>
+<tr><td>GPC Tools & Equipment Sydney</td><td>Customer Sales & Service - Repco Geraldton - Full Time</td><td>Geraldton</td><td>2026-10-01</td></tr>
+<tr><td>Repco</td><td>Customer Sales & Service - Repco Chatswood - Casual</td><td>Sydney</td><td>2026-10-01</td></tr>
+<tr><td>JB Hi-Fi</td><td>Christmas Casual - Orange</td><td>Orange</td><td>2026-10-01</td></tr>
+<tr><td>Salomon</td><td>Christmas Casuals</td><td>Melbourne</td><td>2026-10-01</td></tr>
+<tr><td>JB Hi-Fi</td><td>Christmas Casual - Geraldton</td><td>Geraldton</td><td>2026-10-01</td></tr>
+<tr><td>Nespresso</td><td>Festive Casual Boutique Coffee Specialist - Chadstone</td><td>Melbourne</td><td>2026-10-01</td></tr>
+<tr><td>adidas AG</td><td>Part-time Advanced Retail Professional (3ic) - New Rouse Hill Concept Store Opening Soon, Nsw</td><td>Sydney</td><td>2026-10-01</td></tr>
+<tr><td>315</td><td>Contract Specialist</td><td>Australia</td><td>2026-10-01</td></tr>
+<tr><td>Reece</td><td>Executive Assistant</td><td>Sydney</td><td>2026-10-01</td></tr>
+<tr><td>ASX OPERATIONS PTY</td><td>Executive Assistant To Group Executive</td><td>Sydney</td><td>2026-10-01</td></tr>
+<tr><td>SGS Australia</td><td>Digital Marketing Coordinator</td><td>Notting Hill</td><td>2026-10-01</td></tr>
+<tr><td>ALSTOM TRANSPORT SA</td><td>Executive Assistant</td><td>Sydney</td><td>2026-10-01</td></tr>
+<tr><td>AusNet Services</td><td>Training Specialist</td><td>Melbourne</td><td>2026-10-01</td></tr>
+<tr><td>Gold Fields</td><td>Coordinator : Projects</td><td>Melbourne</td><td>2026-10-01</td></tr>
+<tr><td>KDR Victoria Pty Ltd</td><td>Officer, Network Events</td><td>Melbourne</td><td>2026-10-01</td></tr>
+<tr><td>dcj</td><td>Administration Assistant - Riverina Youth Justice Centre, Youth Justice</td><td>Wagga Wagga</td><td>2026-10-01</td></tr>
+<tr><td>Kit</td><td>Executive Assistant To Egm</td><td>Sydney Cbd Area</td><td>2026-10-01</td></tr>
+<tr><td>Australian Venue Co.</td><td>Management</td><td>Brisbane</td><td>2026-10-01</td></tr>
+<tr><td>SGS UK</td><td>Digital Marketing Coordinator</td><td>Brisbane</td><td>2026-10-01</td></tr>
 </table>
