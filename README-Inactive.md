@@ -8500,4 +8500,62 @@
 <tr><td>Australian Institute of Professional Counsellors</td><td>Systems Coordinator</td><td>Brisbane</td><td>2026-10-05</td></tr>
 <tr><td>MyIntegra</td><td>Regional Support Coordinator</td><td>Melbourne</td><td>2026-10-05</td></tr>
 <tr><td>Junior Adventures Group</td><td>Coordinator / Belgrave South</td><td>Melbourne</td><td>2026-10-05</td></tr>
+<tr><td>Park Hyatt Melbourne</td><td>F&amp;b Service Trainee (internship)</td><td>Melbourne</td><td>2026-10-06</td></tr>
+<tr><td>BESIX Watpac</td><td>Women In Construction Internship – Bank Street Park</td><td>Sydney</td><td>2026-10-06</td></tr>
+<tr><td>Deloitte Australia</td><td>Daon / Technical Support Engineer</td><td>Sydney</td><td>2026-10-06</td></tr>
+<tr><td>Medtronic</td><td>Associate Technical Services Specialist</td><td>Sydney</td><td>2026-10-06</td></tr>
+<tr><td>Carsales</td><td>Software Engineer</td><td>Melbourne</td><td>2026-10-06</td></tr>
+<tr><td>transport.nsw.gov.au</td><td>Software Engineer</td><td>Australia</td><td>2026-10-06</td></tr>
+<tr><td>transport.nsw.gov.au</td><td>Project Performance Reporting Analyst</td><td>Sydney</td><td>2026-10-06</td></tr>
+<tr><td>Leidos Holdings</td><td>Business Analyst</td><td>Melbourne</td><td>2026-10-06</td></tr>
+<tr><td>Knox City Council</td><td>Business Analyst</td><td>Knox</td><td>2026-10-06</td></tr>
+<tr><td>Viva Energy</td><td>Wfm Compliance Coordinator</td><td>Sydney</td><td>2026-10-06</td></tr>
+<tr><td>Spotless</td><td>Financial Analyst</td><td>Melbourne</td><td>2026-10-06</td></tr>
+<tr><td>Downer EDI</td><td>Financial Analyst</td><td>Melbourne</td><td>2026-10-06</td></tr>
+<tr><td>Downer</td><td>Financial Analyst</td><td>Melbourne</td><td>2026-10-06</td></tr>
+<tr><td>Cuscal</td><td>Business Analyst, Payments (12-month Contract)</td><td>Sydney</td><td>2026-10-06</td></tr>
+<tr><td>Bolton Clarke</td><td>Registered Nurse</td><td>Melbourne</td><td>2026-10-06</td></tr>
+<tr><td>Estia Health</td><td>Registered Nurse</td><td>Sydney</td><td>2026-10-06</td></tr>
+<tr><td>Estia Health</td><td>Personal Care Worker / Kurunjang / Casual</td><td>Melbourne</td><td>2026-10-06</td></tr>
+<tr><td>The Salvation Army</td><td>Cafe And Client Support Worker</td><td>Melbourne</td><td>2026-10-06</td></tr>
+<tr><td>Coates</td><td>Field Service Mechanic</td><td>Cambridge</td><td>2026-10-06</td></tr>
+<tr><td>Rotork Australia</td><td>Field Service Technician – Electrical, Instrumentation And Industrial Automation</td><td>Brisbane</td><td>2026-10-06</td></tr>
+<tr><td>Halter Marine</td><td>Field Operations Specialist (tasmania)</td><td>Tasmania</td><td>2026-10-06</td></tr>
+<tr><td>Halter Marine</td><td>Field Operations Specialist (new South Wales)</td><td>New South Wales</td><td>2026-10-06</td></tr>
+<tr><td>Honeywell</td><td>Field Service Supervisor</td><td>Brisbane</td><td>2026-10-06</td></tr>
+<tr><td>Honeywell International Inc.</td><td>Field Service Supervisor</td><td>Brisbane</td><td>2026-10-06</td></tr>
+<tr><td>SLB (Schlumberger)</td><td>Early Careers - Field Operations</td><td>Australia</td><td>2026-10-06</td></tr>
+<tr><td>Sunglass Hut</td><td>Christmas Casual / Sunglass Hut Burwood, Nsw</td><td>Sydney</td><td>2026-10-06</td></tr>
+<tr><td>Sunglass Hut</td><td>Christmas Casual / Sunglass Hut Blacktown, Nsw</td><td>Sydney</td><td>2026-10-06</td></tr>
+<tr><td>Sunglass Hut</td><td>Christmas Casual / Sunglass Hut Parramatta, Nsw</td><td>Sydney</td><td>2026-10-06</td></tr>
+<tr><td>Sunglass Hut</td><td>Christmas Casual / Sunglass Hut Miranda 2, Nsw</td><td>Sydney</td><td>2026-10-06</td></tr>
+<tr><td>Sunglass Hut</td><td>Christmas Casual / Sunglass Hut Miranda, Nsw</td><td>Sydney</td><td>2026-10-06</td></tr>
+<tr><td>Sunglass Hut Broadway</td><td>Christmas Casual / Sunglass Hut Broadway, Nsw</td><td>Sydney</td><td>2026-10-06</td></tr>
+<tr><td>Sunglass Hut</td><td>Christmas Casual / Sunglass Hut Hurstville, Nsw</td><td>Sydney</td><td>2026-10-06</td></tr>
+<tr><td>OAKLEY</td><td>Christmas Casual / Oakley Sydney George Street, Nsw</td><td>Sydney</td><td>2026-10-06</td></tr>
+<tr><td>Sunglass Hut</td><td>Retail Associate / Sunglass Hut Burwood, Nsw</td><td>Sydney</td><td>2026-10-06</td></tr>
+<tr><td>Sunglass Hut</td><td>Christmas Casual / Sunglass Hut / Myer Werribee, Vic</td><td>Melbourne</td><td>2026-10-06</td></tr>
+<tr><td>EssilorLuxottica SA</td><td>Christmas Casual / Sunglass Hut / Myer Southland, Vic</td><td>Melbourne</td><td>2026-10-06</td></tr>
+<tr><td>Sunglass Hut</td><td>Christmas Casual / Sunglass Hut / On Bourke, Vic</td><td>Melbourne</td><td>2026-10-06</td></tr>
+<tr><td>Sunglass Hut</td><td>Christmas Casual / Sunglass Hut / Myer Melbourne, Vic</td><td>Melbourne</td><td>2026-10-06</td></tr>
+<tr><td>Oakley</td><td>Christmas Casual / Oakley / Moorabbin, Vic</td><td>Melbourne</td><td>2026-10-06</td></tr>
+<tr><td>Sunglass Hut</td><td>Christmas Casual / Sunglass Hut / Broadmeadows, Vic</td><td>Melbourne</td><td>2026-10-06</td></tr>
+<tr><td>Oakley</td><td>Christmas Casual / Oakley / Chadstone, Vic</td><td>Melbourne</td><td>2026-10-06</td></tr>
+<tr><td>Sunglass Hut</td><td>Christmas Casual / Sunglass Hut / Burnside, Sa</td><td>Melbourne</td><td>2026-10-06</td></tr>
+<tr><td>Rayban</td><td>Christmas Casual / Rayban / Chadstone, Vic</td><td>Melbourne</td><td>2026-10-06</td></tr>
+<tr><td>Sunglass Hut</td><td>Christmas Casual / Sunglass Hut / Myer Chadstone, Vic</td><td>Melbourne</td><td>2026-10-06</td></tr>
+<tr><td>Sunglass Hut</td><td>Christmas Casual / Sunglass Hut / Melton, Vic</td><td>Melbourne</td><td>2026-10-06</td></tr>
+<tr><td>Sunglass Hut</td><td>Christmas Casual / Sunglass Hut / Melbourne Central, Vic</td><td>Melbourne</td><td>2026-10-06</td></tr>
+<tr><td>Sunglass Hut</td><td>Retail Associate I Sunglass Hut I Casual I T4 Perth Airport, Wa</td><td>Perth</td><td>2026-10-06</td></tr>
+<tr><td>OPSM</td><td>Associate Dispenser I Opsm I Full Time I Midland, Wa</td><td>Perth</td><td>2026-10-06</td></tr>
+<tr><td>Sunglass Hut</td><td>Christmas Casual / Sunglass Hut / Myer Doncaster, Vic</td><td>Melbourne</td><td>2026-10-06</td></tr>
+<tr><td>OPSM (EssilorLuxottica Group)</td><td>Retail Associate / Sunglass Hut / Pt / Vic / Bourke St</td><td>Melbourne</td><td>2026-10-06</td></tr>
+<tr><td>adidas AG</td><td>Full Time Retail Professional - Essendon Dfo Factory Outlet, Vic</td><td>Melbourne</td><td>2026-10-06</td></tr>
+<tr><td>adidas AG</td><td>Full-time Retail Professional - South Wharf Dfo, Vic</td><td>Melbourne</td><td>2026-10-06</td></tr>
+<tr><td>adidas AG</td><td>Casual Retail Professional - Dfo Essendon Factory Outlet, Vic</td><td>Melbourne</td><td>2026-10-06</td></tr>
+<tr><td>POP MART Global</td><td>Part-time Sales Associate (world Square)</td><td>Sydney</td><td>2026-10-06</td></tr>
+<tr><td>Lululemon</td><td>Warehouse Associate Seasonal Casual</td><td>Ravenhall</td><td>2026-10-06</td></tr>
+<tr><td>University Health</td><td>Workforce Communications And Engagement Specialist</td><td>Melbourne</td><td>2026-10-06</td></tr>
+<tr><td>University of Melbourne</td><td>Workforce Communications And Engagement Specialist</td><td>Melbourne</td><td>2026-10-06</td></tr>
+<tr><td>University of Queensland</td><td>Inclusive Testing Coordinator</td><td>St Lucia</td><td>2026-10-06</td></tr>
 </table>
