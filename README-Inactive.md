@@ -8558,4 +8558,67 @@
 <tr><td>University Health</td><td>Workforce Communications And Engagement Specialist</td><td>Melbourne</td><td>2026-10-06</td></tr>
 <tr><td>University of Melbourne</td><td>Workforce Communications And Engagement Specialist</td><td>Melbourne</td><td>2026-10-06</td></tr>
 <tr><td>University of Queensland</td><td>Inclusive Testing Coordinator</td><td>St Lucia</td><td>2026-10-06</td></tr>
+<tr><td>Gameloft Australia</td><td>Communications Intern</td><td>Brisbane</td><td>2026-10-07</td></tr>
+<tr><td>Insignia Financial Ltd</td><td>It Support Analyst</td><td>Sydney</td><td>2026-10-07</td></tr>
+<tr><td>Serco Asia Pacific</td><td>It Support Officer (it)</td><td>Wooroloo</td><td>2026-10-07</td></tr>
+<tr><td>REST Industry Super</td><td>Application Security Analyst</td><td>Sydney</td><td>2026-10-07</td></tr>
+<tr><td>Bonneville Bank</td><td>Staff Software Engineer</td><td>Sydney CBD Area</td><td>2026-10-07</td></tr>
+<tr><td>NCS Australia Group</td><td>Security Analyst - Contract</td><td>Sydney</td><td>2026-10-07</td></tr>
+<tr><td>dcj.nsw.gov.au</td><td>Analyst</td><td>Sydney</td><td>2026-10-07</td></tr>
+<tr><td>024</td><td>Insights Analyst</td><td>Sydney</td><td>2026-10-07</td></tr>
+<tr><td>Transport for NSW</td><td>Data Analyst</td><td>Unknown</td><td>2026-10-07</td></tr>
+<tr><td>transport.nsw.gov.au</td><td>Data Analyst - Metadata</td><td>Australia</td><td>2026-10-07</td></tr>
+<tr><td>transport.nsw.gov.au</td><td>Data Analyst - Quality</td><td>Australia</td><td>2026-10-07</td></tr>
+<tr><td>ST VINCENT'S PRIVATE HOSPITAL SYDNEY</td><td>It Asset Analyst</td><td>Sydney</td><td>2026-10-07</td></tr>
+<tr><td>SVHA</td><td>It Asset Analyst</td><td>Sydney</td><td>2026-10-07</td></tr>
+<tr><td>Grant Thornton Australia</td><td>Business Services Accountant</td><td>Brisbane</td><td>2026-10-07</td></tr>
+<tr><td>Leidos Holdings</td><td>Business Analyst - 6 Month Max Tenure Contract</td><td>Melbourne</td><td>2026-10-07</td></tr>
+<tr><td>Estia Health</td><td>Registered Nurse</td><td>Melbourne</td><td>2026-10-07</td></tr>
+<tr><td>166</td><td>Support Worker</td><td>Sydney</td><td>2026-10-07</td></tr>
+<tr><td>Mediix</td><td>Physiotherapist</td><td>Brisbane</td><td>2026-10-07</td></tr>
+<tr><td>Mediix</td><td>Msk Physiotherapist</td><td>Brisbane</td><td>2026-10-07</td></tr>
+<tr><td>Mediix</td><td>Physiotherapist / Established Private Practice / Full-time</td><td>Brisbane</td><td>2026-10-07</td></tr>
+<tr><td>Harwell Home Care Pty Ltd</td><td>Registered Nurse (toowoomba)</td><td>Toowoomba</td><td>2026-10-07</td></tr>
+<tr><td>Austin Health</td><td>Registered Nurse Grade 4</td><td>Melbourne</td><td>2026-10-07</td></tr>
+<tr><td>Mercy Health</td><td>Clinical Support Nurse</td><td>Melbourne</td><td>2026-10-07</td></tr>
+<tr><td>UnitingCare</td><td>Registered Nurse</td><td>Goonellabah</td><td>2026-10-07</td></tr>
+<tr><td>UnitingCare</td><td>Life Skills Supporter Disability (narara)</td><td>Sydney</td><td>2026-10-07</td></tr>
+<tr><td>UnitingCare Health</td><td>Registered Nurse</td><td>Avenell Heights</td><td>2026-10-07</td></tr>
+<tr><td>Komatsu Marketing Support Australia Pty Ltd</td><td>Technician - Field Service</td><td>Mt Thorley</td><td>2026-10-07</td></tr>
+<tr><td>McDonald's Australia</td><td>Maintenance</td><td>Kyabram</td><td>2026-10-07</td></tr>
+<tr><td>Mineral Resources Ltd</td><td>Electrical Power Generation Operator Maintainer / 15:13 Roster / Various Sites</td><td>Perth</td><td>2026-10-07</td></tr>
+<tr><td>Johnson Controls OpenBlue</td><td>Controls Systems Technician (project Team)</td><td>Melrose Park</td><td>2026-10-07</td></tr>
+<tr><td>Hastings Deering</td><td>Field Service Fitter</td><td>Mackay</td><td>2026-10-07</td></tr>
+<tr><td>Emploisgevernovahydro</td><td>Wind Farm Field Service Technician - Goyder Sa</td><td>Koonoona</td><td>2026-10-07</td></tr>
+<tr><td>SavaneInspire</td><td>Maintenance Tradesperson (electrical)</td><td>Hazelmere</td><td>2026-10-07</td></tr>
+<tr><td>045</td><td>Customer Field Technician / Mackay</td><td>Mackay</td><td>2026-10-07</td></tr>
+<tr><td>O'Brien Electrical Moonah</td><td>Commercial Catering Equipment Repair Person</td><td>Hobart</td><td>2026-10-07</td></tr>
+<tr><td>045</td><td>Customer Field Technician I South Coast</td><td>Wollongong</td><td>2026-10-07</td></tr>
+<tr><td>Sunglass Hut</td><td>Christmas Casual / Sunglass Hut Sydney Virgin Domestic Airport, Nsw</td><td>Sydney</td><td>2026-10-07</td></tr>
+<tr><td>Sunglass Hut</td><td>Christmas Casual / Sunglass Hut Myer Bondi Junction, Nsw</td><td>Sydney</td><td>2026-10-07</td></tr>
+<tr><td>OPSM (EssilorLuxottica Group)</td><td>Retail Associate / Sunglass Hut Chatswood, Nsw</td><td>Sydney</td><td>2026-10-07</td></tr>
+<tr><td>Sunglass Hut</td><td>Christmas Casual / Sunglass Hut Sydney Qantas Domestic Airport, Nsw</td><td>Sydney</td><td>2026-10-07</td></tr>
+<tr><td>Sunglass Hut</td><td>Christmas Casual / Sunglass Hut Myer Castle Hill, Nsw</td><td>Sydney</td><td>2026-10-07</td></tr>
+<tr><td>Sunglass Hut</td><td>Christmas Casual / Sunglass Hut Myer Bankstown, Nsw</td><td>Sydney</td><td>2026-10-07</td></tr>
+<tr><td>Sunglass Hut</td><td>Christmas Casual / Sunglass Hut / Crown Casino, Vic</td><td>Melbourne</td><td>2026-10-07</td></tr>
+<tr><td>Sunglass Hut</td><td>Christmas Casual / Sunglass Hut / Chadstone, Vic</td><td>Melbourne</td><td>2026-10-07</td></tr>
+<tr><td>Sunglass Hut</td><td>Christmas Casual / Sunglass Hut / Werribee, Vic</td><td>Melbourne</td><td>2026-10-07</td></tr>
+<tr><td>Sunglass Hut</td><td>Christmas Casual / Sunglass Hut / Dfo Moorabbin, Vic</td><td>Melbourne</td><td>2026-10-07</td></tr>
+<tr><td>Oakley</td><td>Retail Associate / Oakley / Pt / Vic / Chadstone</td><td>Melbourne</td><td>2026-10-07</td></tr>
+<tr><td>Sunglass Hut</td><td>Christmas Casual / Sunglass Hut / Chadstone Lower Ground, Vic</td><td>Melbourne</td><td>2026-10-07</td></tr>
+<tr><td>Oakley</td><td>Retail Associate / Oakley / C / Vic / Dfo Moorabbin</td><td>Melbourne</td><td>2026-10-07</td></tr>
+<tr><td>Sunglass Hut</td><td>Christmas Casual / Sunglass Hut Qvb, Nsw</td><td>Sydney</td><td>2026-10-07</td></tr>
+<tr><td>The University of Melbourne</td><td>Research Strategy Project Officer</td><td>Melbourne</td><td>2026-10-07</td></tr>
+<tr><td>Laser Group</td><td>Administration Assistant</td><td>Bundaberg</td><td>2026-10-07</td></tr>
+<tr><td>Gold Fields Limited</td><td>Coordinator : Projects</td><td>Granny Smith</td><td>2026-10-07</td></tr>
+<tr><td>Novo Nordisk AS</td><td>Leadership Team Assistant</td><td>Sydney</td><td>2026-10-07</td></tr>
+<tr><td>BRADKEN</td><td>Inventory And Warehouse Coordinator</td><td>Port Of Brisbane</td><td>2026-10-07</td></tr>
+<tr><td>Scentre Group Ltd</td><td>Facilities Coordinator - Westfield Fountain Gate</td><td>Melbourne</td><td>2026-10-07</td></tr>
+<tr><td>DECJUBA</td><td>Casual Retail Assistant-rundle Mall</td><td>Adelaide</td><td>2026-10-07</td></tr>
+<tr><td>dcj</td><td>Part Time Administrative Assistant, Clerk 1/2, Dubbo Community Corrections</td><td>Dubbo</td><td>2026-10-07</td></tr>
+<tr><td>UNIVERSAL MUSIC</td><td>Performance Media Coordinator</td><td>Sydney</td><td>2026-10-07</td></tr>
+<tr><td>John Holland Group</td><td>Contracts Administration Assistant</td><td>Cootamundra</td><td>2026-10-07</td></tr>
+<tr><td>SVHA</td><td>Administrative Assistant</td><td>Melbourne</td><td>2026-10-07</td></tr>
+<tr><td>John Holland</td><td>Contracts Administration Assistant</td><td>Cootamundra</td><td>2026-10-07</td></tr>
+<tr><td>LoopNet</td><td>Executive Assistant</td><td>Pitt St</td><td>2026-10-07</td></tr>
 </table>
