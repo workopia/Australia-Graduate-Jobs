@@ -8719,4 +8719,93 @@
 <tr><td>KordaMentha</td><td>Executive Assistant</td><td>Melbourne</td><td>2026-10-08</td></tr>
 <tr><td>University Health</td><td>Research Strategy Project Officer</td><td>Melbourne</td><td>2026-10-08</td></tr>
 <tr><td>VicRoads</td><td>Executive Assistant</td><td>Melbourne</td><td>2026-10-08</td></tr>
+<tr><td>Concur</td><td>Sap Creative Design & Multimedia Internship</td><td>Sydney</td><td>2026-10-09</td></tr>
+<tr><td>122</td><td>Intern</td><td>Sydney</td><td>2026-10-09</td></tr>
+<tr><td>77</td><td>Intern</td><td>Sydney</td><td>2026-10-09</td></tr>
+<tr><td>Jll Com Au</td><td>Intern</td><td>Sydney</td><td>2026-10-09</td></tr>
+<tr><td>IMC Trading</td><td>Software Engineer - Research</td><td>Sydney</td><td>2026-10-09</td></tr>
+<tr><td>Inforcer Ltd</td><td>Product Support Specialist</td><td>Melbourne</td><td>2026-10-09</td></tr>
+<tr><td>Jobgether</td><td>Full Stack Software Engineer - Ai-first (java, Angular)</td><td>Australia</td><td>2026-10-09</td></tr>
+<tr><td>Jobgether</td><td>Founding Software Engineer - New Product</td><td>Australia</td><td>2026-10-09</td></tr>
+<tr><td>733</td><td>Group Reporting Analyst</td><td>Melbourne</td><td>2026-10-09</td></tr>
+<tr><td>Burbankbank</td><td>Advanced Analytics Analyst, Card Fraud</td><td>Sydney</td><td>2026-10-09</td></tr>
+<tr><td>Kombuki</td><td>Advanced Analytics Analyst, Card Fraud</td><td>Sydney</td><td>2026-10-09</td></tr>
+<tr><td>Reece</td><td>People Data Analyst</td><td>Sydney</td><td>2026-10-09</td></tr>
+<tr><td>GPC Tools & Equipment Sydney</td><td>Data Scientist</td><td>Sydney</td><td>2026-10-09</td></tr>
+<tr><td>Wearetheuniversity</td><td>Data Analyst (academic Model)</td><td>Darlington Campus</td><td>2026-10-09</td></tr>
+<tr><td>eduboardresults.in</td><td>Data Analyst (academic Model)</td><td>Darlington Campus</td><td>2026-10-09</td></tr>
+<tr><td>Griffith University</td><td>Research Accountant</td><td>Nathan</td><td>2026-10-09</td></tr>
+<tr><td>Barringtonbank</td><td>Business Analyst</td><td>Sydney</td><td>2026-10-09</td></tr>
+<tr><td>dcj.nsw.gov.au</td><td>Business Analyst - Data And Analytic</td><td>Sydney</td><td>2026-10-09</td></tr>
+<tr><td>WesTrac Pty Ltd</td><td>Accountant</td><td>Guildford</td><td>2026-10-09</td></tr>
+<tr><td>AusNet Services</td><td>Risk & Contract Advisor, Infrastructure Projects</td><td>Victoria</td><td>2026-10-09</td></tr>
+<tr><td>Ernst & Young</td><td>Expression Of Interest - Business Consulting</td><td>Sydney</td><td>2026-10-09</td></tr>
+<tr><td>Estia Health</td><td>Registered Nurse / Permanent</td><td>Sydney</td><td>2026-10-09</td></tr>
+<tr><td>1020 Lawrence Avenue West</td><td>Registered Nurse</td><td>Melbourne</td><td>2026-10-09</td></tr>
+<tr><td>GENESISCARE</td><td>Registered Nurse</td><td>Maroochydore</td><td>2026-10-09</td></tr>
+<tr><td>Estia Health</td><td>Registered Nurse</td><td>Sydney</td><td>2026-10-09</td></tr>
+<tr><td>1020 Lawrence Avenue West</td><td>2026 Hospital In The Home (hith) Medical Registrar</td><td>Melbourne</td><td>2026-10-09</td></tr>
+<tr><td>72</td><td>Personal Care Assistant</td><td>Melbourne</td><td>2026-10-09</td></tr>
+<tr><td>Bolton Clarke</td><td>Registered Nurse</td><td>Melbourne</td><td>2026-10-09</td></tr>
+<tr><td>Harwell Home Care Pty Ltd</td><td>Registered Nurse (ipswich)</td><td>Ipswich</td><td>2026-10-09</td></tr>
+<tr><td>Barwon Health</td><td>Casual Registered Nurse Lorne 1 1</td><td>Lorne</td><td>2026-10-09</td></tr>
+<tr><td>Queensland Health</td><td>Registered Nurse - Perioperative</td><td>Brisbane</td><td>2026-10-09</td></tr>
+<tr><td>Queensland Health</td><td>Registered Nurse - Anaesthetics</td><td>Brisbane</td><td>2026-10-09</td></tr>
+<tr><td>Queensland Health</td><td>Registered Nurse (pool)</td><td>Alpha +4</td><td>2026-10-09</td></tr>
+<tr><td>Queensland Health</td><td>Registered Nurse - Casual Talent Pool</td><td>Wide Bay</td><td>2026-10-09</td></tr>
+<tr><td>Queensland Health</td><td>Registered Nurse</td><td>Brisbane Inner City</td><td>2026-10-09</td></tr>
+<tr><td>Queensland Health</td><td>Registered Nurse (regional)</td><td>Central Queensland</td><td>2026-10-09</td></tr>
+<tr><td>Queensland Health</td><td>Registered Nurse (rural & Remote)</td><td>Central Queensland</td><td>2026-10-09</td></tr>
+<tr><td>Queensland Health</td><td>Registered Nurse (hervey Bay)</td><td>Hervey Bay</td><td>2026-10-09</td></tr>
+<tr><td>Queensland Health</td><td>Registered Nurse Talent Pool - Surgical, Treatment And Rehabilitation Service (stars)</td><td>Herston</td><td>2026-10-09</td></tr>
+<tr><td>Queensland Health</td><td>Registered Nurse Talent Pool - Redcliffe Hospital</td><td>Redcliffe</td><td>2026-10-09</td></tr>
+<tr><td>Queensland Health</td><td>Registered Nurse Talent Pool - Royal Brisbane And Women's Hospital</td><td>Herston</td><td>2026-10-09</td></tr>
+<tr><td>Queensland Health</td><td>Registered Nurse Talent Pool - The Prince Charles Hospital</td><td>Brisbane</td><td>2026-10-09</td></tr>
+<tr><td>Queensland Health</td><td>Registered Nurse - Emergency Department (hervey Bay)</td><td>Hervey Bay</td><td>2026-10-09</td></tr>
+<tr><td>Queensland Health</td><td>Registered Nurse, Operating Theatre - Talent Pool</td><td>Woollongabba</td><td>2026-10-09</td></tr>
+<tr><td>Queensland Health</td><td>Registered Nurse - Emergency Department (talent Pool)</td><td>Brisbane</td><td>2026-10-09</td></tr>
+<tr><td>Queensland Health</td><td>Registered Nurse (wide Bay Rural Facilities)</td><td>Eidsvold +6</td><td>2026-10-09</td></tr>
+<tr><td>Queensland Health</td><td>Registered Nurse - Medical (hervey Bay)</td><td>Hervey Bay</td><td>2026-10-09</td></tr>
+<tr><td>Queensland Health</td><td>Registered Nurse - Surgical (hervey Bay)</td><td>Hervey Bay</td><td>2026-10-09</td></tr>
+<tr><td>Queensland Health</td><td>Registered Nurse - Nursing And Midwifery Workforce Services</td><td>Townsville</td><td>2026-10-09</td></tr>
+<tr><td>Queensland Health</td><td>Registered Nurse - Emergency</td><td>Toowoomba</td><td>2026-10-09</td></tr>
+<tr><td>Queensland Health</td><td>Registered Nurse (high Dependency Unit)</td><td>Gladstone</td><td>2026-10-09</td></tr>
+<tr><td>Queensland Health</td><td>Registered Nurse (talent Pipeline)</td><td>Birtinya +4</td><td>2026-10-09</td></tr>
+<tr><td>Queensland Health</td><td>Registered Nurse (anaesthetics) Talent Pool</td><td>Meadowbrook</td><td>2026-10-09</td></tr>
+<tr><td>Queensland Health</td><td>Registered Nurse (bundaberg)</td><td>Bundaberg</td><td>2026-10-09</td></tr>
+<tr><td>Queensland Health</td><td>Registered Nurse (casual), Innisfail Hospital</td><td>Innisfail</td><td>2026-10-09</td></tr>
+<tr><td>Queensland Health</td><td>Registered Nurse - Rural Generalist (weipa)</td><td>Weipa</td><td>2026-10-09</td></tr>
+<tr><td>Queensland Health</td><td>Registered Nurse - Crisis Stabilisation Unit</td><td>Brisbane</td><td>2026-10-09</td></tr>
+<tr><td>Queensland Health</td><td>Registered Nurse Radiology</td><td>Brisbane</td><td>2026-10-09</td></tr>
+<tr><td>Queensland Health</td><td>Registered Nurse - Adult Intensive Care Unit</td><td>Brisbane</td><td>2026-10-09</td></tr>
+<tr><td>Queensland Health</td><td>Enrolled Nurse Advanced Practice</td><td>Toowoomba</td><td>2026-10-09</td></tr>
+<tr><td>McDonald's Australia</td><td>Maintenance</td><td>Forster</td><td>2026-10-09</td></tr>
+<tr><td>Eaton</td><td>Field Service Technician</td><td>Melbourne</td><td>2026-10-09</td></tr>
+<tr><td>Schneider Electric</td><td>Bms Service Technician</td><td>South Australia</td><td>2026-10-09</td></tr>
+<tr><td>Dematic</td><td>Maintenance Technician (industrial Electrical)</td><td>Tamworth</td><td>2026-10-09</td></tr>
+<tr><td>Vestas</td><td>Service Technician - Au</td><td>Merredin +19</td><td>2026-10-09</td></tr>
+<tr><td>Vestas</td><td>Specialist Skill Technician</td><td>Rokewood</td><td>2026-10-09</td></tr>
+<tr><td>045</td><td>Trainee Customer Field Technician I Armidale</td><td>Armidale</td><td>2026-10-09</td></tr>
+<tr><td>045</td><td>Trainee Customer Field Technician I Grafton</td><td>Grafton</td><td>2026-10-09</td></tr>
+<tr><td>045</td><td>Trainee Customer Field Technician I Townsville</td><td>Townsville</td><td>2026-10-09</td></tr>
+<tr><td>045</td><td>Trainee Customer Field Technician I Ballina</td><td>Coffs Harbour</td><td>2026-10-09</td></tr>
+<tr><td>045</td><td>Trainee Customer Field Technician I Casino</td><td>Coffs Harbour</td><td>2026-10-09</td></tr>
+<tr><td>Authentics Australia</td><td>Seasonal Christmas Casual Sales Assistants</td><td>Melbourne</td><td>2026-10-09</td></tr>
+<tr><td>Nestle Ltd</td><td>2x Casual Boutique Coffee Specialist - Doncaster</td><td>Melbourne</td><td>2026-10-09</td></tr>
+<tr><td>JBS Australia Pty Ltd</td><td>Warehouse Assistant</td><td>Brisbane</td><td>2026-10-09</td></tr>
+<tr><td>Bras N Things</td><td>Christmas Casual / Bras N Things / Shellharbour</td><td>Shellharbour</td><td>2026-10-09</td></tr>
+<tr><td>Bonds Outlet</td><td>Christmas Casual / Bonds Outlet / Essendon</td><td>Melbourne</td><td>2026-10-09</td></tr>
+<tr><td>CSR</td><td>Trade Counter Sales (melton, Vic)</td><td>Melbourne</td><td>2026-10-09</td></tr>
+<tr><td>CSR</td><td>Trade Counter Sales (customer Service) & Warehouse Operator (balcatta, Wa)</td><td>Perth</td><td>2026-10-09</td></tr>
+<tr><td>Alo Yoga Inc</td><td>Sales Associate (full-time) - Chatswood Chase</td><td>Sydney</td><td>2026-10-09</td></tr>
+<tr><td>Aloyoga Inc</td><td>Operations Associate (full-time) - Chatswood Chase</td><td>Sydney</td><td>2026-10-09</td></tr>
+<tr><td>Jo Mercer</td><td>Full-time Sales Executive- Pacific Fair</td><td>Queensland</td><td>2026-10-09</td></tr>
+<tr><td>Sunglass Hut</td><td>Christmas Casual / Sunglass Hut / Chapel Street, Vic</td><td>Chapel Street</td><td>2026-10-09</td></tr>
+<tr><td>Goodstart Early Learning Ltd</td><td>Administration Assistant</td><td>Blackmans Bay</td><td>2026-10-09</td></tr>
+<tr><td>Jll Com Sg</td><td>Administrative Assistant (part-time)</td><td>Perth</td><td>2026-10-09</td></tr>
+<tr><td>The NSW Department of Education</td><td>Office Support Officer</td><td>Blacktown</td><td>2026-10-09</td></tr>
+<tr><td>BHP INNOVATION Pty Ltd</td><td>Material Logistics Officer / Npocm Port Hedland / Residential 5 & 2 Roster</td><td>Port Hedland</td><td>2026-10-09</td></tr>
+<tr><td>Minter Ellison Services Pty Ltd</td><td>Executive Assistant</td><td>Sydney</td><td>2026-10-09</td></tr>
+<tr><td>Computershare</td><td>Project Coordinator, Corporate Actions</td><td>Melbourne</td><td>2026-10-09</td></tr>
+<tr><td>Computershare UK</td><td>Project Coordinator, Corporate Actions</td><td>Melbourne</td><td>2026-10-09</td></tr>
 </table>
