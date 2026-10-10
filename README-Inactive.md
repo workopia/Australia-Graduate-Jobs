@@ -8808,4 +8808,46 @@
 <tr><td>Minter Ellison Services Pty Ltd</td><td>Executive Assistant</td><td>Sydney</td><td>2026-10-09</td></tr>
 <tr><td>Computershare</td><td>Project Coordinator, Corporate Actions</td><td>Melbourne</td><td>2026-10-09</td></tr>
 <tr><td>Computershare UK</td><td>Project Coordinator, Corporate Actions</td><td>Melbourne</td><td>2026-10-09</td></tr>
+<tr><td>SAP SE</td><td>Sap Creative Design & Multimedia Internship</td><td>Sydney</td><td>2026-10-10</td></tr>
+<tr><td>Sitemate</td><td>Full Stack Engineer - Hybrid</td><td>Melbourne</td><td>2026-10-10</td></tr>
+<tr><td>Flinders University</td><td>Artificial Intelligence Specialist</td><td>Bedford Park</td><td>2026-10-10</td></tr>
+<tr><td>RSL LIFECARE LIMITED</td><td>Accountant</td><td>Sydney</td><td>2026-10-10</td></tr>
+<tr><td>Queensland Health</td><td>Registered Nurse</td><td>Millmerran</td><td>2026-10-10</td></tr>
+<tr><td>Queensland Health</td><td>Registered Nurse (richmond Multipurpose Health Service)</td><td>Melbourne</td><td>2026-10-10</td></tr>
+<tr><td>St Vincent’s Hospital Melbourne</td><td>Acute @home Physiotherapist - Grade 2</td><td>Melbourne</td><td>2026-10-10</td></tr>
+<tr><td>Mira Vista Care Center</td><td>Acute @home Physiotherapist - Grade 2</td><td>Melbourne</td><td>2026-10-10</td></tr>
+<tr><td>Anglicare Sydney</td><td>Registered Nurse</td><td>Sydney</td><td>2026-10-10</td></tr>
+<tr><td>science.unimelb.edu.au</td><td>Research Assistant (ra)</td><td>Melbourne</td><td>2026-10-10</td></tr>
+<tr><td>University Health</td><td>Research Assistant (ra)</td><td>Melbourne</td><td>2026-10-10</td></tr>
+<tr><td>Epworth HealthCare</td><td>Enrolled And Registered Nurses - Rehabilitation</td><td>Melbourne</td><td>2026-10-10</td></tr>
+<tr><td>Epworth HealthCare</td><td>Casual Registered Nurses & Critical Care Rn (cru) – Richmond & Freemasons</td><td>Melbourne</td><td>2026-10-10</td></tr>
+<tr><td>Opal HealthCare</td><td>Registered Nurse - Kilmore Grove Care Community</td><td>Melbourne</td><td>2026-10-10</td></tr>
+<tr><td>Vestas</td><td>Service Technician</td><td>Dulacca</td><td>2026-10-10</td></tr>
+<tr><td>952</td><td>Field Engineer I Adelaide Metro</td><td>Adelaide</td><td>2026-10-10</td></tr>
+<tr><td>Sofitel Sydney Wentworth</td><td>Maintenance Technician</td><td>Sydney</td><td>2026-10-10</td></tr>
+<tr><td>Stryker South Pacific</td><td>Field Service Engineer</td><td>Brisbane</td><td>2026-10-10</td></tr>
+<tr><td>Johnson Controls</td><td>Hvac Service Technician</td><td>Warana</td><td>2026-10-10</td></tr>
+<tr><td>National Oilwell Varco</td><td>Field Service Engineer</td><td>Brisbane</td><td>2026-10-10</td></tr>
+<tr><td>National Oilwell</td><td>Field Service Engineer</td><td>Brisbane</td><td>2026-10-10</td></tr>
+<tr><td>NOV (National Oilwell Varco)</td><td>Field Service Engineer</td><td>Brisbane</td><td>2026-10-10</td></tr>
+<tr><td>NOV</td><td>Field Service Engineer</td><td>Brisbane</td><td>2026-10-10</td></tr>
+<tr><td>Perenti Global Ltd</td><td>Pump Fitter</td><td>Search By Location</td><td>2026-10-10</td></tr>
+<tr><td>Dematic Pty Ltd</td><td>Field Service Technician</td><td>Sydney</td><td>2026-10-10</td></tr>
+<tr><td>DECJUBA</td><td>Seasonal Casual Retail Assistant-pacific Fair</td><td>Broadbeach</td><td>2026-10-10</td></tr>
+<tr><td>DECJUBA</td><td>Seasonal Casual Retail Assistant - Woden</td><td>Woden</td><td>2026-10-10</td></tr>
+<tr><td>DECJUBA</td><td>Seasonal Casual Retail Assistant - Frankston</td><td>Frankston</td><td>2026-10-10</td></tr>
+<tr><td>DECJUBA</td><td>Seasonal Casual Retail Assistant-eastland</td><td>Ringwoood</td><td>2026-10-10</td></tr>
+<tr><td>DECJUBA</td><td>Seasonal Casual Retail Assistant - Bendigo</td><td>Bendigo</td><td>2026-10-10</td></tr>
+<tr><td>DECJUBA</td><td>Seasonal Casual Retail Assistant - Highpoint Kids</td><td>Maribyrnong</td><td>2026-10-10</td></tr>
+<tr><td>DECJUBA</td><td>Seasonal Casual Retail Assistant - Watergardens</td><td>Taylors Lakes</td><td>2026-10-10</td></tr>
+<tr><td>DECJUBA</td><td>Seasonal Casual Retail Assistant - Uni Hill</td><td>Bundoora</td><td>2026-10-10</td></tr>
+<tr><td>DECJUBA</td><td>Seasonal Casual Retail Assistant - Myer Chadstone Kw</td><td>Chadstone</td><td>2026-10-10</td></tr>
+<tr><td>DECJUBA</td><td>Seasonal Casual Retail Assistant - Melbourne Central</td><td>Melbourne</td><td>2026-10-10</td></tr>
+<tr><td>Reece</td><td>Warehouse Assistant - Alice Springs</td><td>Alice Springs</td><td>2026-10-10</td></tr>
+<tr><td>Country Road Group</td><td>Executive Assistant - Country Road Group</td><td>Melbourne</td><td>2026-10-10</td></tr>
+<tr><td>JBS Australia Pty Ltd</td><td>Customer Service Coordinator</td><td>Sydney</td><td>2026-10-10</td></tr>
+<tr><td>JBS Australia Pty Ltd</td><td>Domestic Logistics Coordinator</td><td>Riverview</td><td>2026-10-10</td></tr>
+<tr><td>University of Sydney</td><td>Casual Executive Assistant And Support Opportunities</td><td>Darlington</td><td>2026-10-10</td></tr>
+<tr><td>Sparke Helmore Lawyers</td><td>Administration Assistant, Legal Support</td><td>Newcastle</td><td>2026-10-10</td></tr>
+<tr><td>SERB Pharmaceuticals</td><td>Warehouse And Distribution Officer</td><td>Australia Field</td><td>2026-10-10</td></tr>
 </table>
