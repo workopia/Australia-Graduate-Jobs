@@ -8850,4 +8850,101 @@
 <tr><td>University of Sydney</td><td>Casual Executive Assistant And Support Opportunities</td><td>Darlington</td><td>2026-10-10</td></tr>
 <tr><td>Sparke Helmore Lawyers</td><td>Administration Assistant, Legal Support</td><td>Newcastle</td><td>2026-10-10</td></tr>
 <tr><td>SERB Pharmaceuticals</td><td>Warehouse And Distribution Officer</td><td>Australia Field</td><td>2026-10-10</td></tr>
+<tr><td>SAP Concur</td><td>Customer Engagement Advisory - Internship</td><td>Sydney</td><td>2026-10-11</td></tr>
+<tr><td>252</td><td>Technical Support Representative</td><td>Tuggerah</td><td>2026-10-11</td></tr>
+<tr><td>Matterport</td><td>Software Engineer - Homepass</td><td>Melbourne</td><td>2026-10-11</td></tr>
+<tr><td>CommBank</td><td>Staff Software Engineer</td><td>Sydney</td><td>2026-10-11</td></tr>
+<tr><td>Maincode</td><td>Software Engineer</td><td>Melbourne</td><td>2026-10-11</td></tr>
+<tr><td>Stake</td><td>Front End Engineer</td><td>Sydney</td><td>2026-10-11</td></tr>
+<tr><td>Stake</td><td>Software Engineer</td><td>Sydney</td><td>2026-10-11</td></tr>
+<tr><td>024</td><td>Data Analyst</td><td>Sydney</td><td>2026-10-11</td></tr>
+<tr><td>Saputo</td><td>Automation Engineer</td><td>Burnie +1</td><td>2026-10-11</td></tr>
+<tr><td>dcj</td><td>Business Analyst - Data And Analytics</td><td>Sydney</td><td>2026-10-11</td></tr>
+<tr><td>ALS</td><td>Accountant</td><td>Brisbane</td><td>2026-10-11</td></tr>
+<tr><td>Service Stream Limited</td><td>Sap Otc Data Migration Analyst</td><td>Melbourne</td><td>2026-10-11</td></tr>
+<tr><td>Southsidecb</td><td>Financial Crime Operations Analyst</td><td>Sydney Cbd Area</td><td>2026-10-11</td></tr>
+<tr><td>Davide Campari Milano S.p.A</td><td>Commercial Finance Analyst</td><td>Sydney</td><td>2026-10-11</td></tr>
+<tr><td>Queensland Health</td><td>Registered Nurse</td><td>Meadowbrook</td><td>2026-10-11</td></tr>
+<tr><td>Australian Unity</td><td>Home Care Support Worker</td><td>Melbourne</td><td>2026-10-11</td></tr>
+<tr><td>UnitingCare</td><td>Registered Nurse</td><td>Berrigan</td><td>2026-10-11</td></tr>
+<tr><td>The Salvation Army Australia</td><td>Assertive Outreach Support Worker</td><td>Sydney</td><td>2026-10-11</td></tr>
+<tr><td>NSW Health</td><td>Registered Nurse - Gastroenterology Clinical Trials Unit</td><td>Sydney</td><td>2026-10-11</td></tr>
+<tr><td>NSW Health</td><td>Registered Nurse - Transition To Clinical Nurse Specialist - Drug & Alcohol Services</td><td>Taree</td><td>2026-10-11</td></tr>
+<tr><td>NSW Health</td><td>Community Nursing Registered Nurse</td><td>Glen Innes</td><td>2026-10-11</td></tr>
+<tr><td>NSW Health</td><td>Cardio-pulmonary Rehabilitation Registered Nurse</td><td>Taree</td><td>2026-10-11</td></tr>
+<tr><td>NSW Health</td><td>Registered Nurse - Incentives Offered</td><td>Armidale</td><td>2026-10-11</td></tr>
+<tr><td>NSW Health</td><td>Registered Nurse - Mental Health</td><td>New England / North West</td><td>2026-10-11</td></tr>
+<tr><td>NSW Health</td><td>Registered Nurse</td><td>Statewide</td><td>2026-10-11</td></tr>
+<tr><td>NSW Health</td><td>Registered Nurse - Cardiovascular</td><td>Sydney</td><td>2026-10-11</td></tr>
+<tr><td>NSW Health</td><td>Registered Nurse - Scrub Scout</td><td>Sydney</td><td>2026-10-11</td></tr>
+<tr><td>NSW Health</td><td>Registered Nurse - Child Health Information Link</td><td>Sydney</td><td>2026-10-11</td></tr>
+<tr><td>NSW Health</td><td>Respiratory Registered Nurse</td><td>Inverell</td><td>2026-10-11</td></tr>
+<tr><td>NSW Health</td><td>Mental Health - Registered Nurse - Incentives Offered Specific Sites</td><td>Waratah +4</td><td>2026-10-11</td></tr>
+<tr><td>NSW Health</td><td>Registered Nurse - Harm Reduction Program</td><td>Sydney</td><td>2026-10-11</td></tr>
+<tr><td>NSW Health</td><td>Registered Nurse - Orthopaedic</td><td>Sydney</td><td>2026-10-11</td></tr>
+<tr><td>NSW Health</td><td>Cardiac / Pulmonary Rehabilitation Registered Nurse</td><td>Glen Innes</td><td>2026-10-11</td></tr>
+<tr><td>NSW Health</td><td>Registered Nurse - Palliative Care Centre</td><td>Sydney</td><td>2026-10-11</td></tr>
+<tr><td>NSW Health</td><td>Registered Nurse - Respiratory</td><td>Sydney</td><td>2026-10-11</td></tr>
+<tr><td>SVHA</td><td>Registered Nurse (casual)</td><td>Sydney</td><td>2026-10-11</td></tr>
+<tr><td>The Salvation Army</td><td>Assertive Outreach Support Worker</td><td>Sydney</td><td>2026-10-11</td></tr>
+<tr><td>Mqhealth Org Au</td><td>Registered Nurse (theatre - Neurosurgery & Spinal)</td><td>Australia</td><td>2026-10-11</td></tr>
+<tr><td>Fresenius Medical Care</td><td>Registered Nurse</td><td>Alice Springs</td><td>2026-10-11</td></tr>
+<tr><td>The Hammond Care Group</td><td>Physiotherapist</td><td>Sydney</td><td>2026-10-11</td></tr>
+<tr><td>Anglicare Sydney</td><td>Registered Nurse - Night Shift (part Time)</td><td>Elizabeth Lodge</td><td>2026-10-11</td></tr>
+<tr><td>Westviewhealth</td><td>Registered Nurse</td><td>Melbourne</td><td>2026-10-11</td></tr>
+<tr><td>Jin Hai Net university</td><td>Postdoctoral Research Associate (pharmacy Practice Research)</td><td>Sydney</td><td>2026-10-11</td></tr>
+<tr><td>Epworth HealthCare</td><td>Registered Nurse - Anaesthetics / Pacu</td><td>Melbourne</td><td>2026-10-11</td></tr>
+<tr><td>Gippsland Health Alliance</td><td>District Nurse - Registered Nurse</td><td>Warragul</td><td>2026-10-11</td></tr>
+<tr><td>Gippsland Health Alliance</td><td>Registered Nurse (anaesthetic/recovery)</td><td>Unknown</td><td>2026-10-11</td></tr>
+<tr><td>Queensland Health</td><td>Registered Nurse - Cape York Kidney Care (weipa)</td><td>Weipa</td><td>2026-10-11</td></tr>
+<tr><td>Queensland Health</td><td>Registered Nurse (community Care Units)</td><td>Rockhampton</td><td>2026-10-11</td></tr>
+<tr><td>Komatsu Marketing Support Australia Pty Ltd</td><td>Technician - Resident Field Service</td><td>Young +3</td><td>2026-10-11</td></tr>
+<tr><td>McDonald's Australia</td><td>Maintenance</td><td>Perth</td><td>2026-10-11</td></tr>
+<tr><td>Komatsu Marketing Support Australia Pty Ltd</td><td>Technician - Field Service</td><td>Gunnedah</td><td>2026-10-11</td></tr>
+<tr><td>Visy</td><td>Mechanical Technician</td><td>Shepparton</td><td>2026-10-11</td></tr>
+<tr><td>Toro Company</td><td>Field Service Technician</td><td>Brisbane</td><td>2026-10-11</td></tr>
+<tr><td>JBS Australia Pty Ltd</td><td>Preventative Maintenance Technician</td><td>Wacol</td><td>2026-10-11</td></tr>
+<tr><td>dormakaba International Holding AG</td><td>Service Technician</td><td>Rockhampton</td><td>2026-10-11</td></tr>
+<tr><td>Iluka Resources</td><td>Mechanical Technician</td><td>Eneabba</td><td>2026-10-11</td></tr>
+<tr><td>Carrier Corporation</td><td>Bms Technician</td><td>Australia</td><td>2026-10-11</td></tr>
+<tr><td>Gold Fields Limited</td><td>Technician : Mechanical (fixed)</td><td>Kambalda</td><td>2026-10-11</td></tr>
+<tr><td>Dematic Corp</td><td>Field Service Technician</td><td>Sydney</td><td>2026-10-11</td></tr>
+<tr><td>Orora IT</td><td>Maintenance Fitter Shift</td><td>Adelaide</td><td>2026-10-11</td></tr>
+<tr><td>KONE France</td><td>Field Service Technician (electrician)</td><td>Sydney</td><td>2026-10-11</td></tr>
+<tr><td>KONE ELEVATORS PTY</td><td>Maintenance Technician - Escalators</td><td>Adelaide</td><td>2026-10-11</td></tr>
+<tr><td>Hanes Australasia</td><td>Christmas Casual / Bras N Things / Cockburn Gateway</td><td>Cockburn Gateway</td><td>2026-10-11</td></tr>
+<tr><td>Hanes Australasia</td><td>Christmas Casual / Bonds Outlet / Wagga</td><td>Wagga</td><td>2026-10-11</td></tr>
+<tr><td>Sheridan / Myer Melbourne</td><td>Casual Sales Assistant / Sheridan / Myer Melbourne</td><td>Melbourne</td><td>2026-10-11</td></tr>
+<tr><td>Woolworths NZ</td><td>Retail Assistant - Replenishment</td><td>Zealand</td><td>2026-10-11</td></tr>
+<tr><td>GENUINE PARTS COMPANY</td><td>Sales Assistant - Amx Hoppers Crossing - Casual</td><td>Melbourne</td><td>2026-10-11</td></tr>
+<tr><td>The Salvation Army</td><td>Casual Sales Assistant - Peninsula Area</td><td>Melbourne</td><td>2026-10-11</td></tr>
+<tr><td>DECJUBA</td><td>Seasonal Casual Retail Assistant - Coffs Harbour</td><td>Coffs Harbour</td><td>2026-10-11</td></tr>
+<tr><td>DECJUBA</td><td>Seasonal Casual Retail Assistant - Dfo Essendon</td><td>Essendon Fields</td><td>2026-10-11</td></tr>
+<tr><td>DECJUBA</td><td>Seasonal Casual Retail Assistant - Canberra Outlet</td><td>Fyshwick</td><td>2026-10-11</td></tr>
+<tr><td>DECJUBA</td><td>Seasonal Casual Retail Assistant - Narellan</td><td>Narellan</td><td>2026-10-11</td></tr>
+<tr><td>DECJUBA</td><td>Seasonal Casual Retail Assistant-garden City</td><td>Au</td><td>2026-10-11</td></tr>
+<tr><td>DECJUBA</td><td>Seasonal Casual Retail Assistant - Greenhills</td><td>East Maitland</td><td>2026-10-11</td></tr>
+<tr><td>DECJUBA</td><td>Seasonal Casual Retail Assistant-the Glen</td><td>Glen Waverley</td><td>2026-10-11</td></tr>
+<tr><td>DECJUBA</td><td>Seasonal Casual Retail Assistant-sorrento</td><td>Sorrento</td><td>2026-10-11</td></tr>
+<tr><td>DECJUBA</td><td>Seasonal Casual Retail Assistant-malvern Central</td><td>Malvern</td><td>2026-10-11</td></tr>
+<tr><td>DECJUBA</td><td>Seasonal Casual Retail Assistant - Cranbourne Park</td><td>Cranbourne</td><td>2026-10-11</td></tr>
+<tr><td>DECJUBA</td><td>Seasonal Casual Retail Assistant-southland</td><td>Cheltenham</td><td>2026-10-11</td></tr>
+<tr><td>DECJUBA</td><td>Seasonal Casual Retail Assistant - Hobart</td><td>Hobart</td><td>2026-10-11</td></tr>
+<tr><td>DECJUBA</td><td>Seasonal Casual Retail Assistant - Penrith</td><td>Penrith</td><td>2026-10-11</td></tr>
+<tr><td>DECJUBA</td><td>Seasonal Casual Retail Assistant - Merrylands</td><td>Merrylands</td><td>2026-10-11</td></tr>
+<tr><td>DECJUBA</td><td>Seasonal Casual Retail Assistant - Burwood</td><td>Burwood</td><td>2026-10-11</td></tr>
+<tr><td>Toyota Motor Corporation Australia</td><td>Service Program Coordinator</td><td>Melbourne</td><td>2026-10-11</td></tr>
+<tr><td>Rizon Building</td><td>Customer Delivery Coordinator</td><td>Queensland</td><td>2026-10-11</td></tr>
+<tr><td>Star Aviation</td><td>Cargo Co-ordinator - Western Sydney Airport</td><td>Western Sydney</td><td>2026-10-11</td></tr>
+<tr><td>Busy At Work</td><td>Placement Specialist</td><td>Townsville</td><td>2026-10-11</td></tr>
+<tr><td>Busy At Work</td><td>Administration Assistant</td><td>Brisbane</td><td>2026-10-11</td></tr>
+<tr><td>BK Gymnastics</td><td>Customer Service Coordinator</td><td>Melbourne</td><td>2026-10-11</td></tr>
+<tr><td>Powertech</td><td>Junior Project Administrator</td><td>Murarrie</td><td>2026-10-11</td></tr>
+<tr><td>Laser Group</td><td>Administrative Assistant</td><td>Lake Macquarie</td><td>2026-10-11</td></tr>
+<tr><td>staff.uq.edu.au</td><td>Research Project Officer - Intellectual Disability Research</td><td>St Lucia</td><td>2026-10-11</td></tr>
+<tr><td>Benetas</td><td>Administration Assistant - St Paul's</td><td>Melbourne</td><td>2026-10-11</td></tr>
+<tr><td>Australian Financial Complaints Authority</td><td>Executive Assistant</td><td>Sydney</td><td>2026-10-11</td></tr>
+<tr><td>BlueScope Steel</td><td>Administration Assistant</td><td>Novar Gardens</td><td>2026-10-11</td></tr>
+<tr><td>MARSHALL WHITE</td><td>Executive Assistant - Sales</td><td>Melbourne</td><td>2026-10-11</td></tr>
+<tr><td>Jones Lang LaSalle Incorporated</td><td>Concierge / Admin Assistant (part-time)</td><td>Perth</td><td>2026-10-11</td></tr>
 </table>
