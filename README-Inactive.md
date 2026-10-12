@@ -8947,4 +8947,33 @@
 <tr><td>BlueScope Steel</td><td>Administration Assistant</td><td>Novar Gardens</td><td>2026-10-11</td></tr>
 <tr><td>MARSHALL WHITE</td><td>Executive Assistant - Sales</td><td>Melbourne</td><td>2026-10-11</td></tr>
 <tr><td>Jones Lang LaSalle Incorporated</td><td>Concierge / Admin Assistant (part-time)</td><td>Perth</td><td>2026-10-11</td></tr>
+<tr><td>NEC Australia</td><td>Launch Your It Career With Nec Australia</td><td>Darwin</td><td>2026-10-12</td></tr>
+<tr><td>AGL Energy</td><td>Data Insights Analyst</td><td>Melbourne</td><td>2026-10-12</td></tr>
+<tr><td>Welo Data</td><td>Andromeda Sadiradra - Qa Audio Rater - English (australia)</td><td>Australia</td><td>2026-10-12</td></tr>
+<tr><td>John Holland Group</td><td>Pre-contracts Analyst</td><td>Sydney</td><td>2026-10-12</td></tr>
+<tr><td>AIA Group</td><td>Technical Delivery Analyst</td><td>Melbourne</td><td>2026-10-12</td></tr>
+<tr><td>Australian Unity</td><td>Home Care Support Worker - Greenacre</td><td>Sydney</td><td>2026-10-12</td></tr>
+<tr><td>Australian Unity</td><td>Home Care Support Worker - Hills Shire</td><td>Sydney</td><td>2026-10-12</td></tr>
+<tr><td>Australian Unity</td><td>Home Care Support Worker - Carlingford</td><td>Sydney</td><td>2026-10-12</td></tr>
+<tr><td>Australian Unity</td><td>Home Care Support Worker - Mortdale</td><td>Sydney</td><td>2026-10-12</td></tr>
+<tr><td>Australian Unity</td><td>Home Care Support Worker - Manly Vale</td><td>Sydney</td><td>2026-10-12</td></tr>
+<tr><td>Australian Unity</td><td>Home Care Support Worker - Neutral Bay</td><td>Sydney</td><td>2026-10-12</td></tr>
+<tr><td>UnitingCare</td><td>Registered Nurses</td><td>Sydney</td><td>2026-10-12</td></tr>
+<tr><td>Qmgfoundation</td><td>Physiotherapist</td><td>Brisbane</td><td>2026-10-12</td></tr>
+<tr><td>Rio Tinto</td><td>Serviceperson</td><td>Amrun</td><td>2026-10-12</td></tr>
+<tr><td>Thiess</td><td>Serviceperson</td><td>Iron Bridge</td><td>2026-10-12</td></tr>
+<tr><td>EssilorLuxottica SA</td><td>Christmas Casual</td><td>Airport</td><td>2026-10-12</td></tr>
+<tr><td>Genpt</td><td>Customer Sales & Service - Repco Taree - Casual</td><td>Taree</td><td>2026-10-12</td></tr>
+<tr><td>Genpt</td><td>Customer Sales & Service - Repco Rockdale - Casual</td><td>Sydney</td><td>2026-10-12</td></tr>
+<tr><td>H&M</td><td>Full Time Sales Advisor (chadstone, Melbourne)</td><td>Melbourne</td><td>2026-10-12</td></tr>
+<tr><td>Muji</td><td>Casual Retail Sales Assistant</td><td>Melbourne</td><td>2026-10-12</td></tr>
+<tr><td>Harris Farm Markets</td><td>Casual Shop - Redfern</td><td>Sydney</td><td>2026-10-12</td></tr>
+<tr><td>IG Group</td><td>Customer Experience Associate - Trading And Investment</td><td>Melbourne</td><td>2026-10-12</td></tr>
+<tr><td>Harris Farm Markets</td><td>Shop Assistant - Drummoyne</td><td>Sydney</td><td>2026-10-12</td></tr>
+<tr><td>Bonds Outlet</td><td>Christmas Casual / Bonds Outlet / South Wharf</td><td>South Wharf</td><td>2026-10-12</td></tr>
+<tr><td>Goodstart Early Learning Ltd</td><td>Administration Assistant</td><td>Leeton</td><td>2026-10-12</td></tr>
+<tr><td>Nestle Ltd</td><td>Executive Assistant</td><td>Sydney</td><td>2026-10-12</td></tr>
+<tr><td>Global Payments Inc.</td><td>Administrative Assistant</td><td>New South Wales</td><td>2026-10-12</td></tr>
+<tr><td>SANDVIK</td><td>Contract Specialist</td><td>Milton +2</td><td>2026-10-12</td></tr>
+<tr><td>adidas AG</td><td>Part-time Advanced Retail Professional (3ic) - New Factory Outlet In Galleria, Wa</td><td>Perth</td><td>2026-10-12</td></tr>
 </table>
