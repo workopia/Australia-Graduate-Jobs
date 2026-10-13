@@ -8976,4 +8976,41 @@
 <tr><td>Global Payments Inc.</td><td>Administrative Assistant</td><td>New South Wales</td><td>2026-10-12</td></tr>
 <tr><td>SANDVIK</td><td>Contract Specialist</td><td>Milton +2</td><td>2026-10-12</td></tr>
 <tr><td>adidas AG</td><td>Part-time Advanced Retail Professional (3ic) - New Factory Outlet In Galleria, Wa</td><td>Perth</td><td>2026-10-12</td></tr>
+<tr><td>Powerlink Queensland</td><td>Summer Vacation Program</td><td>Virginia</td><td>2026-10-13</td></tr>
+<tr><td>dcj.nsw.gov.au</td><td>Mnsw - Multilingual Services Specialist</td><td>Sydney</td><td>2026-10-13</td></tr>
+<tr><td>Leidos Holdings Inc.</td><td>Software Engineer</td><td>Melbourne</td><td>2026-10-13</td></tr>
+<tr><td>National Australia Bank (NAB)</td><td>Ai Scientist</td><td>Sydney</td><td>2026-10-13</td></tr>
+<tr><td>DXC Technology Australia</td><td>Audit And Compliance Officer</td><td>Any City</td><td>2026-10-13</td></tr>
+<tr><td>Zurich Insurance Company Ltd</td><td>Reinsurance Claims Recoveries Analyst</td><td>Australia</td><td>2026-10-13</td></tr>
+<tr><td>Jin Hai Net university</td><td>Postdoctoral Research Fellow</td><td>Sydney</td><td>2026-10-13</td></tr>
+<tr><td>1020 Lawrence Avenue West</td><td>Registered Nurse</td><td>Melbourne</td><td>2026-10-13</td></tr>
+<tr><td>1020 Lawrence Avenue West</td><td>Physiotherapist - Rotating Grade 1</td><td>Melbourne</td><td>2026-10-13</td></tr>
+<tr><td>RSL LifeCare</td><td>Registered Nurse</td><td>Page</td><td>2026-10-13</td></tr>
+<tr><td>The Salvation Army Australia</td><td>Registered Nurse</td><td>Mossman</td><td>2026-10-13</td></tr>
+<tr><td>Australian Unity</td><td>Community Registered Nurse / Melbourne Metro Areas</td><td>Melbourne</td><td>2026-10-13</td></tr>
+<tr><td>Australian Unity</td><td>Physiotherapist</td><td>Brisbane</td><td>2026-10-13</td></tr>
+<tr><td>Australian Unity</td><td>Aboriginal Home Care Support Worker - Parramatta</td><td>Sydney</td><td>2026-10-13</td></tr>
+<tr><td>Australian Unity</td><td>Home Care Support Worker - Paddington</td><td>Sydney</td><td>2026-10-13</td></tr>
+<tr><td>Australian Unity</td><td>Home Care Support Worker - Narrabeen</td><td>Sydney</td><td>2026-10-13</td></tr>
+<tr><td>Luxottica Retail Australia Pty Ltd</td><td>Field Service Technician</td><td>Sumner Park</td><td>2026-10-13</td></tr>
+<tr><td>Commonwealth Scientific And Industrial Research Organisation</td><td>Hvac Technician - Ska-low Telescope</td><td>Geraldton</td><td>2026-10-13</td></tr>
+<tr><td>SANDVIK</td><td>Field Service Supervisor</td><td>Heatherbrae</td><td>2026-10-13</td></tr>
+<tr><td>Fitness and Lifestyle Group</td><td>Facilities Technician / North Sydney</td><td>Sydney</td><td>2026-10-13</td></tr>
+<tr><td>Emmetts</td><td>Service Technician - Small Engine - Oakbank</td><td>Oakbank</td><td>2026-10-13</td></tr>
+<tr><td>Grosvenor Engineering Group</td><td>Bms Technician</td><td>Sydney</td><td>2026-10-13</td></tr>
+<tr><td>Mauri</td><td>Maintenance Fitter</td><td>Sydney</td><td>2026-10-13</td></tr>
+<tr><td>Rio Tinto</td><td>Maintainer Electrical</td><td>Amrun</td><td>2026-10-13</td></tr>
+<tr><td>Luxottica Retail Australia Pty Ltd</td><td>Retail Associate / Opsm Warringah Mall Nsw</td><td>Brookvale</td><td>2026-10-13</td></tr>
+<tr><td>DHL Group</td><td>Ravenhall / Apparel And Accessory Handler Level 1a</td><td>Ravenhall</td><td>2026-10-13</td></tr>
+<tr><td>JB Hi-Fi</td><td>Christmas Casual - Albury</td><td>Albury</td><td>2026-10-13</td></tr>
+<tr><td>Dissh</td><td>Seasonal Casual Stylist</td><td>Sunshine Plaza</td><td>2026-10-13</td></tr>
+<tr><td>ALDI STORES LIMITED</td><td>Retail Assistant - Lavington</td><td>Lavington</td><td>2026-10-13</td></tr>
+<tr><td>Authentics Australia</td><td>Seasonal Christmas Casual Sales Assistants</td><td>Melbourne</td><td>2026-10-13</td></tr>
+<tr><td>Kit</td><td>Customer Banking Specialist - Melbourne Cbd Area - Part Time & Full Time</td><td>Melbourne</td><td>2026-10-13</td></tr>
+<tr><td>ALDI STORES LIMITED</td><td>Retail Assistant - Eaglehawk</td><td>Eaglehawk</td><td>2026-10-13</td></tr>
+<tr><td>ALDI STORES LIMITED</td><td>Retail Assistant - Mudgee</td><td>Mudgee</td><td>2026-10-13</td></tr>
+<tr><td>ALDI STORES LIMITED</td><td>Retail Assistant - Warrawong</td><td>Warrawong</td><td>2026-10-13</td></tr>
+<tr><td>LUXOTTICA RT AU PTY LTD</td><td>Associate Dispenser</td><td>Castletown</td><td>2026-10-13</td></tr>
+<tr><td>Tennis Australia</td><td>Logistics Officer</td><td>Melbourne Park</td><td>2026-10-13</td></tr>
+<tr><td>Southern Cross Austereo</td><td>Brand Experience Specialist - 12 Month Contract</td><td>Brisbane</td><td>2026-10-13</td></tr>
 </table>
