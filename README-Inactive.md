@@ -9013,4 +9013,77 @@
 <tr><td>LUXOTTICA RT AU PTY LTD</td><td>Associate Dispenser</td><td>Castletown</td><td>2026-10-13</td></tr>
 <tr><td>Tennis Australia</td><td>Logistics Officer</td><td>Melbourne Park</td><td>2026-10-13</td></tr>
 <tr><td>Southern Cross Austereo</td><td>Brand Experience Specialist - 12 Month Contract</td><td>Brisbane</td><td>2026-10-13</td></tr>
+<tr><td>gmscatharines.ca</td><td>Accounting, Controls & Cash Flow Intern</td><td>Melbourne</td><td>2026-10-14</td></tr>
+<tr><td>gmstcatharines.ca</td><td>Hspo Warehouse Operations & Logistics Intern</td><td>Melbourne</td><td>2026-10-14</td></tr>
+<tr><td>Baker Hughes</td><td>Support Services Specialist - Exec Support</td><td>Australia</td><td>2026-10-14</td></tr>
+<tr><td>Epworth HealthCare</td><td>Technology Support Specialist - Onsite</td><td>Melbourne</td><td>2026-10-14</td></tr>
+<tr><td>OPSM (EssilorLuxottica Group)</td><td>Vision Services Specialist</td><td>Sydney</td><td>2026-10-14</td></tr>
+<tr><td>TAL Australia</td><td>Power Bi Developer, Finance Operations (12 Month Fixed Term Contract)</td><td>Sydney</td><td>2026-10-14</td></tr>
+<tr><td>LE001-ASXOPS ASX OPERATIONS PTY</td><td>Data Analyst - 12 Month Max Term Contract</td><td>Sydney</td><td>2026-10-14</td></tr>
+<tr><td>Roche UK</td><td>Corporate Compliance Partner</td><td>Sydney</td><td>2026-10-14</td></tr>
+<tr><td>Jobgether</td><td>Linguistic Quality Auditor – Ipa Phonetic Transcription Review</td><td>Australia</td><td>2026-10-14</td></tr>
+<tr><td>University of Queensland</td><td>Business Analyst, Mytime Casual Academic Scheduling Solution (cass)</td><td>St Lucia</td><td>2026-10-14</td></tr>
+<tr><td>DHL Group</td><td>Rhodes / Sector Accountant</td><td>New South Wales</td><td>2026-10-14</td></tr>
+<tr><td>Macquarie University</td><td>Business Analyst, Curriculum</td><td>Sydney</td><td>2026-10-14</td></tr>
+<tr><td>Heidelberg Materials</td><td>Group Reporting Accountant</td><td>Sydney</td><td>2026-10-14</td></tr>
+<tr><td>BlueCare</td><td>Registered Nurse</td><td>Tallebudgera +1</td><td>2026-10-14</td></tr>
+<tr><td>UnitingCare</td><td>Clinical - Registered Nurse</td><td>Sydney</td><td>2026-10-14</td></tr>
+<tr><td>NSW Health</td><td>Registered Nurse - Incentives Offered</td><td>Barraba</td><td>2026-10-14</td></tr>
+<tr><td>Queensland Health</td><td>Registered Nurse</td><td>Brisbane</td><td>2026-10-14</td></tr>
+<tr><td>UnitingCare</td><td>Registered Nurse</td><td>Eden</td><td>2026-10-14</td></tr>
+<tr><td>Peter MacCallum Cancer Centre</td><td>Research Assistant - Eckersley Maslin</td><td>Melbourne</td><td>2026-10-14</td></tr>
+<tr><td>Peter MacCallum Cancer Centre</td><td>Registered Nurse Grade 2 - Perioperative</td><td>Melbourne</td><td>2026-10-14</td></tr>
+<tr><td>GENESISCARE</td><td>Registered Nurse</td><td>Melbourne</td><td>2026-10-14</td></tr>
+<tr><td>Cerebralpalsy Org Au</td><td>Disability Support Practitioner</td><td>Sydney</td><td>2026-10-14</td></tr>
+<tr><td>Lutheran Services</td><td>Registered Nurse - Aged Care</td><td>Maroochydore</td><td>2026-10-14</td></tr>
+<tr><td>St Vincent’s Hospital Melbourne</td><td>Registered Nurse</td><td>Brisbane</td><td>2026-10-14</td></tr>
+<tr><td>St Vincent’s Hospital Melbourne</td><td>Registered Nurse - Cardiovascular Centre</td><td>Melbourne</td><td>2026-10-14</td></tr>
+<tr><td>St Vincent’s Hospital Melbourne</td><td>Registered Nurse- Night Shifts</td><td>Melbourne</td><td>2026-10-14</td></tr>
+<tr><td>125</td><td>Registered Nurse</td><td>Bundaberg Riverlea</td><td>2026-10-14</td></tr>
+<tr><td>UnitingCare Community</td><td>Registered Nurse</td><td>Maroochydore</td><td>2026-10-14</td></tr>
+<tr><td>Mirchims</td><td>Aissc Project Research - Reni Aini</td><td>Melbourne</td><td>2026-10-14</td></tr>
+<tr><td>Estia Health</td><td>Registered Nurse</td><td>Melbourne</td><td>2026-10-14</td></tr>
+<tr><td>Estia Health</td><td>Registered Nurse / Permanent</td><td>Sydney</td><td>2026-10-14</td></tr>
+<tr><td>SVHA</td><td>Registered Nurse</td><td>Brisbane</td><td>2026-10-14</td></tr>
+<tr><td>SVHA</td><td>Registered Nurse- Night Shifts</td><td>Melbourne</td><td>2026-10-14</td></tr>
+<tr><td>SVHA</td><td>Registered Nurse - Pathway To Speciality Practice (psp) - Cardiology And Cardiac Cath Lab</td><td>Melbourne</td><td>2026-10-14</td></tr>
+<tr><td>Mira Vista Care Center</td><td>Scrub Scout Registered Nurse (casual)</td><td>Sydney</td><td>2026-10-14</td></tr>
+<tr><td>SVHA</td><td>Full Time Cardiac/ Vascular Scrub/scout Rn</td><td>Sydney</td><td>2026-10-14</td></tr>
+<tr><td>The Salvation Army</td><td>Registered Nurse</td><td>Mossman</td><td>2026-10-14</td></tr>
+<tr><td>ANGLICARE</td><td>Registered Nurse - Castle Hill - Expression Of Interest</td><td>Sydney</td><td>2026-10-14</td></tr>
+<tr><td>McDonald's Australia</td><td>Maintenance</td><td>Perth</td><td>2026-10-14</td></tr>
+<tr><td>Coates</td><td>Field Service Mechanic</td><td>Cambridge</td><td>2026-10-14</td></tr>
+<tr><td>WesTrac Pty Ltd</td><td>Plant Mechanic - Resident Field Service</td><td>Grafton</td><td>2026-10-14</td></tr>
+<tr><td>Queensland Health</td><td>Air Conditioning & Refrigeration Technician</td><td>Ipswich Region</td><td>2026-10-14</td></tr>
+<tr><td>Alstom</td><td>Electronics Repair Specialist</td><td>Sydney</td><td>2026-10-14</td></tr>
+<tr><td>FISHER & PAYKEL CUSTOMER SERVICES PTY</td><td>Field Service Technician</td><td>Queensland</td><td>2026-10-14</td></tr>
+<tr><td>FISHER & PAYKEL CUSTOMER SERVICES PTY</td><td>Field Service Technician-1</td><td>Melbourne</td><td>2026-10-14</td></tr>
+<tr><td>Vestas</td><td>Entry Level Service Technician</td><td>Taralga</td><td>2026-10-14</td></tr>
+<tr><td>CAF Rail Australia</td><td>Mechanical Warranty Technician</td><td>Dubbo</td><td>2026-10-14</td></tr>
+<tr><td>DECJUBA</td><td>Seasonal Casual Retail Assistant-warringah</td><td>Brookvale</td><td>2026-10-14</td></tr>
+<tr><td>DECJUBA</td><td>Casual Retail Assistant - Wagga Wagga</td><td>Wagga Wagga</td><td>2026-10-14</td></tr>
+<tr><td>DECJUBA</td><td>Seasonal Casual Retail Assistant-marion</td><td>Oaklands Park</td><td>2026-10-14</td></tr>
+<tr><td>DECJUBA</td><td>Casual Retail Assistant - Melbourne Central</td><td>Melbourne</td><td>2026-10-14</td></tr>
+<tr><td>DECJUBA</td><td>Casual Retail Assistant - Harbourtown</td><td>Adelaide Airport</td><td>2026-10-14</td></tr>
+<tr><td>DECJUBA</td><td>Casual Retail Assistant - Garden City</td><td>Au</td><td>2026-10-14</td></tr>
+<tr><td>DECJUBA</td><td>Casual Retail Assistant - Miranda</td><td>Sydney</td><td>2026-10-14</td></tr>
+<tr><td>The North Face</td><td>The North Face : Sales Associate - Perth</td><td>Perth</td><td>2026-10-14</td></tr>
+<tr><td>Genpt</td><td>Customer Sales & Service - Repco Moe - Casual</td><td>Moe</td><td>2026-10-14</td></tr>
+<tr><td>ALDI STORES LIMITED</td><td>Retail Assistant - Wangaratta</td><td>Wangaratta</td><td>2026-10-14</td></tr>
+<tr><td>POP MART Global</td><td>Full-time Sales Associate (chadstone)</td><td>Melbourne</td><td>2026-10-14</td></tr>
+<tr><td>Oakley</td><td>Christmas Casual / Oakley Homebush Dfo, Nsw</td><td>Sydney</td><td>2026-10-14</td></tr>
+<tr><td>DigiCert Inc</td><td>Associate Authentication Analyst (chinese Speaker)</td><td>Melbourne</td><td>2026-10-14</td></tr>
+<tr><td>Nespresso</td><td>Festive Casual Boutique Coffee Specialist - Miranda</td><td>Sydney</td><td>2026-10-14</td></tr>
+<tr><td>Luxottica Retail Australia Pty Ltd</td><td>Retail Associate / Opsm Port Macquarie, Nsw</td><td>Port Macquarie</td><td>2026-10-14</td></tr>
+<tr><td>Goodstart Early Learning Ltd</td><td>Administration Assistant</td><td>Au</td><td>2026-10-14</td></tr>
+<tr><td>Coates</td><td>Customer Service Coordinator</td><td>Rocklea</td><td>2026-10-14</td></tr>
+<tr><td>Queensland Health</td><td>Quality Coordinator, Cphs</td><td>Brisbane</td><td>2026-10-14</td></tr>
+<tr><td>Queensland Health</td><td>Pathology Assistant/phlebotomist</td><td>Toowoomba</td><td>2026-10-14</td></tr>
+<tr><td>Livenation</td><td>Agent Assistant</td><td>Sydney</td><td>2026-10-14</td></tr>
+<tr><td>CSR</td><td>Dispatch Coordinator/forklift Coordinator</td><td>Archerfield</td><td>2026-10-14</td></tr>
+<tr><td>Bolton Clarke</td><td>Safety & Wellbeing Project Coordinator</td><td>North Shore & Northern Beaches Sydney</td><td>2026-10-14</td></tr>
+<tr><td>Lutheran Services</td><td>Administration Assistant - Home Care</td><td>Toowoomba</td><td>2026-10-14</td></tr>
+<tr><td>Gippsland Health Alliance</td><td>Executive Assistant</td><td>Warragul</td><td>2026-10-14</td></tr>
+<tr><td>ALSTOM TRANSPORT SA</td><td>Executive Assistant</td><td>Sydney</td><td>2026-10-14</td></tr>
+<tr><td>ALSTOM TRANSPORT SA</td><td>Engineering Planner / Design Coordinator</td><td>Milton</td><td>2026-10-14</td></tr>
 </table>
