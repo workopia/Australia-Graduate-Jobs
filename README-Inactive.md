@@ -9086,4 +9086,83 @@
 <tr><td>Gippsland Health Alliance</td><td>Executive Assistant</td><td>Warragul</td><td>2026-10-14</td></tr>
 <tr><td>ALSTOM TRANSPORT SA</td><td>Executive Assistant</td><td>Sydney</td><td>2026-10-14</td></tr>
 <tr><td>ALSTOM TRANSPORT SA</td><td>Engineering Planner / Design Coordinator</td><td>Milton</td><td>2026-10-14</td></tr>
+<tr><td>Church of Jesus Christ</td><td>Pacific Area Spd Intern</td><td>Australia</td><td>2026-10-15</td></tr>
+<tr><td>gmscatharines.ca</td><td>Sales & Distribution Operations Intern</td><td>Melbourne</td><td>2026-10-15</td></tr>
+<tr><td>Anaplan</td><td>Associate Support Analyst - Level 3 Support</td><td>Australia</td><td>2026-10-15</td></tr>
+<tr><td>Axon</td><td>Technical Support Representative</td><td>Melbourne</td><td>2026-10-15</td></tr>
+<tr><td>Rest Industry Super</td><td>Application Security Analyst - 18 Month Fixed Term Contract</td><td>Sydney</td><td>2026-10-15</td></tr>
+<tr><td>Canon Inc</td><td>End User Services Engineer Vic (intune Mdm)</td><td>Melbourne</td><td>2026-10-15</td></tr>
+<tr><td>dcj</td><td>Mnsw - Multilingual Services Specialist</td><td>Sydney</td><td>2026-10-15</td></tr>
+<tr><td>Ernst & Young Global Ltd</td><td>Expression Of Interest - Software Engineer (devops)</td><td>Boorloo</td><td>2026-10-15</td></tr>
+<tr><td>Cbecustomersolutions</td><td>Staff Software Engineer</td><td>Vic Cbd Melbourne Area</td><td>2026-10-15</td></tr>
+<tr><td>Leidos Holdings</td><td>Software Engineer</td><td>Melbourne</td><td>2026-10-15</td></tr>
+<tr><td>Barings</td><td>Database Analyst</td><td>Au</td><td>2026-10-15</td></tr>
+<tr><td>Commonwealth Bank Australia</td><td>Data Scientist, Institutional Banking</td><td>Melbourne</td><td>2026-10-15</td></tr>
+<tr><td>Pact Group Holdings Ltd</td><td>Commercial Sales Analyst (lfip)</td><td>Melbourne</td><td>2026-10-15</td></tr>
+<tr><td>Netwealth</td><td>Analyst - Distribution Governance</td><td>Melbourne</td><td>2026-10-15</td></tr>
+<tr><td>BlueCare</td><td>Registered Nurse</td><td>Brisbane</td><td>2026-10-15</td></tr>
+<tr><td>MATER HOSPITAL SYDNEY</td><td>Registered Nurse</td><td>Sydney</td><td>2026-10-15</td></tr>
+<tr><td>NSW Health</td><td>Registered Nurse - Oncology, Haematology & Palliative Care</td><td>Sydney</td><td>2026-10-15</td></tr>
+<tr><td>NSW Health</td><td>Registered Nurse - Geriatrics</td><td>Sydney</td><td>2026-10-15</td></tr>
+<tr><td>NSW Health</td><td>Registered Nurse - Operating Theatres</td><td>Sydney</td><td>2026-10-15</td></tr>
+<tr><td>Mirchims</td><td>Casual Sessional: Nursing</td><td>Melbourne</td><td>2026-10-15</td></tr>
+<tr><td>UnitingCare Queensland</td><td>Registered Nurse</td><td>Sunrise Beach</td><td>2026-10-15</td></tr>
+<tr><td>Icareigive</td><td>Registered Nurse</td><td>Mt Louisa</td><td>2026-10-15</td></tr>
+<tr><td>UnitingCare Health</td><td>Registered Nurse</td><td>Tully</td><td>2026-10-15</td></tr>
+<tr><td>Estia Health</td><td>Registered Nurse / Pacific Paradise (casual)</td><td>Pacific Paradise</td><td>2026-10-15</td></tr>
+<tr><td>Estia Health</td><td>Registered Nurse (casual)</td><td>Sydney</td><td>2026-10-15</td></tr>
+<tr><td>Owyhee Health &</td><td>Registered Nurse - Grade 2</td><td>Ave Maria</td><td>2026-10-15</td></tr>
+<tr><td>Mashoremedical</td><td>Registered Nurse</td><td>Warrnambool</td><td>2026-10-15</td></tr>
+<tr><td>Mashoremedical</td><td>Registered Nurse Grade 2</td><td>Melbourne</td><td>2026-10-15</td></tr>
+<tr><td>Mashoremedical</td><td>Grade 3 Pelvic Health Physiotherapist</td><td>Melbourne</td><td>2026-10-15</td></tr>
+<tr><td>Carlingviewmanorltc</td><td>Support Worker</td><td>Sydney</td><td>2026-10-15</td></tr>
+<tr><td>Malibuclub Younglife</td><td>Carer</td><td>Melbourne</td><td>2026-10-15</td></tr>
+<tr><td>University of Sydney</td><td>Postdoctoral Research Associate - Immunology</td><td>Sydney</td><td>2026-10-15</td></tr>
+<tr><td>Gippsland Health Alliance</td><td>Registered And Enrolled Nurses - Nurse Bank</td><td>Bairnsdale</td><td>2026-10-15</td></tr>
+<tr><td>Gippsland Health Alliance</td><td>Registered Nurse- Acute</td><td>Unknown</td><td>2026-10-15</td></tr>
+<tr><td>Gippsland Health Alliance</td><td>Registered Nurse /preadmission Clinic</td><td>Sale</td><td>2026-10-15</td></tr>
+<tr><td>St Vincent de Paul Society Australia</td><td>Registered Nurse</td><td>Waterloo</td><td>2026-10-15</td></tr>
+<tr><td>Serco Asia Pacific</td><td>Mhp - Mental Health Rn</td><td>Melbourne</td><td>2026-10-15</td></tr>
+<tr><td>Mediix</td><td>Physiotherapist (aged Care Rehab & Community) / Flexible Hours, Mon To Fri</td><td>Sydney</td><td>2026-10-15</td></tr>
+<tr><td>Queensland Health</td><td>Registered Nurse - Community Palliative Care Service</td><td>Brisbane</td><td>2026-10-15</td></tr>
+<tr><td>Lifeblood</td><td>Registered Nurse - Port Macquarie</td><td>Port Macquarie</td><td>2026-10-15</td></tr>
+<tr><td>Lifeblood</td><td>Registered Nurse</td><td>Traralgon</td><td>2026-10-15</td></tr>
+<tr><td>Lifeblood</td><td>Registered Nurse - Springwood Donor Centre</td><td>Brisbane</td><td>2026-10-15</td></tr>
+<tr><td>McDonald's Australia</td><td>Maintenance</td><td>Hendra</td><td>2026-10-15</td></tr>
+<tr><td>NORTHROP GRUMMAN</td><td>Field Service Representative</td><td>Amberley</td><td>2026-10-15</td></tr>
+<tr><td>Ecolab Pty Ltd</td><td>Field Service Technician</td><td>Perth</td><td>2026-10-15</td></tr>
+<tr><td>Wabtec Corporation</td><td>Hvac Service Technician</td><td>Eagle Farm</td><td>2026-10-15</td></tr>
+<tr><td>Arnott's Biscuits Ltd</td><td>Hw Fitter Day Shift</td><td>Huntingwood</td><td>2026-10-15</td></tr>
+<tr><td>UNISYS AUSTRALIA PTY LIMITED</td><td>Tech Field Eng - Perth, Wa</td><td>Perth</td><td>2026-10-15</td></tr>
+<tr><td>Voith</td><td>Sh 2.0 Field Service Engineer (m/f/d)</td><td>Snowy</td><td>2026-10-15</td></tr>
+<tr><td>Voith</td><td>Field Service Engineer (m/f/d) Balance Of Plant Mechanical - Australia</td><td>Snowy</td><td>2026-10-15</td></tr>
+<tr><td>BottleCycler</td><td>Field Service Technician- Western Melbourne Metro</td><td>Melbourne</td><td>2026-10-15</td></tr>
+<tr><td>BHP INNOVATION Pty Ltd</td><td>Scraper Technician / Maintenance West / Port Hedland</td><td>Port Hedland</td><td>2026-10-15</td></tr>
+<tr><td>BHP INNOVATION Pty Ltd</td><td>Belt Splicer / Inland Conveyors / Maintenance West</td><td>Perth</td><td>2026-10-15</td></tr>
+<tr><td>TABCORP ASSETS Pty Ltd</td><td>Field Technician</td><td>Newcastle</td><td>2026-10-15</td></tr>
+<tr><td>Dentaply Sirona Contact US</td><td>Service Technician</td><td>Murarrie</td><td>2026-10-15</td></tr>
+<tr><td>Downer</td><td>Refrigeration/hvac Tech</td><td>Townsville</td><td>2026-10-15</td></tr>
+<tr><td>JBS Australia Pty Ltd</td><td>Maintenance Fitter</td><td>Dinmore</td><td>2026-10-15</td></tr>
+<tr><td>Babcock International</td><td>Hf Node Maintenance Technician</td><td>Exmouth</td><td>2026-10-15</td></tr>
+<tr><td>Authentics Australia</td><td>Seasonal Christmas Casual Retail Assistants</td><td>Melbourne</td><td>2026-10-15</td></tr>
+<tr><td>adidas AG</td><td>Part-time Retail Professional - Fountain Gate Originals Concept Store, Vic</td><td>Melbourne</td><td>2026-10-15</td></tr>
+<tr><td>MACA</td><td>Stores Person Exchange Inventory</td><td>Welshpool</td><td>2026-10-15</td></tr>
+<tr><td>LOVISA</td><td>Karingal / Festive Stylist / 2026</td><td>Melbourne</td><td>2026-10-15</td></tr>
+<tr><td>LOVISA</td><td>Knox / Festive Stylist / 2026</td><td>Melbourne</td><td>2026-10-15</td></tr>
+<tr><td>GENUINE PARTS COMPANY</td><td>Customer Sales & Service - Repco Palmerston - Casual</td><td>Yarrawonga</td><td>2026-10-15</td></tr>
+<tr><td>ALDI STORES LIMITED</td><td>Retail Assistant - Rosebery</td><td>Rosebery</td><td>2026-10-15</td></tr>
+<tr><td>Assembly Label</td><td>Seasonal Casual Retail Stylist</td><td>Melbourne</td><td>2026-10-15</td></tr>
+<tr><td>CSR</td><td>Trade Counter Sales/ Warehouse Operator (thomastown, Vic)</td><td>Melbourne</td><td>2026-10-15</td></tr>
+<tr><td>Reece</td><td>Trade Counter Assistant - Mackay (actrol)</td><td>Mackay</td><td>2026-10-15</td></tr>
+<tr><td>DECJUBA</td><td>Casual Retail Assistant - Marion</td><td>Oaklands Park</td><td>2026-10-15</td></tr>
+<tr><td>DECJUBA</td><td>Seasonal Casual Retail Assistant-burnside</td><td>Glenside</td><td>2026-10-15</td></tr>
+<tr><td>DECJUBA</td><td>Retail Assistant - Wagga Wagga</td><td>Wagga Wagga</td><td>2026-10-15</td></tr>
+<tr><td>DECJUBA</td><td>Seasonal Casual Retail Assistant-harbourtown</td><td>Adelaide Airport</td><td>2026-10-15</td></tr>
+<tr><td>Voith</td><td>Sh 2.0 Warehouse Administrator</td><td>Snowy</td><td>2026-10-15</td></tr>
+<tr><td>dormakaba International Holding AG</td><td>Despatch Coordinator</td><td>Pinkenba</td><td>2026-10-15</td></tr>
+<tr><td>Civmec Ltd</td><td>Coordinator Completions</td><td>Eneabba</td><td>2026-10-15</td></tr>
+<tr><td>KDR Victoria Pty Ltd</td><td>Project Officer, Rs Projects</td><td>Victoria</td><td>2026-10-15</td></tr>
+<tr><td>Symal</td><td>Executive Assistant</td><td>Melbourne</td><td>2026-10-15</td></tr>
+<tr><td>Queensland Health</td><td>Executive Assistant (reliever) - Executive Office Management</td><td>Mackay</td><td>2026-10-15</td></tr>
+<tr><td>Queensland Health</td><td>Executive Support Officer</td><td>Brisbane</td><td>2026-10-15</td></tr>
 </table>
