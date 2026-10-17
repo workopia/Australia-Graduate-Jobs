@@ -9280,4 +9280,66 @@
 <tr><td>DECJUBA</td><td>Seasonal Casual Retail Assistant-brighton</td><td>Brighton</td><td>2026-10-16</td></tr>
 <tr><td>tA anonyme Incorporated</td><td>Product Operations Coordinator</td><td>Melbourne</td><td>2026-10-16</td></tr>
 <tr><td>Deloitte Australia</td><td>Events & Marketing Coordinator (parental Leave Cover)</td><td>Sydney</td><td>2026-10-16</td></tr>
+<tr><td>SAP</td><td>Customer Engagement Advisory - Internship</td><td>Sydney</td><td>2026-10-17</td></tr>
+<tr><td>ORIGIN ENERGY Ltd</td><td>Summer Student Internship Program 2026-27</td><td>Brisbane</td><td>2026-10-17</td></tr>
+<tr><td>Prysmian Australia</td><td>Intern</td><td>Milcov</td><td>2026-10-17</td></tr>
+<tr><td>Macquarie University</td><td>Research Data Scientist</td><td>Sydney</td><td>2026-10-17</td></tr>
+<tr><td>Ecolab</td><td>Graduate Accountant</td><td>Sydney</td><td>2026-10-17</td></tr>
+<tr><td>Cuscal</td><td>Ms Dynamics Crm Analyst</td><td>Sydney</td><td>2026-10-17</td></tr>
+<tr><td>Viva Energy</td><td>Strategy And Analytics</td><td>Melbourne</td><td>2026-10-17</td></tr>
+<tr><td>Queensland Health</td><td>Registered Nurse</td><td>Stanthorpe</td><td>2026-10-17</td></tr>
+<tr><td>Queensland Health</td><td>Physiotherapist</td><td>Brisbane</td><td>2026-10-17</td></tr>
+<tr><td>St Vincent’s Hospital Sydney</td><td>Registered Nurse</td><td>Sydney</td><td>2026-10-17</td></tr>
+<tr><td>Salvos Org Au</td><td>Registered Nurse - Casual</td><td>Angle Park</td><td>2026-10-17</td></tr>
+<tr><td>Mediix</td><td>Msk Physiotherapist / Full Time / Private Practice</td><td>Melbourne</td><td>2026-10-17</td></tr>
+<tr><td>Benetas</td><td>Personal Care Worker - The Views</td><td>Melbourne</td><td>2026-10-17</td></tr>
+<tr><td>Barwon Health</td><td>Registered Nurse/registered Midwife (grade 2), Early Parenting Centre</td><td>North Geelong</td><td>2026-10-17</td></tr>
+<tr><td>NSW Health</td><td>St George Hospital - Registered Nurse - Renal Research - Temporary Full Time / Temporary Part Time</td><td>Sydney</td><td>2026-10-17</td></tr>
+<tr><td>NSW Health</td><td>Registered Nurse - Acute Pain Service - Port Macquarie Base Hospital</td><td>Port Macquarie</td><td>2026-10-17</td></tr>
+<tr><td>NSW Health</td><td>Registered Nurse , Acute Care Team - St George Mhs</td><td>Sydney</td><td>2026-10-17</td></tr>
+<tr><td>NSW Health</td><td>St George Hospital - Registered Nurse - Respiratory - Permanent Full Time / Part Time</td><td>Sydney</td><td>2026-10-17</td></tr>
+<tr><td>NSW Health</td><td>Registered Nurse Cardiology, Coronary Care And Respiratory</td><td>Sydney</td><td>2026-10-17</td></tr>
+<tr><td>NSW Health</td><td>Registered Nurse - Newborn Care Centre</td><td>Sydney</td><td>2026-10-17</td></tr>
+<tr><td>NSW Health</td><td>Registered Nurse - Surgical Ward - Cooma Hospital</td><td>Cooma</td><td>2026-10-17</td></tr>
+<tr><td>Queensland Health</td><td>Registered Nurse Youth Detention Centre</td><td>Wacol</td><td>2026-10-17</td></tr>
+<tr><td>IHG Hotels & Resorts</td><td>Hvac Refrigeration Technician - Intercontinental Hayman Great Barrier Reef</td><td>Australia</td><td>2026-10-17</td></tr>
+<tr><td>InterContinental Hotels Group (IHG)</td><td>Hvac Refrigeration Technician - Intercontinental Hayman Great Barrier Reef</td><td>Hayman Island</td><td>2026-10-17</td></tr>
+<tr><td>Linfox Armaguard Group</td><td>Repair Centre Technician</td><td>Sydney</td><td>2026-10-17</td></tr>
+<tr><td>Civmec Ltd</td><td>Pre Delivery Maintenance Technician</td><td>Unknown</td><td>2026-10-17</td></tr>
+<tr><td>ConocoPhillips</td><td>Operations Technician, M&r Inlec</td><td>Gladstone</td><td>2026-10-17</td></tr>
+<tr><td>DSI Underground</td><td>Systems Technician - Automation And Newtrax</td><td>Perth</td><td>2026-10-17</td></tr>
+<tr><td>EssilorLuxottica SA</td><td>Associate Dispenser</td><td>Mackay</td><td>2026-10-17</td></tr>
+<tr><td>Authentics Australia</td><td>Seasonal Christmas Casual Retail Assistants</td><td>Melbourne</td><td>2026-10-17</td></tr>
+<tr><td>Repco</td><td>Customer Sales & Service - Repco Bendigo - Casual</td><td>Bendigo</td><td>2026-10-17</td></tr>
+<tr><td>Repco</td><td>Customer Sales & Service - Repco Blacktown - Casual</td><td>Sydney</td><td>2026-10-17</td></tr>
+<tr><td>H&M</td><td>Part Time Sales Advisor (chadstone, Melbourne) - 1 November 2026 To 31 January 2027</td><td>Melbourne</td><td>2026-10-17</td></tr>
+<tr><td>JBS Australia Pty Ltd</td><td>Sales Administration Assistant - Grocery</td><td>Melbourne</td><td>2026-10-17</td></tr>
+<tr><td>OPSM (EssilorLuxottica Group)</td><td>Retail Associate / Opsm Mona Vale, Nsw</td><td>Sydney</td><td>2026-10-17</td></tr>
+<tr><td>OPSM (EssilorLuxottica Group)</td><td>Associate Dispenser</td><td>Idalia</td><td>2026-10-17</td></tr>
+<tr><td>OPSM (EssilorLuxottica Group)</td><td>Retail Associate / Opsm Taree, Nsw</td><td>Taree</td><td>2026-10-17</td></tr>
+<tr><td>ALDI STORES LIMITED</td><td>Retail Assistant - Fairfield Gardens</td><td>Sydney</td><td>2026-10-17</td></tr>
+<tr><td>ALDI STORES LIMITED</td><td>Retail Assistant - Shepparton</td><td>Shepparton</td><td>2026-10-17</td></tr>
+<tr><td>Repco</td><td>Customer Sales & Service - Repco Wagga Wagga - Full Time</td><td>East Wagga Wagga</td><td>2026-10-17</td></tr>
+<tr><td>Petmelacrosse</td><td>Retail Sales Assistant / Eltham</td><td>Melbourne</td><td>2026-10-17</td></tr>
+<tr><td>ALDI STORES LIMITED</td><td>Retail Assistant - Rouse Hill</td><td>Sydney</td><td>2026-10-17</td></tr>
+<tr><td>ALDI STORES LIMITED</td><td>Retail Assistant - Forster</td><td>Forster</td><td>2026-10-17</td></tr>
+<tr><td>Bonds</td><td>Christmas Casual / Bonds / Victoria Gardens</td><td>Become Part Of Our Team As A Casual Sales Assistant At Bonds In Knox City</td><td>2026-10-17</td></tr>
+<tr><td>Nike Digital</td><td>Retail Associate I Full Time Athlete - Nike, Uni Hill</td><td>Melbourne</td><td>2026-10-17</td></tr>
+<tr><td>ALDI STORES LIMITED</td><td>Retail Assistant - Glenfield Park</td><td>Glenfield Park</td><td>2026-10-17</td></tr>
+<tr><td>Reece Group</td><td>Trade Counter Assistant - Bendigo</td><td>Bendigo</td><td>2026-10-17</td></tr>
+<tr><td>Heartland Bank Ltd</td><td>Retention Associate</td><td>Melbourne</td><td>2026-10-17</td></tr>
+<tr><td>AusPost</td><td>Indoor Delivery Officer</td><td>Brisbane</td><td>2026-10-17</td></tr>
+<tr><td>ALDI STORES LIMITED</td><td>Retail Assistant - North Strathfield</td><td>North Strathfield</td><td>2026-10-17</td></tr>
+<tr><td>Kmart Australia</td><td>Kmart Goondiwindi - Holiday Casual</td><td>Goondiwindi</td><td>2026-10-17</td></tr>
+<tr><td>St. Regis Hotels & Resorts</td><td>Guest Experience Expert</td><td>Melbourne</td><td>2026-10-17</td></tr>
+<tr><td>adidas AG</td><td>Part-time Retail Professional - Dfo Uni Hill, Vic</td><td>Melbourne</td><td>2026-10-17</td></tr>
+<tr><td>adidas AG</td><td>Casual Retail Professional - Melbourne Central Halo Store, Vic</td><td>Melbourne</td><td>2026-10-17</td></tr>
+<tr><td>adidas AG</td><td>Casual Retail Professional - New Concept Store Opening In Rouse Hill, Nsw</td><td>Sydney</td><td>2026-10-17</td></tr>
+<tr><td>adidas AG</td><td>Casual Retail Professional - Birkenhead Point Factory Outlet, Nsw</td><td>Birkenhead Point</td><td>2026-10-17</td></tr>
+<tr><td>RSL LIFECARE LIMITED</td><td>Quality Coordinator</td><td>Wagga Wagga</td><td>2026-10-17</td></tr>
+<tr><td>Babcock International</td><td>Project Administrator</td><td>Melbourne</td><td>2026-10-17</td></tr>
+<tr><td>dcj.nsw.gov.au</td><td>Housing Support Assistant</td><td>Sydney</td><td>2026-10-17</td></tr>
+<tr><td>dcj.nsw.gov.au</td><td>Community Service Administration Assistant</td><td>Sydney</td><td>2026-10-17</td></tr>
+<tr><td>Corrective Services NSW</td><td>Part Time Administrative Assistant, Clerk 1/2, Dubbo Community Corrections</td><td>Dubbo</td><td>2026-10-17</td></tr>
+<tr><td>Priceline Pty Ltd</td><td>Facilities Coordinator</td><td>Perth</td><td>2026-10-17</td></tr>
 </table>
