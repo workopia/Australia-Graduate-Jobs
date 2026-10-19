@@ -9459,4 +9459,71 @@
 <tr><td>Qurmit</td><td>Platform Operations And Delivery Coordinator</td><td>Melbourne</td><td>2026-10-18</td></tr>
 <tr><td>Suburbantoyotaoffarmingtonhills</td><td>Lexus Strategy & Project Coordinator</td><td>Melbourne</td><td>2026-10-18</td></tr>
 <tr><td>nib</td><td>Executive Assistant</td><td>Sydney</td><td>2026-10-18</td></tr>
+<tr><td>Signify</td><td>Dynalite R&d Intern</td><td>Sydney</td><td>2026-10-19</td></tr>
+<tr><td>Barminco</td><td>Expression Of Interest - Barminco Vacation Program</td><td>Australia</td><td>2026-10-19</td></tr>
+<tr><td>Civmec Ltd</td><td>Engineering Internship Program</td><td>Henderson</td><td>2026-10-19</td></tr>
+<tr><td>Abbott Diabetes Care</td><td>Technical Service Specialist</td><td>Sydney</td><td>2026-10-19</td></tr>
+<tr><td>medifoxdan.de</td><td>Student Software Engineer</td><td>Sydney</td><td>2026-10-19</td></tr>
+<tr><td>Xn Karrierefhrer 4ob</td><td>Economic Crime Intelligence Technical Specialist</td><td>Sydney</td><td>2026-10-19</td></tr>
+<tr><td>Deputy</td><td>Software Engineer - 12 Month Fixed Term Contract</td><td>Sydney</td><td>2026-10-19</td></tr>
+<tr><td>Eucalyptus</td><td>Data Scientist</td><td>Australia</td><td>2026-10-19</td></tr>
+<tr><td>Schneider Electric</td><td>Data Scientist Ii</td><td>Sydney</td><td>2026-10-19</td></tr>
+<tr><td>St Vincent's Health Australia</td><td>Accountant</td><td>Melbourne</td><td>2026-10-19</td></tr>
+<tr><td>Colonial First State</td><td>It Service Management And Operations Analyst</td><td>Sydney</td><td>2026-10-19</td></tr>
+<tr><td>ANZCA</td><td>Business Analyst - Membership</td><td>Melbourne VIC</td><td>2026-10-19</td></tr>
+<tr><td>George Weston Foods Group</td><td>Commercial Finance Analyst</td><td>Sydney</td><td>2026-10-19</td></tr>
+<tr><td>Rio Tinto</td><td>Specialist Contractor Management</td><td>Brockman</td><td>2026-10-19</td></tr>
+<tr><td>CITIC CLSA</td><td>Compliance Officer - Australia, Compliance</td><td>Sydney</td><td>2026-10-19</td></tr>
+<tr><td>Infosys Australia</td><td>Business Analyst / Perth Wa</td><td>Perth</td><td>2026-10-19</td></tr>
+<tr><td>St Vincent’s Health Australia (SVHA)</td><td>Enrolled Nurse Level 2</td><td>Melbourne</td><td>2026-10-19</td></tr>
+<tr><td>MATER HOSPITAL SYDNEY</td><td>Grade 2 Registered Nurse</td><td>Melbourne</td><td>2026-10-19</td></tr>
+<tr><td>MATER HOSPITAL SYDNEY</td><td>Enrolled Nurse Level 2</td><td>Melbourne</td><td>2026-10-19</td></tr>
+<tr><td>Epworth HealthCare</td><td>Registered Nurse - General Medical (6 Gray)</td><td>Melbourne</td><td>2026-10-19</td></tr>
+<tr><td>Queensland Health</td><td>Registered Nurse - Rural And Remote (talent Pool)</td><td>Blackwater +10</td><td>2026-10-19</td></tr>
+<tr><td>Queensland Health</td><td>Registered Nurse - Experienced Scrub Scout</td><td>Meadowbrook</td><td>2026-10-19</td></tr>
+<tr><td>Queensland Health</td><td>Registered Nurse - Emergency Department</td><td>Mackay</td><td>2026-10-19</td></tr>
+<tr><td>Queensland Health</td><td>Registered Nurse Primary School Nurse Health Readiness Program (vision)</td><td>Mount Isa</td><td>2026-10-19</td></tr>
+<tr><td>Opal HealthCare</td><td>Registered Nurse - Newstead Grand Care Community</td><td>Newstead</td><td>2026-10-19</td></tr>
+<tr><td>The Hammond Care Group</td><td>Specialised Dementia Carer</td><td>Melbourne</td><td>2026-10-19</td></tr>
+<tr><td>The Hammond Care Group</td><td>Specialised Carer - Dementia Care</td><td>Melbourne</td><td>2026-10-19</td></tr>
+<tr><td>Serco Asia Pacific</td><td>Srn Primary Care</td><td>Wooroloo</td><td>2026-10-19</td></tr>
+<tr><td>Newmont Corporation</td><td>Technician, Mechanical</td><td>Boddington</td><td>2026-10-19</td></tr>
+<tr><td>Downer EDI</td><td>Fire Systems Technician</td><td>Amberley</td><td>2026-10-19</td></tr>
+<tr><td>18</td><td>Maintainer Mechanical</td><td>Hail Creek</td><td>2026-10-19</td></tr>
+<tr><td>Greystar</td><td>Facilities Technician</td><td>Adelaide</td><td>2026-10-19</td></tr>
+<tr><td>Skyfuel Australia Pty Ltd</td><td>Field Technician</td><td>Rosehill</td><td>2026-10-19</td></tr>
+<tr><td>Rentokil Initial Australia</td><td>Cleaner Driver - Hygiene Service Technician / Western Suburbs</td><td>Campbellfield</td><td>2026-10-19</td></tr>
+<tr><td>Rio Tinto</td><td>Mechanical Maintainer</td><td>Wickham</td><td>2026-10-19</td></tr>
+<tr><td>linde-mh.ie</td><td>Field Service/fixed Site Technician - Qld</td><td>Larapinta</td><td>2026-10-19</td></tr>
+<tr><td>ASICS</td><td>Casual Retail Assistant - Southland</td><td>Melbourne</td><td>2026-10-19</td></tr>
+<tr><td>EssilorLuxottica SA</td><td>Retail Associate / Opsm Toormina, Nsw</td><td>Toormina</td><td>2026-10-19</td></tr>
+<tr><td>EssilorLuxottica SA</td><td>Retail Associate / Opsm Eastgardens, Nsw</td><td>Pagewood</td><td>2026-10-19</td></tr>
+<tr><td>EssilorLuxottica SA</td><td>Retail Associate / Opsm Taree, Nsw</td><td>Taree</td><td>2026-10-19</td></tr>
+<tr><td>Vocus</td><td>Customer Advocacy Specialist</td><td>Melbourne</td><td>2026-10-19</td></tr>
+<tr><td>MYER</td><td>Sales Assistant - Part Time - Just Jeans - Richmond</td><td>Melbourne</td><td>2026-10-19</td></tr>
+<tr><td>ALDI STORES LIMITED</td><td>Retail Assistant - Clovelly Park</td><td>Clovelly Park</td><td>2026-10-19</td></tr>
+<tr><td>ALDI STORES LIMITED</td><td>Retail Assistant - Mentone</td><td>Melbourne</td><td>2026-10-19</td></tr>
+<tr><td>ALDI STORES LIMITED</td><td>Retail Assistant - North Rothbury</td><td>North Rothbury</td><td>2026-10-19</td></tr>
+<tr><td>DECJUBA</td><td>Seasonal Casual Retail Assistant - Erina Fair</td><td>Erina</td><td>2026-10-19</td></tr>
+<tr><td>Bowens</td><td>Warehouse Assistant/order Picker</td><td>Distribution Centre</td><td>2026-10-19</td></tr>
+<tr><td>ALDI STORES LIMITED</td><td>Retail Assistant - Leeton</td><td>Leeton</td><td>2026-10-19</td></tr>
+<tr><td>ALDI STORES LIMITED</td><td>Retail Assistant - Hawthorn</td><td>Melbourne</td><td>2026-10-19</td></tr>
+<tr><td>ALDI STORES LIMITED</td><td>Retail Assistant - Dural</td><td>Sydney</td><td>2026-10-19</td></tr>
+<tr><td>ALDI STORES LIMITED</td><td>Retail Assistant - West Melbourne</td><td>Melbourne</td><td>2026-10-19</td></tr>
+<tr><td>ALDI STORES LIMITED</td><td>Retail Assistant - Wolli Creek</td><td>Sydney</td><td>2026-10-19</td></tr>
+<tr><td>ALDI STORES LIMITED</td><td>Retail Assistant - Armidale</td><td>Armidale</td><td>2026-10-19</td></tr>
+<tr><td>Repco Australia - A Division of GPC Asia Pacific</td><td>Customer Sales & Service - Repco Oakleigh - Casual</td><td>Melbourne</td><td>2026-10-19</td></tr>
+<tr><td>Authentics Australia</td><td>Seasonal Christmas Casual Sales Assistants</td><td>Melbourne</td><td>2026-10-19</td></tr>
+<tr><td>Team Global Express</td><td>Freight Coordinator</td><td>Melbourne Airport</td><td>2026-10-19</td></tr>
+<tr><td>Jin Hai Net university</td><td>Administrative Assistant</td><td>Darlington</td><td>2026-10-19</td></tr>
+<tr><td>Mercy Health</td><td>Hospital Assistant</td><td>Albury</td><td>2026-10-19</td></tr>
+<tr><td>353</td><td>Administration Assistant</td><td>Sydney</td><td>2026-10-19</td></tr>
+<tr><td>Junior Adventures Group</td><td>Oshc Coordinator / Caringbah</td><td>Sydney</td><td>2026-10-19</td></tr>
+<tr><td>JBS Australia Pty Ltd</td><td>Shipping Officer</td><td>Riverview</td><td>2026-10-19</td></tr>
+<tr><td>Scentre Group Ltd</td><td>Facilities Coordinator - Westfield Knox</td><td>Melbourne</td><td>2026-10-19</td></tr>
+<tr><td>HungryPanda</td><td>Business Development Specialist</td><td>Sydney</td><td>2026-10-19</td></tr>
+<tr><td>DECJUBA</td><td>Casual Retail Assistant-rundle Mall</td><td>Adelaide</td><td>2026-10-19</td></tr>
+<tr><td>Gold Fields Limited</td><td>Coordinator : Projects</td><td>Granny Smith</td><td>2026-10-19</td></tr>
+<tr><td>Hatch Ltd</td><td>Facilities Coordinator</td><td>Brisbane</td><td>2026-10-19</td></tr>
+<tr><td>Herbert Smith Freehills</td><td>Administrative Assistant, Corporate</td><td>Sydney</td><td>2026-10-19</td></tr>
 </table>
