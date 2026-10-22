@@ -9988,4 +9988,126 @@
 <tr><td>Norwest Recruitment</td><td>Logistics &amp; Warehouse Coordinator</td><td>Horsley Park</td><td>2026-10-22</td></tr>
 <tr><td>Dm50</td><td>Administration Assistant</td><td>Elizabeth Lodge</td><td>2026-10-22</td></tr>
 <tr><td>Easygo Gaming</td><td>Content Coordinator</td><td>Melbourne</td><td>2026-10-22</td></tr>
+<tr><td>Downer Energy & Utilities</td><td>Supply Chain Intern</td><td>Melbourne</td><td>2026-10-22</td></tr>
+<tr><td>gmpdc.ca</td><td>Sales & Distribution Operations Intern</td><td>Melbourne</td><td>2026-10-22</td></tr>
+<tr><td>General Motors</td><td>Accounting, Controls & Cash Flow Intern</td><td>Melbourne</td><td>2026-10-22</td></tr>
+<tr><td>gmpdc.ca</td><td>Hspo Warehouse Operations & Logistics Intern</td><td>Melbourne</td><td>2026-10-22</td></tr>
+<tr><td>Axon</td><td>Technical Support Representative</td><td>Australia</td><td>2026-10-22</td></tr>
+<tr><td>Priceline Pty Ltd</td><td>Software Engineer</td><td>Melbourne</td><td>2026-10-22</td></tr>
+<tr><td>AusNet Services</td><td>Installation Support Specialist - Renewables Integration</td><td>Melbourne</td><td>2026-10-22</td></tr>
+<tr><td>University of Melbourne</td><td>Research Software Engineer</td><td>Melbourne</td><td>2026-10-22</td></tr>
+<tr><td>Jobgether</td><td>Application Programmer</td><td>Australia</td><td>2026-10-22</td></tr>
+<tr><td>University of Sydney</td><td>It Support Technician</td><td>Sydney</td><td>2026-10-22</td></tr>
+<tr><td>TAL Australia</td><td>Claims Technical Specialist</td><td>Melbourne</td><td>2026-10-22</td></tr>
+<tr><td>Canon Inc</td><td>End User Services Engineer Nsw (intune Mdm)</td><td>Sydney</td><td>2026-10-22</td></tr>
+<tr><td>Westpac Group</td><td>Ai Engineer - Intelligence & Protection</td><td>Sydney</td><td>2026-10-22</td></tr>
+<tr><td>Westpac Group</td><td>Ai Engineer - Ai Services</td><td>Sydney</td><td>2026-10-22</td></tr>
+<tr><td>William Buck (NSW) Pty Limited</td><td>Graduate Accountant - Business Advisory</td><td>Sydney</td><td>2026-10-22</td></tr>
+<tr><td>Softtest pays</td><td>Business Analysts</td><td>Melbourne</td><td>2026-10-22</td></tr>
+<tr><td>JBS Australia Pty Ltd</td><td>Plant Accountant</td><td>Search By Postal Code</td><td>2026-10-22</td></tr>
+<tr><td>Ampol</td><td>Business Analyst, Retail</td><td>Sydney</td><td>2026-10-22</td></tr>
+<tr><td>Credit Corp Group Ltd</td><td>Analytics Specialist (lending – Core Products)</td><td>Australia</td><td>2026-10-22</td></tr>
+<tr><td>Fire & Rescue NSW</td><td>Ict Asset Compliance Officer</td><td>Sydney</td><td>2026-10-22</td></tr>
+<tr><td>Queensland Health</td><td>Compliance And Reporting Officer (aged Care)</td><td>Rockhampton</td><td>2026-10-22</td></tr>
+<tr><td>Medibank Private Ltd</td><td>Cyber Security Business Analyst</td><td>Australia</td><td>2026-10-22</td></tr>
+<tr><td>Jobgether</td><td>Income Reconciliation Accountant</td><td>Australia</td><td>2026-10-22</td></tr>
+<tr><td>MoneyMe Pty Ltd</td><td>Fp&amp;a Analyst</td><td>Sydney</td><td>2026-10-22</td></tr>
+<tr><td>Dixon Appointments</td><td>Finance Analyst</td><td>Melbourne</td><td>2026-10-22</td></tr>
+<tr><td>Peoplebank</td><td>Process Specialist/ Business Analyst</td><td>Brisbane</td><td>2026-10-22</td></tr>
+<tr><td>Peoplebank</td><td>Business Analyst - Infrastructure</td><td>Perth</td><td>2026-10-22</td></tr>
+<tr><td>med-in.at</td><td>Financial Analyst - Reporting & Automation</td><td>Sydney</td><td>2026-10-22</td></tr>
+<tr><td>Ernst & Young Global Ltd</td><td>Expression Of Interest - Business Consulting</td><td>Sydney</td><td>2026-10-22</td></tr>
+<tr><td>AGL</td><td>Market Risk Analyst (6 Month)</td><td>Melbourne</td><td>2026-10-22</td></tr>
+<tr><td>NSW Health</td><td>Registered Nurse</td><td>Sydney</td><td>2026-10-22</td></tr>
+<tr><td>NSW Health</td><td>Registered Nurse - Incentives Offered</td><td>Werris Creek</td><td>2026-10-22</td></tr>
+<tr><td>Southern Crosscare Inc</td><td>Registered Nurse - Daceyville</td><td>Daceyville</td><td>2026-10-22</td></tr>
+<tr><td>Calvary Health Care</td><td>Support Worker - Catering</td><td>Melbourne</td><td>2026-10-22</td></tr>
+<tr><td>IUIH Institute for Urban Indigenous Health</td><td>Physiotherapist</td><td>Brisbane</td><td>2026-10-22</td></tr>
+<tr><td>Cabrini Health</td><td>Personal Care Assistant - Haematology/oncology</td><td>Melbourne</td><td>2026-10-22</td></tr>
+<tr><td>Ramsay Health Care</td><td>Registered Nurse - Day Surgery</td><td>Brisbane</td><td>2026-10-22</td></tr>
+<tr><td>St Vincent's Private Hospital Melbourne</td><td>Registered Nurse-anaesthetics/pacu</td><td>Melbourne</td><td>2026-10-22</td></tr>
+<tr><td>Ramsay Health Care</td><td>Physiotherapist - Grade 1</td><td>Melbourne</td><td>2026-10-22</td></tr>
+<tr><td>Ramsay Health Care</td><td>Registered Nurse - Mental Health</td><td>Sydney</td><td>2026-10-22</td></tr>
+<tr><td>BaptistCare NSW & ACT</td><td>Registered Nurse</td><td>Melbourne</td><td>2026-10-22</td></tr>
+<tr><td>Calvary</td><td>Support Worker - Catering</td><td>Melbourne</td><td>2026-10-22</td></tr>
+<tr><td>Estia Health</td><td>Registered Nurse, Croydon North - Vic</td><td>Melbourne</td><td>2026-10-22</td></tr>
+<tr><td>Estia Health</td><td>Registered Nurse / Maternity Leave</td><td>Sydney</td><td>2026-10-22</td></tr>
+<tr><td>Estia Health</td><td>Registered Nurse (ppt)</td><td>Sydney</td><td>2026-10-22</td></tr>
+<tr><td>Queensland Health</td><td>Registered Nurse - Special Care Nursery</td><td>Brisbane</td><td>2026-10-22</td></tr>
+<tr><td>Medrecruit</td><td>Resident Medical Officer - Medicine - General Medicine / Physician</td><td>Melbourne</td><td>2026-10-22</td></tr>
+<tr><td>Salvos Org Au</td><td>Registered Nurse</td><td>Sydney</td><td>2026-10-22</td></tr>
+<tr><td>Australian Unity</td><td>Home Care Support Worker - Sutherland Shire</td><td>Sydney</td><td>2026-10-22</td></tr>
+<tr><td>Ramsay Health Care</td><td>Registered Nurse - Critical Care</td><td>Maroochydore</td><td>2026-10-22</td></tr>
+<tr><td>Ramsay Health Care</td><td>Registered Nurse - Nursing Pool</td><td>Brisbane</td><td>2026-10-22</td></tr>
+<tr><td>Austin Health</td><td>Registered Nurse</td><td>Melbourne</td><td>2026-10-22</td></tr>
+<tr><td>Austin Health</td><td>Registered Nurse Grade 2</td><td>Melbourne</td><td>2026-10-22</td></tr>
+<tr><td>Medrecruit</td><td>Registrar - Medicine - General Medicine / Physician</td><td>Sydney</td><td>2026-10-22</td></tr>
+<tr><td>Vitalis Healthcare at Home</td><td>Expression Of Interest For Rn's, Ens & Community Support Workers</td><td>Sydney</td><td>2026-10-22</td></tr>
+<tr><td>Vitalis Healthcare at Home</td><td>Disability Support Worker – Marsfield Park</td><td>Sydney</td><td>2026-10-22</td></tr>
+<tr><td>Vitalis Healthcare at Home</td><td>Vitalis Health – Community Physiotherapist</td><td>Sydney</td><td>2026-10-22</td></tr>
+<tr><td>Story Fresh</td><td>Rn / En - Casual</td><td>Maroochydore</td><td>2026-10-22</td></tr>
+<tr><td>PT LHR</td><td>Allied Health Exercise Physiologist, Physiotherapist In Melbourne</td><td>Melbourne</td><td>2026-10-22</td></tr>
+<tr><td>PT LHR</td><td>Ndis Care Provider</td><td>Melbourne</td><td>2026-10-22</td></tr>
+<tr><td>Swva Ja</td><td>Registered Nurse (casual)</td><td>Maroochydore</td><td>2026-10-22</td></tr>
+<tr><td>Calvary Health Care</td><td>Registered Nurse - Support At Home</td><td>Adelaide</td><td>2026-10-22</td></tr>
+<tr><td>Uniting</td><td>Uniting Flexconnect Registered Nurse Pool – Sydney West</td><td>Brisbane</td><td>2026-10-22</td></tr>
+<tr><td>Uniting</td><td>Support Worker - Inner West</td><td>Sydney</td><td>2026-10-22</td></tr>
+<tr><td>Uniting</td><td>Support Worker - Eastern Suburbs</td><td>Sydney</td><td>2026-10-22</td></tr>
+<tr><td>Uniting</td><td>Registered Nurse - Lindsay Gardens</td><td>Brisbane</td><td>2026-10-22</td></tr>
+<tr><td>Uniting</td><td>Physiotherapist - Community Aged Care</td><td>Sydney</td><td>2026-10-22</td></tr>
+<tr><td>For Health Group</td><td>Urgent Care Registered Nurse / Murrumba Downs / Casual</td><td>Brisbane</td><td>2026-10-22</td></tr>
+<tr><td>Liebherr Machines Bulle SA</td><td>Field Service Technician</td><td>Sydney</td><td>2026-10-22</td></tr>
+<tr><td>990</td><td>Customer Field Technician</td><td>Brisbane</td><td>2026-10-22</td></tr>
+<tr><td>990</td><td>Customer Field Technician / Brisbane</td><td>Brisbane</td><td>2026-10-22</td></tr>
+<tr><td>990</td><td>Customer Field Technician / Melbourne Metro</td><td>Melbourne</td><td>2026-10-22</td></tr>
+<tr><td>990</td><td>Customer Field Technician I Sydney Metro</td><td>Sydney</td><td>2026-10-22</td></tr>
+<tr><td>nbn</td><td>Customer Field Technician</td><td>Launceston</td><td>2026-10-22</td></tr>
+<tr><td>NBN Co Limited</td><td>Customer Field Technician I Goulburn</td><td>Goulburn</td><td>2026-10-22</td></tr>
+<tr><td>045</td><td>Customer Field Technician I Ipswich</td><td>Ipswich</td><td>2026-10-22</td></tr>
+<tr><td>045</td><td>Customer Field Technician / Mackay</td><td>Mackay</td><td>2026-10-22</td></tr>
+<tr><td>990</td><td>Customer Field Technician I Bendigo</td><td>Bendigo</td><td>2026-10-22</td></tr>
+<tr><td>990</td><td>Customer Field Technician I Townsville</td><td>Townsville</td><td>2026-10-22</td></tr>
+<tr><td>990</td><td>Customer Field Technician / Brisbane Metro</td><td>Brisbane</td><td>2026-10-22</td></tr>
+<tr><td>978</td><td>Customer Field Technician I Cairns</td><td>Cairns</td><td>2026-10-22</td></tr>
+<tr><td>990</td><td>Customer Field Technician I Beaudesert</td><td>Gold Coast</td><td>2026-10-22</td></tr>
+<tr><td>theprimelocalnews.biz</td><td>Customer Field Technician</td><td>Hobart</td><td>2026-10-22</td></tr>
+<tr><td>990</td><td>Customer Field Technician / Perth Metro</td><td>Perth</td><td>2026-10-22</td></tr>
+<tr><td>nbn (National Bank)</td><td>Trainee Customer Field Technician I Perth Metro</td><td>Perth</td><td>2026-10-22</td></tr>
+<tr><td>nbn (National Bank)</td><td>Trainee Customer Field Technician I Sydney</td><td>Sydney</td><td>2026-10-22</td></tr>
+<tr><td>990</td><td>Customer Field Technician / Sydney Metro</td><td>Sydney</td><td>2026-10-22</td></tr>
+<tr><td>045</td><td>Customer Field Technician I South Coast</td><td>Wollongong</td><td>2026-10-22</td></tr>
+<tr><td>APA Group</td><td>Apprentice Mechanical Technician</td><td>Mount Isa</td><td>2026-10-22</td></tr>
+<tr><td>Technogym SPA</td><td>Field Service Technician Qld</td><td>Brisbane</td><td>2026-10-22</td></tr>
+<tr><td>4WD Supacentre</td><td>Christmas Casual – Gosford</td><td>Gosford</td><td>2026-10-22</td></tr>
+<tr><td>2XU</td><td>Christmas Casual – Greenacre</td><td>Sydney</td><td>2026-10-22</td></tr>
+<tr><td>4WD Supacentre</td><td>Christmas Casual – Seaford</td><td>Melbourne</td><td>2026-10-22</td></tr>
+<tr><td>4WD Supacentre</td><td>Christmas Casual – Dandenong</td><td>Melbourne</td><td>2026-10-22</td></tr>
+<tr><td>2XU</td><td>Warehouse And Sales – Wodonga</td><td>Wodonga</td><td>2026-10-22</td></tr>
+<tr><td>4WD Supacentre</td><td>Warehouse & Sales – Bundaberg</td><td>Bundaberg</td><td>2026-10-22</td></tr>
+<tr><td>Lioness Fashion</td><td>Eshop Warehouse Assistant</td><td>Melbourne</td><td>2026-10-22</td></tr>
+<tr><td>Epiroc Careers</td><td>Warehouse Co-ordinator</td><td>Brisbane</td><td>2026-10-22</td></tr>
+<tr><td>ALDI STORES LIMITED</td><td>Retail Assistant - Wallan</td><td>Melbourne</td><td>2026-10-22</td></tr>
+<tr><td>Harris Farm Markets</td><td>Casual Shop Assistant - Evening Shifts - Fruit And Veg</td><td>Sydney</td><td>2026-10-22</td></tr>
+<tr><td>Harris Farm Markets</td><td>Retail Shop Assistant - Fruit, Veg And Groceries</td><td>Sydney</td><td>2026-10-22</td></tr>
+<tr><td>Harris Farm Markets</td><td>Retail Shop Assistant - Perishables, Fruit And Veg - Willoughby</td><td>Sydney</td><td>2026-10-22</td></tr>
+<tr><td>Harris Farm Markets</td><td>Retail Shop Assistant - Service Department - Willoughby</td><td>Sydney</td><td>2026-10-22</td></tr>
+<tr><td>Drummond Golf</td><td>Retail Sales Professional</td><td>Sydney</td><td>2026-10-22</td></tr>
+<tr><td>The Good Guys</td><td>Sales Team Member- Sales And Service Hub</td><td>Perth</td><td>2026-10-22</td></tr>
+<tr><td>TREK BICYCLE CORP</td><td>Sales Associate</td><td>Sydney</td><td>2026-10-22</td></tr>
+<tr><td>Akubra Hats</td><td>Sales Associate – Sydney Strand</td><td>Sydney</td><td>2026-10-22</td></tr>
+<tr><td>Akubra Hats</td><td>Sales Associate – Bondi Beach</td><td>Sydney</td><td>2026-10-22</td></tr>
+<tr><td>Akubra Hats</td><td>Sales Associate – Melbourne Cbd</td><td>Melbourne</td><td>2026-10-22</td></tr>
+<tr><td>Kindtide</td><td>Executive Assistant</td><td>Melbourne</td><td>2026-10-22</td></tr>
+<tr><td>Wormall Group</td><td>Project Coordinator</td><td>Busselton</td><td>2026-10-22</td></tr>
+<tr><td>The NSW Department of Education</td><td>Executive Assistant</td><td>Sydney</td><td>2026-10-22</td></tr>
+<tr><td>WesTrac Pty Ltd</td><td>Customer Coordinator</td><td>Perth</td><td>2026-10-22</td></tr>
+<tr><td>TJX Australia (TK Maxx)</td><td>Customer Service Coordinator</td><td>Sydney</td><td>2026-10-22</td></tr>
+<tr><td>Fulton Hogan Ltd</td><td>Administrative Assistant</td><td>Melbourne</td><td>2026-10-22</td></tr>
+<tr><td>Iron Mountain</td><td>Warehouse Operations Coordinator</td><td>Melbourne</td><td>2026-10-22</td></tr>
+<tr><td>Bundaberg Sugar</td><td>Customer Service Coordinator</td><td>Brisbane</td><td>2026-10-22</td></tr>
+<tr><td>ElevenLabs</td><td>Executive Assistant - Apac</td><td>Singapore +1</td><td>2026-10-22</td></tr>
+<tr><td>Hecommunitybank</td><td>Executive Assistant (12 Month Secondment)</td><td>Brisbane</td><td>2026-10-22</td></tr>
+<tr><td>SHAPE</td><td>Project Coordinator</td><td>Melbourne</td><td>2026-10-22</td></tr>
+<tr><td>Nestle Ltd</td><td>Executive Assistant</td><td>Australia</td><td>2026-10-22</td></tr>
+<tr><td>Minter Ellison Services Pty Ltd</td><td>Executive Assistant</td><td>Sydney</td><td>2026-10-22</td></tr>
 </table>
