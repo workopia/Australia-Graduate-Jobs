@@ -10275,4 +10275,48 @@
 <tr><td>NSW Health</td><td>Hospital Assistant</td><td>Bathurst</td><td>2026-10-24</td></tr>
 <tr><td>Symal</td><td>Project Administrator - Dido</td><td>Townsville</td><td>2026-10-24</td></tr>
 <tr><td>731</td><td>Associate Store Leader - Clyde North - Vic</td><td>Melbourne</td><td>2026-10-24</td></tr>
+<tr><td>Cummins</td><td>2027 Undergraduate Corporate Responsibility Internship</td><td>Carole Park</td><td>2026-10-25</td></tr>
+<tr><td>Australian National University</td><td>Business Analyst</td><td>Australia</td><td>2026-10-25</td></tr>
+<tr><td>Computershare</td><td>Reconciliation Analyst</td><td>Melbourne</td><td>2026-10-25</td></tr>
+<tr><td>Rydges Hotels & Resorts</td><td>Transformation Business Analyst, Evt Hq, 12 Month Fixed Term Contract</td><td>Sydney</td><td>2026-10-25</td></tr>
+<tr><td>Ramsay Health Care</td><td>Pharmacy Assistant</td><td>Melbourne</td><td>2026-10-25</td></tr>
+<tr><td>CEREBRAL PALSY ALLIANCE</td><td>Disability Support Practitioner</td><td>Sydney</td><td>2026-10-25</td></tr>
+<tr><td>Bolton Clarke</td><td>Registered Nurse</td><td>Brisbane</td><td>2026-10-25</td></tr>
+<tr><td>Epworth HealthCare</td><td>Registered Nurse - Cath Lab</td><td>Melbourne</td><td>2026-10-25</td></tr>
+<tr><td>ICON Broadbean</td><td>Clinical Research Associate 3</td><td>Sydney</td><td>2026-10-25</td></tr>
+<tr><td>Calvary Health Care</td><td>Support Worker - Catering</td><td>Sydney</td><td>2026-10-25</td></tr>
+<tr><td>Epworth HealthCare</td><td>Registered Nurse - Scrub & Scout</td><td>Melbourne</td><td>2026-10-25</td></tr>
+<tr><td>Calvary</td><td>Support Worker - Catering</td><td>Sydney</td><td>2026-10-25</td></tr>
+<tr><td>BaptistCare NSW & ACT</td><td>Personal Care Worker</td><td>Melbourne</td><td>2026-10-25</td></tr>
+<tr><td>UnitingCare</td><td>Lmtr5 - Registered Nurse Amala</td><td>Sydney</td><td>2026-10-25</td></tr>
+<tr><td>SA Health</td><td>Registered Nurse - Paediatric Outpatient Department</td><td>Adelaide</td><td>2026-10-25</td></tr>
+<tr><td>Ambulance Victoria</td><td>Research Officer</td><td>Melbourne</td><td>2026-10-25</td></tr>
+<tr><td>Mirchims</td><td>Research Assistant (casual)</td><td>Melbourne</td><td>2026-10-25</td></tr>
+<tr><td>Macquarie University Health</td><td>Registered Nurse (respiratory & Endoscopy)</td><td>Sydney</td><td>2026-10-25</td></tr>
+<tr><td>WEHI (Walter and Eliza Hall Institute of Medical Research)</td><td>Research Officer</td><td>Melbourne</td><td>2026-10-25</td></tr>
+<tr><td>WorkSafe Victoria</td><td>Nurse - Administration</td><td>Melbourne</td><td>2026-10-25</td></tr>
+<tr><td>Western Health</td><td>Registered Nurse - Cardiac Services</td><td>Melbourne</td><td>2026-10-25</td></tr>
+<tr><td>McDonald's Australia</td><td>Maintenance</td><td>Perth</td><td>2026-10-25</td></tr>
+<tr><td>Emploisgevernovahydro</td><td>Wind Farm Field Service Technician - Goyder Sa</td><td>Koonoona</td><td>2026-10-25</td></tr>
+<tr><td>Orica Australia Pty Ltd</td><td>Diesel Fitter (12 Months)</td><td>Upper Hunter Valley</td><td>2026-10-25</td></tr>
+<tr><td>Hastings Deering (Australia) Ltd</td><td>Field Service Fitter</td><td>Townsville</td><td>2026-10-25</td></tr>
+<tr><td>Weir Minerals</td><td>Maintenance Technician</td><td>Port Hedland</td><td>2026-10-25</td></tr>
+<tr><td>Baby Bunting</td><td>Retail Sales Assistant</td><td>Melbourne</td><td>2026-10-25</td></tr>
+<tr><td>SHEIKE</td><td>Seasonal Stylist- Warringah Mall</td><td>Brookvale</td><td>2026-10-25</td></tr>
+<tr><td>SHEIKE</td><td>Seasonal Stylist- Doncaster</td><td>Melbourne</td><td>2026-10-25</td></tr>
+<tr><td>SHEIKE</td><td>Seasonal Stylist- Werribee</td><td>Melbourne</td><td>2026-10-25</td></tr>
+<tr><td>SHEIKE</td><td>Casual Stylist - Rouse Hill</td><td>Sydney</td><td>2026-10-25</td></tr>
+<tr><td>SHEIKE</td><td>Warehouse Assistant</td><td>St Peters</td><td>2026-10-25</td></tr>
+<tr><td>Munro Footwear Group</td><td>Seasonal Casual Sales Assistant / Werribee</td><td>Melbourne</td><td>2026-10-25</td></tr>
+<tr><td>Kookai</td><td>Retail Seasonal Casual</td><td>Erina</td><td>2026-10-25</td></tr>
+<tr><td>Kookai</td><td>Retail Permanent Part Time Sales Assistant</td><td>Melbourne</td><td>2026-10-25</td></tr>
+<tr><td>Cabrini Health</td><td>Administration Assistant</td><td>Melbourne</td><td>2026-10-25</td></tr>
+<tr><td>Alstom</td><td>Logistics Operator</td><td>Ipswich</td><td>2026-10-25</td></tr>
+<tr><td>RACV</td><td>Administrative Assistant</td><td>Gold Coast</td><td>2026-10-25</td></tr>
+<tr><td>THALES</td><td>Executive Assistant</td><td>Benalla</td><td>2026-10-25</td></tr>
+<tr><td>transport</td><td>Executive Support Officer</td><td>Sydney</td><td>2026-10-25</td></tr>
+<tr><td>transport</td><td>Learner Experience Coordinator</td><td>Sydney</td><td>2026-10-25</td></tr>
+<tr><td>Heidelberg Materials</td><td>Weighbridge & Logistics Coordinator / Sancrox</td><td>Sancrox</td><td>2026-10-25</td></tr>
+<tr><td>UniLodge Living Group</td><td>Customer Service Coordinator</td><td>Curtin University</td><td>2026-10-25</td></tr>
+<tr><td>Amazon</td><td>Executive Assistant</td><td>Sydney</td><td>2026-10-25</td></tr>
 </table>
