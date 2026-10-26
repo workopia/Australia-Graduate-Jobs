@@ -10319,4 +10319,65 @@
 <tr><td>Heidelberg Materials</td><td>Weighbridge & Logistics Coordinator / Sancrox</td><td>Sancrox</td><td>2026-10-25</td></tr>
 <tr><td>UniLodge Living Group</td><td>Customer Service Coordinator</td><td>Curtin University</td><td>2026-10-25</td></tr>
 <tr><td>Amazon</td><td>Executive Assistant</td><td>Sydney</td><td>2026-10-25</td></tr>
+<tr><td>Sling & Stone</td><td>Slingternship</td><td>Sydney</td><td>2026-10-26</td></tr>
+<tr><td>HKA</td><td>Internship - Forensic Accounting &amp; Commercial Damages</td><td>Sydney</td><td>2026-10-26</td></tr>
+<tr><td>ASX OPERATIONS PTY</td><td>End User Support</td><td>Sydney</td><td>2026-10-26</td></tr>
+<tr><td>467</td><td>Software Engineer</td><td>Melbourne</td><td>2026-10-26</td></tr>
+<tr><td>KnowBe4</td><td>Advanced Support Technician (ecs Specialist) (position Located In Melbourne, Australia)</td><td>Melbourne</td><td>2026-10-26</td></tr>
+<tr><td>Jobgether</td><td>Ai Research Engineer (kernel & Inference Optimization)</td><td>Australia</td><td>2026-10-26</td></tr>
+<tr><td>FULTON HOGAN LIMITED</td><td>Ai Engineer</td><td>Melbourne</td><td>2026-10-26</td></tr>
+<tr><td>Newmont Corporation</td><td>Electrical Compliance Engineer</td><td>Orange</td><td>2026-10-26</td></tr>
+<tr><td>Reo Recruitment</td><td>Accountant</td><td>City Fringe</td><td>2026-10-26</td></tr>
+<tr><td>AIA Australia</td><td>P&c Operations Analyst</td><td>Sydney</td><td>2026-10-26</td></tr>
+<tr><td>National Heavy Vehicle Regulator</td><td>Safety And Compliance Officer</td><td>Parkes</td><td>2026-10-26</td></tr>
+<tr><td>CPB Contractors Pty Ltd</td><td>Accountant</td><td>Brisbane</td><td>2026-10-26</td></tr>
+<tr><td>BaptistCare</td><td>Registered Nurse</td><td>Point Clare</td><td>2026-10-26</td></tr>
+<tr><td>Eastern Health</td><td>Registered Nurse</td><td>Upper Ferntree Gully</td><td>2026-10-26</td></tr>
+<tr><td>Eastern Health</td><td>Registered Nurse, Surgical</td><td>Melbourne</td><td>2026-10-26</td></tr>
+<tr><td>Opal HealthCare</td><td>[night Duty] Personal Care Worker - Camberwell Gables Care Community</td><td>Melbourne</td><td>2026-10-26</td></tr>
+<tr><td>UnitingCare</td><td>War Memorial Hospital Nursing Morgan Ward - Casual Registered Nurse</td><td>Waverley</td><td>2026-10-26</td></tr>
+<tr><td>UnitingCare</td><td>Lilian Wells Registered Nurse</td><td>Sydney</td><td>2026-10-26</td></tr>
+<tr><td>Serco Asia Pacific</td><td>Registered Nurse</td><td>Melbourne</td><td>2026-10-26</td></tr>
+<tr><td>Installator.dk Hospital</td><td>Registered Nurse - Emergency Department</td><td>Sydney</td><td>2026-10-26</td></tr>
+<tr><td>St Vincent's Private Hospital Melbourne</td><td>Registered Nurse - Neuroscience</td><td>Melbourne</td><td>2026-10-26</td></tr>
+<tr><td>Calvary Health Care</td><td>Registered Nurse- Aged Care</td><td>Lakes Entrance</td><td>2026-10-26</td></tr>
+<tr><td>Ramsay Health Care</td><td>Registered Nurse - Emergency Department</td><td>Ipswich</td><td>2026-10-26</td></tr>
+<tr><td>Calvary</td><td>Registered Nurse- Aged Care</td><td>Lakes Entrance</td><td>2026-10-26</td></tr>
+<tr><td>BaptistCare NSW & ACT</td><td>Registered Nurse</td><td>Point Clare</td><td>2026-10-26</td></tr>
+<tr><td>Benetas</td><td>Registered Nurse Grade 2 (casual) – Corowa Court</td><td>Melbourne</td><td>2026-10-26</td></tr>
+<tr><td>Benetas</td><td>Registered Nurse Nd Shifts - Corowa Court, Mornington</td><td>Melbourne</td><td>2026-10-26</td></tr>
+<tr><td>Arcare</td><td>Personal Support Worker</td><td>Melbourne</td><td>2026-10-26</td></tr>
+<tr><td>Benetas</td><td>Personal Care Worker - Corowa Court</td><td>Melbourne</td><td>2026-10-26</td></tr>
+<tr><td>Calvary</td><td>Personal Care Worker</td><td>Melbourne</td><td>2026-10-26</td></tr>
+<tr><td>SA Health</td><td>Haematology And Bone Marrow Transplant Service - Registered Nurse</td><td>Adelaide</td><td>2026-10-26</td></tr>
+<tr><td>SA Health</td><td>Calhn Falls Prevention Service - Registered Nurse</td><td>Adelaide Metro Western</td><td>2026-10-26</td></tr>
+<tr><td>SA Health</td><td>Registered Nurse - General Medical, Modbury Hospital (multiple Wards/multiple Positions)</td><td>Adelaide Metro Northern</td><td>2026-10-26</td></tr>
+<tr><td>SA Health</td><td>Cardiac Care Unit - Registered Nurse</td><td>Adelaide Metro Southern</td><td>2026-10-26</td></tr>
+<tr><td>Mirchims</td><td>Casual Research Assistant - Crumb Rubber Emulsions</td><td>Melbourne</td><td>2026-10-26</td></tr>
+<tr><td>Queensland Health</td><td>Registered Nurse - Acute Mental Health</td><td>Toowoomba</td><td>2026-10-26</td></tr>
+<tr><td>Queensland Health</td><td>Registered Nurse - Mental Health (development Position)</td><td>Brisbane</td><td>2026-10-26</td></tr>
+<tr><td>Queensland Health</td><td>Physiotherapist</td><td>Brisbane</td><td>2026-10-26</td></tr>
+<tr><td>MyCare Talent</td><td>Registered Nurse / Local Aged Care Shifts / Sydney</td><td>Sydney</td><td>2026-10-26</td></tr>
+<tr><td>NSW Health</td><td>Registered Nurse Haematolgy And Transplant Unit</td><td>Sydney</td><td>2026-10-26</td></tr>
+<tr><td>NSW Health</td><td>Registered Nurse Surgical And Orthopaedics</td><td>Sydney</td><td>2026-10-26</td></tr>
+<tr><td>NSW Health</td><td>Physiotherapist, Weekend</td><td>Sydney</td><td>2026-10-26</td></tr>
+<tr><td>NSW Health</td><td>Registered Nurse - Perioperative</td><td>Sydney</td><td>2026-10-26</td></tr>
+<tr><td>SVHA</td><td>Registered Nurse - Casual</td><td>Brisbane</td><td>2026-10-26</td></tr>
+<tr><td>SVHA</td><td>Registered Nurse (grade 2)</td><td>Melbourne</td><td>2026-10-26</td></tr>
+<tr><td>Austin Health</td><td>Registered Nurse</td><td>Melbourne</td><td>2026-10-26</td></tr>
+<tr><td>ST VINCENT'S HOSPITAL SYDNEY</td><td>Registered Nurse - Neuroscience</td><td>Melbourne</td><td>2026-10-26</td></tr>
+<tr><td>ST VINCENT'S HOSPITAL SYDNEY</td><td>Registered Nurse (grade 2)</td><td>Melbourne</td><td>2026-10-26</td></tr>
+<tr><td>Peter MacCallum Cancer Centre</td><td>Registered Nurse – Inpatient Wards</td><td>Melbourne</td><td>2026-10-26</td></tr>
+<tr><td>YMCA (Salvation Army listing?)</td><td>Registered Nurse - Casual</td><td>Sydney</td><td>2026-10-26</td></tr>
+<tr><td>The Salvation Army Australia</td><td>Registered Nurse - Casual</td><td>Sydney</td><td>2026-10-26</td></tr>
+<tr><td>BaptistCare</td><td>Personal Care Worker</td><td>Melbourne</td><td>2026-10-26</td></tr>
+<tr><td>Svhs Org Au</td><td>Registered Nurse - Neuroscience</td><td>Melbourne</td><td>2026-10-26</td></tr>
+<tr><td>Alstom</td><td>Maintenance Technician - Electrical</td><td>Sydney</td><td>2026-10-26</td></tr>
+<tr><td>Voith Group</td><td>Field Service Engineer (mfd) Balance Of Plant Mechanical Australia</td><td>Snowy</td><td>2026-10-26</td></tr>
+<tr><td>Vestas</td><td>Melbourne Service Technician Au Vic</td><td>Merredin +19</td><td>2026-10-26</td></tr>
+<tr><td>SHEIKE</td><td>Casual Stylist - Gc Harbour Town</td><td>Biggera Watters</td><td>2026-10-26</td></tr>
+<tr><td>TFE Hotels</td><td>Logistics Officer</td><td>Australia</td><td>2026-10-26</td></tr>
+<tr><td>genU</td><td>Workforce Coordinator</td><td>Hillview +1</td><td>2026-10-26</td></tr>
+<tr><td>WorkSafe Victoria</td><td>Administrative Assistant</td><td>Geelong</td><td>2026-10-26</td></tr>
+<tr><td>Inner West Council</td><td>Coordinator Roads And Stormwater Projects</td><td>St Peters</td><td>2026-10-26</td></tr>
 </table>
