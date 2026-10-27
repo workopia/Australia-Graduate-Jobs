@@ -10380,4 +10380,75 @@
 <tr><td>genU</td><td>Workforce Coordinator</td><td>Hillview +1</td><td>2026-10-26</td></tr>
 <tr><td>WorkSafe Victoria</td><td>Administrative Assistant</td><td>Geelong</td><td>2026-10-26</td></tr>
 <tr><td>Inner West Council</td><td>Coordinator Roads And Stormwater Projects</td><td>St Peters</td><td>2026-10-26</td></tr>
+<tr><td>Woodside Energy Ltd</td><td>Early Career Pathways - Digital, Security & Innovation Internships</td><td>Australia</td><td>2026-10-27</td></tr>
+<tr><td>Cummins</td><td>2027 Undergraduate Financial Control Internship</td><td>Melbourne</td><td>2026-10-27</td></tr>
+<tr><td>Cummins Inc.</td><td>Job 2438516</td><td>Carole Park</td><td>2026-10-27</td></tr>
+<tr><td>Proofpoint</td><td>Technical Support Representative</td><td>Melbourne</td><td>2026-10-27</td></tr>
+<tr><td>reco</td><td>Software Engineer</td><td>Melbourne</td><td>2026-10-27</td></tr>
+<tr><td>Nine</td><td>Software Engineer</td><td>Sydney</td><td>2026-10-27</td></tr>
+<tr><td>CNH</td><td>Product Support Specialist</td><td>St Marys</td><td>2026-10-27</td></tr>
+<tr><td>Sotiotech</td><td>Technical Support Specialist, Level 3</td><td>Melbourne</td><td>2026-10-27</td></tr>
+<tr><td>628</td><td>Technical Specialist</td><td>Melbourne</td><td>2026-10-27</td></tr>
+<tr><td>Coles</td><td>Asset Data & Insights Analyst</td><td>Victoria</td><td>2026-10-27</td></tr>
+<tr><td>Bank of Queensland</td><td>Data Analyst - 12-month Contract</td><td>Sydney</td><td>2026-10-27</td></tr>
+<tr><td>Techsyndicate Inc</td><td>Consult Partner</td><td>Sydney</td><td>2026-10-27</td></tr>
+<tr><td>AGL Energy Limited</td><td>Business Analyst</td><td>Melbourne</td><td>2026-10-27</td></tr>
+<tr><td>EssilorLuxottica SA</td><td>Commercial Finance Analyst</td><td>Sydney</td><td>2026-10-27</td></tr>
+<tr><td>Accor Pacific</td><td>Accountant - Finance</td><td>Melbourne</td><td>2026-10-27</td></tr>
+<tr><td>Bethanie Group</td><td>Registered Nurse - Elanora</td><td>Bunbury</td><td>2026-10-27</td></tr>
+<tr><td>Austin Health</td><td>Enrolled Nurse Level 2</td><td>Melbourne</td><td>2026-10-27</td></tr>
+<tr><td>Lifeblood</td><td>Registered Nurse</td><td>Shepparton</td><td>2026-10-27</td></tr>
+<tr><td>Queensland Health</td><td>Enrolled Nurse Advanced Practice</td><td>Toowoomba</td><td>2026-10-27</td></tr>
+<tr><td>Queensland Health</td><td>Registered Nurse</td><td>Winton</td><td>2026-10-27</td></tr>
+<tr><td>Queensland Health</td><td>Registered Nurse - Perioperative Scrub/scout</td><td>Brisbane</td><td>2026-10-27</td></tr>
+<tr><td>Mirchims</td><td>Project Research Sessional</td><td>Melbourne</td><td>2026-10-27</td></tr>
+<tr><td>Lutheran Services</td><td>Registered Nurse</td><td>Toowoomba</td><td>2026-10-27</td></tr>
+<tr><td>Installator.dk Hospital</td><td>Pharmacy Technician Grade 2</td><td>Melbourne</td><td>2026-10-27</td></tr>
+<tr><td>NSW Health</td><td>Registered Nurse - Medical Ward - Eurobodalla</td><td>Moruya</td><td>2026-10-27</td></tr>
+<tr><td>NSW Health</td><td>Northern Beaches Community Mental Health Service Registered Nurse</td><td>Sydney</td><td>2026-10-27</td></tr>
+<tr><td>NSW Health</td><td>Registered Nurse</td><td>Sydney</td><td>2026-10-27</td></tr>
+<tr><td>NSW Health</td><td>Registered Nurse - Mental Health Services, Westmead Hospital</td><td>Sydney</td><td>2026-10-27</td></tr>
+<tr><td>NSW Health</td><td>Registered Nurse, Geriatric Outreach</td><td>Sydney</td><td>2026-10-27</td></tr>
+<tr><td>NSW Health</td><td>Registered Nurse, Surgical Inpatient Units (via Nurse Bank)</td><td>Sydney</td><td>2026-10-27</td></tr>
+<tr><td>NSW Health</td><td>Physiotherapist Level 4 - Fracture Liaison Coordinator (osteoporosis Refracture Prevention Service)</td><td>Sydney</td><td>2026-10-27</td></tr>
+<tr><td>BlueCare</td><td>Registered Nurse</td><td>Brisbane</td><td>2026-10-27</td></tr>
+<tr><td>dm50.org</td><td>Registered Nurse</td><td>Piper House</td><td>2026-10-27</td></tr>
+<tr><td>dm50.org</td><td>Registered Nurse - Casual</td><td>Elizabeth Lodge</td><td>2026-10-27</td></tr>
+<tr><td>SA Health</td><td>Rural Generalist Physiotherapist Ahp1/2 - Kingston</td><td>Brisbane</td><td>2026-10-27</td></tr>
+<tr><td>Arcare</td><td>Registered Nurse</td><td>Aranda</td><td>2026-10-27</td></tr>
+<tr><td>merijobs</td><td>Personal Care Assistant</td><td>Melbourne</td><td>2026-10-27</td></tr>
+<tr><td>Uniting</td><td>Lilian Wells Registered Nurse</td><td>Sydney</td><td>2026-10-27</td></tr>
+<tr><td>Calvary Health Care</td><td>Personal Care Worker</td><td>Melbourne</td><td>2026-10-27</td></tr>
+<tr><td>Calvary Health Care</td><td>Registered Nurse</td><td>Cowandilla</td><td>2026-10-27</td></tr>
+<tr><td>Serco Asia Pacific</td><td>Registered Nurse Primary Care-acacia Prison</td><td>Wooroloo</td><td>2026-10-27</td></tr>
+<tr><td>Ramsay Health Care</td><td>Registered Nurse - Hdu Cardiovascular</td><td>Sydney</td><td>2026-10-27</td></tr>
+<tr><td>Accor Pacific</td><td>Maintenance Assistant</td><td>Australia</td><td>2026-10-27</td></tr>
+<tr><td>Thiess</td><td>Serviceperson</td><td>Iron Bridge</td><td>2026-10-27</td></tr>
+<tr><td>Sandfire Resources</td><td>Field Technician</td><td>Adelaide</td><td>2026-10-27</td></tr>
+<tr><td>Transgrid</td><td>Maintenance Engineer - Transmission Lines And Cables</td><td>Sydney</td><td>2026-10-27</td></tr>
+<tr><td>Harmony Australasia</td><td>Field Technician</td><td>Cloncurry</td><td>2026-10-27</td></tr>
+<tr><td>Harvey Beef</td><td>Mechanical Fitter</td><td>Harvey</td><td>2026-10-27</td></tr>
+<tr><td>St Vincent de Paul Society NSW</td><td>Shop Assistant</td><td>Sydney</td><td>2026-10-27</td></tr>
+<tr><td>Tarocash</td><td>Yd. Coomera - Retail Assistant, Qld</td><td>Yd</td><td>2026-10-27</td></tr>
+<tr><td>Tarocash</td><td>Yd. Harbourtown Dfo - Retail Assistant,qld</td><td>Yd</td><td>2026-10-27</td></tr>
+<tr><td>Yd</td><td>Yd. Harbourtown Dfo - Retail Assistant,qld</td><td>Harbourtown</td><td>2026-10-27</td></tr>
+<tr><td>Dusk</td><td>Christmas Casual - Warrnambool</td><td>Warrnambool</td><td>2026-10-27</td></tr>
+<tr><td>Johnny Bigg</td><td>Johnny Bigg - Christmas Casual - Townsville</td><td>Townsville +1</td><td>2026-10-27</td></tr>
+<tr><td>Johnny Bigg</td><td>Johnny Bigg - Christmas Casual - Mackay</td><td>Mackay</td><td>2026-10-27</td></tr>
+<tr><td>Johnny Bigg</td><td>Johnny Bigg - Christmas Casual - Watergardens, Vic</td><td>Melbourne</td><td>2026-10-27</td></tr>
+<tr><td>Johnny Bigg</td><td>Johnny Bigg - Christmas Casual - Northland, Vic</td><td>Melbourne</td><td>2026-10-27</td></tr>
+<tr><td>Johnny Bigg</td><td>Johnny Bigg - Christmas Casual - Melton, Vic</td><td>Melbourne</td><td>2026-10-27</td></tr>
+<tr><td>Johnny Bigg</td><td>Johnny Bigg - Christmas Casual - Werribee, Vic</td><td>Melbourne</td><td>2026-10-27</td></tr>
+<tr><td>Johnny Bigg</td><td>Johnny Bigg - Christmas Casual - Dfo Essendon, Vic</td><td>Melbourne</td><td>2026-10-27</td></tr>
+<tr><td>Kathmandu</td><td>Kathmandu Casual Sales Assistant: Chadstone</td><td>Melbourne</td><td>2026-10-27</td></tr>
+<tr><td>Goodstart Early Learning Ltd</td><td>Administration Assistant</td><td>Adelaide</td><td>2026-10-27</td></tr>
+<tr><td>Infopeople</td><td>Executive Assistant / Act</td><td>Unknown</td><td>2026-10-27</td></tr>
+<tr><td>Longreach Recruitment</td><td>Junior Document Controller/ Project Administrator</td><td>Unknown</td><td>2026-10-27</td></tr>
+<tr><td>KordaMentha</td><td>Executive Assistant</td><td>Melbourne</td><td>2026-10-27</td></tr>
+<tr><td>Salvos Stores</td><td>V- Administration Assistant</td><td>Toowoomba</td><td>2026-10-27</td></tr>
+<tr><td>Eastern Health</td><td>Administration Assistant</td><td>Angliss +3</td><td>2026-10-27</td></tr>
+<tr><td>St John of God Health Care</td><td>Administration Assistant</td><td>Perth</td><td>2026-10-27</td></tr>
+<tr><td>Aveo</td><td>Administration Assistant</td><td>Newstead</td><td>2026-10-27</td></tr>
+<tr><td>Aveo</td><td>Relief Administration Assistant</td><td>Campbelltown</td><td>2026-10-27</td></tr>
+<tr><td>Bendigo Health</td><td>Aboriginal & Torres Strait Islander Planned Surgery Project Officer</td><td>Bendigo</td><td>2026-10-27</td></tr>
 </table>
