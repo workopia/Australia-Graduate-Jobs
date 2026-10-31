@@ -10816,4 +10816,98 @@
 <tr><td>Australian Department of Home Affairs</td><td>Project Co-ordinator - Capital Works And Infrastructure</td><td>All</td><td>2026-10-30</td></tr>
 <tr><td>Kindtide</td><td>Executive Assistant</td><td>Melbourne</td><td>2026-10-30</td></tr>
 <tr><td>Airlock Digital</td><td>Executive Assistant</td><td>Melbourne</td><td>2026-10-30</td></tr>
+<tr><td>Boeing Aerostructures Australia</td><td>Supply Chain Intern</td><td>Melbourne</td><td>2026-10-31</td></tr>
+<tr><td>NBC UNIVERSAL</td><td>Legal Intern - Universal Networks</td><td>Sydney</td><td>2026-10-31</td></tr>
+<tr><td>Allens</td><td>First Nations Corporate Services Internship 2027</td><td>Sydney</td><td>2026-10-31</td></tr>
+<tr><td>NBC UNIVERSAL</td><td>Partnerships Intern - Universal Pictures</td><td>Sydney</td><td>2026-10-31</td></tr>
+<tr><td>NBC UNIVERSAL</td><td>Public Relations And Communications Intern - Universal Networks</td><td>Sydney</td><td>2026-10-31</td></tr>
+<tr><td>Grasslakeanimalhospital</td><td>Software Engineer</td><td>Sydney</td><td>2026-10-31</td></tr>
+<tr><td>Jobgether</td><td>Forward Deployed Agile Software Engineer</td><td>Australia</td><td>2026-10-31</td></tr>
+<tr><td>Worldline</td><td>Dashboard & Service Reporting Analyst</td><td>Melbourne</td><td>2026-10-31</td></tr>
+<tr><td>Glanbia</td><td>Online Data Analyst - English (au)</td><td>Sydney</td><td>2026-10-31</td></tr>
+<tr><td>Softtest pays</td><td>Aps6 Multiple Business Analyst</td><td>Australia</td><td>2026-10-31</td></tr>
+<tr><td>New World Management</td><td>Business Analyst - Modern Billing Solutions</td><td>Melbourne</td><td>2026-10-31</td></tr>
+<tr><td>Workplace Injury Commission</td><td>Business Analyst</td><td>Melbourne</td><td>2026-10-31</td></tr>
+<tr><td>Building and Plumbing Commission</td><td>Building Auditor</td><td>Melbourne</td><td>2026-10-31</td></tr>
+<tr><td>Longreach Recruitment</td><td>Accountant</td><td>Unknown</td><td>2026-10-31</td></tr>
+<tr><td>Programmed / PERSOLKELLY</td><td>Compliance Officer</td><td>Sydney</td><td>2026-10-31</td></tr>
+<tr><td>TAL Australia</td><td>Business Analyst</td><td>Sydney</td><td>2026-10-31</td></tr>
+<tr><td>Estia Health</td><td>Registered Nurse</td><td>Westbourne Park</td><td>2026-10-31</td></tr>
+<tr><td>Benetas</td><td>Personal Care Worker - Casual - Corowa</td><td>Melbourne</td><td>2026-10-31</td></tr>
+<tr><td>Vitalis Healthcare at Home</td><td>Female Home Care Support Worker – North Shore Area</td><td>Sydney</td><td>2026-10-31</td></tr>
+<tr><td>For Health Group</td><td>Registered Nurse/ Charlestown Nsw/ Permanent Part Time</td><td>Charlestown NSW</td><td>2026-10-31</td></tr>
+<tr><td>For Health Group</td><td>Registered Nurse/ Rouse Hill Nsw/ Casual</td><td>Sydney</td><td>2026-10-31</td></tr>
+<tr><td>For Health Group</td><td>Registered Nurse/ Baulkham Hills Nsw/ Casual</td><td>Sydney</td><td>2026-10-31</td></tr>
+<tr><td>For Health Group</td><td>Registered Nurse/ Wyoming Nsw/ Permanent Full Time</td><td>Sydney</td><td>2026-10-31</td></tr>
+<tr><td>Gippsland Health Alliance</td><td>Graduate Registered Nurse- General Stream</td><td>Sale</td><td>2026-10-31</td></tr>
+<tr><td>Installator.dk Hospital</td><td>Registered Nurse - Part Time Permanent</td><td>Brisbane</td><td>2026-10-31</td></tr>
+<tr><td>St Vincent’s Hospital Melbourne</td><td>Registered Nurse - Part Time Permanent</td><td>Brisbane</td><td>2026-10-31</td></tr>
+<tr><td>NSW Health</td><td>Registered Nurse - Special Care Nursery</td><td>Sydney</td><td>2026-10-31</td></tr>
+<tr><td>NSW Health</td><td>Registered Nurse - Cardiac Catheter Lab</td><td>Orange</td><td>2026-10-31</td></tr>
+<tr><td>NSW Health</td><td>Registered Nurse, Child And Family Health - Clarence</td><td>Grafton</td><td>2026-10-31</td></tr>
+<tr><td>NSW Health</td><td>Registered Nurse - Emergency Department - Incentives Offered</td><td>Moree</td><td>2026-10-31</td></tr>
+<tr><td>NSW Health</td><td>Cclhd - Registered Nurse - Community Nursing, Division Of Aged, Subacute & Complex Care</td><td>Wyong</td><td>2026-10-31</td></tr>
+<tr><td>NSW Health</td><td>Registered Nurse - Eye Clinic</td><td>Sydney</td><td>2026-10-31</td></tr>
+<tr><td>NSW Health</td><td>Cardiac / Pulmonary Rehabilitation Registered Nurse</td><td>Glen Innes +1</td><td>2026-10-31</td></tr>
+<tr><td>NSW Health</td><td>Registered Nurse - Medical Ward - Incentives Offered</td><td>Inverell</td><td>2026-10-31</td></tr>
+<tr><td>NSW Health</td><td>Registered Nurse - Cardiovascular</td><td>Sydney</td><td>2026-10-31</td></tr>
+<tr><td>Mercy Community</td><td>Registered Nurse - Nudgee</td><td>Nudgee</td><td>2026-10-31</td></tr>
+<tr><td>Roshana Care Group</td><td>Registered Nurse (rn) / Hervey Bay Qld</td><td>Hervey Bay</td><td>2026-10-31</td></tr>
+<tr><td>Wesley Mission Queensland</td><td>Registered Nurse</td><td>Brisbane</td><td>2026-10-31</td></tr>
+<tr><td>Frontline Recruitment Group</td><td>Registered Nurse - Gp Clinic</td><td>Brisbane</td><td>2026-10-31</td></tr>
+<tr><td>McDonald's Australia</td><td>Maintenance</td><td>Benalla</td><td>2026-10-31</td></tr>
+<tr><td>NSW Health</td><td>Electronic Technician</td><td>Sydney</td><td>2026-10-31</td></tr>
+<tr><td>Veolia Environnement SA</td><td>Field Service Representative</td><td>Gladstone</td><td>2026-10-31</td></tr>
+<tr><td>Tiemeaa</td><td>Maintenance Technician (mechanical)</td><td>Wybong</td><td>2026-10-31</td></tr>
+<tr><td>Tiemeaa</td><td>Chpp Maintenance Technician</td><td>Wybong</td><td>2026-10-31</td></tr>
+<tr><td>Linfox Armaguard Group</td><td>Field Technician</td><td>Camellia</td><td>2026-10-31</td></tr>
+<tr><td>JBS Australia Pty Ltd</td><td>Maintenance Fitter</td><td>Dinmore</td><td>2026-10-31</td></tr>
+<tr><td>BUMA Australia</td><td>Serviceperson</td><td>Blackwater</td><td>2026-10-31</td></tr>
+<tr><td>Visy</td><td>Maintenance Fitter</td><td>Sydney</td><td>2026-10-31</td></tr>
+<tr><td>Pacific National</td><td>Locomotive Maintenance Opportunities - Nebo</td><td>Nebo</td><td>2026-10-31</td></tr>
+<tr><td>McDonald's</td><td>Electrical Technician</td><td>Sydney</td><td>2026-10-31</td></tr>
+<tr><td>Liebherr Machines Bulle SA</td><td>Field Service Technician</td><td>Adelaide</td><td>2026-10-31</td></tr>
+<tr><td>Techforce</td><td>Maintenance Fitter</td><td>Kanmantoo</td><td>2026-10-31</td></tr>
+<tr><td>DRD Group</td><td>Maintainer Operator</td><td>Pilbara</td><td>2026-10-31</td></tr>
+<tr><td>673</td><td>Field Engineer I Brisbane</td><td>Brisbane</td><td>2026-10-31</td></tr>
+<tr><td>Bullivants</td><td>Field Service Technician - Mackay Qld</td><td>Mackay</td><td>2026-10-31</td></tr>
+<tr><td>ALDI STORES LIMITED</td><td>Retail Assistant - Altona Meadows</td><td>Melbourne</td><td>2026-10-31</td></tr>
+<tr><td>Harris Farm Markets</td><td>Shop Assistant - Casual - Mona Vale</td><td>Sydney</td><td>2026-10-31</td></tr>
+<tr><td>ALDI STORES LIMITED</td><td>Retail Assistant - Lakelands</td><td>Lakelands</td><td>2026-10-31</td></tr>
+<tr><td>GPC Tools & Equipment Sydney</td><td>Customer Sales & Service - Repco Watergardens - Full Time</td><td>Water Gardens</td><td>2026-10-31</td></tr>
+<tr><td>GPC Tools & Equipment Sydney</td><td>Customer Sales & Service - Repco Tamworth - Casual</td><td>Tamworth</td><td>2026-10-31</td></tr>
+<tr><td>GPC Tools & Equipment Sydney</td><td>Customer Sales & Service - Repco Muswellbrook - Casual</td><td>Muswellbrook</td><td>2026-10-31</td></tr>
+<tr><td>GPC Tools & Equipment Sydney</td><td>Customer Sales & Service - Repco Narrogin - Casual</td><td>Narrogin</td><td>2026-10-31</td></tr>
+<tr><td>GPC Tools & Equipment Sydney</td><td>Customer Sales & Service - Repco Pakenham - Casual</td><td>Melbourne</td><td>2026-10-31</td></tr>
+<tr><td>GPC Tools & Equipment Sydney</td><td>Customer Sales & Service - Repco Narre Warren - Casual</td><td>Melbourne</td><td>2026-10-31</td></tr>
+<tr><td>BELLROY</td><td>Sales Associate (carry Guide)</td><td>Melbourne</td><td>2026-10-31</td></tr>
+<tr><td>ALDI STORES LIMITED</td><td>Retail Assistant - North Ipswich (riverlink)</td><td>North Ipswich</td><td>2026-10-31</td></tr>
+<tr><td>Estée Lauder</td><td>Estee Lauder Beauty Advisor - David Jones Melbourne</td><td>Melbourne</td><td>2026-10-31</td></tr>
+<tr><td>Harris Farm Markets</td><td>Shop Assistant - Perishables - Bondi Beach</td><td>Sydney</td><td>2026-10-31</td></tr>
+<tr><td>Harris Farm Markets</td><td>Shop Assistant - Bondi Beach</td><td>Sydney</td><td>2026-10-31</td></tr>
+<tr><td>GPC Pacific Asia</td><td>Customer Sales & Service - Repco Muswellbrook - Casual</td><td>Muswellbrook</td><td>2026-10-31</td></tr>
+<tr><td>Tumi</td><td>Sales Associate Vic</td><td>Vic</td><td>2026-10-31</td></tr>
+<tr><td>Assembly Label</td><td>Seasonal Casual Retail Stylist</td><td>Sydney</td><td>2026-10-31</td></tr>
+<tr><td>AusPost</td><td>Indoor Delivery Officer</td><td>Port Lincoln</td><td>2026-10-31</td></tr>
+<tr><td>AusPost</td><td>Parcel Sorter</td><td>Chullora</td><td>2026-10-31</td></tr>
+<tr><td>2XU</td><td>Warehouse And Sales – Townsville</td><td>Townsville</td><td>2026-10-31</td></tr>
+<tr><td>LUXOTTICA RT AU PTY LTD</td><td>Associate Dispenser</td><td>Castletown</td><td>2026-10-31</td></tr>
+<tr><td>OPSM (EssilorLuxottica Group)</td><td>Associate Dispenser</td><td>Mackay</td><td>2026-10-31</td></tr>
+<tr><td>Petbarn</td><td>Casual Sales Assistant - Petbarn Ferntree Gully</td><td>Melbourne</td><td>2026-10-31</td></tr>
+<tr><td>Peter Alexander</td><td>Sales Assistant - Full Time - Peter Alexander - South Wharf Dfo</td><td>Melbourne</td><td>2026-10-31</td></tr>
+<tr><td>Hanes Australasia</td><td>Christmas Casual / Bonds Outlet / Eastern Creek</td><td>Eastern Creek</td><td>2026-10-31</td></tr>
+<tr><td>POP MART Global</td><td>Part-time Sales Associate (sydney Airport)</td><td>Sydney</td><td>2026-10-31</td></tr>
+<tr><td>UniLodge Living Group</td><td>Customer Service Coordinator</td><td>Unknown</td><td>2026-10-31</td></tr>
+<tr><td>AusPost</td><td>Executive Assistant</td><td>Sydney</td><td>2026-10-31</td></tr>
+<tr><td>KordaMentha</td><td>Executive Assistant</td><td>Melbourne</td><td>2026-10-31</td></tr>
+<tr><td>Zurich Insurance Company Ltd</td><td>Executive Assistant Part Time</td><td>Australia</td><td>2026-10-31</td></tr>
+<tr><td>Symal</td><td>Project Administrator</td><td>Avalon</td><td>2026-10-31</td></tr>
+<tr><td>Goodstart Early Learning Ltd</td><td>Ashmont, Wagga Wagga Administration Assistant Nsw 2650</td><td>Wagga Wagga</td><td>2026-10-31</td></tr>
+<tr><td>True Relationships & Reproductive Health</td><td>Project Officer – Palm Health Education Project</td><td>Melbourne</td><td>2026-10-31</td></tr>
+<tr><td>Triple Zero Victoria</td><td>Project Coordinator</td><td>Burwood East</td><td>2026-10-31</td></tr>
+<tr><td>MACSEYE (Melbourne Archdiocese Catholic Schools Early Years Education)</td><td>Oshc Coordinator / Bentleigh East</td><td>Melbourne</td><td>2026-10-31</td></tr>
+<tr><td>transport.nsw.gov.au</td><td>Executive Assistant</td><td>Sydney</td><td>2026-10-31</td></tr>
+<tr><td>Bendigo Health</td><td>Administration Support - Community Dental Services</td><td>Bendigo</td><td>2026-10-31</td></tr>
+<tr><td>Catholic Archdiocese of Brisbane</td><td>Administration Assistant</td><td>Brisbane</td><td>2026-10-31</td></tr>
+<tr><td>Genus Services</td><td>Project Administrator / Baranduda</td><td>Wodonga</td><td>2026-10-31</td></tr>
 </table>
