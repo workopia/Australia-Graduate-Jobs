@@ -10910,4 +10910,43 @@
 <tr><td>Bendigo Health</td><td>Administration Support - Community Dental Services</td><td>Bendigo</td><td>2026-10-31</td></tr>
 <tr><td>Catholic Archdiocese of Brisbane</td><td>Administration Assistant</td><td>Brisbane</td><td>2026-10-31</td></tr>
 <tr><td>Genus Services</td><td>Project Administrator / Baranduda</td><td>Wodonga</td><td>2026-10-31</td></tr>
+<tr><td>Epiroc Careers</td><td>Product Support Technician</td><td>Mackay</td><td>2026-11-01</td></tr>
+<tr><td>Google</td><td>Software Engineer, Payments Identity Verification</td><td>Sydney</td><td>2026-11-01</td></tr>
+<tr><td>Leidos Holdings Inc.</td><td>Graduate Ict Engineer</td><td>Melbourne</td><td>2026-11-01</td></tr>
+<tr><td>transport.nsw.gov.au</td><td>Road Safety Analyst</td><td>Sydney</td><td>2026-11-01</td></tr>
+<tr><td>Softtest pays</td><td>Business Analyst Rpa</td><td>Melbourne</td><td>2026-11-01</td></tr>
+<tr><td>Anglicare Sydney</td><td>Registered Nurse</td><td>Sydney</td><td>2026-11-01</td></tr>
+<tr><td>SA Health</td><td>Registered Nurse - Kingston Soldiers Memorial Hospital</td><td>Brisbane</td><td>2026-11-01</td></tr>
+<tr><td>BlueCare</td><td>Registered Nurse</td><td>Mackay</td><td>2026-11-01</td></tr>
+<tr><td>Wearetheuniversity</td><td>Postdoctoral Research Associate In Immunotherapy</td><td>Sydney</td><td>2026-11-01</td></tr>
+<tr><td>The Trustee For The Salvation Army Victoria Property Trust</td><td>Registered Nurse - Casual</td><td>Sydney</td><td>2026-11-01</td></tr>
+<tr><td>The Salvation Army Australia</td><td>Registered Nurse - Casual</td><td>Sydney</td><td>2026-11-01</td></tr>
+<tr><td>Uniting AgeWell</td><td>Registered Nurse Level 3 - Perm Part Time</td><td>Melbourne</td><td>2026-11-01</td></tr>
+<tr><td>UnitingCare</td><td>Registered Nurse Amala</td><td>Sydney</td><td>2026-11-01</td></tr>
+<tr><td>St Vincent’s Hospital Melbourne</td><td>Registered Nurse</td><td>Brisbane</td><td>2026-11-01</td></tr>
+<tr><td>Mira Vista Care Center</td><td>Registered Nurse</td><td>Brisbane</td><td>2026-11-01</td></tr>
+<tr><td>Epworth HealthCare</td><td>Registered Nurse - Scrub Scout</td><td>Melbourne</td><td>2026-11-01</td></tr>
+<tr><td>DNA Healthcare Recruitment</td><td>General Practitioner (dpa Exemption)</td><td>Sydney</td><td>2026-11-01</td></tr>
+<tr><td>Ramsay Health Care</td><td>Registered Nurse - Orthopaedics</td><td>Melbourne</td><td>2026-11-01</td></tr>
+<tr><td>Mater Group</td><td>Registered Nurse - Acute Medical Unit</td><td>Brisbane</td><td>2026-11-01</td></tr>
+<tr><td>Resthaven</td><td>Registered Nurse - Eoi</td><td>Adelaide</td><td>2026-11-01</td></tr>
+<tr><td>Arcare</td><td>Registered Nurse</td><td>Sydney</td><td>2026-11-01</td></tr>
+<tr><td>Tip Top</td><td>Maintenance Fitter</td><td>Sydney</td><td>2026-11-01</td></tr>
+<tr><td>Weir Group</td><td>Mechanical Fitter</td><td>Perth</td><td>2026-11-01</td></tr>
+<tr><td>McDonald's Australia</td><td>Electrical Technician</td><td>Sydney</td><td>2026-11-01</td></tr>
+<tr><td>adidas AG</td><td>Casual Retail Professional - Bayside Factory Outlet, Vic</td><td>Melbourne</td><td>2026-11-01</td></tr>
+<tr><td>GPC Tools & Equipment Sydney</td><td>Customer Sales & Service - Repco Mornington - Casual</td><td>Melbourne</td><td>2026-11-01</td></tr>
+<tr><td>ALDI STORES LIMITED</td><td>Retail Assistant - Rouse Hill</td><td>Sydney</td><td>2026-11-01</td></tr>
+<tr><td>Prada Group</td><td>Sales Associate - Melbourne Chadstone</td><td>Melbourne</td><td>2026-11-01</td></tr>
+<tr><td>Prada Group</td><td>Sales Associate - Sydney Dfo Homebush</td><td>Sydney</td><td>2026-11-01</td></tr>
+<tr><td>ALDI STORES LIMITED</td><td>Retail Assistant - Mildura</td><td>Mildura</td><td>2026-11-01</td></tr>
+<tr><td>ALDI STORES LIMITED</td><td>Retail Assistant - Chatswood Place</td><td>Sydney</td><td>2026-11-01</td></tr>
+<tr><td>Linfox</td><td>Transport Coordinator</td><td>Rocklea</td><td>2026-11-01</td></tr>
+<tr><td>B. BRAUN AUSTRALIA PTY. L</td><td>Marketing Coordinator</td><td>Norwest</td><td>2026-11-01</td></tr>
+<tr><td>Goodstart Early Learning Ltd</td><td>Stafford Heights, Brisbane Administration Assistant Qld 4053</td><td>Brisbane</td><td>2026-11-01</td></tr>
+<tr><td>Goodstart Early Learning Ltd</td><td>Torquay Administration Assistant Vic 3228</td><td>Geelong</td><td>2026-11-01</td></tr>
+<tr><td>St John of God Health Care</td><td>Case Management Coordinator</td><td>Murdoch</td><td>2026-11-01</td></tr>
+<tr><td>Zurich Insurance UK</td><td>Executive Assistant Part Time</td><td>Australia</td><td>2026-11-01</td></tr>
+<tr><td>Curtin University</td><td>Project Coordinator</td><td>Technology Park</td><td>2026-11-01</td></tr>
+<tr><td>Fortescue</td><td>Material Logistics Officer</td><td>Christmas Creek</td><td>2026-11-01</td></tr>
 </table>
