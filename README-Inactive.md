@@ -11534,4 +11534,129 @@
 <tr><td>City of Whittlesea</td><td>Ea To Ceo & Em Occeo</td><td>Melbourne</td><td>2026-11-04</td></tr>
 <tr><td>Goodstart Early Learning Ltd</td><td>Mawson Lakes, Adelaide State Administration Assistant Sa 5059</td><td>Adelaide</td><td>2026-11-04</td></tr>
 <tr><td>Goodstart Early Learning Ltd</td><td>Toongabbie, Sydney Administration Assistant Nsw 2146</td><td>Sydney</td><td>2026-11-04</td></tr>
+<tr><td>VetPartners</td><td>Medicine Intern</td><td>Melbourne</td><td>2026-11-05</td></tr>
+<tr><td>Mandarin Oriental Hotel Group</td><td>Rooms Intern</td><td>Australia</td><td>2026-11-05</td></tr>
+<tr><td>GHD</td><td>Ghd Summer Internship Program 2026/27 - Melbourne - Risk Consultancy Intern</td><td>Melbourne</td><td>2026-11-05</td></tr>
+<tr><td>Airwallex</td><td>Software Engineer, Business Accounts</td><td>Sydney</td><td>2026-11-05</td></tr>
+<tr><td>The HR Ally</td><td>Caching Developer (redis) – Australia</td><td>Sydney</td><td>2026-11-05</td></tr>
+<tr><td>Softtest pays</td><td>Onsite It Support</td><td>Melbourne</td><td>2026-11-05</td></tr>
+<tr><td>Softtest pays</td><td>Melbourne It Support Officer</td><td>Melbourne</td><td>2026-11-05</td></tr>
+<tr><td>Softtest pays</td><td>Java Developers Multiple Roles</td><td>Australia</td><td>2026-11-05</td></tr>
+<tr><td>Softtest pays</td><td>It Support Officer</td><td>Melbourne</td><td>2026-11-05</td></tr>
+<tr><td>Softtest pays</td><td>It Security Officer (multiple)</td><td>Sydney</td><td>2026-11-05</td></tr>
+<tr><td>Softtest pays</td><td>Ict Aps5 Project Officer/help Desk</td><td>Australian Capital Territory</td><td>2026-11-05</td></tr>
+<tr><td>Softtest pays</td><td>El1 Outsystems Application Technical Specialist</td><td>Melbourne</td><td>2026-11-05</td></tr>
+<tr><td>Softtest pays</td><td>C++ Software Engineer</td><td>Eagle Farm</td><td>2026-11-05</td></tr>
+<tr><td>Softtest pays</td><td>Cloud Software Engineers Multiple</td><td>Melbourne</td><td>2026-11-05</td></tr>
+<tr><td>Softtest pays</td><td>Classic App Software Engineer</td><td>Sydney</td><td>2026-11-05</td></tr>
+<tr><td>Australian Gas Infrastructure Group</td><td>Graduate Scada & Ot Engineer</td><td>Australia</td><td>2026-11-05</td></tr>
+<tr><td>AECOM UK</td><td>Ict Engineer - Buildings</td><td>Sydney</td><td>2026-11-05</td></tr>
+<tr><td>Singtel</td><td>Ad, Ai Platform Engineering & Financial Operations</td><td>Sydney</td><td>2026-11-05</td></tr>
+<tr><td>Optus</td><td>Ad, Ai Platform Engineering Financial Operations</td><td>Unknown</td><td>2026-11-05</td></tr>
+<tr><td>Senior plc</td><td>Data Scientist</td><td>Melbourne</td><td>2026-11-05</td></tr>
+<tr><td>ISS Global</td><td>Ai Developer</td><td>Sydney</td><td>2026-11-05</td></tr>
+<tr><td>Cummins</td><td>2027 Undergraduate Project Analyst Internship (supply Chain)</td><td>Melbourne</td><td>2026-11-05</td></tr>
+<tr><td>Majer Recruitment</td><td>Compliance Officer</td><td>CBD Fringe</td><td>2026-11-05</td></tr>
+<tr><td>Heidelberg Materials Australia Pty Ltd</td><td>Business Analyst</td><td>Perth</td><td>2026-11-05</td></tr>
+<tr><td>Jobgether</td><td>Product Compliance Counsel</td><td>Australia</td><td>2026-11-05</td></tr>
+<tr><td>Telstra</td><td>Operational Risk And Compliance</td><td>Australia</td><td>2026-11-05</td></tr>
+<tr><td>Hannover Re</td><td>Compliance Officer</td><td>Sydney</td><td>2026-11-05</td></tr>
+<tr><td>Queensland Health</td><td>Registered Nurse</td><td>Brisbane</td><td>2026-11-05</td></tr>
+<tr><td>Respect Group Limited</td><td>Registered Nurse</td><td>Penguin</td><td>2026-11-05</td></tr>
+<tr><td>Vivir Healthcare</td><td>Physiotherapist</td><td>Sydney</td><td>2026-11-05</td></tr>
+<tr><td>SA Health</td><td>Enrolled Nurses And Registered Nurses - Aged Care</td><td>Adelaide</td><td>2026-11-05</td></tr>
+<tr><td>TLC Healthcare</td><td>Graduate Registered Nurse</td><td>Melbourne</td><td>2026-11-05</td></tr>
+<tr><td>TLC Healthcare</td><td>General Practice Registered Nurse</td><td>Melbourne</td><td>2026-11-05</td></tr>
+<tr><td>Monash Health</td><td>Physiotherapist Grade 3 - Ccss</td><td>Melbourne</td><td>2026-11-05</td></tr>
+<tr><td>Albury Wodonga Health</td><td>Inpatient Mental Health - Casual Registered Nurse</td><td>Albury</td><td>2026-11-05</td></tr>
+<tr><td>Albury Wodonga Health</td><td>Inpatient Mental Health - Registered Nurse</td><td>Albury</td><td>2026-11-05</td></tr>
+<tr><td>WA Government</td><td>Registered Nurse - Ambulatory</td><td>Perth Metropolitan</td><td>2026-11-05</td></tr>
+<tr><td>The Salvation Army Australia</td><td>Registered Nurse</td><td>Sydney</td><td>2026-11-05</td></tr>
+<tr><td>Homestyle Aged Care</td><td>Registered Nurse</td><td>Melbourne</td><td>2026-11-05</td></tr>
+<tr><td>RSL LIFECARE LIMITED</td><td>Registered Nurse</td><td>Page</td><td>2026-11-05</td></tr>
+<tr><td>NSW Health</td><td>Registered Nurse - Scrub/scout, Perioperative Unit - Shellharbour Hospital</td><td>Shellharbour</td><td>2026-11-05</td></tr>
+<tr><td>NSW Health</td><td>Registered Nurse - Mental Health Services</td><td>Sydney</td><td>2026-11-05</td></tr>
+<tr><td>NSW Health</td><td>Registered Nurse - Kirketon Road Centre</td><td>Sydney</td><td>2026-11-05</td></tr>
+<tr><td>NSW Health</td><td>Anaesthetic Registered Nurse - Randwick Campus Operating Suite (rcos)</td><td>Sydney</td><td>2026-11-05</td></tr>
+<tr><td>NSW Health</td><td>Mental Health Clinician - Registered Nurse</td><td>Sydney</td><td>2026-11-05</td></tr>
+<tr><td>NSW Health</td><td>Registered Nurse,medical 4b Auburn Hospital</td><td>Sydney</td><td>2026-11-05</td></tr>
+<tr><td>NSW Health</td><td>Registered Nurse, Medical North, Auburn Hospital</td><td>Sydney</td><td>2026-11-05</td></tr>
+<tr><td>NSW Health</td><td>Registered Nurse - Neonatal Intensive Care</td><td>Kingswood</td><td>2026-11-05</td></tr>
+<tr><td>NSW Health</td><td>Paediatric Registered Nurse - Children's Ward</td><td>Sydney</td><td>2026-11-05</td></tr>
+<tr><td>NSW Health</td><td>Anaesthetic Nurse - Registered Nurse</td><td>Sydney</td><td>2026-11-05</td></tr>
+<tr><td>Samaritans</td><td>Registered Nurses</td><td>Gloucester</td><td>2026-11-05</td></tr>
+<tr><td>Catholic Healthcare</td><td>Registered Nurse - Villa Maria Eastern Heights</td><td>Eastern Heights</td><td>2026-11-05</td></tr>
+<tr><td>Parkdale Aged Care</td><td>Personal Care Worker - Parkdale Aged Care</td><td>Melbourne</td><td>2026-11-05</td></tr>
+<tr><td>UnitingCare Queensland</td><td>Registered Nurse</td><td>Rockhampton</td><td>2026-11-05</td></tr>
+<tr><td>Melba Support Services</td><td>Disability Support Worker - Sil - Part Time - Rl 10</td><td>Melbourne</td><td>2026-11-05</td></tr>
+<tr><td>The Trustee For The Salvation Army Victoria Property Trust</td><td>Registered Nurse</td><td>Sydney</td><td>2026-11-05</td></tr>
+<tr><td>Your Nursing Agency</td><td>Registered Nurses, Enrolled Nurses, Midwives!! All areas.</td><td>Melbourne</td><td>2026-11-05</td></tr>
+<tr><td>Premium Aged & Community Services</td><td>Registered Nurse</td><td>Sydney</td><td>2026-11-05</td></tr>
+<tr><td>Warrina Homes</td><td>Registered Nurse</td><td>Adelaide</td><td>2026-11-05</td></tr>
+<tr><td>National Patient Transport</td><td>Critical Care Registered Nurses</td><td>Australia</td><td>2026-11-05</td></tr>
+<tr><td>Greenstaff Medical</td><td>Registered Nurses</td><td>Melbourne</td><td>2026-11-05</td></tr>
+<tr><td>Greenstaff Medical</td><td>Critical Care Registered Nurses</td><td>Melbourne</td><td>2026-11-05</td></tr>
+<tr><td>Bushland Health Group</td><td>Registered Nurse</td><td>Taree +1</td><td>2026-11-05</td></tr>
+<tr><td>Installator.dk Hospital</td><td>Emergency Department Consumer Peer Support Worker</td><td>Melbourne</td><td>2026-11-05</td></tr>
+<tr><td>Ramsay Health Care</td><td>Registered Nurses - Multiple Specialties</td><td>Melbourne</td><td>2026-11-05</td></tr>
+<tr><td>Lifeblood</td><td>Graduate Registered Nurse</td><td>Brisbane</td><td>2026-11-05</td></tr>
+<tr><td>MacKillop Family Services</td><td>Home Based Care Support Worker</td><td>Melbourne</td><td>2026-11-05</td></tr>
+<tr><td>Leora Healthcare</td><td>Support Worker</td><td>Sydney</td><td>2026-11-05</td></tr>
+<tr><td>Euroa Health</td><td>Registered Nurse</td><td>Euroa</td><td>2026-11-05</td></tr>
+<tr><td>Crowley Care Services</td><td>Registered Nurse</td><td>Australia</td><td>2026-11-05</td></tr>
+<tr><td>Queensland Health</td><td>Registered Nurse (breastscreen) (bundaberg)</td><td>Bundaberg</td><td>2026-11-05</td></tr>
+<tr><td>McDonald's Australia</td><td>Maintenance</td><td>Sydney</td><td>2026-11-05</td></tr>
+<tr><td>Liebherr-Australia Pty Ltd</td><td>Service Technician</td><td>Mt Thorley</td><td>2026-11-05</td></tr>
+<tr><td>Vinarchy</td><td>Reliability Technician Packaging - Mechanical</td><td>Sa</td><td>2026-11-05</td></tr>
+<tr><td>Eaton</td><td>Field Service Technician</td><td>Melbourne</td><td>2026-11-05</td></tr>
+<tr><td>Aurelia Metals</td><td>Field Technician</td><td>Nymagee</td><td>2026-11-05</td></tr>
+<tr><td>STILL GmbH</td><td>Maintenance Technician</td><td>Stapylton</td><td>2026-11-05</td></tr>
+<tr><td>Dematic Inc</td><td>Maintenance Technician</td><td>Stapylton</td><td>2026-11-05</td></tr>
+<tr><td>Shell Energy UK</td><td>Mechanical Technician</td><td>Curtis Island</td><td>2026-11-05</td></tr>
+<tr><td>Greystar (International)</td><td>Maintenance Technician</td><td>Adelaide</td><td>2026-11-05</td></tr>
+<tr><td>NRMA</td><td>Grounds & Maintenance Attendant</td><td>Strahan</td><td>2026-11-05</td></tr>
+<tr><td>Bunzl Australasia</td><td>Warehouse Assistant</td><td>Winnellie</td><td>2026-11-05</td></tr>
+<tr><td>McDermott Aviation</td><td>Warehouse Officer</td><td>Cooroy</td><td>2026-11-05</td></tr>
+<tr><td>Bevilles Jewellers</td><td>Christmas Casual - Nsw</td><td>NSW</td><td>2026-11-05</td></tr>
+<tr><td>Bevilles Jewellers</td><td>Christmas Casual - Vic</td><td>Vic</td><td>2026-11-05</td></tr>
+<tr><td>Bevilles Jewellers</td><td>Christmas Casual - Qld</td><td>Other</td><td>2026-11-05</td></tr>
+<tr><td>Bevilles Jewellers</td><td>Retail Assistant - Tea Tree Plaza</td><td>Tea Tree Plaza</td><td>2026-11-05</td></tr>
+<tr><td>Jaycar Electronics</td><td>Apply To Jaycar Port Macquarie</td><td>Port Macquarie</td><td>2026-11-05</td></tr>
+<tr><td>Jaycar Electronics</td><td>Apply To Jaycar Port Adelaide</td><td>Queenstown</td><td>2026-11-05</td></tr>
+<tr><td>Jaycar Electronics</td><td>Apply To Jaycar Reynella</td><td>Reynella</td><td>2026-11-05</td></tr>
+<tr><td>Jaycar Electronics</td><td>Apply To Jaycar Ringwood</td><td>Melbourne</td><td>2026-11-05</td></tr>
+<tr><td>Jaycar Electronics</td><td>Apply To Jaycar Werribee</td><td>Melbourne</td><td>2026-11-05</td></tr>
+<tr><td>The Body Shop Australia Pty Ltd</td><td>Seasonal Casual Beauty Advisor – Warringah Mall</td><td>Australia</td><td>2026-11-05</td></tr>
+<tr><td>Access Hardware</td><td>Warehouse & Trade Sales</td><td>Darwin</td><td>2026-11-05</td></tr>
+<tr><td>EBOS Group</td><td>Customer Service</td><td>Melbourne</td><td>2026-11-05</td></tr>
+<tr><td>Retailworld Resourcing</td><td>Sales Associate / Joondalup</td><td>Perth</td><td>2026-11-05</td></tr>
+<tr><td>Lowes</td><td>Sales Assistant - Oakleigh Vic</td><td>Melbourne</td><td>2026-11-05</td></tr>
+<tr><td>Retailors</td><td>Holiday Retail Assistant - Nike Eastland</td><td>Melbourne</td><td>2026-11-05</td></tr>
+<tr><td>Retailors</td><td>Retail Assistant - Samsung Parramatta</td><td>Sydney</td><td>2026-11-05</td></tr>
+<tr><td>Retailors</td><td>Holiday Retail Assistant - Nike Sydney City</td><td>Sydney</td><td>2026-11-05</td></tr>
+<tr><td>Bluechip Infotech</td><td>Warehouse Assistant – Kilsyth Vic</td><td>Melbourne</td><td>2026-11-05</td></tr>
+<tr><td>APG & Co</td><td>Sportscraft - Casual Stylist - Miranda</td><td>Sydney</td><td>2026-11-05</td></tr>
+<tr><td>Perri Cutten</td><td>Expression Of Interest – Perri Cutten Sales Assistants / Vic</td><td>Melbourne</td><td>2026-11-05</td></tr>
+<tr><td>Perri Cutten</td><td>Sales Assistant / Perri Cutten Dj Doncaster</td><td>Melbourne</td><td>2026-11-05</td></tr>
+<tr><td>Blue Illusion</td><td>Sales Assistant</td><td>Melbourne</td><td>2026-11-05</td></tr>
+<tr><td>Domino's Pizza</td><td>Instore</td><td>Charlemont</td><td>2026-11-05</td></tr>
+<tr><td>Domino's Pizza</td><td>In Store Team Member Esperance</td><td>Esperance</td><td>2026-11-05</td></tr>
+<tr><td>Hyatt Hotels Corporation</td><td>Trainee - Sales</td><td>Melbourne</td><td>2026-11-05</td></tr>
+<tr><td>Mondelēz International</td><td>Cadbury Casual Retail Support - Bathurst</td><td>Bathurst</td><td>2026-11-05</td></tr>
+<tr><td>The Athletes Foot</td><td>Seasonal Assistant / Darwin</td><td>Darwin</td><td>2026-11-05</td></tr>
+<tr><td>Dusk</td><td>Christmas Casual - Parramatta Pop Up</td><td>Sydney</td><td>2026-11-05</td></tr>
+<tr><td>Dusk</td><td>Christmas Casual - Castle Hill Pop Up</td><td>Sydney</td><td>2026-11-05</td></tr>
+<tr><td>Fletcher Building</td><td>Quality Coordinator</td><td>Sutherland Shire</td><td>2026-11-05</td></tr>
+<tr><td>Laminex Australia</td><td>Section Coordinator</td><td>Melbourne</td><td>2026-11-05</td></tr>
+<tr><td>WA Government</td><td>Executive Assistant</td><td>Perth Metropolitan</td><td>2026-11-05</td></tr>
+<tr><td>WA Government</td><td>Temporary Employment Register – Administrative Assistant – Community Health</td><td>Perth Metropolitan</td><td>2026-11-05</td></tr>
+<tr><td>WA Government</td><td>Coordinator Contracts And Projects</td><td>Perth Metropolitan</td><td>2026-11-05</td></tr>
+<tr><td>WA Government</td><td>Skills Priority Project Coordinator (50d)</td><td>Perth Metropolitan</td><td>2026-11-05</td></tr>
+<tr><td>WA Government</td><td>Administrative Assistant</td><td>Mid West Region</td><td>2026-11-05</td></tr>
+<tr><td>WA Government</td><td>Administrative Assistant - Brh</td><td>Bunbury</td><td>2026-11-05</td></tr>
+<tr><td>Monash Health</td><td>Urgents In Time Project Officer</td><td>Melbourne</td><td>2026-11-05</td></tr>
+<tr><td>Solargain</td><td>Administration Assistant - Hot Water</td><td>Malaga</td><td>2026-11-05</td></tr>
+<tr><td>TAFE SA</td><td>Project Coordinator</td><td>Australia</td><td>2026-11-05</td></tr>
+<tr><td>Southern Cross Austereo</td><td>Brand Experience Specialist - 12 Month Contract</td><td>Brisbane</td><td>2026-11-05</td></tr>
+<tr><td>Electro Optic Systems</td><td>Project Support Officer - Directed Energy</td><td>Symonston</td><td>2026-11-05</td></tr>
 </table>
