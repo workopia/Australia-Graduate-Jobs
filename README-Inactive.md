@@ -11932,4 +11932,44 @@
 <tr><td>Tasmanian State Service</td><td>Administrative (band 2) Fixed Term And Casual Employment Register (2026 - 2028)</td><td>North</td><td>2026-11-07</td></tr>
 <tr><td>Tasmanian State Service</td><td>Project Officer - Employment Register</td><td>South</td><td>2026-11-07</td></tr>
 <tr><td>TAFE NSW</td><td>Project Coordinator – National Tafe Network - Construction</td><td>Kingswood</td><td>2026-11-07</td></tr>
+<tr><td>SITEMATE</td><td>Junior Full Stack Engineer - Hybrid</td><td>Melbourne</td><td>2026-11-08</td></tr>
+<tr><td>RMIT University</td><td>Technology Support Specialist</td><td>Melbourne</td><td>2026-11-08</td></tr>
+<tr><td>Hindmarsh</td><td>Ict Support Engineer</td><td>Sydney</td><td>2026-11-08</td></tr>
+<tr><td>transport.nsw.gov.au</td><td>Data Analyst</td><td>Sydney</td><td>2026-11-08</td></tr>
+<tr><td>Woolworths Group</td><td>Store Services and Compliance Officer</td><td>Hawker</td><td>2026-11-08</td></tr>
+<tr><td>Murray Nankivell</td><td>Accountant</td><td>Bordertown</td><td>2026-11-08</td></tr>
+<tr><td>Austin Group</td><td>Accountant / Gazman</td><td>Melbourne</td><td>2026-11-08</td></tr>
+<tr><td>TAFE SA</td><td>Childcare Quality Systems And Compliance Coordinator</td><td>Australia</td><td>2026-11-08</td></tr>
+<tr><td>Electro Optic Systems</td><td>Supply Chain Risk And Compliance Coordinator</td><td>Hume</td><td>2026-11-08</td></tr>
+<tr><td>Queenslanders Credit Union</td><td>Business Analyst</td><td>Townsville +2</td><td>2026-11-08</td></tr>
+<tr><td>Goodman Fielder</td><td>Commercial Finance Analyst</td><td>Sydney</td><td>2026-11-08</td></tr>
+<tr><td>Bolton Clarke</td><td>Registered Nurse</td><td>Maroochydore</td><td>2026-11-08</td></tr>
+<tr><td>The Salvation Army Australia</td><td>Registered Nurse - Casual</td><td>Goulburn</td><td>2026-11-08</td></tr>
+<tr><td>Serco Asia Pacific</td><td>Registered Nurse</td><td>Cabarlah</td><td>2026-11-08</td></tr>
+<tr><td>St Vincent's Health Australia</td><td>Registered Nurse - Casual</td><td>Toowoomba</td><td>2026-11-08</td></tr>
+<tr><td>Installator.dk Hospital</td><td>Registered Nurse - Scrub/scout</td><td>Toowoomba</td><td>2026-11-08</td></tr>
+<tr><td>Bolton Clarke</td><td>After Hours Supervisor - Registered Nurse</td><td>Melbourne</td><td>2026-11-08</td></tr>
+<tr><td>Bolton Clarke</td><td>Personal Care Worker</td><td>Melbourne</td><td>2026-11-08</td></tr>
+<tr><td>Western District Health Service</td><td>Registered Nurse - The Birches Aged Care</td><td>Brisbane</td><td>2026-11-08</td></tr>
+<tr><td>Empower Healthcare</td><td>Graduate Physiotherapist - North Brisbane</td><td>Brisbane</td><td>2026-11-08</td></tr>
+<tr><td>Empower Healthcare</td><td>Graduate Physiotherapists - Melbourne</td><td>Melbourne</td><td>2026-11-08</td></tr>
+<tr><td>Mediix</td><td>Physiotherapist - New Graduate / Start Nov 2026</td><td>Sydney</td><td>2026-11-08</td></tr>
+<tr><td>Mediix</td><td>Physiotherapist (oncology Rehab & Lymphoedema) / Part Time</td><td>Sydney</td><td>2026-11-08</td></tr>
+<tr><td>Mediix</td><td>Part Time Physiotherapist / Msk & Pilates / Eastern Suburbs, Sydney</td><td>Sydney</td><td>2026-11-08</td></tr>
+<tr><td>Mediix</td><td>Physiotherapist</td><td>Sydney</td><td>2026-11-08</td></tr>
+<tr><td>Glascott Landscape and Civil Pty Ltd</td><td>Turf Maintenance Specialist</td><td>Yatala</td><td>2026-11-08</td></tr>
+<tr><td>Veolia Australia and New Zealand</td><td>Field Plant & Equipment Service Technician</td><td>Portland</td><td>2026-11-08</td></tr>
+<tr><td>Aeris Resources</td><td>Exploration Field Technician</td><td>Cracow</td><td>2026-11-08</td></tr>
+<tr><td>Daikin Australia</td><td>Service Technician</td><td>Murarrie</td><td>2026-11-08</td></tr>
+<tr><td>Harris Farm Markets</td><td>Casual Shop Assistant - Broadway</td><td>Broadway Nsw</td><td>2026-11-08</td></tr>
+<tr><td>ALDI STORES LIMITED</td><td>Retail Assistant - Merrylands</td><td>Sydney</td><td>2026-11-08</td></tr>
+<tr><td>Bendigo Bank</td><td>Customer Advisor / Oakleigh / Vic</td><td>Melbourne</td><td>2026-11-08</td></tr>
+<tr><td>Honeywell 2</td><td>Facilities Coordinator</td><td>Melbourne</td><td>2026-11-08</td></tr>
+<tr><td>Ampcontrol</td><td>Training Specialist</td><td>Tomago</td><td>2026-11-08</td></tr>
+<tr><td>Kent plc</td><td>Project Admin Assistant</td><td>Perth</td><td>2026-11-08</td></tr>
+<tr><td>Sparke Helmore Lawyers</td><td>Administration Assistant, Legal Support</td><td>Newcastle</td><td>2026-11-08</td></tr>
+<tr><td>Aurizon</td><td>Logistics Operator (casual)</td><td>Port Pirie</td><td>2026-11-08</td></tr>
+<tr><td>People First Bank</td><td>Business Development Specialist</td><td>Brisbane</td><td>2026-11-08</td></tr>
+<tr><td>NT Government</td><td>Project Coordinator</td><td>Darwin</td><td>2026-11-08</td></tr>
+<tr><td>Crawford & Company</td><td>Administration Assistant</td><td>Sydney</td><td>2026-11-08</td></tr>
 </table>
