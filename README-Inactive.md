@@ -11972,4 +11972,13 @@
 <tr><td>People First Bank</td><td>Business Development Specialist</td><td>Brisbane</td><td>2026-11-08</td></tr>
 <tr><td>NT Government</td><td>Project Coordinator</td><td>Darwin</td><td>2026-11-08</td></tr>
 <tr><td>Crawford & Company</td><td>Administration Assistant</td><td>Sydney</td><td>2026-11-08</td></tr>
+<tr><td>BlueCare</td><td>Registered Nurse</td><td>Portsmith</td><td>2026-11-09</td></tr>
+<tr><td>Tasmanian State Service</td><td>Registered Nurse (521375l4)</td><td>North</td><td>2026-11-09</td></tr>
+<tr><td>Respect Group Limited</td><td>Registered Nurse</td><td>Oakey</td><td>2026-11-09</td></tr>
+<tr><td>University of Melbourne</td><td>Research Assistant In Youth Mental Health</td><td>Melbourne</td><td>2026-11-09</td></tr>
+<tr><td>Anglicare</td><td>Registered Nurse</td><td>Sydney</td><td>2026-11-09</td></tr>
+<tr><td>The University Of Melbourne</td><td>Research Assistant In Youth Mental Health</td><td>Melbourne</td><td>2026-11-09</td></tr>
+<tr><td>The Trustee For The Salvation Army Victoria Property Trust</td><td>Registered Nurse - Casual</td><td>Goulburn</td><td>2026-11-09</td></tr>
+<tr><td>McDonald's Australia</td><td>Maintenance</td><td>Sydney</td><td>2026-11-09</td></tr>
+<tr><td>Harris Farm Markets</td><td>Full Time Shop Assistant - Broadway</td><td>Broadway</td><td>2026-11-09</td></tr>
 </table>

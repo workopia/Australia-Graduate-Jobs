@@ -1,5 +1,5 @@
 {
- "asOf": "2026-11-08",
+ "asOf": "2026-11-09",
  "count": 679,
  "jobs": {
   "c095ad98f12a75f2521b303e3394f381": {
@@ -2162,6 +2162,48 @@
    "role": "Accountant Cadetship",
    "location": "South Australia 5253"
   },
+  "9daced23290f8ac61458229ec8282e9e": {
+   "id": "9daced23290f8ac61458229ec8282e9e",
+   "company": "BlueCare",
+   "role": "Registered Nurse",
+   "location": "Condon"
+  },
+  "8a99e51627f35bcea51244429e029d70": {
+   "id": "8a99e51627f35bcea51244429e029d70",
+   "company": "Austin Health",
+   "role": "Physiotherapist G1",
+   "location": "Melbourne"
+  },
+  "545e7b0a61342ea6d0016c11d83a9a32": {
+   "id": "545e7b0a61342ea6d0016c11d83a9a32",
+   "company": "NSW Health",
+   "role": "Registered Nurse - Community Health Care",
+   "location": "Lithgow"
+  },
+  "2dda9225ae7532201d89d372aba1105a": {
+   "id": "2dda9225ae7532201d89d372aba1105a",
+   "company": "NSW Health",
+   "role": "St George Hospital - Registered Nurse - Aged Care - Permanent Full Time / Part Time",
+   "location": "Kogarah +1"
+  },
+  "2c543967a0a773bbf3ef5e77f5ab70ee": {
+   "id": "2c543967a0a773bbf3ef5e77f5ab70ee",
+   "company": "NSW Health",
+   "role": "Registered Nurse - Primary & Community Health - Incentives Offered",
+   "location": "Coonamble"
+  },
+  "1d42d1729831b259c5206167838fb99a": {
+   "id": "1d42d1729831b259c5206167838fb99a",
+   "company": "NSW Health",
+   "role": "Registered Nurse - Kempsey District Hospital",
+   "location": "Kempsey"
+  },
+  "22c22626b3d771690367e3961b86ecc3": {
+   "id": "22c22626b3d771690367e3961b86ecc3",
+   "company": "NSW Health",
+   "role": "Registered Nurse",
+   "location": "Sydney"
+  },
   "b884836cdca8145273714de5df2ed8b1": {
    "id": "b884836cdca8145273714de5df2ed8b1",
    "company": "genU",
@@ -2317,12 +2359,6 @@
    "company": "The University of Sydney",
    "role": "Postdoctoral Research Fellow - Centre For Education And Research On Ageing",
    "location": "Sydney"
-  },
-  "d666f57596ec7f3d5ac79f31b633541a": {
-   "id": "d666f57596ec7f3d5ac79f31b633541a",
-   "company": "BlueCare",
-   "role": "Registered Nurse",
-   "location": "Portsmith"
   },
   "05ad81cf5965b6cf5f0040d3c666bbe0": {
    "id": "05ad81cf5965b6cf5f0040d3c666bbe0",
@@ -2606,41 +2642,11 @@
    "role": "Physiotherapist",
    "location": "Brisbane"
   },
-  "d98231417919cc1552cd3a59f7cf2258": {
-   "id": "d98231417919cc1552cd3a59f7cf2258",
-   "company": "Tasmanian State Service",
-   "role": "Registered Nurse (521375l4)",
-   "location": "North"
-  },
-  "d0160204c5c1bcb5f91c32211dad3bcc": {
-   "id": "d0160204c5c1bcb5f91c32211dad3bcc",
-   "company": "Respect Group Limited",
-   "role": "Registered Nurse",
-   "location": "Oakey"
-  },
-  "cd98f992f8f6458b64fc281fcf52cc91": {
-   "id": "cd98f992f8f6458b64fc281fcf52cc91",
-   "company": "University of Melbourne",
-   "role": "Research Assistant In Youth Mental Health",
-   "location": "Melbourne"
-  },
-  "4bac09a64b266e51a87282309b2d9841": {
-   "id": "4bac09a64b266e51a87282309b2d9841",
-   "company": "Anglicare",
-   "role": "Registered Nurse",
-   "location": "Sydney"
-  },
-  "d3f96ef66ccbea7c0b8ce0f06fd8ad7a": {
-   "id": "d3f96ef66ccbea7c0b8ce0f06fd8ad7a",
-   "company": "The University Of Melbourne",
-   "role": "Research Assistant In Youth Mental Health",
-   "location": "Melbourne"
-  },
-  "e02add4be6bbbcd6d741902f8dd8444d": {
-   "id": "e02add4be6bbbcd6d741902f8dd8444d",
-   "company": "The Trustee For The Salvation Army Victoria Property Trust",
-   "role": "Registered Nurse - Casual",
-   "location": "Goulburn"
+  "bb10318649654e8d482c1dc4af2dfb61": {
+   "id": "bb10318649654e8d482c1dc4af2dfb61",
+   "company": "McDonald's Australia",
+   "role": "Maintenance",
+   "location": "Batemans Bay"
   },
   "34021348237ae15a7d4c27f7d413565d": {
    "id": "34021348237ae15a7d4c27f7d413565d",
@@ -2683,12 +2689,6 @@
    "company": "SANDVIK",
    "role": "Field Service Supervisor",
    "location": "Mount Isa"
-  },
-  "beffbe2ba129483b5b757f07c5ad5e9f": {
-   "id": "beffbe2ba129483b5b757f07c5ad5e9f",
-   "company": "McDonald's Australia",
-   "role": "Maintenance",
-   "location": "Sydney"
   },
   "ae468c7fcce732d42cf524422e86e64f": {
    "id": "ae468c7fcce732d42cf524422e86e64f",
@@ -3115,6 +3115,12 @@
    "company": "Craig Mostyn Group",
    "role": "Mechanical Fitter",
    "location": "Wundowie"
+  },
+  "d0e9f77e79f0da0a796d685e1c42ebc4": {
+   "id": "d0e9f77e79f0da0a796d685e1c42ebc4",
+   "company": "Tarocash",
+   "role": "Tarocash Booragoon - Retail Assistant",
+   "location": "Boonooroo +1"
   },
   "4e4d4022edb7f07b54981e7a4cd136d0": {
    "id": "4e4d4022edb7f07b54981e7a4cd136d0",
@@ -3589,12 +3595,6 @@
    "company": "ALDI STORES LIMITED",
    "role": "Retail Assistant - Warragul",
    "location": "Warragul"
-  },
-  "2d0ae7c158a4ad3ede9773d8aecd4a05": {
-   "id": "2d0ae7c158a4ad3ede9773d8aecd4a05",
-   "company": "Harris Farm Markets",
-   "role": "Full Time Shop Assistant - Broadway",
-   "location": "Broadway"
   },
   "a94648f83a3dd622de8eaa7863cd1f2d": {
    "id": "a94648f83a3dd622de8eaa7863cd1f2d",
