@@ -12714,4 +12714,18 @@
 <tr><td>Wearetheuniversity</td><td>Administrative Assistant (targeted)</td><td>Camperdown Campus</td><td>2026-11-15</td></tr>
 <tr><td>Yarra City Council</td><td>Youth Development Officer, Programs & Engagement (Richmond Youth Hub)</td><td>Melbourne</td><td>2026-11-15</td></tr>
 <tr><td>UniLodge Living Group</td><td>Customer Service Coordinator</td><td>Australia</td><td>2026-11-15</td></tr>
+<tr><td>NSW Health</td><td>Registered Nurse - Haematology & Bone Marrow Transplant (permanent)</td><td>Westmead</td><td>2026-11-16</td></tr>
+<tr><td>NSW Health</td><td>Registered Nurse - Yass Community Health</td><td>Yass +1</td><td>2026-11-16</td></tr>
+<tr><td>NSW Health</td><td>Registered Nurse - Bega Operating Theatres - Incentives Offered</td><td>Bega</td><td>2026-11-16</td></tr>
+<tr><td>NSW Health</td><td>Casual Registered Nurse - Bega Renal Unit</td><td>Bega +1</td><td>2026-11-16</td></tr>
+<tr><td>NSW Health</td><td>Registered Nurse - Bega Medical Ward - Incentives Offered</td><td>Bega +1</td><td>2026-11-16</td></tr>
+<tr><td>NSW Health</td><td>Registered Nurse - Yass Emergency Department - Incentives Offered</td><td>Yass +1</td><td>2026-11-16</td></tr>
+<tr><td>NSW Health</td><td>Registered Nurse- Westlakes Community Health</td><td>Toronto</td><td>2026-11-16</td></tr>
+<tr><td>NSW Health</td><td>Registered Nurse</td><td>Raymond Terrace +1</td><td>2026-11-16</td></tr>
+<tr><td>Central Adelaide Local Health Network</td><td>Enrolled Nurse (diploma With Iv Medication Endorsement) 6gw3 (infectious Disease Ward)</td><td>Adelaide</td><td>2026-11-16</td></tr>
+<tr><td>Central Adelaide Local Health Network</td><td>Registered Nurse - Haematology/oncology Day Centre</td><td>Adelaide</td><td>2026-11-16</td></tr>
+<tr><td>Lutheran Services</td><td>Registered Nurse</td><td>Maroochydore</td><td>2026-11-16</td></tr>
+<tr><td>TJX Companies</td><td>Project Coordinator</td><td>Marsden Park</td><td>2026-11-16</td></tr>
+<tr><td>EssenceMediacom Holdings Limited</td><td>Influencer Coordinator</td><td>Sydney</td><td>2026-11-16</td></tr>
+<tr><td>BaptistCare</td><td>Administration Assistant</td><td>Melbourne</td><td>2026-11-16</td></tr>
 </table>
