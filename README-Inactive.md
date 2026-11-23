@@ -13427,4 +13427,20 @@
 <tr><td>First People Recruitment Solutions</td><td>Training Specialist</td><td>Canberra +1</td><td>2026-11-22</td></tr>
 <tr><td>Barwon Health</td><td>Administration Assistant, Headspace Colac</td><td>Geelong</td><td>2026-11-22</td></tr>
 <tr><td>Altius Group</td><td>Marketing & Engagement Coordinator</td><td>Sydney</td><td>2026-11-22</td></tr>
+<tr><td>NSW Health</td><td>Registered Nurse</td><td>Mount Druitt</td><td>2026-11-23</td></tr>
+<tr><td>Queensland Health</td><td>Registered Nurse - Intake</td><td>Maroochydore</td><td>2026-11-23</td></tr>
+<tr><td>Queensland Health</td><td>Registered Nurse (gayndah)</td><td>Gayndah</td><td>2026-11-23</td></tr>
+<tr><td>SA Health</td><td>Registered And Enrolled Nurses, Acute Medical Unit, Rah</td><td>Adelaide</td><td>2026-11-23</td></tr>
+<tr><td>Western Health</td><td>Dispensary Pharmacist</td><td>Melbourne</td><td>2026-11-23</td></tr>
+<tr><td>Monash Health</td><td>Icu Equipment Nurse</td><td>Melbourne</td><td>2026-11-23</td></tr>
+<tr><td>Monash Health</td><td>Physician Fractional - General Medicine</td><td>Melbourne</td><td>2026-11-23</td></tr>
+<tr><td>SVHA</td><td>Registered Nurse</td><td>Sydney</td><td>2026-11-23</td></tr>
+<tr><td>Respect Group Limited</td><td>Registered Nurse</td><td>Morwell</td><td>2026-11-23</td></tr>
+<tr><td>Uniting Victoria and Tasmania</td><td>Registered Nurse</td><td>Melbourne</td><td>2026-11-23</td></tr>
+<tr><td>TLC Healthcare</td><td>Physiotherapist</td><td>Melbourne</td><td>2026-11-23</td></tr>
+<tr><td>CraigCare</td><td>Grade 5 Registered Nurse -night Shift</td><td>Melbourne</td><td>2026-11-23</td></tr>
+<tr><td>genU</td><td>Support Worker</td><td>Melbourne</td><td>2026-11-23</td></tr>
+<tr><td>Downer EDI</td><td>Hvac / Refrigeration Technician – Fault Finding & Repairs</td><td>Amberley</td><td>2026-11-23</td></tr>
+<tr><td>Craig Mostyn Group</td><td>Maintenance Fitter</td><td>Davenport</td><td>2026-11-23</td></tr>
+<tr><td>Yarra City Council</td><td>Victoria Street Venue and Operations Officer</td><td>Melbourne</td><td>2026-11-23</td></tr>
 </table>
