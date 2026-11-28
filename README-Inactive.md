@@ -13925,4 +13925,135 @@
 <tr><td>Swan Christian Education Association</td><td>Inclusive Education Administration Assistant</td><td>Perth</td><td>2026-11-27</td></tr>
 <tr><td>United Nations Industrial Development Organization</td><td>Project Associate</td><td>Vienna +1</td><td>2026-11-27</td></tr>
 <tr><td>Wormall Group</td><td>Project Coordinator – North Of River</td><td>Osborne Park</td><td>2026-11-27</td></tr>
+<tr><td>Stranger Soccer</td><td>Customer Experience And Growth Intern</td><td>Sydney</td><td>2026-11-28</td></tr>
+<tr><td>Fyfe</td><td>It Students / Expression Of Interest</td><td>Australia</td><td>2026-11-28</td></tr>
+<tr><td>Hyatt Hotels Corporation</td><td>Stage : Rse</td><td>Melbourne</td><td>2026-11-28</td></tr>
+<tr><td>Accenture</td><td>Cybercx - Security Analyst</td><td>Sydney</td><td>2026-11-28</td></tr>
+<tr><td>Integrity Oversight Victoria</td><td>It Support Officer</td><td>Melbourne</td><td>2026-11-28</td></tr>
+<tr><td>Mindrift</td><td>Cfd Engineer - Ai Trainer</td><td>Australia</td><td>2026-11-28</td></tr>
+<tr><td>Optus</td><td>Ad, Ai Engineering Model Lifecycle Governance</td><td>Sydney</td><td>2026-11-28</td></tr>
+<tr><td>Jobgether</td><td>Ai Research Engineer (agentic Reinforcement Learning)</td><td>Australia</td><td>2026-11-28</td></tr>
+<tr><td>Automic Group</td><td>Client Money & Reconciliations Analyst - Sydney</td><td>Sydney</td><td>2026-11-28</td></tr>
+<tr><td>South East Water</td><td>Construction Auditor</td><td>Melbourne</td><td>2026-11-28</td></tr>
+<tr><td>PHINIA</td><td>Finance Analyst</td><td>Melbourne</td><td>2026-11-28</td></tr>
+<tr><td>Amentum Pr</td><td>Commercial & Financial Data Analyst</td><td>Sydney +1</td><td>2026-11-28</td></tr>
+<tr><td>Flinders University</td><td>International Compliance Officer</td><td>Bedford Park</td><td>2026-11-28</td></tr>
+<tr><td>Crown Resorts</td><td>Analyst - Enhanced Customer Due Diligence</td><td>Melbourne</td><td>2026-11-28</td></tr>
+<tr><td>University of Sydney</td><td>Business Analyst</td><td>Camperdown Campus</td><td>2026-11-28</td></tr>
+<tr><td>MUFG Pension & Market Services</td><td>Risk & Compliance Analyst</td><td>Australia</td><td>2026-11-28</td></tr>
+<tr><td>Siemens AG</td><td>Order Management & Data Analytics Professional</td><td>Melbourne</td><td>2026-11-28</td></tr>
+<tr><td>ANZ Bank</td><td>Financial Crime Specialist</td><td>Melbourne</td><td>2026-11-28</td></tr>
+<tr><td>The Royal Children’s Hospital Melbourne</td><td>Business Application Analyst</td><td>Melbourne +1</td><td>2026-11-28</td></tr>
+<tr><td>Findex</td><td>Accountant</td><td>Tenterfield</td><td>2026-11-28</td></tr>
+<tr><td>icare NSW</td><td>Review Officer</td><td>Sydney</td><td>2026-11-28</td></tr>
+<tr><td>BlueCare</td><td>Registered Nurse</td><td>Brisbane</td><td>2026-11-28</td></tr>
+<tr><td>The Salvation Army Australia</td><td>Registered Nurse - Casual</td><td>Sydney</td><td>2026-11-28</td></tr>
+<tr><td>Uniting Victoria and Tasmania</td><td>Support Worker</td><td>Melbourne</td><td>2026-11-28</td></tr>
+<tr><td>Henderson Healthcare</td><td>Registered Nurse Casual Pool</td><td>Australia</td><td>2026-11-28</td></tr>
+<tr><td>Mater Group</td><td>Registered Nurse - Oncology</td><td>Brisbane</td><td>2026-11-28</td></tr>
+<tr><td>Fresenius Medical Care</td><td>Rn Level 1 Year 8 Act</td><td>Deakin</td><td>2026-11-28</td></tr>
+<tr><td>Fresenius Medical Care</td><td>Registered Nurse</td><td>Melbourne</td><td>2026-11-28</td></tr>
+<tr><td>Vitalis Healthcare at Home</td><td>Rn / High Intensity Disability Support Worker – Macquarie Park</td><td>Sydney</td><td>2026-11-28</td></tr>
+<tr><td>Catholic Healthcare</td><td>Registered Nurse - Holy Spirit Revesby</td><td>Holy Spirit</td><td>2026-11-28</td></tr>
+<tr><td>Catholic Healthcare</td><td>Registered Nurse - Wagga Wagga</td><td>Wagga Wagga +2</td><td>2026-11-28</td></tr>
+<tr><td>Monash Health</td><td>Biobank Research Assistant</td><td>Melbourne</td><td>2026-11-28</td></tr>
+<tr><td>Uniting</td><td>Springwood - Registered Nurse</td><td>Brisbane</td><td>2026-11-28</td></tr>
+<tr><td>UnitingCare</td><td>Springwood - Registered Nurse</td><td>Brisbane</td><td>2026-11-28</td></tr>
+<tr><td>Capital District Health Authority</td><td>Physiotherapist - Rehabilitation Services</td><td>Sydney</td><td>2026-11-28</td></tr>
+<tr><td>FRESENIUS MEDICAL CARE</td><td>Rn Level 1 Grade 8</td><td>Brisbane</td><td>2026-11-28</td></tr>
+<tr><td>The Royal Women’s Hospital</td><td>Job Title: Registered Nurse Div 1</td><td>Melbourne</td><td>2026-11-28</td></tr>
+<tr><td>The Royal Women’s Hospital</td><td>Job Title: Registered Nurse</td><td>Melbourne</td><td>2026-11-28</td></tr>
+<tr><td>Salvation Army Australia</td><td>Registered Nurse - Casual</td><td>Sydney</td><td>2026-11-28</td></tr>
+<tr><td>Eastern Health</td><td>Registered Nurse - Discovery Day, Maroondah Hospital Intensive Care Unit</td><td>Melbourne</td><td>2026-11-28</td></tr>
+<tr><td>SVHA</td><td>Registered Nurse-2</td><td>Sydney</td><td>2026-11-28</td></tr>
+<tr><td>Alfred Health</td><td>Registered Nurse</td><td>Melbourne</td><td>2026-11-28</td></tr>
+<tr><td>Estia Health</td><td>Registered Nurse, Heidelberg West</td><td>Melbourne</td><td>2026-11-28</td></tr>
+<tr><td>EBOS Group</td><td>Hospital Pharmacy Technician</td><td>Melbourne</td><td>2026-11-28</td></tr>
+<tr><td>IUIH Institute for Urban Indigenous Health</td><td>Cardiac And Pulmonary Rehabilitation Nurse</td><td>Melbourne</td><td>2026-11-28</td></tr>
+<tr><td>Cabrini Health</td><td>Physiotherapist Grade 3 - Rehab In The Home</td><td>Melbourne</td><td>2026-11-28</td></tr>
+<tr><td>The Royal Children’s Hospital Melbourne</td><td>Clinical Support Nurse - Nicu</td><td>Melbourne</td><td>2026-11-28</td></tr>
+<tr><td>SVHA</td><td>Registered Nurse</td><td>Sydney</td><td>2026-11-28</td></tr>
+<tr><td>Queensland Health</td><td>Registered Nurse - Medical Imaging Department</td><td>Brisbane</td><td>2026-11-28</td></tr>
+<tr><td>SVHA</td><td>Registered Nurse @ Mitchelton</td><td>Brisbane</td><td>2026-11-28</td></tr>
+<tr><td>Ramsay Health Care</td><td>Registered Nurse</td><td>Melbourne</td><td>2026-11-28</td></tr>
+<tr><td>Alfred Health</td><td>Mental Health Nurse - Transition (rpn3) - Child & Youth</td><td>Melbourne</td><td>2026-11-28</td></tr>
+<tr><td>Arcare</td><td>Personal Support Worker</td><td>Melbourne</td><td>2026-11-28</td></tr>
+<tr><td>Alfred Health</td><td>Registered Nurse - Radiology</td><td>Melbourne</td><td>2026-11-28</td></tr>
+<tr><td>Western Health</td><td>Emergency Physician</td><td>Melbourne</td><td>2026-11-28</td></tr>
+<tr><td>Western Health</td><td>Consumer Peer Support Worker</td><td>Melbourne</td><td>2026-11-28</td></tr>
+<tr><td>NSW Health</td><td>Registered Nurse - Orthopaedic & Trauma Ward - Perm/temp Ft/pt</td><td>Liverpool +1</td><td>2026-11-28</td></tr>
+<tr><td>NSW Health</td><td>Registered Nurse - Mobile Assertive Treatment Team - Community Mental Health Services</td><td>Camperdown +1</td><td>2026-11-28</td></tr>
+<tr><td>NSW Health</td><td>Registered Nurse Logistics Operating Theatres</td><td>Hornsby +1</td><td>2026-11-28</td></tr>
+<tr><td>NSW Health</td><td>Registered Nurse General Surgery</td><td>Hornsby +1</td><td>2026-11-28</td></tr>
+<tr><td>NSW Health</td><td>Registered Nurse - Walker Unit (camhs)</td><td>Sydney</td><td>2026-11-28</td></tr>
+<tr><td>NSW Health</td><td>St George Hospital - Registered Nurse - Hospital In The Home - Permanent Full Time / Part Time</td><td>Kogarah +1</td><td>2026-11-28</td></tr>
+<tr><td>NSW Health</td><td>Cardiac / Pulmonary Rehabilitation Registered Nurse</td><td>Glen Innes +1</td><td>2026-11-28</td></tr>
+<tr><td>Vitalis Healthcare at Home</td><td>Female Home Care Support Worker – North Shore Area</td><td>Sydney</td><td>2026-11-28</td></tr>
+<tr><td>Catholic Healthcare</td><td>Registered Nurse - Lewisham</td><td>Lewisham</td><td>2026-11-28</td></tr>
+<tr><td>Beaufort & Skipton Health Service</td><td>Registered Nurse – Beaufort</td><td>Beaufort</td><td>2026-11-28</td></tr>
+<tr><td>Melbourne Health</td><td>Postgraduate Mental Health Nurse</td><td>Melbourne</td><td>2026-11-28</td></tr>
+<tr><td>CraigCare</td><td>Personal Care Worker</td><td>Melbourne</td><td>2026-11-28</td></tr>
+<tr><td>PTC - Phone Tech & Comm</td><td>Repair Technician – Norwest</td><td>Norwest +1</td><td>2026-11-28</td></tr>
+<tr><td>McDonald's Australia</td><td>Maintenance</td><td>Swansea</td><td>2026-11-28</td></tr>
+<tr><td>National Minority Update</td><td>Customer Field Technician I Orange</td><td>Orange</td><td>2026-11-28</td></tr>
+<tr><td>National Minority Update</td><td>Customer Field Technician I Horsham</td><td>Horsham</td><td>2026-11-28</td></tr>
+<tr><td>Top Office</td><td>17655I / Testing Technician (Safety Services Industry / Attractive base salary + vehicle)</td><td>Ipswich +2</td><td>2026-11-28</td></tr>
+<tr><td>NRMA</td><td>Grounds & Maintenance Attendant</td><td>Mon Repos</td><td>2026-11-28</td></tr>
+<tr><td>Solar Turbines</td><td>Field Service Representative (gas Turbines)</td><td>Melbourne</td><td>2026-11-28</td></tr>
+<tr><td>Grosvenor Engineering Group</td><td>Hvac Mechanical Services Technician</td><td>Sydney CBD</td><td>2026-11-28</td></tr>
+<tr><td>Caterpillar UK</td><td>Field Service Representative (gas Turbines)</td><td>Melbourne</td><td>2026-11-28</td></tr>
+<tr><td>molly billion</td><td>Customer Field Technician Katoomba</td><td>Katoomba +1</td><td>2026-11-28</td></tr>
+<tr><td>TransAlta</td><td>Operations & Maintenance Technician - Mechanical</td><td>North-Leinster +1</td><td>2026-11-28</td></tr>
+<tr><td>Downer EDI</td><td>Hvac / Refrigeration Technician – Fault Finding & Repairs</td><td>ACT</td><td>2026-11-28</td></tr>
+<tr><td>Downer</td><td>Hvac / Refrigeration Technician – Fault Finding & Repairs</td><td>Townsville</td><td>2026-11-28</td></tr>
+<tr><td>397</td><td>Casual Retail Assistant</td><td>St Marys</td><td>2026-11-28</td></tr>
+<tr><td>ALDI STORES LIMITED</td><td>Retail Assistant - Carrum Downs</td><td>Melbourne</td><td>2026-11-28</td></tr>
+<tr><td>ALDI STORES LIMITED</td><td>Retail Assistant - Frankston</td><td>Frankston +1</td><td>2026-11-28</td></tr>
+<tr><td>ALDI STORES LIMITED</td><td>Retail Assistant - Keysborough Parkmore</td><td>Melbourne</td><td>2026-11-28</td></tr>
+<tr><td>ALDI STORES LIMITED</td><td>Retail Assistant - Wolli Creek</td><td>Sydney</td><td>2026-11-28</td></tr>
+<tr><td>Genpt</td><td>Customer Sales & Service - Repco Berri - Casual</td><td>Berri</td><td>2026-11-28</td></tr>
+<tr><td>Nutrien Ltd</td><td>Sales Support Merchandise</td><td>Melbourne</td><td>2026-11-28</td></tr>
+<tr><td>Suna Shoes</td><td>Warehouse Assistant - Herston</td><td>Herston</td><td>2026-11-28</td></tr>
+<tr><td>Genpt</td><td>Customer Sales & Service - Repco Albany - Casual</td><td>Albany</td><td>2026-11-28</td></tr>
+<tr><td>Dm50</td><td>Casual Retail Assistant</td><td>Crows Nest</td><td>2026-11-28</td></tr>
+<tr><td>St Philip's College</td><td>Administration Assistant</td><td>Wyong</td><td>2026-11-28</td></tr>
+<tr><td>Children’s Ground</td><td>Executive Assistant</td><td>Brisbane</td><td>2026-11-28</td></tr>
+<tr><td>Viva Energy</td><td>Project Coordinator</td><td>Melbourne</td><td>2026-11-28</td></tr>
+<tr><td>University of Sydney</td><td>Executive Assistant And Project Officer (physics)</td><td>Camperdown Campus</td><td>2026-11-28</td></tr>
+<tr><td>Cleanaway Waste Management Ltd</td><td>Administration & Customer Service Officer</td><td>Wagga Wagga</td><td>2026-11-28</td></tr>
+<tr><td>Tennis Australia</td><td>Influencers And Creator Coordinator</td><td>Melbourne Park</td><td>2026-11-28</td></tr>
+<tr><td>Vocus</td><td>Executive Assistant</td><td>Sydney</td><td>2026-11-28</td></tr>
+<tr><td>MinterEllison</td><td>Market Growth Coordinator - 12 Month Fixed Term Contract</td><td>Sydney</td><td>2026-11-28</td></tr>
+<tr><td>Building Engines</td><td>Facilities Coordinator</td><td>Melbourne</td><td>2026-11-28</td></tr>
+<tr><td>Salvation Army Australia</td><td>Full-time Administration Assistant</td><td>Perth</td><td>2026-11-28</td></tr>
+<tr><td>University of Melbourne</td><td>Data Coordinator</td><td>Metro & Regional</td><td>2026-11-28</td></tr>
+<tr><td>Mineral Resources</td><td>Village Logistics Administrator</td><td>Onslow</td><td>2026-11-28</td></tr>
+<tr><td>The Salvation Army Australia</td><td>Full-time Administration Assistant</td><td>Perth</td><td>2026-11-28</td></tr>
+<tr><td>Catholic Archdiocese of Brisbane</td><td>Administration Assistant</td><td>Kingaroy</td><td>2026-11-28</td></tr>
+<tr><td>Australian Broadcasting Corporation</td><td>Marketing And Communications Coordinator</td><td>Sydney</td><td>2026-11-28</td></tr>
+<tr><td>Tasmanian State Service</td><td>Administrative Assistant (502206)</td><td>North West</td><td>2026-11-28</td></tr>
+<tr><td>Junior Adventures Group</td><td>Oshc Mobile Coordinator / Northern Beaches</td><td>Sydney</td><td>2026-11-28</td></tr>
+<tr><td>Ramsay Health Care</td><td>Executive Assistant</td><td>Sydney</td><td>2026-11-28</td></tr>
+<tr><td>HWL Ebsworth Lawyers</td><td>Marketing & Bd Coordinator - Brisbane/melbourne</td><td>Brisbane</td><td>2026-11-28</td></tr>
+<tr><td>SA Health</td><td>Administration Assistant</td><td>Adelaide Metro Southern</td><td>2026-11-28</td></tr>
+<tr><td>WA Government Jobs</td><td>Project Coordinator</td><td>Perth Metropolitan</td><td>2026-11-28</td></tr>
+<tr><td>Coles Supermarkets Australia Pty Ltd</td><td>Transformation Project Coordinator - Hawthorn East</td><td>Hawthorn East Melbourne</td><td>2026-11-28</td></tr>
+<tr><td>Genazzano FCJ College</td><td>Administration Assistant</td><td>Melbourne</td><td>2026-11-28</td></tr>
+<tr><td>Asahi Beverages</td><td>Facilities Coordinator</td><td>Papakura +2</td><td>2026-11-28</td></tr>
+<tr><td>PROK Conveyor Equipment</td><td>Administration Assistant - Part Time</td><td>Campbelltown</td><td>2026-11-28</td></tr>
+<tr><td>Queensland Public Trustee</td><td>Executive Assistant, Public Trust Office</td><td>Brisbane Inner City</td><td>2026-11-28</td></tr>
+<tr><td>Auto & General</td><td>Non-drive Shed Coordinator</td><td>Melbourne</td><td>2026-11-28</td></tr>
+<tr><td>The City of Newcastle</td><td>Executive Assistant - Lord Mayor's Office</td><td>Newcastle</td><td>2026-11-28</td></tr>
+<tr><td>OneSchool Global</td><td>Regional Operations Executive Assistant</td><td>Brisbane</td><td>2026-11-28</td></tr>
+<tr><td>Brisbane City Council</td><td>Civil Infrastructure Assessment Coord</td><td>Pine Mountain Depot</td><td>2026-11-28</td></tr>
+<tr><td>AAco</td><td>Administration Assistant</td><td>Avon Downs</td><td>2026-11-28</td></tr>
+<tr><td>UQ</td><td>Project Coordinator</td><td>St Lucia Campus +1</td><td>2026-11-28</td></tr>
+<tr><td>staff.unimelb.edu.au</td><td>Data Coordinator</td><td>Metro & Regional</td><td>2026-11-28</td></tr>
+<tr><td>Medilaw Group</td><td>Receptionist/administration Assistant</td><td>Sydney +2</td><td>2026-11-28</td></tr>
+<tr><td>Yarra City Council</td><td>Capital Works Planning Officer</td><td>Melbourne</td><td>2026-11-28</td></tr>
+<tr><td>Schiavello</td><td>Administration Assistant</td><td>St Agnes</td><td>2026-11-28</td></tr>
+<tr><td>Junior Adventures Group</td><td>Step-up Coordinator / Oshc / Pakenahm / Warragul & Surrounds</td><td>Melbourne</td><td>2026-11-28</td></tr>
+<tr><td>Pets at Home</td><td>Marketplace Coordinator / 12 Month Ft</td><td>Melbourne +1</td><td>2026-11-28</td></tr>
+<tr><td>Barwon Health</td><td>Administration Assistant Mental Health, Drug &amp; Alcohol Service</td><td>Geelong</td><td>2026-11-28</td></tr>
+<tr><td>Nabenet</td><td>Administration Assistant - Casual</td><td>Melbourne</td><td>2026-11-28</td></tr>
 </table>
